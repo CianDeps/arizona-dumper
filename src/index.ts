@@ -1,10 +1,8 @@
 import { fetchManifest } from "./fetcher";
 import { flattenManifest } from "./differ/structural";
 import { processFiles } from "./processor";
-import { join, dirname } from "node:path";
-import { mkdir } from "node:fs/promises";
 
-const MANIFEST_PATH = join(import.meta.dir, "../data/manifest.json");
+const MANIFEST_PATH = `${import.meta.dir}/../data/manifest.json`;
 
 async function loadManifest() {
   const file = Bun.file(MANIFEST_PATH);
@@ -13,7 +11,6 @@ async function loadManifest() {
 }
 
 async function saveManifest(manifest: unknown) {
-  await mkdir(dirname(MANIFEST_PATH), { recursive: true });
   await Bun.write(MANIFEST_PATH, JSON.stringify(manifest, null, 2));
 }
 

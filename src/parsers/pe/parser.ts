@@ -1,4 +1,6 @@
-import { NtExecutable, NtExecutableResource, Resource } from "pe-library";
+import { NtExecutable, NtExecutableResource } from "pe-library";
+
+const RT_VERSION = 16;
 
 export interface PEImport {
   dll: string;
@@ -65,7 +67,9 @@ export function parsePE(buffer: Buffer): PEAnalysis | null {
 
     return {
       type: "pe",
-      machine: MACHINE_TYPES[fileHeader.machine] ?? `0x${fileHeader.machine.toString(16)}`,
+      machine:
+        MACHINE_TYPES[fileHeader.machine] ??
+        `0x${fileHeader.machine.toString(16)}`,
       characteristics: fileHeader.characteristics,
       timestamp: fileHeader.timeDateStamp,
       entryPoint: optHeader.addressOfEntryPoint,
@@ -116,7 +120,11 @@ function parseImports(exe: NtExecutable): PEImport[] {
   return imports;
 }
 
-function readImportFunctions(exe: NtExecutable, iltRva: number, sectionRva: number): string[] {
+function readImportFunctions(
+  exe: NtExecutable,
+  iltRva: number,
+  sectionRva: number,
+): string[] {
   const functions: string[] = [];
   if (!iltRva) return functions;
 
@@ -130,10 +138,14 @@ function readImportFunctions(exe: NtExecutable, iltRva: number, sectionRva: numb
     let pos = iltRva - section.info.virtualAddress;
 
     while (pos + entrySize <= data.length) {
-      const entry = is64 ? Number(data.readBigUInt64LE(pos)) : data.readUInt32LE(pos);
+      const entry = is64
+        ? Number(data.readBigUInt64LE(pos))
+        : data.readUInt32LE(pos);
       if (!entry) break;
 
-      const isOrdinal = is64 ? entry >= 0x8000000000000000n : entry >= 0x80000000;
+      const isOrdinal = is64
+        ? entry >= 0x8000000000000000n
+        : entry >= 0x80000000;
       if (!isOrdinal) {
         const hintNameRva = entry & 0x7fffffff;
         const hintSection = exe.getSectionByEntry(hintNameRva);
@@ -191,7 +203,7 @@ function parseExports(exe: NtExecutable): PEExport[] {
 function parseVersionInfo(buffer: Buffer): PEVersionInfo | null {
   try {
     const res = NtExecutableResource.from(NtExecutable.from(buffer));
-    const versionEntries = res.entries.filter((e) => e.type === Resource.Type.VERSION);
+    const versionEntries = res.entries.filter((e) => e.type === RT_VERSION);
 
     if (!versionEntries.length) return null;
 

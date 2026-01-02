@@ -1,10 +1,9 @@
 import { DffParser, TxdParser, IfpParser } from "rw-parser-ng";
 import { parseImg } from "./parsers/img";
 import { parsePE } from "./parsers/pe/parser";
-import { createHash } from "node:crypto";
 
 function md5(buffer: Buffer): string {
-  return createHash("md5").update(buffer).digest("hex");
+  return new Bun.CryptoHasher("md5").update(buffer).digest("hex");
 }
 
 export function analyzeDff(buffer: Buffer) {

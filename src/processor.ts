@@ -3,16 +3,13 @@ import { analyzeFile, analyzeDff, analyzeTxd, analyzeIfp } from "./analyzer";
 import { parseImg, extractEntry } from "./parsers/img";
 import { mapConcurrent } from "./utils/concurrency";
 import type { FlatFile } from "./types";
-import { join, dirname } from "node:path";
-import { mkdir } from "node:fs/promises";
 
-const PARSED_DIR = join(import.meta.dir, "../parsed");
-const CONCURRENCY = 8;
+const PARSED_DIR = `${import.meta.dir}/../parsed`;
+const CONCURRENCY = 64;
 
 async function saveJson(path: string, data: unknown): Promise<void> {
   const ext = path.toLowerCase().endsWith(".json") ? "" : ".json";
-  const fullPath = join(PARSED_DIR, path + ext);
-  await mkdir(dirname(fullPath), { recursive: true });
+  const fullPath = `${PARSED_DIR}/${path}${ext}`;
   await Bun.write(fullPath, JSON.stringify(data, null, 2));
 }
 
