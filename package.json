@@ -7,6 +7,7 @@
     "download": "bun run scripts/download-game.ts"
   },
   "dependencies": {
+    "pe-library": "^2.0.1",
     "rw-parser-ng": "^2.3.0"
   },
   "devDependencies": {
