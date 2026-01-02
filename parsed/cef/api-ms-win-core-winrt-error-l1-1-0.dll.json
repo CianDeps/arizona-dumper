@@ -1,43 +1,5 @@
 {
   "type": "binary",
   "size": 3584,
-  "md5": "a28428f7db1e45d16d8a2c9bf8fce97e",
-  "strings": [
-    "!This program cannot be run in DOS mode.",
-    "`.rsrc",
-    "@.reloc",
-    "api-ms-win-core-winrt-error-l1-1-0.pdb",
-    "api-ms-win-core-winrt-error-l1-1-0.dll",
-    "GetRestrictedErrorInfo",
-    "RoCaptureErrorContext",
-    "RoFailFastWithErrorContext",
-    "RoGetErrorReportingFlags",
-    "RoOriginateError",
-    "RoOriginateErrorW",
-    "RoResolveRestrictedErrorInfoReference",
-    "RoSetErrorReportingFlags",
-    "RoTransformError",
-    "RoTransformErrorW",
-    "SetRestrictedErrorInfo"
-  ],
-  "pe": {
-    "imports": [
-      "0.dll"
-    ],
-    "exports": [
-      "Rich",
-      "RSDS",
-      "GetRestrictedErrorInfo",
-      "RoCaptureErrorContext",
-      "RoFailFastWithErrorContext",
-      "RoGetErrorReportingFlags",
-      "RoOriginateError",
-      "RoOriginateErrorW",
-      "RoResolveRestrictedErrorInfoReference",
-      "RoSetErrorReportingFlags",
-      "RoTransformError",
-      "RoTransformErrorW",
-      "SetRestrictedErrorInfo"
-    ]
-  }
+  "md5": "a28428f7db1e45d16d8a2c9bf8fce97e"
 }
