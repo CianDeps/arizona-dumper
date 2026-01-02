@@ -55,5 +55,22 @@ function parseImgV2(buffer: Buffer): ImgArchive {
 }
 
 export function extractEntry(imgBuffer: Buffer, entry: ImgEntry): Buffer {
-  return imgBuffer.subarray(entry.offset, entry.offset + entry.size);
+  const raw = imgBuffer.subarray(entry.offset, entry.offset + entry.size);
+  return trimToRealSize(raw);
+}
+
+function trimToRealSize(buffer: Buffer): Buffer {
+  if (buffer.length < 12) return buffer;
+
+  const sectionId = buffer.readUInt32LE(0);
+
+  if (sectionId === 0x10 || sectionId === 0x16) {
+    const sectionSize = buffer.readUInt32LE(4);
+    const realSize = sectionSize + 12;
+    if (realSize > 0 && realSize <= buffer.length) {
+      return buffer.subarray(0, realSize);
+    }
+  }
+
+  return buffer;
 }
