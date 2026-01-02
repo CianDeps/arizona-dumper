@@ -13,16 +13,17 @@ export function analyzeDff(buffer: Buffer) {
     type: "dff",
     version: dff.version,
     modelType: dff.modelType,
-    geometries: dff.geometryList.geometries.map((g, i) => ({
-      index: i,
-      vertices: g.vertices?.length ?? 0,
-      triangles: g.triangles?.length ?? 0,
-      materials: g.materialList.materials.map((m) => ({
-        color: m.color,
-        texture: m.texture?.name ?? null,
-      })),
-    })),
-    frames: dff.frameList.frames.length,
+    geometries:
+      dff.geometryList?.geometries.map((g, i) => ({
+        index: i,
+        vertices: g.vertexInformation?.length ?? 0,
+        triangles: g.triangleInformation?.length ?? 0,
+        materials: g.materialList.materialData.map((m) => ({
+          color: m.color,
+          texture: m.texture?.name ?? null,
+        })),
+      })) ?? [],
+    frames: dff.frameList?.frames.length ?? 0,
     dummies: dff.dummies,
   };
 }
