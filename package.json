@@ -1,0 +1,15 @@
+{
+  "name": "arizona-dumper",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "check": "bun run src/index.ts",
+    "download": "bun run scripts/download-game.ts"
+  },
+  "dependencies": {
+    "rw-parser-ng": "^2.1.1"
+  },
+  "devDependencies": {
+    "@types/bun": "^1.2.14"
+  }
+}

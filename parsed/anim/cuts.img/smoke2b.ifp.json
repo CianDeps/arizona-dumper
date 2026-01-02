@@ -1,0 +1,885 @@
+{
+  "type": "ifp",
+  "name": "SMOKE2b",
+  "version": 1,
+  "animations": [
+    {
+      "name": "csbat",
+      "bones": [
+        {
+          "name": "csbat:Root",
+          "keyframes": 124
+        },
+        {
+          "name": "csbat:Pelvis",
+          "keyframes": 2
+        }
+      ]
+    },
+    {
+      "name": "csglendale92",
+      "bones": [
+        {
+          "name": "glendale",
+          "keyframes": 875
+        },
+        {
+          "name": "wheel",
+          "keyframes": 139
+        },
+        {
+          "name": "wheel01",
+          "keyframes": 139
+        },
+        {
+          "name": "wheel02",
+          "keyframes": 139
+        },
+        {
+          "name": "wheel03",
+          "keyframes": 139
+        },
+        {
+          "name": "chassis",
+          "keyframes": 247
+        },
+        {
+          "name": "bonnet_ok",
+          "keyframes": 2
+        },
+        {
+          "name": "boot_ok",
+          "keyframes": 2
+        },
+        {
+          "name": "bump_front_ok",
+          "keyframes": 2
+        },
+        {
+          "name": "bump_rear_ok",
+          "keyframes": 2
+        },
+        {
+          "name": "door_lf_ok",
+          "keyframes": 2
+        },
+        {
+          "name": "door_lr_ok",
+          "keyframes": 2
+        },
+        {
+          "name": "door_rf_ok",
+          "keyframes": 52
+        },
+        {
+          "name": "door_rr_ok",
+          "keyframes": 2
+        }
+      ]
+    },
+    {
+      "name": "csplay",
+      "bones": [
+        {
+          "name": "root",
+          "keyframes": 870
+        },
+        {
+          "name": " Pelvis",
+          "keyframes": 2
+        },
+        {
+          "name": " Spine 1",
+          "keyframes": 842
+        },
+        {
+          "name": " Spine 2",
+          "keyframes": 842
+        },
+        {
+          "name": " Neck",
+          "keyframes": 867
+        },
+        {
+          "name": " Head",
+          "keyframes": 868
+        },
+        {
+          "name": " HeadNub",
+          "keyframes": 22
+        },
+        {
+          "name": "jaw1",
+          "keyframes": 184
+        },
+        {
+          "name": "jaw2",
+          "keyframes": 320
+        },
+        {
+          "name": "llip1",
+          "keyframes": 320
+        },
+        {
+          "name": "jaw22",
+          "keyframes": 319
+        },
+        {
+          "name": "llip11",
+          "keyframes": 319
+        },
+        {
+          "name": "rcorner",
+          "keyframes": 284
+        },
+        {
+          "name": "lcorner",
+          "keyframes": 293
+        },
+        {
+          "name": "ltlip1",
+          "keyframes": 221
+        },
+        {
+          "name": "ltlip2",
+          "keyframes": 319
+        },
+        {
+          "name": "ltlip3",
+          "keyframes": 319
+        },
+        {
+          "name": "rtlip1",
+          "keyframes": 188
+        },
+        {
+          "name": "rtlip2",
+          "keyframes": 319
+        },
+        {
+          "name": "rtlip3",
+          "keyframes": 319
+        },
+        {
+          "name": "rcheek",
+          "keyframes": 112
+        },
+        {
+          "name": "lcheek",
+          "keyframes": 116
+        },
+        {
+          "name": "lbrow1",
+          "keyframes": 226
+        },
+        {
+          "name": "lbrow2",
+          "keyframes": 242
+        },
+        {
+          "name": "llid",
+          "keyframes": 117
+        },
+        {
+          "name": "rlid",
+          "keyframes": 118
+        },
+        {
+          "name": "rbrow1",
+          "keyframes": 223
+        },
+        {
+          "name": "rbrow2",
+          "keyframes": 241
+        },
+        {
+          "name": "reye",
+          "keyframes": 229
+        },
+        {
+          "name": "leye",
+          "keyframes": 221
+        },
+        {
+          "name": "Bip01 L Clavicle",
+          "keyframes": 870
+        },
+        {
+          "name": " L UpperArm",
+          "keyframes": 870
+        },
+        {
+          "name": " L ForeArm",
+          "keyframes": 870
+        },
+        {
+          "name": " L Hand",
+          "keyframes": 870
+        },
+        {
+          "name": " L Finger",
+          "keyframes": 253
+        },
+        {
+          "name": "L Finger01",
+          "keyframes": 765
+        },
+        {
+          "name": " L Finger0Nub",
+          "keyframes": 690
+        },
+        {
+          "name": "LThumb1",
+          "keyframes": 252
+        },
+        {
+          "name": "LThumb2",
+          "keyframes": 2
+        },
+        {
+          "name": "L breast",
+          "keyframes": 870
+        },
+        {
+          "name": "Bip01 R Clavicle",
+          "keyframes": 870
+        },
+        {
+          "name": " R UpperArm",
+          "keyframes": 870
+        },
+        {
+          "name": " R ForeArm",
+          "keyframes": 870
+        },
+        {
+          "name": " R Hand",
+          "keyframes": 870
+        },
+        {
+          "name": " R Finger",
+          "keyframes": 472
+        },
+        {
+          "name": "R Finger01",
+          "keyframes": 849
+        },
+        {
+          "name": " R Finger0Nub",
+          "keyframes": 821
+        },
+        {
+          "name": "RThumb1",
+          "keyframes": 100
+        },
+        {
+          "name": "RThumb2",
+          "keyframes": 32
+        },
+        {
+          "name": "R breast",
+          "keyframes": 870
+        },
+        {
+          "name": "Belly",
+          "keyframes": 2
+        },
+        {
+          "name": " L Thigh",
+          "keyframes": 847
+        },
+        {
+          "name": " L Calf",
+          "keyframes": 863
+        },
+        {
+          "name": " L Foot",
+          "keyframes": 863
+        },
+        {
+          "name": " L Toe0",
+          "keyframes": 2
+        },
+        {
+          "name": " L Toe0Nub",
+          "keyframes": 2
+        },
+        {
+          "name": " R Thigh",
+          "keyframes": 858
+        },
+        {
+          "name": " R Calf",
+          "keyframes": 863
+        },
+        {
+          "name": " R Foot",
+          "keyframes": 864
+        },
+        {
+          "name": " R Toe0",
+          "keyframes": 2
+        },
+        {
+          "name": " R Toe0Nub",
+          "keyframes": 2
+        }
+      ]
+    },
+    {
+      "name": "cssmoke",
+      "bones": [
+        {
+          "name": "root",
+          "keyframes": 891
+        },
+        {
+          "name": " Pelvis",
+          "keyframes": 2
+        },
+        {
+          "name": " Spine 1",
+          "keyframes": 888
+        },
+        {
+          "name": " Spine 2",
+          "keyframes": 863
+        },
+        {
+          "name": " Neck",
+          "keyframes": 891
+        },
+        {
+          "name": " Head",
+          "keyframes": 888
+        },
+        {
+          "name": " HeadNub",
+          "keyframes": 31
+        },
+        {
+          "name": "jaw1",
+          "keyframes": 980
+        },
+        {
+          "name": "jaw2",
+          "keyframes": 1719
+        },
+        {
+          "name": "llip1",
+          "keyframes": 1719
+        },
+        {
+          "name": "jaw22",
+          "keyframes": 1719
+        },
+        {
+          "name": "llip11",
+          "keyframes": 1719
+        },
+        {
+          "name": "rcorner",
+          "keyframes": 1440
+        },
+        {
+          "name": "lcorner",
+          "keyframes": 1508
+        },
+        {
+          "name": "ltlip1",
+          "keyframes": 937
+        },
+        {
+          "name": "ltlip2",
+          "keyframes": 1719
+        },
+        {
+          "name": "ltlip3",
+          "keyframes": 1719
+        },
+        {
+          "name": "rtlip1",
+          "keyframes": 990
+        },
+        {
+          "name": "rtlip2",
+          "keyframes": 1719
+        },
+        {
+          "name": "rtlip3",
+          "keyframes": 1719
+        },
+        {
+          "name": "rcheek",
+          "keyframes": 1015
+        },
+        {
+          "name": "lcheek",
+          "keyframes": 1059
+        },
+        {
+          "name": "lbrow1",
+          "keyframes": 614
+        },
+        {
+          "name": "lbrow2",
+          "keyframes": 660
+        },
+        {
+          "name": "llid",
+          "keyframes": 794
+        },
+        {
+          "name": "rlid",
+          "keyframes": 765
+        },
+        {
+          "name": "rbrow1",
+          "keyframes": 584
+        },
+        {
+          "name": "rbrow2",
+          "keyframes": 644
+        },
+        {
+          "name": "reye",
+          "keyframes": 1109
+        },
+        {
+          "name": "leye",
+          "keyframes": 1107
+        },
+        {
+          "name": "Bip01 L Clavicle",
+          "keyframes": 891
+        },
+        {
+          "name": " L UpperArm",
+          "keyframes": 890
+        },
+        {
+          "name": " L ForeArm",
+          "keyframes": 891
+        },
+        {
+          "name": " L Hand",
+          "keyframes": 891
+        },
+        {
+          "name": " L Finger",
+          "keyframes": 891
+        },
+        {
+          "name": "L Finger01",
+          "keyframes": 891
+        },
+        {
+          "name": " L Finger0Nub",
+          "keyframes": 891
+        },
+        {
+          "name": "LThumb1",
+          "keyframes": 2
+        },
+        {
+          "name": "LThumb2",
+          "keyframes": 60
+        },
+        {
+          "name": "L breast",
+          "keyframes": 890
+        },
+        {
+          "name": "Bip01 R Clavicle",
+          "keyframes": 891
+        },
+        {
+          "name": " R UpperArm",
+          "keyframes": 891
+        },
+        {
+          "name": " R ForeArm",
+          "keyframes": 891
+        },
+        {
+          "name": " R Hand",
+          "keyframes": 891
+        },
+        {
+          "name": " R Finger",
+          "keyframes": 891
+        },
+        {
+          "name": "R Finger01",
+          "keyframes": 891
+        },
+        {
+          "name": " R Finger0Nub",
+          "keyframes": 891
+        },
+        {
+          "name": "RThumb1",
+          "keyframes": 34
+        },
+        {
+          "name": "RThumb2",
+          "keyframes": 574
+        },
+        {
+          "name": "R breast",
+          "keyframes": 891
+        },
+        {
+          "name": "Belly",
+          "keyframes": 2
+        },
+        {
+          "name": " L Thigh",
+          "keyframes": 867
+        },
+        {
+          "name": " L Calf",
+          "keyframes": 881
+        },
+        {
+          "name": " L Foot",
+          "keyframes": 886
+        },
+        {
+          "name": " L Toe0",
+          "keyframes": 2
+        },
+        {
+          "name": " L Toe0Nub",
+          "keyframes": 2
+        },
+        {
+          "name": " R Thigh",
+          "keyframes": 880
+        },
+        {
+          "name": " R Calf",
+          "keyframes": 880
+        },
+        {
+          "name": " R Foot",
+          "keyframes": 887
+        },
+        {
+          "name": " R Toe0",
+          "keyframes": 33
+        },
+        {
+          "name": " R Toe0Nub",
+          "keyframes": 2
+        }
+      ]
+    },
+    {
+      "name": "LSV1",
+      "bones": [
+        {
+          "name": "Root",
+          "keyframes": 356
+        },
+        {
+          "name": " Pelvis",
+          "keyframes": 2
+        },
+        {
+          "name": " Spine 1",
+          "keyframes": 356
+        },
+        {
+          "name": " Spine 2",
+          "keyframes": 356
+        },
+        {
+          "name": " Neck",
+          "keyframes": 356
+        },
+        {
+          "name": " Head",
+          "keyframes": 356
+        },
+        {
+          "name": " HeadNub",
+          "keyframes": 2
+        },
+        {
+          "name": "Jaw",
+          "keyframes": 2
+        },
+        {
+          "name": "L Brow",
+          "keyframes": 2
+        },
+        {
+          "name": "R Brow",
+          "keyframes": 2
+        },
+        {
+          "name": "Bip01 L Clavicle",
+          "keyframes": 356
+        },
+        {
+          "name": " L UpperArm",
+          "keyframes": 356
+        },
+        {
+          "name": " L ForeArm",
+          "keyframes": 356
+        },
+        {
+          "name": " L Hand",
+          "keyframes": 356
+        },
+        {
+          "name": " L Finger",
+          "keyframes": 45
+        },
+        {
+          "name": "L Finger01",
+          "keyframes": 2
+        },
+        {
+          "name": " L Finger0Nub",
+          "keyframes": 2
+        },
+        {
+          "name": "Bip01 R Clavicle",
+          "keyframes": 356
+        },
+        {
+          "name": " R UpperArm",
+          "keyframes": 356
+        },
+        {
+          "name": " R ForeArm",
+          "keyframes": 356
+        },
+        {
+          "name": " R Hand",
+          "keyframes": 356
+        },
+        {
+          "name": " R Finger",
+          "keyframes": 45
+        },
+        {
+          "name": "R Finger01",
+          "keyframes": 2
+        },
+        {
+          "name": " R Finger0Nub",
+          "keyframes": 2
+        },
+        {
+          "name": "L breast",
+          "keyframes": 2
+        },
+        {
+          "name": "R breast",
+          "keyframes": 2
+        },
+        {
+          "name": "Belly",
+          "keyframes": 2
+        },
+        {
+          "name": " L Thigh",
+          "keyframes": 356
+        },
+        {
+          "name": " L Calf",
+          "keyframes": 356
+        },
+        {
+          "name": " L Foot",
+          "keyframes": 356
+        },
+        {
+          "name": " L Toe0",
+          "keyframes": 45
+        },
+        {
+          "name": " L Toe0Nub",
+          "keyframes": 2
+        },
+        {
+          "name": " R Thigh",
+          "keyframes": 356
+        },
+        {
+          "name": " R Calf",
+          "keyframes": 356
+        },
+        {
+          "name": " R Foot",
+          "keyframes": 356
+        },
+        {
+          "name": " R Toe0",
+          "keyframes": 45
+        },
+        {
+          "name": " R Toe0Nub",
+          "keyframes": 2
+        }
+      ]
+    },
+    {
+      "name": "LSV3",
+      "bones": [
+        {
+          "name": "Root",
+          "keyframes": 417
+        },
+        {
+          "name": " Pelvis",
+          "keyframes": 2
+        },
+        {
+          "name": " Spine 1",
+          "keyframes": 417
+        },
+        {
+          "name": " Spine 2",
+          "keyframes": 417
+        },
+        {
+          "name": " Neck",
+          "keyframes": 417
+        },
+        {
+          "name": " Head",
+          "keyframes": 417
+        },
+        {
+          "name": " HeadNub",
+          "keyframes": 2
+        },
+        {
+          "name": "Jaw_ncl1_1",
+          "keyframes": 114
+        },
+        {
+          "name": "L Brow_ncl1_1",
+          "keyframes": 2
+        },
+        {
+          "name": "R Brow_ncl1_1",
+          "keyframes": 2
+        },
+        {
+          "name": "Bip01 L Clavicle",
+          "keyframes": 417
+        },
+        {
+          "name": " L UpperArm",
+          "keyframes": 417
+        },
+        {
+          "name": " L ForeArm",
+          "keyframes": 417
+        },
+        {
+          "name": " L Hand",
+          "keyframes": 417
+        },
+        {
+          "name": " L Finger",
+          "keyframes": 2
+        },
+        {
+          "name": "L Finger01",
+          "keyframes": 2
+        },
+        {
+          "name": " L Finger0Nub",
+          "keyframes": 2
+        },
+        {
+          "name": "Bip01 R Clavicle",
+          "keyframes": 417
+        },
+        {
+          "name": " R UpperArm",
+          "keyframes": 417
+        },
+        {
+          "name": " R ForeArm",
+          "keyframes": 417
+        },
+        {
+          "name": " R Hand",
+          "keyframes": 417
+        },
+        {
+          "name": " R Finger",
+          "keyframes": 2
+        },
+        {
+          "name": "R Finger01",
+          "keyframes": 2
+        },
+        {
+          "name": " R Finger0Nub",
+          "keyframes": 2
+        },
+        {
+          "name": "L breast_ncl1_1",
+          "keyframes": 2
+        },
+        {
+          "name": "R breast_ncl1_1",
+          "keyframes": 2
+        },
+        {
+          "name": "Belly_ncl1_1",
+          "keyframes": 2
+        },
+        {
+          "name": " L Thigh",
+          "keyframes": 417
+        },
+        {
+          "name": " L Calf",
+          "keyframes": 417
+        },
+        {
+          "name": " L Foot",
+          "keyframes": 417
+        },
+        {
+          "name": " L Toe0",
+          "keyframes": 2
+        },
+        {
+          "name": " L Toe0Nub",
+          "keyframes": 2
+        },
+        {
+          "name": " R Thigh",
+          "keyframes": 417
+        },
+        {
+          "name": " R Calf",
+          "keyframes": 417
+        },
+        {
+          "name": " R Foot",
+          "keyframes": 417
+        },
+        {
+          "name": " R Toe0",
+          "keyframes": 2
+        },
+        {
+          "name": " R Toe0Nub",
+          "keyframes": 2
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "type": "json",
+  "data": {
+    "101": {
+      "color": {
+        "alpha": 200,
+        "blue": 60,
+        "green": 255,
+        "red": 30
+      },
+      "laser_gun": true,
+      "long_tracers": false,
+      "time": null,
+      "radius": 2
+    },
+    "102": {
+      "color": {
+        "alpha": 200,
+        "blue": 0,
+        "green": 0,
+        "red": 255
+      },
+      "laser_gun": true,
+      "long_tracers": false,
+      "time": 1.2,
+      "radius": 1
+    },
+    "103": {
+      "color": {
+        "alpha": 200,
+        "blue": 255,
+        "green": 150,
+        "red": 50
+      },
+      "laser_gun": true,
+      "long_tracers": false,
+      "time": null,
+      "radius": 0.85
+    },
+    "105": {
+      "color": {
+        "alpha": 200,
+        "red": 0,
+        "green": 255,
+        "blue": 200
+      },
+      "laser_gun": true,
+      "long_tracers": false,
+      "time": 3,
+      "radius": 1
+    }
+  }
+}
