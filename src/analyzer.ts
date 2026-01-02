@@ -1,7 +1,7 @@
 import { DffParser, TxdParser, IfpParser } from "rw-parser-ng";
-import { parseImg, extractEntry } from "./parsers/img";
+import { parseImg } from "./parsers/img";
+import { parsePE } from "./parsers/pe/parser";
 import { createHash } from "node:crypto";
-import { gunzipSync } from "node:zlib";
 
 function md5(buffer: Buffer): string {
   return createHash("md5").update(buffer).digest("hex");
@@ -67,65 +67,15 @@ export function analyzeImg(buffer: Buffer) {
   };
 }
 
-export function analyzeBinary(buffer: Buffer, path: string) {
-  const strings = extractStrings(buffer);
-  const imports = extractPEImports(buffer);
-  const exports = extractPEExports(buffer);
+export function analyzeBinary(buffer: Buffer) {
+  const pe = parsePE(buffer);
+  if (pe) return pe;
 
   return {
     type: "binary",
     size: buffer.length,
     md5: md5(buffer),
-    strings: strings.slice(0, 200),
-    pe: imports.length > 0 || exports.length > 0 ? { imports, exports } : null,
   };
-}
-
-function extractStrings(buffer: Buffer, minLen = 6): string[] {
-  const strings: string[] = [];
-  let current = "";
-
-  for (let i = 0; i < buffer.length; i++) {
-    const byte = buffer[i];
-    if (byte >= 0x20 && byte < 0x7f) {
-      current += String.fromCharCode(byte);
-    } else {
-      if (current.length >= minLen) strings.push(current);
-      current = "";
-    }
-  }
-  if (current.length >= minLen) strings.push(current);
-
-  return [...new Set(strings)];
-}
-
-function extractPEImports(buffer: Buffer): string[] {
-  if (buffer.length < 64) return [];
-  if (buffer[0] !== 0x4d || buffer[1] !== 0x5a) return [];
-
-  const imports: string[] = [];
-  const str = buffer.toString("ascii");
-
-  const dlls = str.match(/[A-Za-z0-9_]+\.dll/gi);
-  if (dlls) imports.push(...new Set(dlls));
-
-  return imports.slice(0, 50);
-}
-
-function extractPEExports(buffer: Buffer): string[] {
-  if (buffer.length < 64) return [];
-  if (buffer[0] !== 0x4d || buffer[1] !== 0x5a) return [];
-
-  const exports: string[] = [];
-  const strings = extractStrings(buffer, 4);
-
-  for (const s of strings) {
-    if (/^[A-Z][a-zA-Z0-9_]+$/.test(s) && s.length < 50) {
-      exports.push(s);
-    }
-  }
-
-  return exports.slice(0, 100);
 }
 
 export function analyzeConfig(buffer: Buffer) {
@@ -202,7 +152,7 @@ export function analyzeFile(buffer: Buffer, path: string) {
     case "asi":
     case "dll":
     case "exe":
-      return analyzeBinary(buffer, path);
+      return analyzeBinary(buffer);
     case "ini":
     case "cfg":
     case "dat":
