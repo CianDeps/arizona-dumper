@@ -1,0 +1,82 @@
+{
+  "type": "txd",
+  "textures": [
+    {
+      "name": "chevyc10p_Int",
+      "width": 512,
+      "height": 512,
+      "format": "DXT1",
+      "alpha": true
+    },
+    {
+      "name": "chevyc10p_under",
+      "width": 256,
+      "height": 256,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "chevyc10p_tyres",
+      "width": 256,
+      "height": 256,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "chevyc10p_glassdam",
+      "width": 256,
+      "height": 128,
+      "format": "DXT5",
+      "alpha": false
+    },
+    {
+      "name": "chevyc10p_generic",
+      "width": 256,
+      "height": 256,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "chevyc10p_wheel",
+      "width": 512,
+      "height": 512,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "chevyc10p_carpaint",
+      "width": 1024,
+      "height": 1024,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "chevyc10p_extra",
+      "width": 1024,
+      "height": 1024,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "chevyc10p_wdor_f",
+      "width": 64,
+      "height": 64,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "chevyc10p_wnd",
+      "width": 64,
+      "height": 64,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "chevyc10p_wnd_rr",
+      "width": 64,
+      "height": 64,
+      "format": "DXT1",
+      "alpha": false
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "type": "txd",
+  "textures": [
+    {
+      "name": "kawaxr10_generic",
+      "width": 64,
+      "height": 64,
+      "format": "DXT3",
+      "alpha": true
+    },
+    {
+      "name": "kawaxr10_badges",
+      "width": 512,
+      "height": 512,
+      "format": "DXT3",
+      "alpha": true
+    },
+    {
+      "name": "kawaxr10_int",
+      "width": 512,
+      "height": 512,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "kawaxr10_wheel",
+      "width": 256,
+      "height": 256,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "kawaxr10_brake",
+      "width": 128,
+      "height": 128,
+      "format": "DXT3",
+      "alpha": true
+    },
+    {
+      "name": "kawaxr10_gauge",
+      "width": 128,
+      "height": 128,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "kawaxr10_gear",
+      "width": 128,
+      "height": 128,
+      "format": "DXT3",
+      "alpha": true
+    }
+  ]
+}

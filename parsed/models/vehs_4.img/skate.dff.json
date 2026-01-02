@@ -1,0 +1,169 @@
+{
+  "type": "dff",
+  "version": "RenderWare 3.6.0.3 (SA)",
+  "modelType": 2,
+  "geometries": [
+    {
+      "index": 0,
+      "vertices": 440,
+      "triangles": 270,
+      "materials": [
+        {
+          "color": {
+            "r": 255,
+            "g": 255,
+            "b": 255,
+            "a": 0
+          },
+          "texture": null
+        }
+      ]
+    },
+    {
+      "index": 1,
+      "vertices": 432,
+      "triangles": 290,
+      "materials": [
+        {
+          "color": {
+            "r": 255,
+            "g": 255,
+            "b": 255,
+            "a": 0
+          },
+          "texture": null
+        }
+      ]
+    },
+    {
+      "index": 2,
+      "vertices": 341,
+      "triangles": 292,
+      "materials": [
+        {
+          "color": {
+            "r": 255,
+            "g": 255,
+            "b": 255,
+            "a": 0
+          },
+          "texture": null
+        }
+      ]
+    },
+    {
+      "index": 3,
+      "vertices": 164,
+      "triangles": 112,
+      "materials": [
+        {
+          "color": {
+            "r": 255,
+            "g": 255,
+            "b": 255,
+            "a": 0
+          },
+          "texture": null
+        }
+      ]
+    },
+    {
+      "index": 4,
+      "vertices": 16,
+      "triangles": 14,
+      "materials": [
+        {
+          "color": {
+            "r": 127,
+            "g": 127,
+            "b": 127,
+            "a": 255
+          },
+          "texture": null
+        }
+      ]
+    },
+    {
+      "index": 5,
+      "vertices": 298,
+      "triangles": 206,
+      "materials": [
+        {
+          "color": {
+            "r": 127,
+            "g": 127,
+            "b": 127,
+            "a": 255
+          },
+          "texture": null
+        }
+      ]
+    },
+    {
+      "index": 6,
+      "vertices": 390,
+      "triangles": 316,
+      "materials": [
+        {
+          "color": {
+            "r": 255,
+            "g": 255,
+            "b": 255,
+            "a": 0
+          },
+          "texture": null
+        }
+      ]
+    },
+    {
+      "index": 7,
+      "vertices": 96,
+      "triangles": 48,
+      "materials": [
+        {
+          "color": {
+            "r": 255,
+            "g": 255,
+            "b": 255,
+            "a": 0
+          },
+          "texture": null
+        }
+      ]
+    },
+    {
+      "index": 8,
+      "vertices": 96,
+      "triangles": 48,
+      "materials": [
+        {
+          "color": {
+            "r": 255,
+            "g": 255,
+            "b": 255,
+            "a": 0
+          },
+          "texture": null
+        }
+      ]
+    }
+  ],
+  "frames": 15,
+  "dummies": [
+    "mtbike",
+    "chassis_dummy",
+    "ped_frontseat",
+    "headlights",
+    "taillights",
+    "bargrip",
+    "forks_front",
+    "handlebars",
+    "wheel_rear",
+    "chainset",
+    "chassis_vlo",
+    "chassis",
+    "wheel_front",
+    "pedal_r",
+    "pedal_l"
+  ]
+}

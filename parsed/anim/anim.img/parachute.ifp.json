@@ -1,0 +1,2561 @@
+{
+  "type": "ifp",
+  "name": "PARACHUTE",
+  "version": 0,
+  "animations": [
+    {
+      "name": "FALL_skyDive",
+      "bones": [
+        {
+          "name": "Normal",
+          "keyframes": 41
+        },
+        {
+          "name": " Pelvis",
+          "keyframes": 41
+        },
+        {
+          "name": " Spine",
+          "keyframes": 41
+        },
+        {
+          "name": " Spine1",
+          "keyframes": 41
+        },
+        {
+          "name": " Neck",
+          "keyframes": 41
+        },
+        {
+          "name": " Head",
+          "keyframes": 41
+        },
+        {
+          "name": "Bip01 L Clavicle",
+          "keyframes": 41
+        },
+        {
+          "name": " L UpperArm",
+          "keyframes": 41
+        },
+        {
+          "name": " L ForeArm",
+          "keyframes": 41
+        },
+        {
+          "name": " L Hand",
+          "keyframes": 41
+        },
+        {
+          "name": " L Finger",
+          "keyframes": 41
+        },
+        {
+          "name": "L Finger01",
+          "keyframes": 41
+        },
+        {
+          "name": "Bip01 R Clavicle",
+          "keyframes": 41
+        },
+        {
+          "name": " R UpperArm",
+          "keyframes": 41
+        },
+        {
+          "name": " R ForeArm",
+          "keyframes": 41
+        },
+        {
+          "name": " R Hand",
+          "keyframes": 41
+        },
+        {
+          "name": " R Finger",
+          "keyframes": 41
+        },
+        {
+          "name": "R Finger01",
+          "keyframes": 41
+        },
+        {
+          "name": " L Thigh",
+          "keyframes": 41
+        },
+        {
+          "name": " L Calf",
+          "keyframes": 41
+        },
+        {
+          "name": " L Foot",
+          "keyframes": 41
+        },
+        {
+          "name": " L Toe0",
+          "keyframes": 41
+        },
+        {
+          "name": " R Thigh",
+          "keyframes": 41
+        },
+        {
+          "name": " R Calf",
+          "keyframes": 41
+        },
+        {
+          "name": " R Foot",
+          "keyframes": 41
+        },
+        {
+          "name": " R Toe0",
+          "keyframes": 41
+        }
+      ]
+    },
+    {
+      "name": "FALL_SkyDive_Accel",
+      "bones": [
+        {
+          "name": "Normal",
+          "keyframes": 41
+        },
+        {
+          "name": " Pelvis",
+          "keyframes": 2
+        },
+        {
+          "name": " Spine",
+          "keyframes": 7
+        },
+        {
+          "name": " Spine1",
+          "keyframes": 40
+        },
+        {
+          "name": " Neck",
+          "keyframes": 2
+        },
+        {
+          "name": " Head",
+          "keyframes": 40
+        },
+        {
+          "name": "Bip01 L Clavicle",
+          "keyframes": 2
+        },
+        {
+          "name": " L UpperArm",
+          "keyframes": 41
+        },
+        {
+          "name": " L ForeArm",
+          "keyframes": 22
+        },
+        {
+          "name": " L Hand",
+          "keyframes": 2
+        },
+        {
+          "name": " L Finger",
+          "keyframes": 2
+        },
+        {
+          "name": "L Finger01",
+          "keyframes": 2
+        },
+        {
+          "name": "Bip01 R Clavicle",
+          "keyframes": 2
+        },
+        {
+          "name": " R UpperArm",
+          "keyframes": 41
+        },
+        {
+          "name": " R ForeArm",
+          "keyframes": 19
+        },
+        {
+          "name": " R Hand",
+          "keyframes": 2
+        },
+        {
+          "name": " R Finger",
+          "keyframes": 2
+        },
+        {
+          "name": "R Finger01",
+          "keyframes": 2
+        },
+        {
+          "name": " L Thigh",
+          "keyframes": 26
+        },
+        {
+          "name": " L Calf",
+          "keyframes": 21
+        },
+        {
+          "name": " L Foot",
+          "keyframes": 24
+        },
+        {
+          "name": " L Toe0",
+          "keyframes": 2
+        },
+        {
+          "name": " R Thigh",
+          "keyframes": 29
+        },
+        {
+          "name": " R Calf",
+          "keyframes": 26
+        },
+        {
+          "name": " R Foot",
+          "keyframes": 27
+        },
+        {
+          "name": " R Toe0",
+          "keyframes": 2
+        }
+      ]
+    },
+    {
+      "name": "FALL_skyDive_DIE",
+      "bones": [
+        {
+          "name": "Normal",
+          "keyframes": 16
+        },
+        {
+          "name": " Pelvis",
+          "keyframes": 16
+        },
+        {
+          "name": " Spine",
+          "keyframes": 16
+        },
+        {
+          "name": " Spine1",
+          "keyframes": 16
+        },
+        {
+          "name": " Neck",
+          "keyframes": 18
+        },
+        {
+          "name": " Head",
+          "keyframes": 18
+        },
+        {
+          "name": "Bip01 L Clavicle",
+          "keyframes": 18
+        },
+        {
+          "name": " L UpperArm",
+          "keyframes": 18
+        },
+        {
+          "name": " L ForeArm",
+          "keyframes": 18
+        },
+        {
+          "name": " L Hand",
+          "keyframes": 18
+        },
+        {
+          "name": " L Finger",
+          "keyframes": 18
+        },
+        {
+          "name": "L Finger01",
+          "keyframes": 18
+        },
+        {
+          "name": "Bip01 R Clavicle",
+          "keyframes": 18
+        },
+        {
+          "name": " R UpperArm",
+          "keyframes": 18
+        },
+        {
+          "name": " R ForeArm",
+          "keyframes": 18
+        },
+        {
+          "name": " R Hand",
+          "keyframes": 18
+        },
+        {
+          "name": " R Finger",
+          "keyframes": 18
+        },
+        {
+          "name": "R Finger01",
+          "keyframes": 18
+        },
+        {
+          "name": " L Thigh",
+          "keyframes": 16
+        },
+        {
+          "name": " L Calf",
+          "keyframes": 16
+        },
+        {
+          "name": " L Foot",
+          "keyframes": 16
+        },
+        {
+          "name": " L Toe0",
+          "keyframes": 16
+        },
+        {
+          "name": " R Thigh",
+          "keyframes": 16
+        },
+        {
+          "name": " R Calf",
+          "keyframes": 16
+        },
+        {
+          "name": " R Foot",
+          "keyframes": 16
+        },
+        {
+          "name": " R Toe0",
+          "keyframes": 16
+        }
+      ]
+    },
+    {
+      "name": "FALL_SkyDive_L",
+      "bones": [
+        {
+          "name": "Normal",
+          "keyframes": 41
+        },
+        {
+          "name": " Pelvis",
+          "keyframes": 2
+        },
+        {
+          "name": " Spine",
+          "keyframes": 2
+        },
+        {
+          "name": " Spine1",
+          "keyframes": 38
+        },
+        {
+          "name": " Neck",
+          "keyframes": 2
+        },
+        {
+          "name": " Head",
+          "keyframes": 39
+        },
+        {
+          "name": "Bip01 L Clavicle",
+          "keyframes": 2
+        },
+        {
+          "name": " L UpperArm",
+          "keyframes": 41
+        },
+        {
+          "name": " L ForeArm",
+          "keyframes": 41
+        },
+        {
+          "name": " L Hand",
+          "keyframes": 41
+        },
+        {
+          "name": " L Finger",
+          "keyframes": 2
+        },
+        {
+          "name": "L Finger01",
+          "keyframes": 2
+        },
+        {
+          "name": "Bip01 R Clavicle",
+          "keyframes": 2
+        },
+        {
+          "name": " R UpperArm",
+          "keyframes": 41
+        },
+        {
+          "name": " R ForeArm",
+          "keyframes": 41
+        },
+        {
+          "name": " R Hand",
+          "keyframes": 41
+        },
+        {
+          "name": " R Finger",
+          "keyframes": 2
+        },
+        {
+          "name": "R Finger01",
+          "keyframes": 2
+        },
+        {
+          "name": " L Thigh",
+          "keyframes": 41
+        },
+        {
+          "name": " L Calf",
+          "keyframes": 40
+        },
+        {
+          "name": " L Foot",
+          "keyframes": 41
+        },
+        {
+          "name": " L Toe0",
+          "keyframes": 38
+        },
+        {
+          "name": " R Thigh",
+          "keyframes": 41
+        },
+        {
+          "name": " R Calf",
+          "keyframes": 41
+        },
+        {
+          "name": " R Foot",
+          "keyframes": 41
+        },
+        {
+          "name": " R Toe0",
+          "keyframes": 35
+        }
+      ]
+    },
+    {
+      "name": "FALL_SkyDive_R",
+      "bones": [
+        {
+          "name": "Normal",
+          "keyframes": 40
+        },
+        {
+          "name": " Pelvis",
+          "keyframes": 2
+        },
+        {
+          "name": " Spine",
+          "keyframes": 2
+        },
+        {
+          "name": " Spine1",
+          "keyframes": 38
+        },
+        {
+          "name": " Neck",
+          "keyframes": 2
+        },
+        {
+          "name": " Head",
+          "keyframes": 39
+        },
+        {
+          "name": "Bip01 L Clavicle",
+          "keyframes": 2
+        },
+        {
+          "name": " L UpperArm",
+          "keyframes": 41
+        },
+        {
+          "name": " L ForeArm",
+          "keyframes": 41
+        },
+        {
+          "name": " L Hand",
+          "keyframes": 41
+        },
+        {
+          "name": " L Finger",
+          "keyframes": 2
+        },
+        {
+          "name": "L Finger01",
+          "keyframes": 2
+        },
+        {
+          "name": "Bip01 R Clavicle",
+          "keyframes": 2
+        },
+        {
+          "name": " R UpperArm",
+          "keyframes": 41
+        },
+        {
+          "name": " R ForeArm",
+          "keyframes": 41
+        },
+        {
+          "name": " R Hand",
+          "keyframes": 41
+        },
+        {
+          "name": " R Finger",
+          "keyframes": 2
+        },
+        {
+          "name": "R Finger01",
+          "keyframes": 2
+        },
+        {
+          "name": " L Thigh",
+          "keyframes": 41
+        },
+        {
+          "name": " L Calf",
+          "keyframes": 40
+        },
+        {
+          "name": " L Foot",
+          "keyframes": 41
+        },
+        {
+          "name": " L Toe0",
+          "keyframes": 38
+        },
+        {
+          "name": " R Thigh",
+          "keyframes": 41
+        },
+        {
+          "name": " R Calf",
+          "keyframes": 38
+        },
+        {
+          "name": " R Foot",
+          "keyframes": 41
+        },
+        {
+          "name": " R Toe0",
+          "keyframes": 35
+        }
+      ]
+    },
+    {
+      "name": "PARA_decel",
+      "bones": [
+        {
+          "name": "Normal",
+          "keyframes": 13
+        },
+        {
+          "name": " Pelvis",
+          "keyframes": 13
+        },
+        {
+          "name": " Spine",
+          "keyframes": 13
+        },
+        {
+          "name": " Spine1",
+          "keyframes": 13
+        },
+        {
+          "name": " Neck",
+          "keyframes": 13
+        },
+        {
+          "name": " Head",
+          "keyframes": 13
+        },
+        {
+          "name": "Bip01 L Clavicle",
+          "keyframes": 13
+        },
+        {
+          "name": " L UpperArm",
+          "keyframes": 13
+        },
+        {
+          "name": " L ForeArm",
+          "keyframes": 13
+        },
+        {
+          "name": " L Hand",
+          "keyframes": 13
+        },
+        {
+          "name": " L Finger",
+          "keyframes": 13
+        },
+        {
+          "name": "L Finger01",
+          "keyframes": 13
+        },
+        {
+          "name": "Bip01 R Clavicle",
+          "keyframes": 13
+        },
+        {
+          "name": " R UpperArm",
+          "keyframes": 13
+        },
+        {
+          "name": " R ForeArm",
+          "keyframes": 13
+        },
+        {
+          "name": " R Hand",
+          "keyframes": 13
+        },
+        {
+          "name": " R Finger",
+          "keyframes": 13
+        },
+        {
+          "name": "R Finger01",
+          "keyframes": 13
+        },
+        {
+          "name": "para_pack",
+          "keyframes": 1
+        },
+        {
+          "name": " L Thigh",
+          "keyframes": 13
+        },
+        {
+          "name": " L Calf",
+          "keyframes": 13
+        },
+        {
+          "name": " L Foot",
+          "keyframes": 13
+        },
+        {
+          "name": " L Toe0",
+          "keyframes": 13
+        },
+        {
+          "name": " R Thigh",
+          "keyframes": 13
+        },
+        {
+          "name": " R Calf",
+          "keyframes": 13
+        },
+        {
+          "name": " R Foot",
+          "keyframes": 13
+        },
+        {
+          "name": " R Toe0",
+          "keyframes": 13
+        }
+      ]
+    },
+    {
+      "name": "PARA_decel_O",
+      "bones": [
+        {
+          "name": "Para_Harness",
+          "keyframes": 13
+        },
+        {
+          "name": "Para_Canopy_M",
+          "keyframes": 13
+        },
+        {
+          "name": "Para_Canopy_MR1",
+          "keyframes": 13
+        },
+        {
+          "name": "Para_Canopy_MR2",
+          "keyframes": 13
+        },
+        {
+          "name": "Para_Canopy_MR3",
+          "keyframes": 13
+        },
+        {
+          "name": "Para_Canopy_ML1",
+          "keyframes": 13
+        },
+        {
+          "name": "Para_Canopy_ML2",
+          "keyframes": 13
+        },
+        {
+          "name": "Para_Canopy_ML3",
+          "keyframes": 13
+        },
+        {
+          "name": "Para_Canopy_F",
+          "keyframes": 13
+        },
+        {
+          "name": "Para_Canopy_FR1",
+          "keyframes": 13
+        },
+        {
+          "name": "Para_Canopy_FR2",
+          "keyframes": 13
+        },
+        {
+          "name": "Para_Canopy_FR3",
+          "keyframes": 13
+        },
+        {
+          "name": "Para_Canopy_FL1",
+          "keyframes": 13
+        },
+        {
+          "name": "Para_Canopy_FL2",
+          "keyframes": 13
+        },
+        {
+          "name": "Para_Canopy_FL3",
+          "keyframes": 13
+        },
+        {
+          "name": "Para_Canopy_B",
+          "keyframes": 13
+        },
+        {
+          "name": "Para_Canopy_BR1",
+          "keyframes": 13
+        },
+        {
+          "name": "Para_Canopy_BR2",
+          "keyframes": 13
+        },
+        {
+          "name": "Para_Canopy_BR3",
+          "keyframes": 13
+        },
+        {
+          "name": "Para_Canopy_BL1",
+          "keyframes": 13
+        },
+        {
+          "name": "Para_Canopy_BL2",
+          "keyframes": 13
+        },
+        {
+          "name": "Para_Canopy_BL3",
+          "keyframes": 13
+        },
+        {
+          "name": "Para_WireL",
+          "keyframes": 13
+        },
+        {
+          "name": "Para_WireR",
+          "keyframes": 13
+        },
+        {
+          "name": "Para_SliderR",
+          "keyframes": 13
+        },
+        {
+          "name": "Para_SteerR",
+          "keyframes": 13
+        },
+        {
+          "name": "Para_SliderL",
+          "keyframes": 13
+        },
+        {
+          "name": "Para_SteerL",
+          "keyframes": 13
+        },
+        {
+          "name": "Para_Harness_SpineTrace",
+          "keyframes": 12
+        },
+        {
+          "name": "Para_Harness_Spine",
+          "keyframes": 12
+        }
+      ]
+    },
+    {
+      "name": "PARA_float",
+      "bones": [
+        {
+          "name": "Normal",
+          "keyframes": 13
+        },
+        {
+          "name": " Pelvis",
+          "keyframes": 13
+        },
+        {
+          "name": " Spine",
+          "keyframes": 13
+        },
+        {
+          "name": " Spine1",
+          "keyframes": 13
+        },
+        {
+          "name": " Neck",
+          "keyframes": 13
+        },
+        {
+          "name": " Head",
+          "keyframes": 13
+        },
+        {
+          "name": "Bip01 L Clavicle",
+          "keyframes": 13
+        },
+        {
+          "name": " L UpperArm",
+          "keyframes": 13
+        },
+        {
+          "name": " L ForeArm",
+          "keyframes": 13
+        },
+        {
+          "name": " L Hand",
+          "keyframes": 13
+        },
+        {
+          "name": " L Finger",
+          "keyframes": 13
+        },
+        {
+          "name": "L Finger01",
+          "keyframes": 13
+        },
+        {
+          "name": "Bip01 R Clavicle",
+          "keyframes": 13
+        },
+        {
+          "name": " R UpperArm",
+          "keyframes": 13
+        },
+        {
+          "name": " R ForeArm",
+          "keyframes": 13
+        },
+        {
+          "name": " R Hand",
+          "keyframes": 13
+        },
+        {
+          "name": " R Finger",
+          "keyframes": 13
+        },
+        {
+          "name": "R Finger01",
+          "keyframes": 13
+        },
+        {
+          "name": " L Thigh",
+          "keyframes": 13
+        },
+        {
+          "name": " L Calf",
+          "keyframes": 13
+        },
+        {
+          "name": " L Foot",
+          "keyframes": 13
+        },
+        {
+          "name": " L Toe0",
+          "keyframes": 13
+        },
+        {
+          "name": " R Thigh",
+          "keyframes": 13
+        },
+        {
+          "name": " R Calf",
+          "keyframes": 13
+        },
+        {
+          "name": " R Foot",
+          "keyframes": 13
+        },
+        {
+          "name": " R Toe0",
+          "keyframes": 13
+        }
+      ]
+    },
+    {
+      "name": "PARA_float_O",
+      "bones": [
+        {
+          "name": "Para_Harness",
+          "keyframes": 13
+        },
+        {
+          "name": "Para_Canopy_M",
+          "keyframes": 13
+        },
+        {
+          "name": "Para_Canopy_MR1",
+          "keyframes": 13
+        },
+        {
+          "name": "Para_Canopy_MR2",
+          "keyframes": 13
+        },
+        {
+          "name": "Para_Canopy_MR3",
+          "keyframes": 13
+        },
+        {
+          "name": "Para_Canopy_ML1",
+          "keyframes": 13
+        },
+        {
+          "name": "Para_Canopy_ML2",
+          "keyframes": 13
+        },
+        {
+          "name": "Para_Canopy_ML3",
+          "keyframes": 13
+        },
+        {
+          "name": "Para_Canopy_F",
+          "keyframes": 13
+        },
+        {
+          "name": "Para_Canopy_FR1",
+          "keyframes": 13
+        },
+        {
+          "name": "Para_Canopy_FR2",
+          "keyframes": 13
+        },
+        {
+          "name": "Para_Canopy_FR3",
+          "keyframes": 13
+        },
+        {
+          "name": "Para_Canopy_FL1",
+          "keyframes": 13
+        },
+        {
+          "name": "Para_Canopy_FL2",
+          "keyframes": 13
+        },
+        {
+          "name": "Para_Canopy_FL3",
+          "keyframes": 13
+        },
+        {
+          "name": "Para_Canopy_B",
+          "keyframes": 13
+        },
+        {
+          "name": "Para_Canopy_BR1",
+          "keyframes": 13
+        },
+        {
+          "name": "Para_Canopy_BR2",
+          "keyframes": 13
+        },
+        {
+          "name": "Para_Canopy_BR3",
+          "keyframes": 13
+        },
+        {
+          "name": "Para_Canopy_BL1",
+          "keyframes": 13
+        },
+        {
+          "name": "Para_Canopy_BL2",
+          "keyframes": 13
+        },
+        {
+          "name": "Para_Canopy_BL3",
+          "keyframes": 13
+        },
+        {
+          "name": "Para_WireL",
+          "keyframes": 13
+        },
+        {
+          "name": "Para_WireR",
+          "keyframes": 13
+        },
+        {
+          "name": "Para_SliderR",
+          "keyframes": 13
+        },
+        {
+          "name": "Para_SteerR",
+          "keyframes": 13
+        },
+        {
+          "name": "Para_SliderL",
+          "keyframes": 13
+        },
+        {
+          "name": "Para_SteerL",
+          "keyframes": 13
+        },
+        {
+          "name": "Para_Harness_SpineTrace",
+          "keyframes": 13
+        },
+        {
+          "name": "Para_Harness_Spine",
+          "keyframes": 13
+        }
+      ]
+    },
+    {
+      "name": "PARA_Land",
+      "bones": [
+        {
+          "name": "Normal",
+          "keyframes": 12
+        },
+        {
+          "name": " Pelvis",
+          "keyframes": 12
+        },
+        {
+          "name": " Spine",
+          "keyframes": 12
+        },
+        {
+          "name": " Spine1",
+          "keyframes": 12
+        },
+        {
+          "name": " Neck",
+          "keyframes": 12
+        },
+        {
+          "name": " Head",
+          "keyframes": 12
+        },
+        {
+          "name": "Bip01 L Clavicle",
+          "keyframes": 14
+        },
+        {
+          "name": " L UpperArm",
+          "keyframes": 14
+        },
+        {
+          "name": " L ForeArm",
+          "keyframes": 14
+        },
+        {
+          "name": " L Hand",
+          "keyframes": 14
+        },
+        {
+          "name": " L Finger",
+          "keyframes": 14
+        },
+        {
+          "name": "L Finger01",
+          "keyframes": 14
+        },
+        {
+          "name": "Bip01 R Clavicle",
+          "keyframes": 14
+        },
+        {
+          "name": " R UpperArm",
+          "keyframes": 14
+        },
+        {
+          "name": " R ForeArm",
+          "keyframes": 14
+        },
+        {
+          "name": " R Hand",
+          "keyframes": 14
+        },
+        {
+          "name": " R Finger",
+          "keyframes": 14
+        },
+        {
+          "name": "R Finger01",
+          "keyframes": 14
+        },
+        {
+          "name": " L Thigh",
+          "keyframes": 12
+        },
+        {
+          "name": " L Calf",
+          "keyframes": 12
+        },
+        {
+          "name": " L Foot",
+          "keyframes": 12
+        },
+        {
+          "name": " L Toe0",
+          "keyframes": 12
+        },
+        {
+          "name": " R Thigh",
+          "keyframes": 12
+        },
+        {
+          "name": " R Calf",
+          "keyframes": 12
+        },
+        {
+          "name": " R Foot",
+          "keyframes": 12
+        },
+        {
+          "name": " R Toe0",
+          "keyframes": 12
+        }
+      ]
+    },
+    {
+      "name": "PARA_Land_O",
+      "bones": [
+        {
+          "name": "Para_Harness",
+          "keyframes": 16
+        },
+        {
+          "name": "Para_Canopy_M",
+          "keyframes": 16
+        },
+        {
+          "name": "Para_Canopy_MR1",
+          "keyframes": 16
+        },
+        {
+          "name": "Para_Canopy_MR2",
+          "keyframes": 16
+        },
+        {
+          "name": "Para_Canopy_MR3",
+          "keyframes": 16
+        },
+        {
+          "name": "Para_Canopy_ML1",
+          "keyframes": 16
+        },
+        {
+          "name": "Para_Canopy_ML2",
+          "keyframes": 16
+        },
+        {
+          "name": "Para_Canopy_ML3",
+          "keyframes": 16
+        },
+        {
+          "name": "Para_Canopy_F",
+          "keyframes": 15
+        },
+        {
+          "name": "Para_Canopy_FR1",
+          "keyframes": 16
+        },
+        {
+          "name": "Para_Canopy_FR2",
+          "keyframes": 16
+        },
+        {
+          "name": "Para_Canopy_FR3",
+          "keyframes": 16
+        },
+        {
+          "name": "Para_Canopy_FL1",
+          "keyframes": 16
+        },
+        {
+          "name": "Para_Canopy_FL2",
+          "keyframes": 16
+        },
+        {
+          "name": "Para_Canopy_FL3",
+          "keyframes": 16
+        },
+        {
+          "name": "Para_Canopy_B",
+          "keyframes": 15
+        },
+        {
+          "name": "Para_Canopy_BR1",
+          "keyframes": 16
+        },
+        {
+          "name": "Para_Canopy_BR2",
+          "keyframes": 16
+        },
+        {
+          "name": "Para_Canopy_BR3",
+          "keyframes": 16
+        },
+        {
+          "name": "Para_Canopy_BL1",
+          "keyframes": 16
+        },
+        {
+          "name": "Para_Canopy_BL2",
+          "keyframes": 16
+        },
+        {
+          "name": "Para_Canopy_BL3",
+          "keyframes": 16
+        },
+        {
+          "name": "Para_WireL",
+          "keyframes": 15
+        },
+        {
+          "name": "Para_WireR",
+          "keyframes": 15
+        },
+        {
+          "name": "Para_SliderR",
+          "keyframes": 17
+        },
+        {
+          "name": "Para_SteerR",
+          "keyframes": 17
+        },
+        {
+          "name": "Para_SliderL",
+          "keyframes": 17
+        },
+        {
+          "name": "Para_SteerL",
+          "keyframes": 16
+        },
+        {
+          "name": "Para_Harness_SpineTrace",
+          "keyframes": 14
+        },
+        {
+          "name": "Para_Harness_Spine",
+          "keyframes": 14
+        }
+      ]
+    },
+    {
+      "name": "PARA_Land_Water",
+      "bones": [
+        {
+          "name": "Normal",
+          "keyframes": 15
+        },
+        {
+          "name": " Pelvis",
+          "keyframes": 15
+        },
+        {
+          "name": " Spine",
+          "keyframes": 15
+        },
+        {
+          "name": " Spine1",
+          "keyframes": 15
+        },
+        {
+          "name": " Neck",
+          "keyframes": 15
+        },
+        {
+          "name": " Head",
+          "keyframes": 15
+        },
+        {
+          "name": "Bip01 L Clavicle",
+          "keyframes": 15
+        },
+        {
+          "name": " L UpperArm",
+          "keyframes": 15
+        },
+        {
+          "name": " L ForeArm",
+          "keyframes": 15
+        },
+        {
+          "name": " L Hand",
+          "keyframes": 15
+        },
+        {
+          "name": " L Finger",
+          "keyframes": 15
+        },
+        {
+          "name": "L Finger01",
+          "keyframes": 15
+        },
+        {
+          "name": "Bip01 R Clavicle",
+          "keyframes": 15
+        },
+        {
+          "name": " R UpperArm",
+          "keyframes": 15
+        },
+        {
+          "name": " R ForeArm",
+          "keyframes": 15
+        },
+        {
+          "name": " R Hand",
+          "keyframes": 15
+        },
+        {
+          "name": " R Finger",
+          "keyframes": 15
+        },
+        {
+          "name": "R Finger01",
+          "keyframes": 15
+        },
+        {
+          "name": " L Thigh",
+          "keyframes": 15
+        },
+        {
+          "name": " L Calf",
+          "keyframes": 15
+        },
+        {
+          "name": " L Foot",
+          "keyframes": 15
+        },
+        {
+          "name": " L Toe0",
+          "keyframes": 15
+        },
+        {
+          "name": " R Thigh",
+          "keyframes": 15
+        },
+        {
+          "name": " R Calf",
+          "keyframes": 15
+        },
+        {
+          "name": " R Foot",
+          "keyframes": 15
+        },
+        {
+          "name": " R Toe0",
+          "keyframes": 15
+        }
+      ]
+    },
+    {
+      "name": "PARA_Land_Water_O",
+      "bones": [
+        {
+          "name": "Para_Harness",
+          "keyframes": 14
+        },
+        {
+          "name": "Para_Canopy_M",
+          "keyframes": 14
+        },
+        {
+          "name": "Para_Canopy_MR1",
+          "keyframes": 14
+        },
+        {
+          "name": "Para_Canopy_MR2",
+          "keyframes": 14
+        },
+        {
+          "name": "Para_Canopy_MR3",
+          "keyframes": 14
+        },
+        {
+          "name": "Para_Canopy_ML1",
+          "keyframes": 14
+        },
+        {
+          "name": "Para_Canopy_ML2",
+          "keyframes": 14
+        },
+        {
+          "name": "Para_Canopy_ML3",
+          "keyframes": 14
+        },
+        {
+          "name": "Para_Canopy_F",
+          "keyframes": 14
+        },
+        {
+          "name": "Para_Canopy_FR1",
+          "keyframes": 14
+        },
+        {
+          "name": "Para_Canopy_FR2",
+          "keyframes": 14
+        },
+        {
+          "name": "Para_Canopy_FR3",
+          "keyframes": 14
+        },
+        {
+          "name": "Para_Canopy_FL1",
+          "keyframes": 14
+        },
+        {
+          "name": "Para_Canopy_FL2",
+          "keyframes": 14
+        },
+        {
+          "name": "Para_Canopy_FL3",
+          "keyframes": 14
+        },
+        {
+          "name": "Para_Canopy_B",
+          "keyframes": 14
+        },
+        {
+          "name": "Para_Canopy_BR1",
+          "keyframes": 14
+        },
+        {
+          "name": "Para_Canopy_BR2",
+          "keyframes": 14
+        },
+        {
+          "name": "Para_Canopy_BR3",
+          "keyframes": 14
+        },
+        {
+          "name": "Para_Canopy_BL1",
+          "keyframes": 14
+        },
+        {
+          "name": "Para_Canopy_BL2",
+          "keyframes": 14
+        },
+        {
+          "name": "Para_Canopy_BL3",
+          "keyframes": 14
+        },
+        {
+          "name": "Para_WireL",
+          "keyframes": 14
+        },
+        {
+          "name": "Para_WireR",
+          "keyframes": 14
+        },
+        {
+          "name": "Para_SliderR",
+          "keyframes": 14
+        },
+        {
+          "name": "Para_SteerR",
+          "keyframes": 14
+        },
+        {
+          "name": "Para_SliderL",
+          "keyframes": 14
+        },
+        {
+          "name": "Para_SteerL",
+          "keyframes": 14
+        },
+        {
+          "name": "Para_Harness_SpineTrace",
+          "keyframes": 14
+        },
+        {
+          "name": "Para_Harness_Spine",
+          "keyframes": 14
+        }
+      ]
+    },
+    {
+      "name": "PARA_open",
+      "bones": [
+        {
+          "name": "Normal",
+          "keyframes": 27
+        },
+        {
+          "name": " Pelvis",
+          "keyframes": 27
+        },
+        {
+          "name": " Spine",
+          "keyframes": 27
+        },
+        {
+          "name": " Spine1",
+          "keyframes": 27
+        },
+        {
+          "name": " Neck",
+          "keyframes": 27
+        },
+        {
+          "name": " Head",
+          "keyframes": 27
+        },
+        {
+          "name": "Bip01 L Clavicle",
+          "keyframes": 27
+        },
+        {
+          "name": " L UpperArm",
+          "keyframes": 27
+        },
+        {
+          "name": " L ForeArm",
+          "keyframes": 27
+        },
+        {
+          "name": " L Hand",
+          "keyframes": 27
+        },
+        {
+          "name": " L Finger",
+          "keyframes": 27
+        },
+        {
+          "name": "L Finger01",
+          "keyframes": 27
+        },
+        {
+          "name": "Bip01 R Clavicle",
+          "keyframes": 29
+        },
+        {
+          "name": " R UpperArm",
+          "keyframes": 29
+        },
+        {
+          "name": " R ForeArm",
+          "keyframes": 29
+        },
+        {
+          "name": " R Hand",
+          "keyframes": 29
+        },
+        {
+          "name": " R Finger",
+          "keyframes": 29
+        },
+        {
+          "name": "R Finger01",
+          "keyframes": 29
+        },
+        {
+          "name": " L Thigh",
+          "keyframes": 28
+        },
+        {
+          "name": " L Calf",
+          "keyframes": 28
+        },
+        {
+          "name": " L Foot",
+          "keyframes": 28
+        },
+        {
+          "name": " L Toe0",
+          "keyframes": 28
+        },
+        {
+          "name": " R Thigh",
+          "keyframes": 29
+        },
+        {
+          "name": " R Calf",
+          "keyframes": 29
+        },
+        {
+          "name": " R Foot",
+          "keyframes": 29
+        },
+        {
+          "name": " R Toe0",
+          "keyframes": 29
+        }
+      ]
+    },
+    {
+      "name": "PARA_open_O",
+      "bones": [
+        {
+          "name": "Para_Harness",
+          "keyframes": 15
+        },
+        {
+          "name": "Para_Canopy_M",
+          "keyframes": 15
+        },
+        {
+          "name": "Para_Canopy_MR1",
+          "keyframes": 15
+        },
+        {
+          "name": "Para_Canopy_MR2",
+          "keyframes": 15
+        },
+        {
+          "name": "Para_Canopy_MR3",
+          "keyframes": 15
+        },
+        {
+          "name": "Para_Canopy_ML1",
+          "keyframes": 15
+        },
+        {
+          "name": "Para_Canopy_ML2",
+          "keyframes": 15
+        },
+        {
+          "name": "Para_Canopy_ML3",
+          "keyframes": 15
+        },
+        {
+          "name": "Para_Canopy_F",
+          "keyframes": 15
+        },
+        {
+          "name": "Para_Canopy_FR1",
+          "keyframes": 15
+        },
+        {
+          "name": "Para_Canopy_FR2",
+          "keyframes": 15
+        },
+        {
+          "name": "Para_Canopy_FR3",
+          "keyframes": 15
+        },
+        {
+          "name": "Para_Canopy_FL1",
+          "keyframes": 15
+        },
+        {
+          "name": "Para_Canopy_FL2",
+          "keyframes": 15
+        },
+        {
+          "name": "Para_Canopy_FL3",
+          "keyframes": 15
+        },
+        {
+          "name": "Para_Canopy_B",
+          "keyframes": 15
+        },
+        {
+          "name": "Para_Canopy_BR1",
+          "keyframes": 15
+        },
+        {
+          "name": "Para_Canopy_BR2",
+          "keyframes": 15
+        },
+        {
+          "name": "Para_Canopy_BR3",
+          "keyframes": 15
+        },
+        {
+          "name": "Para_Canopy_BL1",
+          "keyframes": 15
+        },
+        {
+          "name": "Para_Canopy_BL2",
+          "keyframes": 15
+        },
+        {
+          "name": "Para_Canopy_BL3",
+          "keyframes": 15
+        },
+        {
+          "name": "Para_WireL",
+          "keyframes": 15
+        },
+        {
+          "name": "Para_WireR",
+          "keyframes": 15
+        },
+        {
+          "name": "Para_SliderR",
+          "keyframes": 15
+        },
+        {
+          "name": "Para_SteerR",
+          "keyframes": 15
+        },
+        {
+          "name": "Para_SliderL",
+          "keyframes": 15
+        },
+        {
+          "name": "Para_SteerL",
+          "keyframes": 15
+        },
+        {
+          "name": "Para_Harness_SpineTrace",
+          "keyframes": 15
+        },
+        {
+          "name": "Para_Harness_Spine",
+          "keyframes": 15
+        }
+      ]
+    },
+    {
+      "name": "PARA_Rip_Land_O",
+      "bones": [
+        {
+          "name": "Para_Harness",
+          "keyframes": 16
+        },
+        {
+          "name": "Para_Canopy_M",
+          "keyframes": 12
+        },
+        {
+          "name": "Para_Canopy_MR1",
+          "keyframes": 17
+        },
+        {
+          "name": "Para_Canopy_MR2",
+          "keyframes": 17
+        },
+        {
+          "name": "Para_Canopy_MR3",
+          "keyframes": 16
+        },
+        {
+          "name": "Para_Canopy_ML1",
+          "keyframes": 17
+        },
+        {
+          "name": "Para_Canopy_ML2",
+          "keyframes": 17
+        },
+        {
+          "name": "Para_Canopy_ML3",
+          "keyframes": 17
+        },
+        {
+          "name": "Para_Canopy_F",
+          "keyframes": 17
+        },
+        {
+          "name": "Para_Canopy_FR1",
+          "keyframes": 17
+        },
+        {
+          "name": "Para_Canopy_FR2",
+          "keyframes": 16
+        },
+        {
+          "name": "Para_Canopy_FR3",
+          "keyframes": 16
+        },
+        {
+          "name": "Para_Canopy_FL1",
+          "keyframes": 17
+        },
+        {
+          "name": "Para_Canopy_FL2",
+          "keyframes": 16
+        },
+        {
+          "name": "Para_Canopy_FL3",
+          "keyframes": 16
+        },
+        {
+          "name": "Para_Canopy_B",
+          "keyframes": 17
+        },
+        {
+          "name": "Para_Canopy_BR1",
+          "keyframes": 17
+        },
+        {
+          "name": "Para_Canopy_BR2",
+          "keyframes": 16
+        },
+        {
+          "name": "Para_Canopy_BR3",
+          "keyframes": 16
+        },
+        {
+          "name": "Para_Canopy_BL1",
+          "keyframes": 17
+        },
+        {
+          "name": "Para_Canopy_BL2",
+          "keyframes": 16
+        },
+        {
+          "name": "Para_Canopy_BL3",
+          "keyframes": 16
+        },
+        {
+          "name": "Para_WireL",
+          "keyframes": 16
+        },
+        {
+          "name": "Para_WireR",
+          "keyframes": 16
+        },
+        {
+          "name": "Para_SliderR",
+          "keyframes": 16
+        },
+        {
+          "name": "Para_SteerR",
+          "keyframes": 16
+        },
+        {
+          "name": "Para_SliderL",
+          "keyframes": 16
+        },
+        {
+          "name": "Para_SteerL",
+          "keyframes": 16
+        },
+        {
+          "name": "Para_Harness_SpineTrace",
+          "keyframes": 16
+        },
+        {
+          "name": "Para_Harness_Spine",
+          "keyframes": 16
+        }
+      ]
+    },
+    {
+      "name": "PARA_Rip_Loop_O",
+      "bones": [
+        {
+          "name": "Para_Harness",
+          "keyframes": 14
+        },
+        {
+          "name": "Para_Canopy_M",
+          "keyframes": 14
+        },
+        {
+          "name": "Para_Canopy_MR1",
+          "keyframes": 14
+        },
+        {
+          "name": "Para_Canopy_MR2",
+          "keyframes": 14
+        },
+        {
+          "name": "Para_Canopy_MR3",
+          "keyframes": 14
+        },
+        {
+          "name": "Para_Canopy_ML1",
+          "keyframes": 14
+        },
+        {
+          "name": "Para_Canopy_ML2",
+          "keyframes": 14
+        },
+        {
+          "name": "Para_Canopy_ML3",
+          "keyframes": 14
+        },
+        {
+          "name": "Para_Canopy_F",
+          "keyframes": 14
+        },
+        {
+          "name": "Para_Canopy_FR1",
+          "keyframes": 14
+        },
+        {
+          "name": "Para_Canopy_FR2",
+          "keyframes": 14
+        },
+        {
+          "name": "Para_Canopy_FR3",
+          "keyframes": 14
+        },
+        {
+          "name": "Para_Canopy_FL1",
+          "keyframes": 14
+        },
+        {
+          "name": "Para_Canopy_FL2",
+          "keyframes": 14
+        },
+        {
+          "name": "Para_Canopy_FL3",
+          "keyframes": 14
+        },
+        {
+          "name": "Para_Canopy_B",
+          "keyframes": 14
+        },
+        {
+          "name": "Para_Canopy_BR1",
+          "keyframes": 14
+        },
+        {
+          "name": "Para_Canopy_BR2",
+          "keyframes": 14
+        },
+        {
+          "name": "Para_Canopy_BR3",
+          "keyframes": 14
+        },
+        {
+          "name": "Para_Canopy_BL1",
+          "keyframes": 14
+        },
+        {
+          "name": "Para_Canopy_BL2",
+          "keyframes": 14
+        },
+        {
+          "name": "Para_Canopy_BL3",
+          "keyframes": 14
+        },
+        {
+          "name": "Para_WireL",
+          "keyframes": 14
+        },
+        {
+          "name": "Para_WireR",
+          "keyframes": 14
+        },
+        {
+          "name": "Para_SliderR",
+          "keyframes": 15
+        },
+        {
+          "name": "Para_SteerR",
+          "keyframes": 15
+        },
+        {
+          "name": "Para_SliderL",
+          "keyframes": 15
+        },
+        {
+          "name": "Para_SteerL",
+          "keyframes": 15
+        },
+        {
+          "name": "Para_Harness_SpineTrace",
+          "keyframes": 2
+        },
+        {
+          "name": "Para_Harness_Spine",
+          "keyframes": 2
+        }
+      ]
+    },
+    {
+      "name": "PARA_Rip_O",
+      "bones": [
+        {
+          "name": "Box02",
+          "keyframes": 2
+        },
+        {
+          "name": "Box08",
+          "keyframes": 2
+        },
+        {
+          "name": "Box15",
+          "keyframes": 3
+        },
+        {
+          "name": "Box09",
+          "keyframes": 2
+        },
+        {
+          "name": "Box14",
+          "keyframes": 3
+        },
+        {
+          "name": "Box06",
+          "keyframes": 5
+        },
+        {
+          "name": "Box03",
+          "keyframes": 4
+        },
+        {
+          "name": "Box04",
+          "keyframes": 3
+        },
+        {
+          "name": "Box05",
+          "keyframes": 3
+        },
+        {
+          "name": "Box16",
+          "keyframes": 4
+        },
+        {
+          "name": "Box17",
+          "keyframes": 3
+        },
+        {
+          "name": "Box18",
+          "keyframes": 3
+        },
+        {
+          "name": "Box19",
+          "keyframes": 3
+        },
+        {
+          "name": "Box20",
+          "keyframes": 3
+        },
+        {
+          "name": "Box21",
+          "keyframes": 2
+        },
+        {
+          "name": "Box22",
+          "keyframes": 2
+        },
+        {
+          "name": "Box23",
+          "keyframes": 3
+        },
+        {
+          "name": "Box24",
+          "keyframes": 2
+        },
+        {
+          "name": "Box25",
+          "keyframes": 2
+        },
+        {
+          "name": "Box26",
+          "keyframes": 3
+        },
+        {
+          "name": "Box27",
+          "keyframes": 3
+        },
+        {
+          "name": "Box28",
+          "keyframes": 2
+        },
+        {
+          "name": "Box29",
+          "keyframes": 2
+        },
+        {
+          "name": "Box30",
+          "keyframes": 3
+        },
+        {
+          "name": "Box31",
+          "keyframes": 2
+        },
+        {
+          "name": "Box32",
+          "keyframes": 2
+        },
+        {
+          "name": "Box10",
+          "keyframes": 5
+        },
+        {
+          "name": "Box07",
+          "keyframes": 5
+        }
+      ]
+    },
+    {
+      "name": "PARA_steerL",
+      "bones": [
+        {
+          "name": "Normal",
+          "keyframes": 13
+        },
+        {
+          "name": " Pelvis",
+          "keyframes": 13
+        },
+        {
+          "name": " Spine",
+          "keyframes": 13
+        },
+        {
+          "name": " Spine1",
+          "keyframes": 13
+        },
+        {
+          "name": " Neck",
+          "keyframes": 13
+        },
+        {
+          "name": " Head",
+          "keyframes": 13
+        },
+        {
+          "name": "Bip01 L Clavicle",
+          "keyframes": 13
+        },
+        {
+          "name": " L UpperArm",
+          "keyframes": 13
+        },
+        {
+          "name": " L ForeArm",
+          "keyframes": 13
+        },
+        {
+          "name": " L Hand",
+          "keyframes": 13
+        },
+        {
+          "name": " L Finger",
+          "keyframes": 13
+        },
+        {
+          "name": "L Finger01",
+          "keyframes": 13
+        },
+        {
+          "name": "Bip01 R Clavicle",
+          "keyframes": 13
+        },
+        {
+          "name": " R UpperArm",
+          "keyframes": 13
+        },
+        {
+          "name": " R ForeArm",
+          "keyframes": 13
+        },
+        {
+          "name": " R Hand",
+          "keyframes": 13
+        },
+        {
+          "name": " R Finger",
+          "keyframes": 13
+        },
+        {
+          "name": "R Finger01",
+          "keyframes": 13
+        },
+        {
+          "name": " L Thigh",
+          "keyframes": 13
+        },
+        {
+          "name": " L Calf",
+          "keyframes": 13
+        },
+        {
+          "name": " L Foot",
+          "keyframes": 13
+        },
+        {
+          "name": " L Toe0",
+          "keyframes": 13
+        },
+        {
+          "name": " R Thigh",
+          "keyframes": 13
+        },
+        {
+          "name": " R Calf",
+          "keyframes": 13
+        },
+        {
+          "name": " R Foot",
+          "keyframes": 13
+        },
+        {
+          "name": " R Toe0",
+          "keyframes": 13
+        }
+      ]
+    },
+    {
+      "name": "PARA_steerL_O",
+      "bones": [
+        {
+          "name": "Para_Harness",
+          "keyframes": 13
+        },
+        {
+          "name": "Para_Canopy_M",
+          "keyframes": 13
+        },
+        {
+          "name": "Para_Canopy_MR1",
+          "keyframes": 13
+        },
+        {
+          "name": "Para_Canopy_MR2",
+          "keyframes": 13
+        },
+        {
+          "name": "Para_Canopy_MR3",
+          "keyframes": 13
+        },
+        {
+          "name": "Para_Canopy_ML1",
+          "keyframes": 13
+        },
+        {
+          "name": "Para_Canopy_ML2",
+          "keyframes": 13
+        },
+        {
+          "name": "Para_Canopy_ML3",
+          "keyframes": 13
+        },
+        {
+          "name": "Para_Canopy_F",
+          "keyframes": 13
+        },
+        {
+          "name": "Para_Canopy_FR1",
+          "keyframes": 13
+        },
+        {
+          "name": "Para_Canopy_FR2",
+          "keyframes": 13
+        },
+        {
+          "name": "Para_Canopy_FR3",
+          "keyframes": 13
+        },
+        {
+          "name": "Para_Canopy_FL1",
+          "keyframes": 13
+        },
+        {
+          "name": "Para_Canopy_FL2",
+          "keyframes": 13
+        },
+        {
+          "name": "Para_Canopy_FL3",
+          "keyframes": 13
+        },
+        {
+          "name": "Para_Canopy_B",
+          "keyframes": 13
+        },
+        {
+          "name": "Para_Canopy_BR1",
+          "keyframes": 13
+        },
+        {
+          "name": "Para_Canopy_BR2",
+          "keyframes": 13
+        },
+        {
+          "name": "Para_Canopy_BR3",
+          "keyframes": 13
+        },
+        {
+          "name": "Para_Canopy_BL1",
+          "keyframes": 13
+        },
+        {
+          "name": "Para_Canopy_BL2",
+          "keyframes": 13
+        },
+        {
+          "name": "Para_Canopy_BL3",
+          "keyframes": 13
+        },
+        {
+          "name": "Para_WireL",
+          "keyframes": 13
+        },
+        {
+          "name": "Para_WireR",
+          "keyframes": 13
+        },
+        {
+          "name": "Para_SliderR",
+          "keyframes": 13
+        },
+        {
+          "name": "Para_SteerR",
+          "keyframes": 13
+        },
+        {
+          "name": "Para_SliderL",
+          "keyframes": 13
+        },
+        {
+          "name": "Para_SteerL",
+          "keyframes": 13
+        },
+        {
+          "name": "Para_Harness_SpineTrace",
+          "keyframes": 13
+        },
+        {
+          "name": "Para_Harness_Spine",
+          "keyframes": 13
+        }
+      ]
+    },
+    {
+      "name": "PARA_steerR",
+      "bones": [
+        {
+          "name": "Normal",
+          "keyframes": 13
+        },
+        {
+          "name": " Pelvis",
+          "keyframes": 13
+        },
+        {
+          "name": " Spine",
+          "keyframes": 13
+        },
+        {
+          "name": " Spine1",
+          "keyframes": 13
+        },
+        {
+          "name": " Neck",
+          "keyframes": 13
+        },
+        {
+          "name": " Head",
+          "keyframes": 13
+        },
+        {
+          "name": "Bip01 L Clavicle",
+          "keyframes": 13
+        },
+        {
+          "name": " L UpperArm",
+          "keyframes": 13
+        },
+        {
+          "name": " L ForeArm",
+          "keyframes": 13
+        },
+        {
+          "name": " L Hand",
+          "keyframes": 13
+        },
+        {
+          "name": " L Finger",
+          "keyframes": 13
+        },
+        {
+          "name": "L Finger01",
+          "keyframes": 13
+        },
+        {
+          "name": "Bip01 R Clavicle",
+          "keyframes": 13
+        },
+        {
+          "name": " R UpperArm",
+          "keyframes": 13
+        },
+        {
+          "name": " R ForeArm",
+          "keyframes": 13
+        },
+        {
+          "name": " R Hand",
+          "keyframes": 13
+        },
+        {
+          "name": " R Finger",
+          "keyframes": 13
+        },
+        {
+          "name": "R Finger01",
+          "keyframes": 13
+        },
+        {
+          "name": " L Thigh",
+          "keyframes": 13
+        },
+        {
+          "name": " L Calf",
+          "keyframes": 13
+        },
+        {
+          "name": " L Foot",
+          "keyframes": 13
+        },
+        {
+          "name": " L Toe0",
+          "keyframes": 13
+        },
+        {
+          "name": " R Thigh",
+          "keyframes": 13
+        },
+        {
+          "name": " R Calf",
+          "keyframes": 13
+        },
+        {
+          "name": " R Foot",
+          "keyframes": 13
+        },
+        {
+          "name": " R Toe0",
+          "keyframes": 13
+        }
+      ]
+    },
+    {
+      "name": "PARA_steerR_O",
+      "bones": [
+        {
+          "name": "Para_Harness",
+          "keyframes": 13
+        },
+        {
+          "name": "Para_Canopy_M",
+          "keyframes": 13
+        },
+        {
+          "name": "Para_Canopy_MR1",
+          "keyframes": 13
+        },
+        {
+          "name": "Para_Canopy_MR2",
+          "keyframes": 13
+        },
+        {
+          "name": "Para_Canopy_MR3",
+          "keyframes": 13
+        },
+        {
+          "name": "Para_Canopy_ML1",
+          "keyframes": 13
+        },
+        {
+          "name": "Para_Canopy_ML2",
+          "keyframes": 13
+        },
+        {
+          "name": "Para_Canopy_ML3",
+          "keyframes": 13
+        },
+        {
+          "name": "Para_Canopy_F",
+          "keyframes": 13
+        },
+        {
+          "name": "Para_Canopy_FR1",
+          "keyframes": 13
+        },
+        {
+          "name": "Para_Canopy_FR2",
+          "keyframes": 13
+        },
+        {
+          "name": "Para_Canopy_FR3",
+          "keyframes": 13
+        },
+        {
+          "name": "Para_Canopy_FL1",
+          "keyframes": 13
+        },
+        {
+          "name": "Para_Canopy_FL2",
+          "keyframes": 13
+        },
+        {
+          "name": "Para_Canopy_FL3",
+          "keyframes": 13
+        },
+        {
+          "name": "Para_Canopy_B",
+          "keyframes": 13
+        },
+        {
+          "name": "Para_Canopy_BR1",
+          "keyframes": 13
+        },
+        {
+          "name": "Para_Canopy_BR2",
+          "keyframes": 13
+        },
+        {
+          "name": "Para_Canopy_BR3",
+          "keyframes": 13
+        },
+        {
+          "name": "Para_Canopy_BL1",
+          "keyframes": 13
+        },
+        {
+          "name": "Para_Canopy_BL2",
+          "keyframes": 13
+        },
+        {
+          "name": "Para_Canopy_BL3",
+          "keyframes": 13
+        },
+        {
+          "name": "Para_WireL",
+          "keyframes": 13
+        },
+        {
+          "name": "Para_WireR",
+          "keyframes": 13
+        },
+        {
+          "name": "Para_SliderR",
+          "keyframes": 13
+        },
+        {
+          "name": "Para_SteerR",
+          "keyframes": 13
+        },
+        {
+          "name": "Para_SliderL",
+          "keyframes": 13
+        },
+        {
+          "name": "Para_SteerL",
+          "keyframes": 13
+        },
+        {
+          "name": "Para_Harness_SpineTrace",
+          "keyframes": 13
+        },
+        {
+          "name": "Para_Harness_Spine",
+          "keyframes": 13
+        }
+      ]
+    }
+  ]
+}

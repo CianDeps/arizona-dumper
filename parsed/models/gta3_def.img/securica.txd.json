@@ -1,0 +1,47 @@
+{
+  "type": "txd",
+  "textures": [
+    {
+      "name": "securica92wheel64",
+      "width": 64,
+      "height": 64,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "securica92plate32",
+      "width": 32,
+      "height": 32,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "securica92mesh16",
+      "width": 32,
+      "height": 32,
+      "format": "DXT1",
+      "alpha": true
+    },
+    {
+      "name": "securica92interior128",
+      "width": 128,
+      "height": 128,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "securica92decal128",
+      "width": 128,
+      "height": 128,
+      "format": "DXT3",
+      "alpha": true
+    },
+    {
+      "name": "securica92box32",
+      "width": 32,
+      "height": 16,
+      "format": "DXT1",
+      "alpha": false
+    }
+  ]
+}

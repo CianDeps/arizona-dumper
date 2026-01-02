@@ -1,0 +1,75 @@
+{
+  "type": "txd",
+  "textures": [
+    {
+      "name": "solar_panel_1",
+      "width": 128,
+      "height": 128,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "rooftop_gz3",
+      "width": 128,
+      "height": 128,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "skylight_meshed",
+      "width": 128,
+      "height": 64,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "skylight_scum",
+      "width": 64,
+      "height": 64,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "mast_shadow_t",
+      "width": 128,
+      "height": 128,
+      "format": "DXT3",
+      "alpha": true
+    },
+    {
+      "name": "helipad_strutT",
+      "width": 128,
+      "height": 128,
+      "format": "DXT3",
+      "alpha": true
+    },
+    {
+      "name": "helipad_bits",
+      "width": 128,
+      "height": 128,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "airvent_shadowT_gz",
+      "width": 32,
+      "height": 32,
+      "format": "DXT3",
+      "alpha": true
+    },
+    {
+      "name": "helipad_leg",
+      "width": 64,
+      "height": 64,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "skylight_windows",
+      "width": 128,
+      "height": 128,
+      "format": "DXT1",
+      "alpha": false
+    }
+  ]
+}

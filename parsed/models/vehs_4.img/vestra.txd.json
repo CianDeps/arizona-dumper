@@ -1,0 +1,75 @@
+{
+  "type": "txd",
+  "textures": [
+    {
+      "name": "vestra_detail",
+      "width": 256,
+      "height": 256,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "vestra_doorshut",
+      "width": 256,
+      "height": 128,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "vestra_interior",
+      "width": 512,
+      "height": 512,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "vestra_interiordoor",
+      "width": 256,
+      "height": 256,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "vestra_glasswindows",
+      "width": 256,
+      "height": 256,
+      "format": "DXT1",
+      "alpha": true
+    },
+    {
+      "name": "vestra_interiorseathd",
+      "width": 512,
+      "height": 256,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "vestra_tyrewallblack",
+      "width": 256,
+      "height": 256,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "vestra_wad",
+      "width": 2048,
+      "height": 2048,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "vestra_wads",
+      "width": 2048,
+      "height": 2048,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "vestra_sign1",
+      "width": 256,
+      "height": 128,
+      "format": "DXT3",
+      "alpha": true
+    }
+  ]
+}

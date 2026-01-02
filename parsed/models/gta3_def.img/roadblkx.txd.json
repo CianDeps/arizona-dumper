@@ -1,0 +1,40 @@
+{
+  "type": "txd",
+  "textures": [
+    {
+      "name": "yellow_64",
+      "width": 64,
+      "height": 64,
+      "format": "DXT5",
+      "alpha": true
+    },
+    {
+      "name": "warnsigns2",
+      "width": 128,
+      "height": 128,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "warnsigns1",
+      "width": 128,
+      "height": 128,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "sw_sand",
+      "width": 128,
+      "height": 128,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "BLOCK",
+      "width": 128,
+      "height": 64,
+      "format": "DXT1",
+      "alpha": false
+    }
+  ]
+}

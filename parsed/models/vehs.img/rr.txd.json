@@ -1,0 +1,243 @@
+{
+  "type": "txd",
+  "textures": [
+    {
+      "name": "rr_steer",
+      "width": 256,
+      "height": 256,
+      "format": "DXT1",
+      "alpha": true
+    },
+    {
+      "name": "rr_steklo",
+      "width": 8,
+      "height": 8,
+      "format": "DXT1",
+      "alpha": true
+    },
+    {
+      "name": "rr_t_disk_1",
+      "width": 128,
+      "height": 128,
+      "format": "DXT1",
+      "alpha": true
+    },
+    {
+      "name": "rr_WheelBMP",
+      "width": 256,
+      "height": 256,
+      "format": "DXT1",
+      "alpha": true
+    },
+    {
+      "name": "rr_WindsMaskOPC",
+      "width": 128,
+      "height": 128,
+      "format": "DXT1",
+      "alpha": true
+    },
+    {
+      "name": "rr_bleth3",
+      "width": 8,
+      "height": 8,
+      "format": "DXT1",
+      "alpha": true
+    },
+    {
+      "name": "rr_bonnet",
+      "width": 1024,
+      "height": 512,
+      "format": "DXT1",
+      "alpha": true
+    },
+    {
+      "name": "rr_bridgestone",
+      "width": 512,
+      "height": 512,
+      "format": "DXT1",
+      "alpha": true
+    },
+    {
+      "name": "rr_CarpetBMP",
+      "width": 256,
+      "height": 256,
+      "format": "DXT1",
+      "alpha": true
+    },
+    {
+      "name": "rr_CarpetDFS",
+      "width": 256,
+      "height": 256,
+      "format": "DXT1",
+      "alpha": true
+    },
+    {
+      "name": "rr_Diss",
+      "width": 1024,
+      "height": 512,
+      "format": "DXT1",
+      "alpha": true
+    },
+    {
+      "name": "rr_door",
+      "width": 512,
+      "height": 256,
+      "format": "DXT1",
+      "alpha": true
+    },
+    {
+      "name": "rr_engine",
+      "width": 512,
+      "height": 256,
+      "format": "DXT1",
+      "alpha": true
+    },
+    {
+      "name": "rr_ExteriorOST",
+      "width": 512,
+      "height": 512,
+      "format": "DXT1",
+      "alpha": true
+    },
+    {
+      "name": "rr_fabric_16s",
+      "width": 256,
+      "height": 128,
+      "format": "DXT1",
+      "alpha": true
+    },
+    {
+      "name": "rr_InteriorBMP",
+      "width": 512,
+      "height": 512,
+      "format": "DXT1",
+      "alpha": true
+    },
+    {
+      "name": "rr_InteriorDFS",
+      "width": 512,
+      "height": 512,
+      "format": "DXT1",
+      "alpha": true
+    },
+    {
+      "name": "rr_leather",
+      "width": 32,
+      "height": 32,
+      "format": "DXT1",
+      "alpha": true
+    },
+    {
+      "name": "rr_Leather_dark",
+      "width": 256,
+      "height": 256,
+      "format": "DXT1",
+      "alpha": true
+    },
+    {
+      "name": "rr_LeatherBMP",
+      "width": 128,
+      "height": 128,
+      "format": "DXT1",
+      "alpha": true
+    },
+    {
+      "name": "rr_LightsDFS",
+      "width": 256,
+      "height": 256,
+      "format": "DXT1",
+      "alpha": true
+    },
+    {
+      "name": "rr_plastik",
+      "width": 128,
+      "height": 128,
+      "format": "DXT1",
+      "alpha": true
+    },
+    {
+      "name": "rr_RadiatorDFS",
+      "width": 256,
+      "height": 128,
+      "format": "DXT1",
+      "alpha": true
+    },
+    {
+      "name": "rr_resh",
+      "width": 128,
+      "height": 64,
+      "format": "DXT1",
+      "alpha": true
+    },
+    {
+      "name": "rr_RoofBMP",
+      "width": 128,
+      "height": 128,
+      "format": "DXT1",
+      "alpha": true
+    },
+    {
+      "name": "rr_SeatBeltDFS",
+      "width": 128,
+      "height": 128,
+      "format": "DXT1",
+      "alpha": true
+    },
+    {
+      "name": "rr_wad",
+      "width": 128,
+      "height": 128,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "rr_wdor_f",
+      "width": 64,
+      "height": 64,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "rr_wdor_r",
+      "width": 64,
+      "height": 64,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "rr_wnd",
+      "width": 64,
+      "height": 64,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "rr_wnd_rr",
+      "width": 64,
+      "height": 64,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "rr_wndfrl",
+      "width": 64,
+      "height": 64,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "rr_wndrrl",
+      "width": 64,
+      "height": 64,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "rr_wsup",
+      "width": 64,
+      "height": 64,
+      "format": "DXT1",
+      "alpha": false
+    }
+  ]
+}

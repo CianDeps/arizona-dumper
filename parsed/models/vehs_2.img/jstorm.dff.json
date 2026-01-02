@@ -1,0 +1,175 @@
+{
+  "type": "dff",
+  "version": "RenderWare 3.6.0.3 (SA)",
+  "modelType": 2,
+  "geometries": [
+    {
+      "index": 0,
+      "vertices": 9155,
+      "triangles": 13473,
+      "materials": [
+        {
+          "color": {
+            "r": 255,
+            "g": 255,
+            "b": 255,
+            "a": 255
+          },
+          "texture": null
+        },
+        {
+          "color": {
+            "r": 204,
+            "g": 204,
+            "b": 204,
+            "a": 255
+          },
+          "texture": null
+        },
+        {
+          "color": {
+            "r": 204,
+            "g": 204,
+            "b": 204,
+            "a": 255
+          },
+          "texture": null
+        },
+        {
+          "color": {
+            "r": 0,
+            "g": 255,
+            "b": 200,
+            "a": 255
+          },
+          "texture": null
+        }
+      ]
+    },
+    {
+      "index": 1,
+      "vertices": 62,
+      "triangles": 46,
+      "materials": [
+        {
+          "color": {
+            "r": 255,
+            "g": 255,
+            "b": 255,
+            "a": 255
+          },
+          "texture": null
+        },
+        {
+          "color": {
+            "r": 204,
+            "g": 204,
+            "b": 204,
+            "a": 255
+          },
+          "texture": null
+        },
+        {
+          "color": {
+            "r": 204,
+            "g": 204,
+            "b": 204,
+            "a": 255
+          },
+          "texture": null
+        },
+        {
+          "color": {
+            "r": 255,
+            "g": 60,
+            "b": 0,
+            "a": 255
+          },
+          "texture": null
+        }
+      ]
+    },
+    {
+      "index": 2,
+      "vertices": 517,
+      "triangles": 406,
+      "materials": [
+        {
+          "color": {
+            "r": 255,
+            "g": 255,
+            "b": 255,
+            "a": 255
+          },
+          "texture": null
+        },
+        {
+          "color": {
+            "r": 0,
+            "g": 255,
+            "b": 200,
+            "a": 255
+          },
+          "texture": null
+        },
+        {
+          "color": {
+            "r": 255,
+            "g": 60,
+            "b": 0,
+            "a": 255
+          },
+          "texture": null
+        }
+      ]
+    },
+    {
+      "index": 3,
+      "vertices": 1983,
+      "triangles": 2976,
+      "materials": [
+        {
+          "color": {
+            "r": 255,
+            "g": 255,
+            "b": 255,
+            "a": 255
+          },
+          "texture": null
+        }
+      ]
+    }
+  ],
+  "frames": 29,
+  "dummies": [
+    "Bullet",
+    "taillights",
+    "headlights",
+    "chassis_dummy",
+    "bonnet_dummy",
+    "windscreen_dummy",
+    "door_lf_dummy",
+    "chassis",
+    "door_rf_dummy",
+    "bump_rear_dummy",
+    "bump_front_dummy",
+    "tlght_generic_r1",
+    "chassis",
+    "tlght_generic_r2",
+    "chassis_vlo",
+    "taillights2",
+    "headlights2",
+    "wheel_lb_dummy",
+    "wheel_lf_dummy",
+    "wheel_rb_dummy",
+    "wheel_rf_dummy",
+    "wheel",
+    "petrolcap",
+    "ped_frontseat",
+    "exhaust",
+    "engine",
+    "carback_lg",
+    "carback",
+    "brake_caliper"
+  ]
+}

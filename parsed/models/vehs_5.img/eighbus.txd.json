@@ -1,0 +1,82 @@
+{
+  "type": "txd",
+  "textures": [
+    {
+      "name": "eighbus_interior",
+      "width": 128,
+      "height": 128,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "eighbus_int",
+      "width": 64,
+      "height": 128,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "eighbus_wheel",
+      "width": 64,
+      "height": 64,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "eighbus_vehiclegeneric",
+      "width": 256,
+      "height": 256,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "eighbus_vehiclesteering",
+      "width": 128,
+      "height": 128,
+      "format": "DXT3",
+      "alpha": true
+    },
+    {
+      "name": "eighbus_grill",
+      "width": 64,
+      "height": 64,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "eighbus_vehicletyres",
+      "width": 64,
+      "height": 128,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "eighbus_wad",
+      "width": 64,
+      "height": 32,
+      "format": "DXT3",
+      "alpha": true
+    },
+    {
+      "name": "eighbus_grille",
+      "width": 128,
+      "height": 128,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "eighbus_wrap1",
+      "width": 1024,
+      "height": 512,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "eighbus_wrap2",
+      "width": 1024,
+      "height": 512,
+      "format": "DXT1",
+      "alpha": false
+    }
+  ]
+}

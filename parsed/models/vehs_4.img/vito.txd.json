@@ -1,0 +1,26 @@
+{
+  "type": "txd",
+  "textures": [
+    {
+      "name": "vito_badges",
+      "width": 512,
+      "height": 256,
+      "format": "DXT5",
+      "alpha": true
+    },
+    {
+      "name": "vito_wheel",
+      "width": 512,
+      "height": 512,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "vito_int",
+      "width": 1024,
+      "height": 1024,
+      "format": "DXT1",
+      "alpha": false
+    }
+  ]
+}

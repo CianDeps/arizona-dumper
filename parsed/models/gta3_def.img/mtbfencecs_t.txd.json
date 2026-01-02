@@ -1,0 +1,54 @@
+{
+  "type": "txd",
+  "textures": [
+    {
+      "name": "desbarlas",
+      "width": 128,
+      "height": 64,
+      "format": "DXT1",
+      "alpha": true
+    },
+    {
+      "name": "Metal1_128",
+      "width": 128,
+      "height": 128,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "ws_scaffoldscreen",
+      "width": 256,
+      "height": 256,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "steel256256",
+      "width": 256,
+      "height": 256,
+      "format": "DXT3",
+      "alpha": true
+    },
+    {
+      "name": "plasfence2_256",
+      "width": 256,
+      "height": 256,
+      "format": "DXT3",
+      "alpha": true
+    },
+    {
+      "name": "telepole2128",
+      "width": 128,
+      "height": 128,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "plasfence1_256",
+      "width": 256,
+      "height": 256,
+      "format": "DXT3",
+      "alpha": true
+    }
+  ]
+}

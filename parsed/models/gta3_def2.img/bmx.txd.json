@@ -1,0 +1,33 @@
+{
+  "type": "txd",
+  "textures": [
+    {
+      "name": "bmxwheel",
+      "width": 64,
+      "height": 64,
+      "format": "DXT1",
+      "alpha": true
+    },
+    {
+      "name": "bmxtexpage",
+      "width": 64,
+      "height": 64,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "bmxdetail",
+      "width": 32,
+      "height": 32,
+      "format": "DXT3",
+      "alpha": true
+    },
+    {
+      "name": "chrome",
+      "width": 256,
+      "height": 256,
+      "format": "DXT1",
+      "alpha": false
+    }
+  ]
+}

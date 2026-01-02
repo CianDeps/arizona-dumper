@@ -1,0 +1,73 @@
+{
+  "type": "dff",
+  "version": "RenderWare 3.6.0.3 (SA)",
+  "modelType": 2,
+  "geometries": [
+    {
+      "index": 0,
+      "vertices": 1332,
+      "triangles": 1618,
+      "materials": [
+        {
+          "color": {
+            "r": 255,
+            "g": 255,
+            "b": 255,
+            "a": 255
+          },
+          "texture": null
+        }
+      ]
+    },
+    {
+      "index": 1,
+      "vertices": 793,
+      "triangles": 954,
+      "materials": [
+        {
+          "color": {
+            "r": 255,
+            "g": 255,
+            "b": 255,
+            "a": 255
+          },
+          "texture": null
+        }
+      ]
+    },
+    {
+      "index": 2,
+      "vertices": 1060,
+      "triangles": 380,
+      "materials": [
+        {
+          "color": {
+            "r": 255,
+            "g": 255,
+            "b": 255,
+            "a": 255
+          },
+          "texture": null
+        }
+      ]
+    }
+  ],
+  "frames": 15,
+  "dummies": [
+    "smwkad",
+    "chassis_dummy",
+    "h",
+    "chassis",
+    "h2",
+    "handlebars",
+    "wheel_rf_dummy",
+    "wheel_lf_dummy",
+    "wheel_lb_dummy",
+    "wheel_rb_dummy",
+    "taillights",
+    "exhaust",
+    "ped_frontseat",
+    "headlights",
+    "chassis_vlo"
+  ]
+}

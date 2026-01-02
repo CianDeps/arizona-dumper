@@ -1,0 +1,33 @@
+{
+  "type": "txd",
+  "textures": [
+    {
+      "name": "tvcorn",
+      "width": 256,
+      "height": 256,
+      "format": "DXT3",
+      "alpha": true
+    },
+    {
+      "name": "tvbase",
+      "width": 256,
+      "height": 16,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "blkdot",
+      "width": 4,
+      "height": 4,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "AirLogo",
+      "width": 256,
+      "height": 128,
+      "format": "DXT1",
+      "alpha": false
+    }
+  ]
+}

@@ -1,0 +1,523 @@
+{
+  "type": "txd",
+  "textures": [
+    {
+      "name": "wad1",
+      "width": 1024,
+      "height": 1024,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "wad2",
+      "width": 1024,
+      "height": 1024,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "wad3",
+      "width": 1024,
+      "height": 1024,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "wad4",
+      "width": 1024,
+      "height": 1024,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "wad5",
+      "width": 1024,
+      "height": 1024,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "wad6",
+      "width": 1024,
+      "height": 1024,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "wad7",
+      "width": 1024,
+      "height": 1024,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "karbon",
+      "width": 1024,
+      "height": 1024,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "white",
+      "width": 64,
+      "height": 64,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "wad8",
+      "width": 1024,
+      "height": 1024,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "wad9",
+      "width": 1024,
+      "height": 1024,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "wad10",
+      "width": 1024,
+      "height": 1024,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "wad11",
+      "width": 1024,
+      "height": 1024,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "wad12",
+      "width": 1024,
+      "height": 1024,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "wad13",
+      "width": 1024,
+      "height": 1024,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "wad14",
+      "width": 1024,
+      "height": 1024,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "wad15",
+      "width": 1024,
+      "height": 1024,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "wad16",
+      "width": 1024,
+      "height": 1024,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "wad17",
+      "width": 1024,
+      "height": 1024,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "fire_8years",
+      "width": 1024,
+      "height": 1024,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "eagle_8years",
+      "width": 1024,
+      "height": 1024,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "blue_8years",
+      "width": 1024,
+      "height": 1024,
+      "format": "DXT1",
+      "alpha": true
+    },
+    {
+      "name": "wad18",
+      "width": 1024,
+      "height": 1024,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "wad19",
+      "width": 1024,
+      "height": 1024,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "wad_lveneno_rick",
+      "width": 1024,
+      "height": 1024,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "wad_chevrolet_shrek",
+      "width": 1024,
+      "height": 1024,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "wad20",
+      "width": 1024,
+      "height": 1024,
+      "format": "DXT1",
+      "alpha": true
+    },
+    {
+      "name": "lights_smile",
+      "width": 256,
+      "height": 256,
+      "format": "\u0015",
+      "alpha": false
+    },
+    {
+      "name": "lights_admin",
+      "width": 256,
+      "height": 256,
+      "format": "\u0015",
+      "alpha": false
+    },
+    {
+      "name": "lights_anime",
+      "width": 256,
+      "height": 256,
+      "format": "\u0015",
+      "alpha": false
+    },
+    {
+      "name": "lights_azcoin",
+      "width": 256,
+      "height": 256,
+      "format": "\u0015",
+      "alpha": false
+    },
+    {
+      "name": "lights_azlogo",
+      "width": 256,
+      "height": 256,
+      "format": "\u0015",
+      "alpha": false
+    },
+    {
+      "name": "lights_bitcoin",
+      "width": 256,
+      "height": 256,
+      "format": "\u0015",
+      "alpha": false
+    },
+    {
+      "name": "lights_bomj",
+      "width": 256,
+      "height": 256,
+      "format": "\u0015",
+      "alpha": false
+    },
+    {
+      "name": "lights_cj",
+      "width": 256,
+      "height": 256,
+      "format": "\u0015",
+      "alpha": false
+    },
+    {
+      "name": "lights_crown",
+      "width": 256,
+      "height": 256,
+      "format": "\u0015",
+      "alpha": false
+    },
+    {
+      "name": "lights_dollars",
+      "width": 256,
+      "height": 256,
+      "format": "\u0015",
+      "alpha": false
+    },
+    {
+      "name": "lights_farm",
+      "width": 256,
+      "height": 256,
+      "format": "\u0015",
+      "alpha": false
+    },
+    {
+      "name": "lights_fire",
+      "width": 256,
+      "height": 256,
+      "format": "\u0015",
+      "alpha": false
+    },
+    {
+      "name": "lights_gonot",
+      "width": 256,
+      "height": 256,
+      "format": "\u0015",
+      "alpha": false
+    },
+    {
+      "name": "lights_joker",
+      "width": 256,
+      "height": 256,
+      "format": "\u0015",
+      "alpha": false
+    },
+    {
+      "name": "lights_mahinator",
+      "width": 256,
+      "height": 256,
+      "format": "\u0015",
+      "alpha": false
+    },
+    {
+      "name": "lights_snowball",
+      "width": 256,
+      "height": 256,
+      "format": "\u0015",
+      "alpha": false
+    },
+    {
+      "name": "lights_stop",
+      "width": 256,
+      "height": 256,
+      "format": "\u0015",
+      "alpha": false
+    },
+    {
+      "name": "lights_vampire",
+      "width": 256,
+      "height": 256,
+      "format": "\u0015",
+      "alpha": false
+    },
+    {
+      "name": "lights_vip",
+      "width": 256,
+      "height": 256,
+      "format": "\u0015",
+      "alpha": false
+    },
+    {
+      "name": "lights_anime_eyes_1",
+      "width": 256,
+      "height": 256,
+      "format": "\u0015",
+      "alpha": false
+    },
+    {
+      "name": "lights_anime_eyes_2",
+      "width": 256,
+      "height": 256,
+      "format": "\u0015",
+      "alpha": false
+    },
+    {
+      "name": "lights_anime_eyes_3",
+      "width": 256,
+      "height": 256,
+      "format": "\u0015",
+      "alpha": false
+    },
+    {
+      "name": "lights_cryptan",
+      "width": 256,
+      "height": 256,
+      "format": "\u0015",
+      "alpha": false
+    },
+    {
+      "name": "lights_crypto",
+      "width": 256,
+      "height": 256,
+      "format": "\u0015",
+      "alpha": false
+    },
+    {
+      "name": "lights_fortnite",
+      "width": 256,
+      "height": 256,
+      "format": "\u0015",
+      "alpha": false
+    },
+    {
+      "name": "lights_griffer",
+      "width": 256,
+      "height": 256,
+      "format": "\u0015",
+      "alpha": false
+    },
+    {
+      "name": "lights_marvel",
+      "width": 256,
+      "height": 256,
+      "format": "\u0015",
+      "alpha": false
+    },
+    {
+      "name": "lights_police",
+      "width": 256,
+      "height": 256,
+      "format": "\u0015",
+      "alpha": false
+    },
+    {
+      "name": "lights_sign_deer",
+      "width": 256,
+      "height": 256,
+      "format": "\u0015",
+      "alpha": false
+    },
+    {
+      "name": "bkrr79_wad2",
+      "width": 1024,
+      "height": 1024,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "bkrr79_wad1",
+      "width": 1024,
+      "height": 1024,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "cbelair_wad1",
+      "width": 1024,
+      "height": 1024,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "cbelair_wad2",
+      "width": 1024,
+      "height": 1024,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "cdeville_wad1",
+      "width": 1024,
+      "height": 1024,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "cdeville_wad2",
+      "width": 1024,
+      "height": 1024,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "chevmc78_wad1",
+      "width": 1024,
+      "height": 1024,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "chevmc78_wad2",
+      "width": 1024,
+      "height": 1024,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "gnx_wad1",
+      "width": 1024,
+      "height": 1024,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "gnx_wad2",
+      "width": 1024,
+      "height": 1024,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "light_cosmos_1",
+      "width": 256,
+      "height": 256,
+      "format": "\u0015",
+      "alpha": false
+    },
+    {
+      "name": "light_cosmos_2",
+      "width": 256,
+      "height": 256,
+      "format": "\u0015",
+      "alpha": false
+    },
+    {
+      "name": "light_cosmos_3",
+      "width": 256,
+      "height": 256,
+      "format": "\u0015",
+      "alpha": false
+    },
+    {
+      "name": "light_cosmos_4",
+      "width": 256,
+      "height": 256,
+      "format": "\u0015",
+      "alpha": false
+    },
+    {
+      "name": "light_cosmos_5",
+      "width": 256,
+      "height": 256,
+      "format": "\u0015",
+      "alpha": false
+    },
+    {
+      "name": "shatter1",
+      "width": 1024,
+      "height": 1024,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "bmwi8glen_body",
+      "width": 1024,
+      "height": 1024,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "wad_glent",
+      "width": 1024,
+      "height": 1024,
+      "format": "DXT1",
+      "alpha": false
+    }
+  ]
+}

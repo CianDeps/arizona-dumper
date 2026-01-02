@@ -1,0 +1,221 @@
+{
+  "type": "dff",
+  "version": "RenderWare 3.6.0.3 (SA)",
+  "modelType": 2,
+  "geometries": [
+    {
+      "index": 0,
+      "vertices": 2182,
+      "triangles": 1752,
+      "materials": [
+        {
+          "color": {
+            "r": 255,
+            "g": 255,
+            "b": 255,
+            "a": 255
+          },
+          "texture": null
+        },
+        {
+          "color": {
+            "r": 255,
+            "g": 255,
+            "b": 255,
+            "a": 250
+          },
+          "texture": null
+        },
+        {
+          "color": {
+            "r": 255,
+            "g": 255,
+            "b": 255,
+            "a": 255
+          },
+          "texture": null
+        },
+        {
+          "color": {
+            "r": 255,
+            "g": 255,
+            "b": 255,
+            "a": 255
+          },
+          "texture": null
+        }
+      ]
+    },
+    {
+      "index": 1,
+      "vertices": 223,
+      "triangles": 190,
+      "materials": [
+        {
+          "color": {
+            "r": 255,
+            "g": 255,
+            "b": 255,
+            "a": 255
+          },
+          "texture": null
+        },
+        {
+          "color": {
+            "r": 255,
+            "g": 255,
+            "b": 255,
+            "a": 102
+          },
+          "texture": null
+        }
+      ]
+    },
+    {
+      "index": 2,
+      "vertices": 176,
+      "triangles": 88,
+      "materials": [
+        {
+          "color": {
+            "r": 255,
+            "g": 255,
+            "b": 255,
+            "a": 255
+          },
+          "texture": null
+        }
+      ]
+    },
+    {
+      "index": 3,
+      "vertices": 192,
+      "triangles": 88,
+      "materials": [
+        {
+          "color": {
+            "r": 255,
+            "g": 255,
+            "b": 255,
+            "a": 255
+          },
+          "texture": null
+        }
+      ]
+    },
+    {
+      "index": 4,
+      "vertices": 13,
+      "triangles": 8,
+      "materials": [
+        {
+          "color": {
+            "r": 255,
+            "g": 255,
+            "b": 255,
+            "a": 250
+          },
+          "texture": null
+        }
+      ]
+    },
+    {
+      "index": 5,
+      "vertices": 140,
+      "triangles": 80,
+      "materials": [
+        {
+          "color": {
+            "r": 255,
+            "g": 255,
+            "b": 255,
+            "a": 255
+          },
+          "texture": null
+        },
+        {
+          "color": {
+            "r": 255,
+            "g": 255,
+            "b": 255,
+            "a": 250
+          },
+          "texture": null
+        }
+      ]
+    },
+    {
+      "index": 6,
+      "vertices": 362,
+      "triangles": 200,
+      "materials": [
+        {
+          "color": {
+            "r": 255,
+            "g": 255,
+            "b": 255,
+            "a": 255
+          },
+          "texture": null
+        },
+        {
+          "color": {
+            "r": 255,
+            "g": 255,
+            "b": 255,
+            "a": 255
+          },
+          "texture": null
+        },
+        {
+          "color": {
+            "r": 255,
+            "g": 255,
+            "b": 255,
+            "a": 255
+          },
+          "texture": null
+        }
+      ]
+    },
+    {
+      "index": 7,
+      "vertices": 42,
+      "triangles": 48,
+      "materials": [
+        {
+          "color": {
+            "r": 255,
+            "g": 255,
+            "b": 255,
+            "a": 255
+          },
+          "texture": null
+        }
+      ]
+    }
+  ],
+  "frames": 20,
+  "dummies": [
+    "hunter",
+    "chassis_dummy",
+    "headlights",
+    "ped_frontseat",
+    "taillights",
+    "wheel_lb_dummy",
+    "wheel_lf_dummy",
+    "wheel_rb_dummy",
+    "wheel_rf_dummy",
+    "wheel",
+    "chassis",
+    "door_lf_dummy",
+    "static_rotor",
+    "static_rotor2",
+    "moving_rotor2",
+    "moving_rotor",
+    "chassis_vlo",
+    "door_lf_ok",
+    "Omni01",
+    "Omni02"
+  ]
+}

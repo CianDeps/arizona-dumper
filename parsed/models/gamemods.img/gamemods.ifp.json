@@ -1,0 +1,1324 @@
+{
+  "type": "ifp",
+  "name": "gamemods",
+  "version": 0,
+  "animations": [
+    {
+      "name": "obj50_fantasyaet_1",
+      "bones": [
+        {
+          "name": "obj50_fantasyaet_2",
+          "keyframes": 3
+        },
+        {
+          "name": "obj50_fantasyaet_3",
+          "keyframes": 3
+        }
+      ]
+    },
+    {
+      "name": "obj39_h_sign_1",
+      "bones": [
+        {
+          "name": "obj39_h_sign_1B",
+          "keyframes": 3
+        }
+      ]
+    },
+    {
+      "name": "obj39_h_skelet",
+      "bones": [
+        {
+          "name": "obj39_h_skeletB2",
+          "keyframes": 5
+        },
+        {
+          "name": "obj39_h_skeletB1",
+          "keyframes": 5
+        }
+      ]
+    },
+    {
+      "name": "obj39_h_coffin",
+      "bones": [
+        {
+          "name": "obj39_h_coffin_B2",
+          "keyframes": 6
+        },
+        {
+          "name": "obj39_h_coffin_B3",
+          "keyframes": 6
+        },
+        {
+          "name": "obj39_h_coffin_B1",
+          "keyframes": 4
+        }
+      ]
+    },
+    {
+      "name": "obj52_decorwindmill",
+      "bones": [
+        {
+          "name": "Rotate",
+          "keyframes": 3
+        }
+      ]
+    },
+    {
+      "name": "obj52_cock_23",
+      "bones": [
+        {
+          "name": "chicken",
+          "keyframes": 5
+        }
+      ]
+    },
+    {
+      "name": "obj41_chest_base_1",
+      "bones": [
+        {
+          "name": "obj41_chest_lid_1",
+          "keyframes": 4
+        }
+      ]
+    },
+    {
+      "name": "obj41_nutcrack_1",
+      "bones": [
+        {
+          "name": "obj41_nutcrack_2",
+          "keyframes": 3
+        },
+        {
+          "name": "obj41_nutcrack_3",
+          "keyframes": 3
+        }
+      ]
+    },
+    {
+      "name": "obj41_carousel_1",
+      "bones": [
+        {
+          "name": "obj41_carousel_2",
+          "keyframes": 5
+        },
+        {
+          "name": "obj41_carousel_3",
+          "keyframes": 5
+        },
+        {
+          "name": "obj41_carousel_4",
+          "keyframes": 5
+        }
+      ]
+    },
+    {
+      "name": "obj41_globe_base",
+      "bones": [
+        {
+          "name": "obj41_globe_ef_1",
+          "keyframes": 3
+        }
+      ]
+    },
+    {
+      "name": "obj54_houseturrel",
+      "bones": [
+        {
+          "name": "rotate",
+          "keyframes": 5
+        }
+      ]
+    },
+    {
+      "name": "obj55_demonghost",
+      "bones": [
+        {
+          "name": "1",
+          "keyframes": 3
+        }
+      ]
+    },
+    {
+      "name": "obj55_pothalloween",
+      "bones": [
+        {
+          "name": "1",
+          "keyframes": 3
+        },
+        {
+          "name": "2",
+          "keyframes": 3
+        },
+        {
+          "name": "3",
+          "keyframes": 3
+        }
+      ]
+    },
+    {
+      "name": "obj55_skeletonlego",
+      "bones": [
+        {
+          "name": "rotate",
+          "keyframes": 5
+        }
+      ]
+    },
+    {
+      "name": "exclamation",
+      "bones": [
+        {
+          "name": "1",
+          "keyframes": 5
+        }
+      ]
+    },
+    {
+      "name": "obj59_rickportal",
+      "bones": [
+        {
+          "name": "1",
+          "keyframes": 3
+        },
+        {
+          "name": "2",
+          "keyframes": 3
+        },
+        {
+          "name": "3",
+          "keyframes": 3
+        }
+      ]
+    },
+    {
+      "name": "obj59_headportal",
+      "bones": [
+        {
+          "name": "1",
+          "keyframes": 3
+        }
+      ]
+    },
+    {
+      "name": "obj59_carousel",
+      "bones": [
+        {
+          "name": "2",
+          "keyframes": 3
+        }
+      ]
+    },
+    {
+      "name": "obj61a_carshield",
+      "bones": [
+        {
+          "name": "1",
+          "keyframes": 3
+        },
+        {
+          "name": "2",
+          "keyframes": 3
+        }
+      ]
+    },
+    {
+      "name": "obj63a_whole",
+      "bones": [
+        {
+          "name": "hole",
+          "keyframes": 3
+        }
+      ]
+    },
+    {
+      "name": "obj63a_ufocat",
+      "bones": [
+        {
+          "name": "1",
+          "keyframes": 3
+        },
+        {
+          "name": "ufo",
+          "keyframes": 3
+        }
+      ]
+    },
+    {
+      "name": "obj63a_galaxy",
+      "bones": [
+        {
+          "name": "3",
+          "keyframes": 4
+        },
+        {
+          "name": "1",
+          "keyframes": 4
+        },
+        {
+          "name": "4",
+          "keyframes": 4
+        }
+      ]
+    },
+    {
+      "name": "obj63a_obs",
+      "bones": [
+        {
+          "name": "r1",
+          "keyframes": 4
+        },
+        {
+          "name": "g1",
+          "keyframes": 5
+        },
+        {
+          "name": "g2",
+          "keyframes": 5
+        },
+        {
+          "name": "ts",
+          "keyframes": 5
+        }
+      ]
+    },
+    {
+      "name": "obj63a_darkhole",
+      "bones": [
+        {
+          "name": "r1",
+          "keyframes": 3
+        }
+      ]
+    },
+    {
+      "name": "obj65a_mechrab",
+      "bones": [
+        {
+          "name": "1",
+          "keyframes": 3
+        }
+      ]
+    },
+    {
+      "name": "obj65_holo_egg",
+      "bones": [
+        {
+          "name": "2",
+          "keyframes": 3
+        }
+      ]
+    },
+    {
+      "name": "obj65a_aura",
+      "bones": [
+        {
+          "name": "1",
+          "keyframes": 3
+        },
+        {
+          "name": "2",
+          "keyframes": 3
+        },
+        {
+          "name": "3",
+          "keyframes": 3
+        }
+      ]
+    },
+    {
+      "name": "mb_asteroid_1",
+      "bones": [
+        {
+          "name": "mb_asteroid_1_1",
+          "keyframes": 3
+        },
+        {
+          "name": "mb_asteroid_1_2",
+          "keyframes": 3
+        },
+        {
+          "name": "mb_asteroid_2_1",
+          "keyframes": 3
+        },
+        {
+          "name": "mb_asteroid_2_2",
+          "keyframes": 3
+        },
+        {
+          "name": "mb_asteroid_3_1",
+          "keyframes": 3
+        },
+        {
+          "name": "mb_asteroid_3_2",
+          "keyframes": 3
+        }
+      ]
+    },
+    {
+      "name": "mb_portal_1",
+      "bones": [
+        {
+          "name": "mb_portal_1",
+          "keyframes": 3
+        }
+      ]
+    },
+    {
+      "name": "obj71_ray",
+      "bones": [
+        {
+          "name": "1",
+          "keyframes": 3
+        }
+      ]
+    },
+    {
+      "name": "obj71a_gravity",
+      "bones": [
+        {
+          "name": "1",
+          "keyframes": 3
+        },
+        {
+          "name": "2",
+          "keyframes": 7
+        },
+        {
+          "name": "3",
+          "keyframes": 7
+        },
+        {
+          "name": "4",
+          "keyframes": 7
+        },
+        {
+          "name": "5",
+          "keyframes": 3
+        }
+      ]
+    },
+    {
+      "name": "obj71a_hole",
+      "bones": [
+        {
+          "name": "1",
+          "keyframes": 3
+        }
+      ]
+    },
+    {
+      "name": "obj71a_truck",
+      "bones": [
+        {
+          "name": "1",
+          "keyframes": 3
+        }
+      ]
+    },
+    {
+      "name": "obj71a_blavka",
+      "bones": [
+        {
+          "name": "1",
+          "keyframes": 9
+        }
+      ]
+    },
+    {
+      "name": "obj75a_uniquebox1",
+      "bones": [
+        {
+          "name": "2",
+          "keyframes": 3
+        }
+      ]
+    },
+    {
+      "name": "obj75a_ordinarybox1",
+      "bones": [
+        {
+          "name": "222",
+          "keyframes": 3
+        }
+      ]
+    },
+    {
+      "name": "obj75a_legendbox1",
+      "bones": [
+        {
+          "name": "2222",
+          "keyframes": 3
+        }
+      ]
+    },
+    {
+      "name": "obj75a_rarebox1",
+      "bones": [
+        {
+          "name": "22",
+          "keyframes": 3
+        }
+      ]
+    },
+    {
+      "name": "obj75a_ghostfly",
+      "bones": [
+        {
+          "name": "2",
+          "keyframes": 3
+        },
+        {
+          "name": "3",
+          "keyframes": 3
+        },
+        {
+          "name": "4",
+          "keyframes": 3
+        }
+      ]
+    },
+    {
+      "name": "obj75a_ghost",
+      "bones": [
+        {
+          "name": "1",
+          "keyframes": 3
+        }
+      ]
+    },
+    {
+      "name": "obj75a_eye",
+      "bones": [
+        {
+          "name": "1",
+          "keyframes": 3
+        },
+        {
+          "name": "2",
+          "keyframes": 3
+        },
+        {
+          "name": "3",
+          "keyframes": 5
+        }
+      ]
+    },
+    {
+      "name": "obj75a_ballas",
+      "bones": [
+        {
+          "name": "1",
+          "keyframes": 3
+        }
+      ]
+    },
+    {
+      "name": "obj75a_pumpkin",
+      "bones": [
+        {
+          "name": "2",
+          "keyframes": 3
+        },
+        {
+          "name": "3",
+          "keyframes": 3
+        }
+      ]
+    },
+    {
+      "name": "obj75a_guillotine",
+      "bones": [
+        {
+          "name": "2",
+          "keyframes": 3
+        }
+      ]
+    },
+    {
+      "name": "obj75a_grove",
+      "bones": [
+        {
+          "name": "1",
+          "keyframes": 3
+        }
+      ]
+    },
+    {
+      "name": "obj77a_gchest",
+      "bones": [
+        {
+          "name": "statik",
+          "keyframes": 2
+        },
+        {
+          "name": "1",
+          "keyframes": 3
+        }
+      ]
+    },
+    {
+      "name": "obj77a_deer",
+      "bones": [
+        {
+          "name": "1",
+          "keyframes": 1
+        },
+        {
+          "name": "2",
+          "keyframes": 3
+        },
+        {
+          "name": "3",
+          "keyframes": 3
+        },
+        {
+          "name": "4",
+          "keyframes": 3
+        },
+        {
+          "name": "22",
+          "keyframes": 3
+        },
+        {
+          "name": "33",
+          "keyframes": 3
+        },
+        {
+          "name": "44",
+          "keyframes": 3
+        },
+        {
+          "name": "2222",
+          "keyframes": 3
+        },
+        {
+          "name": "3333",
+          "keyframes": 3
+        },
+        {
+          "name": "4444",
+          "keyframes": 3
+        },
+        {
+          "name": "222",
+          "keyframes": 3
+        },
+        {
+          "name": "333",
+          "keyframes": 3
+        },
+        {
+          "name": "444",
+          "keyframes": 3
+        },
+        {
+          "name": "11",
+          "keyframes": 1
+        }
+      ]
+    },
+    {
+      "name": "obj79a_deadpool",
+      "bones": [
+        {
+          "name": "1",
+          "keyframes": 3
+        }
+      ]
+    },
+    {
+      "name": "obj79a_fabergeeg",
+      "bones": [
+        {
+          "name": "2",
+          "keyframes": 3
+        }
+      ]
+    },
+    {
+      "name": "obj79a_harecoin",
+      "bones": [
+        {
+          "name": "1",
+          "keyframes": 3
+        },
+        {
+          "name": "2",
+          "keyframes": 3
+        },
+        {
+          "name": "3",
+          "keyframes": 3
+        },
+        {
+          "name": "4",
+          "keyframes": 3
+        }
+      ]
+    },
+    {
+      "name": "obj79a_pikachu",
+      "bones": [
+        {
+          "name": "1",
+          "keyframes": 3
+        }
+      ]
+    },
+    {
+      "name": "obj79a_tower",
+      "bones": [
+        {
+          "name": "0",
+          "keyframes": 1
+        },
+        {
+          "name": "1",
+          "keyframes": 3
+        }
+      ]
+    },
+    {
+      "name": "obj79_xpenght_pr2",
+      "bones": [
+        {
+          "name": "1",
+          "keyframes": 3
+        },
+        {
+          "name": "2",
+          "keyframes": 3
+        },
+        {
+          "name": "3",
+          "keyframes": 3
+        },
+        {
+          "name": "4",
+          "keyframes": 4
+        }
+      ]
+    },
+    {
+      "name": "obj79a_courier",
+      "bones": [
+        {
+          "name": "1",
+          "keyframes": 3
+        },
+        {
+          "name": "2",
+          "keyframes": 3
+        }
+      ]
+    },
+    {
+      "name": "obj81a_chiken",
+      "bones": [
+        {
+          "name": "1",
+          "keyframes": 3
+        },
+        {
+          "name": "2",
+          "keyframes": 3
+        }
+      ]
+    },
+    {
+      "name": "obj81a_chiken1",
+      "bones": [
+        {
+          "name": "1",
+          "keyframes": 3
+        },
+        {
+          "name": "2",
+          "keyframes": 3
+        }
+      ]
+    },
+    {
+      "name": "obj81a_gameboy",
+      "bones": [
+        {
+          "name": "static",
+          "keyframes": 1
+        },
+        {
+          "name": "2",
+          "keyframes": 3
+        },
+        {
+          "name": "1",
+          "keyframes": 3
+        }
+      ]
+    },
+    {
+      "name": "obj81a_airship1",
+      "bones": [
+        {
+          "name": "1",
+          "keyframes": 3
+        },
+        {
+          "name": "2",
+          "keyframes": 3
+        },
+        {
+          "name": "3",
+          "keyframes": 3
+        },
+        {
+          "name": "4",
+          "keyframes": 3
+        },
+        {
+          "name": "5",
+          "keyframes": 3
+        },
+        {
+          "name": "6",
+          "keyframes": 3
+        }
+      ]
+    },
+    {
+      "name": "obj81a_guardian",
+      "bones": [
+        {
+          "name": "0",
+          "keyframes": 3
+        }
+      ]
+    },
+    {
+      "name": "obj81a_fish",
+      "bones": [
+        {
+          "name": "static",
+          "keyframes": 2
+        },
+        {
+          "name": "1",
+          "keyframes": 6
+        },
+        {
+          "name": "2",
+          "keyframes": 6
+        },
+        {
+          "name": "3",
+          "keyframes": 6
+        },
+        {
+          "name": "4",
+          "keyframes": 3
+        },
+        {
+          "name": "5",
+          "keyframes": 3
+        },
+        {
+          "name": "6",
+          "keyframes": 3
+        }
+      ]
+    },
+    {
+      "name": "obj81a_airballoon3",
+      "bones": [
+        {
+          "name": "0",
+          "keyframes": 3
+        },
+        {
+          "name": "1",
+          "keyframes": 3
+        }
+      ]
+    },
+    {
+      "name": "obj87a_crystal",
+      "bones": [
+        {
+          "name": "static",
+          "keyframes": 1
+        },
+        {
+          "name": "1",
+          "keyframes": 3
+        },
+        {
+          "name": "2",
+          "keyframes": 3
+        }
+      ]
+    },
+    {
+      "name": "obj87a_portal",
+      "bones": [
+        {
+          "name": "static",
+          "keyframes": 1
+        },
+        {
+          "name": "1",
+          "keyframes": 3
+        },
+        {
+          "name": "2",
+          "keyframes": 3
+        }
+      ]
+    },
+    {
+      "name": "obj87a_antenna",
+      "bones": [
+        {
+          "name": "1",
+          "keyframes": 1
+        },
+        {
+          "name": "2",
+          "keyframes": 3
+        }
+      ]
+    },
+    {
+      "name": "obj87a_beam",
+      "bones": [
+        {
+          "name": "static",
+          "keyframes": 1
+        },
+        {
+          "name": "1",
+          "keyframes": 3
+        }
+      ]
+    },
+    {
+      "name": "obj87a_sphere",
+      "bones": [
+        {
+          "name": "1",
+          "keyframes": 3
+        }
+      ]
+    },
+    {
+      "name": "obj87a_obelisk",
+      "bones": [
+        {
+          "name": "static",
+          "keyframes": 1
+        },
+        {
+          "name": "1",
+          "keyframes": 3
+        }
+      ]
+    },
+    {
+      "name": "obj87a_robot",
+      "bones": [
+        {
+          "name": "static",
+          "keyframes": 2
+        },
+        {
+          "name": "1",
+          "keyframes": 3
+        }
+      ]
+    },
+    {
+      "name": "obj87a_pearth",
+      "bones": [
+        {
+          "name": "static",
+          "keyframes": 1
+        },
+        {
+          "name": "1",
+          "keyframes": 3
+        }
+      ]
+    },
+    {
+      "name": "car_wash",
+      "bones": [
+        {
+          "name": "statik",
+          "keyframes": 1
+        },
+        {
+          "name": "1",
+          "keyframes": 3
+        }
+      ]
+    },
+    {
+      "name": "car_wash1",
+      "bones": [
+        {
+          "name": "statik",
+          "keyframes": 1
+        },
+        {
+          "name": "1",
+          "keyframes": 3
+        }
+      ]
+    },
+    {
+      "name": "obj89a_mimik",
+      "bones": [
+        {
+          "name": "obj89a_mimik_root",
+          "keyframes": 240
+        },
+        {
+          "name": "spine1",
+          "keyframes": 240
+        },
+        {
+          "name": "spine2",
+          "keyframes": 240
+        },
+        {
+          "name": "head",
+          "keyframes": 240
+        },
+        {
+          "name": "earR1",
+          "keyframes": 240
+        },
+        {
+          "name": "earR2",
+          "keyframes": 240
+        },
+        {
+          "name": "earR3",
+          "keyframes": 240
+        },
+        {
+          "name": "earR4",
+          "keyframes": 240
+        },
+        {
+          "name": "earR5",
+          "keyframes": 240
+        },
+        {
+          "name": "earL1",
+          "keyframes": 240
+        },
+        {
+          "name": "earL2",
+          "keyframes": 240
+        },
+        {
+          "name": "earL3",
+          "keyframes": 240
+        },
+        {
+          "name": "earL4",
+          "keyframes": 240
+        },
+        {
+          "name": "earL5",
+          "keyframes": 240
+        },
+        {
+          "name": "handL1",
+          "keyframes": 240
+        },
+        {
+          "name": "handL2",
+          "keyframes": 240
+        },
+        {
+          "name": "handL3",
+          "keyframes": 240
+        },
+        {
+          "name": "handL4",
+          "keyframes": 240
+        },
+        {
+          "name": "handL5",
+          "keyframes": 240
+        },
+        {
+          "name": "handL6",
+          "keyframes": 240
+        },
+        {
+          "name": "handL7",
+          "keyframes": 240
+        },
+        {
+          "name": "handR1",
+          "keyframes": 240
+        },
+        {
+          "name": "handR2",
+          "keyframes": 240
+        },
+        {
+          "name": "handR3",
+          "keyframes": 240
+        },
+        {
+          "name": "handR4",
+          "keyframes": 240
+        },
+        {
+          "name": "handR5",
+          "keyframes": 240
+        },
+        {
+          "name": "handR6",
+          "keyframes": 240
+        },
+        {
+          "name": "handR7",
+          "keyframes": 240
+        },
+        {
+          "name": "cloth2",
+          "keyframes": 240
+        },
+        {
+          "name": "cloth4",
+          "keyframes": 240
+        },
+        {
+          "name": "cloth3",
+          "keyframes": 240
+        },
+        {
+          "name": "cloth1",
+          "keyframes": 240
+        },
+        {
+          "name": "cloth5",
+          "keyframes": 240
+        }
+      ]
+    },
+    {
+      "name": "obj89a_ghost",
+      "bones": [
+        {
+          "name": "1",
+          "keyframes": 3
+        }
+      ]
+    },
+    {
+      "name": "obj89a_skeletmage",
+      "bones": [
+        {
+          "name": "obj89a_skeletmage",
+          "keyframes": 3
+        }
+      ]
+    },
+    {
+      "name": "obj89a_skeleton",
+      "bones": [
+        {
+          "name": "1",
+          "keyframes": 3
+        },
+        {
+          "name": "11",
+          "keyframes": 3
+        },
+        {
+          "name": "2",
+          "keyframes": 3
+        },
+        {
+          "name": "22",
+          "keyframes": 3
+        }
+      ]
+    },
+    {
+      "name": "obj89a_cylinder",
+      "bones": [
+        {
+          "name": "obj89a_cylinder",
+          "keyframes": 3
+        }
+      ]
+    },
+    {
+      "name": "obj91a_nystar",
+      "bones": [
+        {
+          "name": "obj91a_nystar",
+          "keyframes": 180
+        }
+      ]
+    },
+    {
+      "name": "obj91a_chrcar",
+      "bones": [
+        {
+          "name": "obj91a_chrcar",
+          "keyframes": 1
+        },
+        {
+          "name": "deer1",
+          "keyframes": 1
+        },
+        {
+          "name": "fll1",
+          "keyframes": 40
+        },
+        {
+          "name": "fll2",
+          "keyframes": 40
+        },
+        {
+          "name": "fll3",
+          "keyframes": 40
+        },
+        {
+          "name": "frl1",
+          "keyframes": 40
+        },
+        {
+          "name": "frl2",
+          "keyframes": 40
+        },
+        {
+          "name": "flr3",
+          "keyframes": 40
+        },
+        {
+          "name": "rll1",
+          "keyframes": 40
+        },
+        {
+          "name": "rll2",
+          "keyframes": 39
+        },
+        {
+          "name": "rll3",
+          "keyframes": 40
+        },
+        {
+          "name": "rrl1",
+          "keyframes": 40
+        },
+        {
+          "name": "rrl2",
+          "keyframes": 40
+        },
+        {
+          "name": "rrl3",
+          "keyframes": 40
+        },
+        {
+          "name": "deer2",
+          "keyframes": 1
+        },
+        {
+          "name": "fll1_2",
+          "keyframes": 39
+        },
+        {
+          "name": "fll2_2",
+          "keyframes": 39
+        },
+        {
+          "name": "fll3_2",
+          "keyframes": 39
+        },
+        {
+          "name": "frl1_2",
+          "keyframes": 39
+        },
+        {
+          "name": "frl2_2",
+          "keyframes": 39
+        },
+        {
+          "name": "flr3_2",
+          "keyframes": 39
+        },
+        {
+          "name": "rll1_2",
+          "keyframes": 39
+        },
+        {
+          "name": "rll2_2",
+          "keyframes": 39
+        },
+        {
+          "name": "rll3_2",
+          "keyframes": 39
+        },
+        {
+          "name": "rrl1_2",
+          "keyframes": 39
+        },
+        {
+          "name": "rrl2_2",
+          "keyframes": 39
+        },
+        {
+          "name": "rrl3_2",
+          "keyframes": 39
+        }
+      ]
+    },
+    {
+      "name": "obj91a_chiken1",
+      "bones": [
+        {
+          "name": "chiken1",
+          "keyframes": 3
+        },
+        {
+          "name": "chiken11",
+          "keyframes": 3
+        }
+      ]
+    },
+    {
+      "name": "obj91a_chiken2",
+      "bones": [
+        {
+          "name": "chiken22",
+          "keyframes": 3
+        },
+        {
+          "name": "chiken2",
+          "keyframes": 3
+        }
+      ]
+    },
+    {
+      "name": "obj91a_chiken3",
+      "bones": [
+        {
+          "name": "chiken3",
+          "keyframes": 3
+        },
+        {
+          "name": "chiken33",
+          "keyframes": 3
+        }
+      ]
+    }
+  ]
+}

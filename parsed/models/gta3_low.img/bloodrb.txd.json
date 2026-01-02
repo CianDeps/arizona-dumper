@@ -1,0 +1,47 @@
+{
+  "type": "txd",
+  "textures": [
+    {
+      "name": "bloodrbnum8bit128",
+      "width": 16,
+      "height": 16,
+      "format": "DXT3",
+      "alpha": true
+    },
+    {
+      "name": "bloodrbnum28bit128",
+      "width": 16,
+      "height": 16,
+      "format": "DXT3",
+      "alpha": true
+    },
+    {
+      "name": "bloodrbbody128c",
+      "width": 16,
+      "height": 16,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "bloodrbbody128a",
+      "width": 16,
+      "height": 16,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "bloodrb92wheel64",
+      "width": 16,
+      "height": 16,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "bloodrb8bit128",
+      "width": 16,
+      "height": 16,
+      "format": "DXT1",
+      "alpha": false
+    }
+  ]
+}

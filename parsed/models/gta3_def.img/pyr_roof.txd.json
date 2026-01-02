@@ -1,0 +1,54 @@
+{
+  "type": "txd",
+  "textures": [
+    {
+      "name": "bluemetal",
+      "width": 64,
+      "height": 64,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "banding3c_64HV",
+      "width": 64,
+      "height": 64,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "banding4_64HV",
+      "width": 64,
+      "height": 64,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "metalic_64",
+      "width": 64,
+      "height": 64,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "fire_esc_fence",
+      "width": 64,
+      "height": 64,
+      "format": "DXT1",
+      "alpha": true
+    },
+    {
+      "name": "ws_castironwalk",
+      "width": 256,
+      "height": 256,
+      "format": "DXT3",
+      "alpha": true
+    },
+    {
+      "name": "ws_trans_block",
+      "width": 128,
+      "height": 128,
+      "format": "DXT1",
+      "alpha": false
+    }
+  ]
+}

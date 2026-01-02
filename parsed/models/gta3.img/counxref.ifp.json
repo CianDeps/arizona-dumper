@@ -1,0 +1,67 @@
+{
+  "type": "ifp",
+  "name": "counxref",
+  "version": 0,
+  "animations": [
+    {
+      "name": "derrick01",
+      "bones": [
+        {
+          "name": "derrickbit04",
+          "keyframes": 25
+        },
+        {
+          "name": "derrickbit01",
+          "keyframes": 12
+        },
+        {
+          "name": "derrickbit02",
+          "keyframes": 35
+        },
+        {
+          "name": "derrickbit03",
+          "keyframes": 28
+        }
+      ]
+    },
+    {
+      "name": "nt_noddonkbase",
+      "bones": [
+        {
+          "name": "Object01",
+          "keyframes": 12
+        },
+        {
+          "name": "Object03",
+          "keyframes": 28
+        },
+        {
+          "name": "Object04",
+          "keyframes": 25
+        },
+        {
+          "name": "Object02",
+          "keyframes": 123
+        }
+      ]
+    },
+    {
+      "name": "nt_windmill",
+      "bones": [
+        {
+          "name": "des_windfan_",
+          "keyframes": 24
+        }
+      ]
+    },
+    {
+      "name": "oilplodbitbase",
+      "bones": [
+        {
+          "name": "oilplodbitarm",
+          "keyframes": 10
+        }
+      ]
+    }
+  ]
+}

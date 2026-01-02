@@ -1,0 +1,26 @@
+{
+  "type": "txd",
+  "textures": [
+    {
+      "name": "maybe_head",
+      "width": 512,
+      "height": 512,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "maybe_eayes",
+      "width": 128,
+      "height": 128,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "maybe_clothes",
+      "width": 1024,
+      "height": 1024,
+      "format": "DXT1",
+      "alpha": true
+    }
+  ]
+}

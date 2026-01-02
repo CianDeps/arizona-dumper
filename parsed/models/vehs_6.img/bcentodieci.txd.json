@@ -1,0 +1,40 @@
+{
+  "type": "txd",
+  "textures": [
+    {
+      "name": "bcentodieci_rim",
+      "width": 512,
+      "height": 512,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "bcentodieci_int",
+      "width": 512,
+      "height": 512,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "bcentodieci_badge",
+      "width": 512,
+      "height": 256,
+      "format": "DXT5",
+      "alpha": true
+    },
+    {
+      "name": "bcentodieci_badgedop",
+      "width": 256,
+      "height": 64,
+      "format": "DXT1",
+      "alpha": true
+    },
+    {
+      "name": "bcentodieci_grill",
+      "width": 128,
+      "height": 128,
+      "format": "DXT5",
+      "alpha": true
+    }
+  ]
+}

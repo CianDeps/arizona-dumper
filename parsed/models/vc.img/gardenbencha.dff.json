@@ -1,0 +1,54 @@
+{
+  "type": "dff",
+  "version": "RenderWare 3.4.0.3 (VC on PC)",
+  "modelType": 0,
+  "geometries": [
+    {
+      "index": 0,
+      "vertices": 84,
+      "triangles": 84,
+      "materials": [
+        {
+          "color": {
+            "r": 255,
+            "g": 255,
+            "b": 255,
+            "a": 255
+          },
+          "texture": null
+        }
+      ]
+    },
+    {
+      "index": 1,
+      "vertices": 72,
+      "triangles": 72,
+      "materials": [
+        {
+          "color": {
+            "r": 255,
+            "g": 255,
+            "b": 255,
+            "a": 255
+          },
+          "texture": null
+        }
+      ]
+    }
+  ],
+  "frames": 12,
+  "dummies": [
+    "Group01",
+    "gardenbencha_L1",
+    "gardenbencha_L0",
+    "Collision_Box50",
+    "Collision_Sphere529",
+    "Collision_Sphere528",
+    "Collision_Sphere333",
+    "Collision_Sphere332",
+    "Collision_Sphere331",
+    "Collision_Sphere236",
+    "Collision_Mesh07",
+    "Collision_Mesh06"
+  ]
+}

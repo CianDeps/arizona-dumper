@@ -1,0 +1,54 @@
+{
+  "type": "txd",
+  "textures": [
+    {
+      "name": "mp_CJ_Light",
+      "width": 64,
+      "height": 64,
+      "format": "DXT3",
+      "alpha": true
+    },
+    {
+      "name": "CJ_GALVANISED",
+      "width": 32,
+      "height": 32,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "mp_CJ_LIGHT_FITTING",
+      "width": 32,
+      "height": 32,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "CJ_FILLIMENT",
+      "width": 32,
+      "height": 32,
+      "format": "DXT3",
+      "alpha": true
+    },
+    {
+      "name": "AH_redcurtain",
+      "width": 32,
+      "height": 64,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "AH_blucurtain",
+      "width": 32,
+      "height": 32,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "CJ_lightshade",
+      "width": 64,
+      "height": 64,
+      "format": "DXT3",
+      "alpha": true
+    }
+  ]
+}

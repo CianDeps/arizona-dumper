@@ -1,0 +1,33 @@
+{
+  "type": "txd",
+  "textures": [
+    {
+      "name": "gtsamg_badges",
+      "width": 512,
+      "height": 512,
+      "format": "DXT5",
+      "alpha": true
+    },
+    {
+      "name": "gtsamg_wheel",
+      "width": 512,
+      "height": 512,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "gtsamg_int",
+      "width": 1024,
+      "height": 1024,
+      "format": "DXT1",
+      "alpha": true
+    },
+    {
+      "name": "gtsamg_dash",
+      "width": 512,
+      "height": 256,
+      "format": "DXT1",
+      "alpha": false
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "type": "ifp",
+  "name": "map_object",
+  "version": 0,
+  "animations": [
+    {
+      "name": "east25_windmill",
+      "bones": [
+        {
+          "name": "windmill_1",
+          "keyframes": 3
+        }
+      ]
+    },
+    {
+      "name": "hcas_dragn_tm_1",
+      "bones": [
+        {
+          "name": "hcas_dragn_tm_11",
+          "keyframes": 5
+        },
+        {
+          "name": "hcas_dragn_tm2",
+          "keyframes": 5
+        },
+        {
+          "name": "hcas_dragn_tm3",
+          "keyframes": 5
+        }
+      ]
+    },
+    {
+      "name": "arh25pglwabt",
+      "bones": [
+        {
+          "name": "arh25pglwabt",
+          "keyframes": 5
+        }
+      ]
+    },
+    {
+      "name": "arh25pglwc",
+      "bones": [
+        {
+          "name": "arh25pglwc",
+          "keyframes": 5
+        }
+      ]
+    },
+    {
+      "name": "arh25pglwcb",
+      "bones": [
+        {
+          "name": "arh25pglwcb",
+          "keyframes": 5
+        }
+      ]
+    }
+  ]
+}

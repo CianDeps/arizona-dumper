@@ -1,0 +1,61 @@
+{
+  "type": "dff",
+  "version": "RenderWare 3.6.0.3 (SA)",
+  "modelType": 0,
+  "geometries": [
+    {
+      "index": 0,
+      "vertices": 24,
+      "triangles": 12,
+      "materials": [
+        {
+          "color": {
+            "r": 61,
+            "g": 134,
+            "b": 6,
+            "a": 255
+          },
+          "texture": null
+        }
+      ]
+    },
+    {
+      "index": 1,
+      "vertices": 421,
+      "triangles": 229,
+      "materials": [
+        {
+          "color": {
+            "r": 150,
+            "g": 150,
+            "b": 150,
+            "a": 255
+          },
+          "texture": null
+        }
+      ]
+    },
+    {
+      "index": 2,
+      "vertices": 576,
+      "triangles": 360,
+      "materials": [
+        {
+          "color": {
+            "r": 150,
+            "g": 150,
+            "b": 150,
+            "a": 255
+          },
+          "texture": null
+        }
+      ]
+    }
+  ],
+  "frames": 4,
+  "dummies": [
+    "Root",
+    "roleplay_rack",
+    "roleplay_outfits"
+  ]
+}

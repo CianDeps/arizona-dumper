@@ -1,0 +1,40 @@
+{
+  "type": "txd",
+  "textures": [
+    {
+      "name": "KeepOut_64",
+      "width": 16,
+      "height": 16,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "ws_oldpainted",
+      "width": 16,
+      "height": 16,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "ws_grilleshade",
+      "width": 16,
+      "height": 16,
+      "format": "DXT3",
+      "alpha": true
+    },
+    {
+      "name": "desbarlas",
+      "width": 32,
+      "height": 16,
+      "format": "DXT1",
+      "alpha": true
+    },
+    {
+      "name": "ws_leccyfncetop",
+      "width": 64,
+      "height": 16,
+      "format": "DXT3",
+      "alpha": true
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "type": "dff",
+  "version": "RenderWare 3.6.0.3 (SA)",
+  "modelType": 0,
+  "geometries": [
+    {
+      "index": 0,
+      "vertices": 24,
+      "triangles": 20,
+      "materials": [
+        {
+          "color": {
+            "r": 255,
+            "g": 255,
+            "b": 255,
+            "a": 255
+          },
+          "texture": null
+        }
+      ]
+    },
+    {
+      "index": 1,
+      "vertices": 6,
+      "triangles": 8,
+      "materials": [
+        {
+          "color": {
+            "r": 224,
+            "g": 87,
+            "b": 143,
+            "a": 255
+          },
+          "texture": null
+        }
+      ]
+    }
+  ],
+  "frames": 4,
+  "dummies": [
+    "Dummy01",
+    "Cylinder01",
+    "dumcigsmoke"
+  ]
+}

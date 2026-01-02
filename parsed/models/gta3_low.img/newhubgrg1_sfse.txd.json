@@ -1,0 +1,33 @@
+{
+  "type": "txd",
+  "textures": [
+    {
+      "name": "ws_hubbeams2",
+      "width": 16,
+      "height": 16,
+      "format": "DXT3",
+      "alpha": true
+    },
+    {
+      "name": "ws_hubbeams1",
+      "width": 16,
+      "height": 16,
+      "format": "DXT3",
+      "alpha": true
+    },
+    {
+      "name": "ws_corr_plastic",
+      "width": 16,
+      "height": 16,
+      "format": "DXT3",
+      "alpha": true
+    },
+    {
+      "name": "ws_corr_metal1",
+      "width": 16,
+      "height": 32,
+      "format": "DXT1",
+      "alpha": false
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "type": "dff",
+  "version": "RenderWare 3.6.0.3 (SA)",
+  "modelType": 2,
+  "geometries": [
+    {
+      "index": 0,
+      "vertices": 1416,
+      "triangles": 2205,
+      "materials": [
+        {
+          "color": {
+            "r": 149,
+            "g": 149,
+            "b": 149,
+            "a": 255
+          },
+          "texture": null
+        }
+      ]
+    },
+    {
+      "index": 1,
+      "vertices": 207,
+      "triangles": 243,
+      "materials": [
+        {
+          "color": {
+            "r": 149,
+            "g": 149,
+            "b": 149,
+            "a": 255
+          },
+          "texture": null
+        }
+      ]
+    }
+  ],
+  "frames": 14,
+  "dummies": [
+    "rcbaron",
+    "wheel_lf_dummy",
+    "wheel_rf_dummy",
+    "wheel_lb_dummy",
+    "wheel_rb_dummy",
+    "taillights",
+    "headlights",
+    "chassis_dummy",
+    "ped_frontseat",
+    "rudder",
+    "moving_prop",
+    "static_prop",
+    "1",
+    "chassis_vlo"
+  ]
+}

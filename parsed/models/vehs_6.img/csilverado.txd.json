@@ -1,0 +1,26 @@
+{
+  "type": "txd",
+  "textures": [
+    {
+      "name": "csilverado_radiator",
+      "width": 512,
+      "height": 156,
+      "format": "DXT5",
+      "alpha": true
+    },
+    {
+      "name": "csilverado_salon",
+      "width": 512,
+      "height": 512,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "csilverado_wheel",
+      "width": 512,
+      "height": 512,
+      "format": "DXT1",
+      "alpha": false
+    }
+  ]
+}

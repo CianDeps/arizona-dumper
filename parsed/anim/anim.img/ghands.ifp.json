@@ -1,0 +1,1387 @@
+{
+  "type": "ifp",
+  "name": "GHANDS",
+  "version": 0,
+  "animations": [
+    {
+      "name": "gsign1",
+      "bones": [
+        {
+          "name": " Spine",
+          "keyframes": 36
+        },
+        {
+          "name": " Spine1",
+          "keyframes": 36
+        },
+        {
+          "name": " Neck",
+          "keyframes": 36
+        },
+        {
+          "name": " Head",
+          "keyframes": 36
+        },
+        {
+          "name": "Bip01 L Clavicle",
+          "keyframes": 36
+        },
+        {
+          "name": " L UpperArm",
+          "keyframes": 36
+        },
+        {
+          "name": " L ForeArm",
+          "keyframes": 36
+        },
+        {
+          "name": " L Hand",
+          "keyframes": 36
+        },
+        {
+          "name": " L Finger",
+          "keyframes": 36
+        },
+        {
+          "name": "L Finger01",
+          "keyframes": 36
+        },
+        {
+          "name": "Bip01 R Clavicle",
+          "keyframes": 36
+        },
+        {
+          "name": " R UpperArm",
+          "keyframes": 36
+        },
+        {
+          "name": " R ForeArm",
+          "keyframes": 36
+        },
+        {
+          "name": " R Hand",
+          "keyframes": 36
+        },
+        {
+          "name": " R Finger",
+          "keyframes": 36
+        },
+        {
+          "name": "R Finger01",
+          "keyframes": 36
+        }
+      ]
+    },
+    {
+      "name": "gsign1LH",
+      "bones": [
+        {
+          "name": " Spine",
+          "keyframes": 26
+        },
+        {
+          "name": " Spine1",
+          "keyframes": 26
+        },
+        {
+          "name": " Neck",
+          "keyframes": 26
+        },
+        {
+          "name": " Head",
+          "keyframes": 26
+        },
+        {
+          "name": "Bip01 L Clavicle",
+          "keyframes": 26
+        },
+        {
+          "name": " L UpperArm",
+          "keyframes": 26
+        },
+        {
+          "name": " L ForeArm",
+          "keyframes": 26
+        },
+        {
+          "name": " L Hand",
+          "keyframes": 26
+        },
+        {
+          "name": " L Finger",
+          "keyframes": 26
+        },
+        {
+          "name": "L Finger01",
+          "keyframes": 26
+        },
+        {
+          "name": "Bip01 R Clavicle",
+          "keyframes": 26
+        },
+        {
+          "name": " R UpperArm",
+          "keyframes": 26
+        },
+        {
+          "name": " R ForeArm",
+          "keyframes": 26
+        },
+        {
+          "name": " R Hand",
+          "keyframes": 26
+        },
+        {
+          "name": " R Finger",
+          "keyframes": 26
+        },
+        {
+          "name": "R Finger01",
+          "keyframes": 26
+        }
+      ]
+    },
+    {
+      "name": "gsign2",
+      "bones": [
+        {
+          "name": " Spine",
+          "keyframes": 21
+        },
+        {
+          "name": " Spine1",
+          "keyframes": 21
+        },
+        {
+          "name": " Neck",
+          "keyframes": 21
+        },
+        {
+          "name": " Head",
+          "keyframes": 21
+        },
+        {
+          "name": "Bip01 L Clavicle",
+          "keyframes": 21
+        },
+        {
+          "name": " L UpperArm",
+          "keyframes": 21
+        },
+        {
+          "name": " L ForeArm",
+          "keyframes": 21
+        },
+        {
+          "name": " L Hand",
+          "keyframes": 21
+        },
+        {
+          "name": " L Finger",
+          "keyframes": 21
+        },
+        {
+          "name": "L Finger01",
+          "keyframes": 21
+        },
+        {
+          "name": "Bip01 R Clavicle",
+          "keyframes": 21
+        },
+        {
+          "name": " R UpperArm",
+          "keyframes": 21
+        },
+        {
+          "name": " R ForeArm",
+          "keyframes": 21
+        },
+        {
+          "name": " R Hand",
+          "keyframes": 21
+        },
+        {
+          "name": " R Finger",
+          "keyframes": 21
+        },
+        {
+          "name": "R Finger01",
+          "keyframes": 21
+        }
+      ]
+    },
+    {
+      "name": "gsign2LH",
+      "bones": [
+        {
+          "name": " Spine",
+          "keyframes": 26
+        },
+        {
+          "name": " Spine1",
+          "keyframes": 26
+        },
+        {
+          "name": " Neck",
+          "keyframes": 26
+        },
+        {
+          "name": " Head",
+          "keyframes": 26
+        },
+        {
+          "name": "Bip01 L Clavicle",
+          "keyframes": 26
+        },
+        {
+          "name": " L UpperArm",
+          "keyframes": 26
+        },
+        {
+          "name": " L ForeArm",
+          "keyframes": 26
+        },
+        {
+          "name": " L Hand",
+          "keyframes": 26
+        },
+        {
+          "name": " L Finger",
+          "keyframes": 26
+        },
+        {
+          "name": "L Finger01",
+          "keyframes": 26
+        },
+        {
+          "name": "Bip01 R Clavicle",
+          "keyframes": 26
+        },
+        {
+          "name": " R UpperArm",
+          "keyframes": 26
+        },
+        {
+          "name": " R ForeArm",
+          "keyframes": 26
+        },
+        {
+          "name": " R Hand",
+          "keyframes": 26
+        },
+        {
+          "name": " R Finger",
+          "keyframes": 26
+        },
+        {
+          "name": "R Finger01",
+          "keyframes": 26
+        }
+      ]
+    },
+    {
+      "name": "gsign3",
+      "bones": [
+        {
+          "name": " Spine",
+          "keyframes": 46
+        },
+        {
+          "name": " Spine1",
+          "keyframes": 46
+        },
+        {
+          "name": " Neck",
+          "keyframes": 46
+        },
+        {
+          "name": " Head",
+          "keyframes": 46
+        },
+        {
+          "name": "Bip01 L Clavicle",
+          "keyframes": 46
+        },
+        {
+          "name": " L UpperArm",
+          "keyframes": 46
+        },
+        {
+          "name": " L ForeArm",
+          "keyframes": 46
+        },
+        {
+          "name": " L Hand",
+          "keyframes": 46
+        },
+        {
+          "name": " L Finger",
+          "keyframes": 46
+        },
+        {
+          "name": "L Finger01",
+          "keyframes": 46
+        },
+        {
+          "name": "Bip01 R Clavicle",
+          "keyframes": 46
+        },
+        {
+          "name": " R UpperArm",
+          "keyframes": 46
+        },
+        {
+          "name": " R ForeArm",
+          "keyframes": 46
+        },
+        {
+          "name": " R Hand",
+          "keyframes": 46
+        },
+        {
+          "name": " R Finger",
+          "keyframes": 46
+        },
+        {
+          "name": "R Finger01",
+          "keyframes": 46
+        }
+      ]
+    },
+    {
+      "name": "gsign3LH",
+      "bones": [
+        {
+          "name": " Spine",
+          "keyframes": 16
+        },
+        {
+          "name": " Spine1",
+          "keyframes": 16
+        },
+        {
+          "name": " Neck",
+          "keyframes": 16
+        },
+        {
+          "name": " Head",
+          "keyframes": 16
+        },
+        {
+          "name": "Bip01 L Clavicle",
+          "keyframes": 16
+        },
+        {
+          "name": " L UpperArm",
+          "keyframes": 16
+        },
+        {
+          "name": " L ForeArm",
+          "keyframes": 16
+        },
+        {
+          "name": " L Hand",
+          "keyframes": 16
+        },
+        {
+          "name": " L Finger",
+          "keyframes": 16
+        },
+        {
+          "name": "L Finger01",
+          "keyframes": 16
+        },
+        {
+          "name": "Bip01 R Clavicle",
+          "keyframes": 16
+        },
+        {
+          "name": " R UpperArm",
+          "keyframes": 16
+        },
+        {
+          "name": " R ForeArm",
+          "keyframes": 16
+        },
+        {
+          "name": " R Hand",
+          "keyframes": 16
+        },
+        {
+          "name": " R Finger",
+          "keyframes": 16
+        },
+        {
+          "name": "R Finger01",
+          "keyframes": 16
+        }
+      ]
+    },
+    {
+      "name": "gsign4",
+      "bones": [
+        {
+          "name": " Spine",
+          "keyframes": 36
+        },
+        {
+          "name": " Spine1",
+          "keyframes": 36
+        },
+        {
+          "name": " Neck",
+          "keyframes": 36
+        },
+        {
+          "name": " Head",
+          "keyframes": 36
+        },
+        {
+          "name": "Bip01 L Clavicle",
+          "keyframes": 36
+        },
+        {
+          "name": " L UpperArm",
+          "keyframes": 36
+        },
+        {
+          "name": " L ForeArm",
+          "keyframes": 36
+        },
+        {
+          "name": " L Hand",
+          "keyframes": 36
+        },
+        {
+          "name": " L Finger",
+          "keyframes": 36
+        },
+        {
+          "name": "L Finger01",
+          "keyframes": 36
+        },
+        {
+          "name": "Bip01 R Clavicle",
+          "keyframes": 36
+        },
+        {
+          "name": " R UpperArm",
+          "keyframes": 36
+        },
+        {
+          "name": " R ForeArm",
+          "keyframes": 36
+        },
+        {
+          "name": " R Hand",
+          "keyframes": 36
+        },
+        {
+          "name": " R Finger",
+          "keyframes": 36
+        },
+        {
+          "name": "R Finger01",
+          "keyframes": 36
+        }
+      ]
+    },
+    {
+      "name": "gsign4LH",
+      "bones": [
+        {
+          "name": " Spine",
+          "keyframes": 46
+        },
+        {
+          "name": " Spine1",
+          "keyframes": 46
+        },
+        {
+          "name": " Neck",
+          "keyframes": 46
+        },
+        {
+          "name": " Head",
+          "keyframes": 46
+        },
+        {
+          "name": "Bip01 L Clavicle",
+          "keyframes": 48
+        },
+        {
+          "name": " L UpperArm",
+          "keyframes": 48
+        },
+        {
+          "name": " L ForeArm",
+          "keyframes": 48
+        },
+        {
+          "name": " L Hand",
+          "keyframes": 48
+        },
+        {
+          "name": " L Finger",
+          "keyframes": 48
+        },
+        {
+          "name": "L Finger01",
+          "keyframes": 48
+        },
+        {
+          "name": "Bip01 R Clavicle",
+          "keyframes": 51
+        },
+        {
+          "name": " R UpperArm",
+          "keyframes": 51
+        },
+        {
+          "name": " R ForeArm",
+          "keyframes": 51
+        },
+        {
+          "name": " R Hand",
+          "keyframes": 51
+        },
+        {
+          "name": " R Finger",
+          "keyframes": 51
+        },
+        {
+          "name": "R Finger01",
+          "keyframes": 51
+        }
+      ]
+    },
+    {
+      "name": "gsign5",
+      "bones": [
+        {
+          "name": " Spine",
+          "keyframes": 51
+        },
+        {
+          "name": " Spine1",
+          "keyframes": 51
+        },
+        {
+          "name": " Neck",
+          "keyframes": 51
+        },
+        {
+          "name": " Head",
+          "keyframes": 51
+        },
+        {
+          "name": "Bip01 L Clavicle",
+          "keyframes": 51
+        },
+        {
+          "name": " L UpperArm",
+          "keyframes": 51
+        },
+        {
+          "name": " L ForeArm",
+          "keyframes": 51
+        },
+        {
+          "name": " L Hand",
+          "keyframes": 51
+        },
+        {
+          "name": " L Finger",
+          "keyframes": 51
+        },
+        {
+          "name": "L Finger01",
+          "keyframes": 51
+        },
+        {
+          "name": "Bip01 R Clavicle",
+          "keyframes": 51
+        },
+        {
+          "name": " R UpperArm",
+          "keyframes": 51
+        },
+        {
+          "name": " R ForeArm",
+          "keyframes": 51
+        },
+        {
+          "name": " R Hand",
+          "keyframes": 51
+        },
+        {
+          "name": " R Finger",
+          "keyframes": 51
+        },
+        {
+          "name": "R Finger01",
+          "keyframes": 51
+        }
+      ]
+    },
+    {
+      "name": "gsign5LH",
+      "bones": [
+        {
+          "name": " Spine",
+          "keyframes": 16
+        },
+        {
+          "name": " Spine1",
+          "keyframes": 16
+        },
+        {
+          "name": " Neck",
+          "keyframes": 16
+        },
+        {
+          "name": " Head",
+          "keyframes": 16
+        },
+        {
+          "name": "Bip01 L Clavicle",
+          "keyframes": 16
+        },
+        {
+          "name": " L UpperArm",
+          "keyframes": 16
+        },
+        {
+          "name": " L ForeArm",
+          "keyframes": 16
+        },
+        {
+          "name": " L Hand",
+          "keyframes": 16
+        },
+        {
+          "name": " L Finger",
+          "keyframes": 16
+        },
+        {
+          "name": "L Finger01",
+          "keyframes": 16
+        },
+        {
+          "name": "Bip01 R Clavicle",
+          "keyframes": 16
+        },
+        {
+          "name": " R UpperArm",
+          "keyframes": 16
+        },
+        {
+          "name": " R ForeArm",
+          "keyframes": 16
+        },
+        {
+          "name": " R Hand",
+          "keyframes": 16
+        },
+        {
+          "name": " R Finger",
+          "keyframes": 16
+        },
+        {
+          "name": "R Finger01",
+          "keyframes": 16
+        }
+      ]
+    },
+    {
+      "name": "LHGsign1",
+      "bones": [
+        {
+          "name": " L Hand01",
+          "keyframes": 5
+        },
+        {
+          "name": " L Finger01",
+          "keyframes": 5
+        },
+        {
+          "name": "L Finger02",
+          "keyframes": 5
+        },
+        {
+          "name": "Root L Finger05",
+          "keyframes": 5
+        },
+        {
+          "name": "Root L Finger06",
+          "keyframes": 5
+        },
+        {
+          "name": "Root L Finger07",
+          "keyframes": 5
+        },
+        {
+          "name": "Root L Finger08",
+          "keyframes": 5
+        },
+        {
+          "name": "Root L Finger09",
+          "keyframes": 5
+        },
+        {
+          "name": "Root L Finger10",
+          "keyframes": 5
+        },
+        {
+          "name": "Root L Finger13",
+          "keyframes": 5
+        },
+        {
+          "name": "Root L Finger14",
+          "keyframes": 5
+        },
+        {
+          "name": "Root L Finger15",
+          "keyframes": 5
+        },
+        {
+          "name": "Root L Finger16",
+          "keyframes": 5
+        },
+        {
+          "name": "Root L Finger17",
+          "keyframes": 5
+        },
+        {
+          "name": "Root L Finger18",
+          "keyframes": 5
+        },
+        {
+          "name": "Root L Finger19",
+          "keyframes": 5
+        }
+      ]
+    },
+    {
+      "name": "LHGsign2",
+      "bones": [
+        {
+          "name": " L Hand01",
+          "keyframes": 5
+        },
+        {
+          "name": " L Finger01",
+          "keyframes": 5
+        },
+        {
+          "name": "L Finger02",
+          "keyframes": 2
+        },
+        {
+          "name": "Root L Finger05",
+          "keyframes": 5
+        },
+        {
+          "name": "Root L Finger06",
+          "keyframes": 5
+        },
+        {
+          "name": "Root L Finger07",
+          "keyframes": 5
+        },
+        {
+          "name": "Root L Finger08",
+          "keyframes": 5
+        },
+        {
+          "name": "Root L Finger09",
+          "keyframes": 5
+        },
+        {
+          "name": "Root L Finger10",
+          "keyframes": 5
+        },
+        {
+          "name": "Root L Finger13",
+          "keyframes": 5
+        },
+        {
+          "name": "Root L Finger14",
+          "keyframes": 5
+        },
+        {
+          "name": "Root L Finger15",
+          "keyframes": 5
+        },
+        {
+          "name": "Root L Finger16",
+          "keyframes": 5
+        },
+        {
+          "name": "Root L Finger17",
+          "keyframes": 5
+        },
+        {
+          "name": "Root L Finger18",
+          "keyframes": 5
+        },
+        {
+          "name": "Root L Finger19",
+          "keyframes": 5
+        }
+      ]
+    },
+    {
+      "name": "LHGsign3",
+      "bones": [
+        {
+          "name": " L Hand01",
+          "keyframes": 5
+        },
+        {
+          "name": " L Finger01",
+          "keyframes": 5
+        },
+        {
+          "name": "L Finger02",
+          "keyframes": 5
+        },
+        {
+          "name": "Root L Finger05",
+          "keyframes": 5
+        },
+        {
+          "name": "Root L Finger06",
+          "keyframes": 2
+        },
+        {
+          "name": "Root L Finger07",
+          "keyframes": 5
+        },
+        {
+          "name": "Root L Finger08",
+          "keyframes": 5
+        },
+        {
+          "name": "Root L Finger09",
+          "keyframes": 5
+        },
+        {
+          "name": "Root L Finger10",
+          "keyframes": 5
+        },
+        {
+          "name": "Root L Finger13",
+          "keyframes": 5
+        },
+        {
+          "name": "Root L Finger14",
+          "keyframes": 5
+        },
+        {
+          "name": "Root L Finger15",
+          "keyframes": 5
+        },
+        {
+          "name": "Root L Finger16",
+          "keyframes": 5
+        },
+        {
+          "name": "Root L Finger17",
+          "keyframes": 5
+        },
+        {
+          "name": "Root L Finger18",
+          "keyframes": 5
+        },
+        {
+          "name": "Root L Finger19",
+          "keyframes": 5
+        }
+      ]
+    },
+    {
+      "name": "LHGsign4",
+      "bones": [
+        {
+          "name": " L Hand01",
+          "keyframes": 5
+        },
+        {
+          "name": " L Finger01",
+          "keyframes": 5
+        },
+        {
+          "name": "L Finger02",
+          "keyframes": 5
+        },
+        {
+          "name": "Root L Finger05",
+          "keyframes": 5
+        },
+        {
+          "name": "Root L Finger06",
+          "keyframes": 5
+        },
+        {
+          "name": "Root L Finger07",
+          "keyframes": 5
+        },
+        {
+          "name": "Root L Finger08",
+          "keyframes": 5
+        },
+        {
+          "name": "Root L Finger09",
+          "keyframes": 5
+        },
+        {
+          "name": "Root L Finger10",
+          "keyframes": 5
+        },
+        {
+          "name": "Root L Finger13",
+          "keyframes": 5
+        },
+        {
+          "name": "Root L Finger14",
+          "keyframes": 5
+        },
+        {
+          "name": "Root L Finger15",
+          "keyframes": 5
+        },
+        {
+          "name": "Root L Finger16",
+          "keyframes": 5
+        },
+        {
+          "name": "Root L Finger17",
+          "keyframes": 5
+        },
+        {
+          "name": "Root L Finger18",
+          "keyframes": 5
+        },
+        {
+          "name": "Root L Finger19",
+          "keyframes": 5
+        }
+      ]
+    },
+    {
+      "name": "LHGsign5",
+      "bones": [
+        {
+          "name": " L Hand01",
+          "keyframes": 5
+        },
+        {
+          "name": " L Finger01",
+          "keyframes": 5
+        },
+        {
+          "name": "L Finger02",
+          "keyframes": 5
+        },
+        {
+          "name": "Root L Finger05",
+          "keyframes": 5
+        },
+        {
+          "name": "Root L Finger06",
+          "keyframes": 5
+        },
+        {
+          "name": "Root L Finger07",
+          "keyframes": 2
+        },
+        {
+          "name": "Root L Finger08",
+          "keyframes": 2
+        },
+        {
+          "name": "Root L Finger09",
+          "keyframes": 5
+        },
+        {
+          "name": "Root L Finger10",
+          "keyframes": 2
+        },
+        {
+          "name": "Root L Finger13",
+          "keyframes": 2
+        },
+        {
+          "name": "Root L Finger14",
+          "keyframes": 5
+        },
+        {
+          "name": "Root L Finger15",
+          "keyframes": 5
+        },
+        {
+          "name": "Root L Finger16",
+          "keyframes": 5
+        },
+        {
+          "name": "Root L Finger17",
+          "keyframes": 5
+        },
+        {
+          "name": "Root L Finger18",
+          "keyframes": 5
+        },
+        {
+          "name": "Root L Finger19",
+          "keyframes": 5
+        }
+      ]
+    },
+    {
+      "name": "RHGsign1",
+      "bones": [
+        {
+          "name": " R Hand01",
+          "keyframes": 5
+        },
+        {
+          "name": " R Finger01",
+          "keyframes": 5
+        },
+        {
+          "name": "R Finger02",
+          "keyframes": 5
+        },
+        {
+          "name": "Root R Finger05",
+          "keyframes": 5
+        },
+        {
+          "name": "Root R Finger06",
+          "keyframes": 2
+        },
+        {
+          "name": "Root R Finger07",
+          "keyframes": 2
+        },
+        {
+          "name": "Root R Finger08",
+          "keyframes": 2
+        },
+        {
+          "name": "Root R Finger09",
+          "keyframes": 5
+        },
+        {
+          "name": "Root R Finger10",
+          "keyframes": 5
+        },
+        {
+          "name": "Root R Finger13",
+          "keyframes": 5
+        },
+        {
+          "name": "Root R Finger14",
+          "keyframes": 5
+        },
+        {
+          "name": "Root R Finger15",
+          "keyframes": 5
+        },
+        {
+          "name": "Root R Finger16",
+          "keyframes": 5
+        },
+        {
+          "name": "Root R Finger17",
+          "keyframes": 5
+        },
+        {
+          "name": "Root R Finger18",
+          "keyframes": 5
+        },
+        {
+          "name": "Root R Finger19",
+          "keyframes": 5
+        }
+      ]
+    },
+    {
+      "name": "RHGsign2",
+      "bones": [
+        {
+          "name": " R Hand01",
+          "keyframes": 5
+        },
+        {
+          "name": " R Finger01",
+          "keyframes": 5
+        },
+        {
+          "name": "R Finger02",
+          "keyframes": 2
+        },
+        {
+          "name": "Root R Finger05",
+          "keyframes": 2
+        },
+        {
+          "name": "Root R Finger06",
+          "keyframes": 5
+        },
+        {
+          "name": "Root R Finger07",
+          "keyframes": 2
+        },
+        {
+          "name": "Root R Finger08",
+          "keyframes": 2
+        },
+        {
+          "name": "Root R Finger09",
+          "keyframes": 5
+        },
+        {
+          "name": "Root R Finger10",
+          "keyframes": 5
+        },
+        {
+          "name": "Root R Finger13",
+          "keyframes": 5
+        },
+        {
+          "name": "Root R Finger14",
+          "keyframes": 5
+        },
+        {
+          "name": "Root R Finger15",
+          "keyframes": 5
+        },
+        {
+          "name": "Root R Finger16",
+          "keyframes": 5
+        },
+        {
+          "name": "Root R Finger17",
+          "keyframes": 5
+        },
+        {
+          "name": "Root R Finger18",
+          "keyframes": 2
+        },
+        {
+          "name": "Root R Finger19",
+          "keyframes": 2
+        }
+      ]
+    },
+    {
+      "name": "RHGsign3",
+      "bones": [
+        {
+          "name": " R Hand01",
+          "keyframes": 5
+        },
+        {
+          "name": " R Finger01",
+          "keyframes": 5
+        },
+        {
+          "name": "R Finger02",
+          "keyframes": 2
+        },
+        {
+          "name": "Root R Finger05",
+          "keyframes": 5
+        },
+        {
+          "name": "Root R Finger06",
+          "keyframes": 5
+        },
+        {
+          "name": "Root R Finger07",
+          "keyframes": 5
+        },
+        {
+          "name": "Root R Finger08",
+          "keyframes": 5
+        },
+        {
+          "name": "Root R Finger09",
+          "keyframes": 5
+        },
+        {
+          "name": "Root R Finger10",
+          "keyframes": 5
+        },
+        {
+          "name": "Root R Finger13",
+          "keyframes": 5
+        },
+        {
+          "name": "Root R Finger14",
+          "keyframes": 5
+        },
+        {
+          "name": "Root R Finger15",
+          "keyframes": 5
+        },
+        {
+          "name": "Root R Finger16",
+          "keyframes": 5
+        },
+        {
+          "name": "Root R Finger17",
+          "keyframes": 5
+        },
+        {
+          "name": "Root R Finger18",
+          "keyframes": 5
+        },
+        {
+          "name": "Root R Finger19",
+          "keyframes": 5
+        }
+      ]
+    },
+    {
+      "name": "RHGsign4",
+      "bones": [
+        {
+          "name": " R Hand01",
+          "keyframes": 5
+        },
+        {
+          "name": " R Finger01",
+          "keyframes": 5
+        },
+        {
+          "name": "R Finger02",
+          "keyframes": 2
+        },
+        {
+          "name": "Root R Finger05",
+          "keyframes": 2
+        },
+        {
+          "name": "Root R Finger06",
+          "keyframes": 5
+        },
+        {
+          "name": "Root R Finger07",
+          "keyframes": 2
+        },
+        {
+          "name": "Root R Finger08",
+          "keyframes": 5
+        },
+        {
+          "name": "Root R Finger09",
+          "keyframes": 5
+        },
+        {
+          "name": "Root R Finger10",
+          "keyframes": 2
+        },
+        {
+          "name": "Root R Finger13",
+          "keyframes": 2
+        },
+        {
+          "name": "Root R Finger14",
+          "keyframes": 5
+        },
+        {
+          "name": "Root R Finger15",
+          "keyframes": 2
+        },
+        {
+          "name": "Root R Finger16",
+          "keyframes": 2
+        },
+        {
+          "name": "Root R Finger17",
+          "keyframes": 5
+        },
+        {
+          "name": "Root R Finger18",
+          "keyframes": 5
+        },
+        {
+          "name": "Root R Finger19",
+          "keyframes": 5
+        }
+      ]
+    },
+    {
+      "name": "RHGsign5",
+      "bones": [
+        {
+          "name": " R Hand01",
+          "keyframes": 5
+        },
+        {
+          "name": " R Finger01",
+          "keyframes": 5
+        },
+        {
+          "name": "R Finger02",
+          "keyframes": 5
+        },
+        {
+          "name": "Root R Finger05",
+          "keyframes": 5
+        },
+        {
+          "name": "Root R Finger06",
+          "keyframes": 5
+        },
+        {
+          "name": "Root R Finger07",
+          "keyframes": 5
+        },
+        {
+          "name": "Root R Finger08",
+          "keyframes": 5
+        },
+        {
+          "name": "Root R Finger09",
+          "keyframes": 5
+        },
+        {
+          "name": "Root R Finger10",
+          "keyframes": 5
+        },
+        {
+          "name": "Root R Finger13",
+          "keyframes": 5
+        },
+        {
+          "name": "Root R Finger14",
+          "keyframes": 5
+        },
+        {
+          "name": "Root R Finger15",
+          "keyframes": 5
+        },
+        {
+          "name": "Root R Finger16",
+          "keyframes": 5
+        },
+        {
+          "name": "Root R Finger17",
+          "keyframes": 5
+        },
+        {
+          "name": "Root R Finger18",
+          "keyframes": 5
+        },
+        {
+          "name": "Root R Finger19",
+          "keyframes": 5
+        }
+      ]
+    }
+  ]
+}

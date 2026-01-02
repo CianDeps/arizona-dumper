@@ -1,0 +1,26 @@
+{
+  "type": "txd",
+  "textures": [
+    {
+      "name": "carwash_pipe",
+      "width": 256,
+      "height": 256,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "carwashpiece2",
+      "width": 256,
+      "height": 128,
+      "format": "DXT5",
+      "alpha": true
+    },
+    {
+      "name": "carwashbrush",
+      "width": 256,
+      "height": 256,
+      "format": "DXT1",
+      "alpha": true
+    }
+  ]
+}

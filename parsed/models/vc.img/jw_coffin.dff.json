@@ -1,0 +1,88 @@
+{
+  "type": "dff",
+  "version": "RenderWare 3.4.0.3 (VC on PC)",
+  "modelType": 0,
+  "geometries": [
+    {
+      "index": 0,
+      "vertices": 230,
+      "triangles": 174,
+      "materials": [
+        {
+          "color": {
+            "r": 255,
+            "g": 255,
+            "b": 255,
+            "a": 255
+          },
+          "texture": null
+        },
+        {
+          "color": {
+            "r": 255,
+            "g": 255,
+            "b": 255,
+            "a": 255
+          },
+          "texture": null
+        },
+        {
+          "color": {
+            "r": 255,
+            "g": 255,
+            "b": 255,
+            "a": 255
+          },
+          "texture": null
+        }
+      ]
+    },
+    {
+      "index": 1,
+      "vertices": 372,
+      "triangles": 336,
+      "materials": [
+        {
+          "color": {
+            "r": 255,
+            "g": 255,
+            "b": 255,
+            "a": 255
+          },
+          "texture": null
+        },
+        {
+          "color": {
+            "r": 255,
+            "g": 255,
+            "b": 255,
+            "a": 255
+          },
+          "texture": null
+        },
+        {
+          "color": {
+            "r": 255,
+            "g": 255,
+            "b": 255,
+            "a": 255
+          },
+          "texture": null
+        }
+      ]
+    }
+  ],
+  "frames": 10,
+  "dummies": [
+    "Group01",
+    "jw_coffin_l1",
+    "jw_coffin_l0",
+    "Collision_Sphere60",
+    "Collision_Sphere59",
+    "Collision_Sphere58",
+    "Collision_Sphere57",
+    "Collision_Sphere56",
+    "Collision_Sphere29",
+    "Collision_Box30"
+  ]
+}

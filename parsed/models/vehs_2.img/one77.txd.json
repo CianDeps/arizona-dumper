@@ -1,0 +1,89 @@
+{
+  "type": "txd",
+  "textures": [
+    {
+      "name": "astonone_177_cabin",
+      "width": 512,
+      "height": 512,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "astonone_177_glass",
+      "width": 512,
+      "height": 256,
+      "format": "DXT3",
+      "alpha": true
+    },
+    {
+      "name": "astonone_177_lights",
+      "width": 256,
+      "height": 256,
+      "format": "DXT3",
+      "alpha": true
+    },
+    {
+      "name": "astonone_177_main",
+      "width": 512,
+      "height": 512,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "astonone_177_wheel",
+      "width": 256,
+      "height": 256,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "astonone_disk",
+      "width": 256,
+      "height": 256,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "astonone_gamebp_carbonFiber",
+      "width": 64,
+      "height": 64,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "astonone_gamebp_grille2_alpha",
+      "width": 64,
+      "height": 64,
+      "format": "DXT3",
+      "alpha": true
+    },
+    {
+      "name": "astonone_gamebp_ok",
+      "width": 8,
+      "height": 8,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "astonone_kaquan",
+      "width": 64,
+      "height": 128,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "astonone_pzero_tread",
+      "width": 128,
+      "height": 128,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "astonone_vehiclelights",
+      "width": 256,
+      "height": 256,
+      "format": "DXT3",
+      "alpha": true
+    }
+  ]
+}

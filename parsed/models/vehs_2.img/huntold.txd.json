@@ -1,0 +1,47 @@
+{
+  "type": "txd",
+  "textures": [
+    {
+      "name": "huntold_badges",
+      "width": 512,
+      "height": 512,
+      "format": "DXT4",
+      "alpha": true
+    },
+    {
+      "name": "huntold_carbon",
+      "width": 256,
+      "height": 256,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "huntold_engine",
+      "width": 256,
+      "height": 256,
+      "format": "DXT4",
+      "alpha": true
+    },
+    {
+      "name": "huntold_grille",
+      "width": 128,
+      "height": 128,
+      "format": "DXT4",
+      "alpha": true
+    },
+    {
+      "name": "huntold_interior",
+      "width": 256,
+      "height": 256,
+      "format": "DXT3",
+      "alpha": true
+    },
+    {
+      "name": "huntold_rim",
+      "width": 256,
+      "height": 256,
+      "format": "DXT1",
+      "alpha": false
+    }
+  ]
+}

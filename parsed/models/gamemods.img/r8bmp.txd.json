@@ -1,0 +1,19 @@
+{
+  "type": "txd",
+  "textures": [
+    {
+      "name": "fr8_hd",
+      "width": 32,
+      "height": 32,
+      "format": "DXT5",
+      "alpha": true
+    },
+    {
+      "name": "fr8_frame",
+      "width": 1024,
+      "height": 1024,
+      "format": "DXT1",
+      "alpha": false
+    }
+  ]
+}

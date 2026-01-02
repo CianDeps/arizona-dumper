@@ -1,0 +1,19 @@
+{
+  "type": "txd",
+  "textures": [
+    {
+      "name": "target_crv",
+      "width": 64,
+      "height": 8,
+      "format": "DXT3",
+      "alpha": true
+    },
+    {
+      "name": "target_nmbrs",
+      "width": 128,
+      "height": 16,
+      "format": "DXT1",
+      "alpha": false
+    }
+  ]
+}

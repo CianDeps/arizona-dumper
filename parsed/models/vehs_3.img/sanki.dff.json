@@ -1,0 +1,171 @@
+{
+  "type": "dff",
+  "version": "RenderWare 3.6.0.3 (SA)",
+  "modelType": 2,
+  "geometries": [
+    {
+      "index": 0,
+      "vertices": 36742,
+      "triangles": 71082,
+      "materials": [
+        {
+          "color": {
+            "r": 255,
+            "g": 204,
+            "b": 0,
+            "a": 255
+          },
+          "texture": null
+        },
+        {
+          "color": {
+            "r": 150,
+            "g": 150,
+            "b": 150,
+            "a": 255
+          },
+          "texture": null
+        },
+        {
+          "color": {
+            "r": 150,
+            "g": 150,
+            "b": 150,
+            "a": 255
+          },
+          "texture": null
+        }
+      ]
+    },
+    {
+      "index": 1,
+      "vertices": 6,
+      "triangles": 2,
+      "materials": [
+        {
+          "color": {
+            "r": 124,
+            "g": 26,
+            "b": 0,
+            "a": 255
+          },
+          "texture": null
+        }
+      ]
+    },
+    {
+      "index": 2,
+      "vertices": 16,
+      "triangles": 8,
+      "materials": [
+        {
+          "color": {
+            "r": 255,
+            "g": 255,
+            "b": 255,
+            "a": 242
+          },
+          "texture": null
+        }
+      ]
+    },
+    {
+      "index": 3,
+      "vertices": 0,
+      "triangles": 0,
+      "materials": [
+        {
+          "color": {
+            "r": 255,
+            "g": 255,
+            "b": 255,
+            "a": 255
+          },
+          "texture": null
+        }
+      ]
+    },
+    {
+      "index": 4,
+      "vertices": 1567,
+      "triangles": 2518,
+      "materials": [
+        {
+          "color": {
+            "r": 150,
+            "g": 150,
+            "b": 150,
+            "a": 255
+          },
+          "texture": null
+        }
+      ]
+    },
+    {
+      "index": 5,
+      "vertices": 1567,
+      "triangles": 2518,
+      "materials": [
+        {
+          "color": {
+            "r": 150,
+            "g": 150,
+            "b": 150,
+            "a": 255
+          },
+          "texture": null
+        }
+      ]
+    },
+    {
+      "index": 6,
+      "vertices": 3578,
+      "triangles": 5456,
+      "materials": [
+        {
+          "color": {
+            "r": 150,
+            "g": 150,
+            "b": 150,
+            "a": 255
+          },
+          "texture": null
+        },
+        {
+          "color": {
+            "r": 150,
+            "g": 150,
+            "b": 150,
+            "a": 255
+          },
+          "texture": null
+        }
+      ]
+    }
+  ],
+  "frames": 22,
+  "dummies": [
+    "quad",
+    "taillights",
+    "chassis_dummy",
+    "ped_frontseat",
+    "headlights",
+    "chasis",
+    "ped_backseat",
+    "rudder_dummy",
+    "elevator_dummy",
+    "wingtip_pos",
+    "aileron_pos",
+    "elevator",
+    "moving_prop",
+    "static_prop",
+    "door_lf_dummy",
+    "elevator_r",
+    "elevator_l",
+    "chasis",
+    "wheel_lf_dummy",
+    "wheel_rf_dummy",
+    "wheel_lb_dummy",
+    "wheel_rb_dummy"
+  ]
+}

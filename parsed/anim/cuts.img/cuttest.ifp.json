@@ -1,0 +1,33 @@
+{
+  "type": "ifp",
+  "name": "cuttest",
+  "version": 1,
+  "animations": [
+    {
+      "name": "CsColt45",
+      "bones": [
+        {
+          "name": "CsColt45:Root",
+          "keyframes": 5
+        },
+        {
+          "name": "CsColt45:Pelvis",
+          "keyframes": 3
+        }
+      ]
+    },
+    {
+      "name": "csgoldrec",
+      "bones": [
+        {
+          "name": "DummyRoot",
+          "keyframes": 11
+        },
+        {
+          "name": "csgoldrec",
+          "keyframes": 2
+        }
+      ]
+    }
+  ]
+}

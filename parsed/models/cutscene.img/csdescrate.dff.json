@@ -1,0 +1,44 @@
+{
+  "type": "dff",
+  "version": "RenderWare 3.6.0.3 (SA)",
+  "modelType": 0,
+  "geometries": [
+    {
+      "index": 0,
+      "vertices": 6,
+      "triangles": 8,
+      "materials": [
+        {
+          "color": {
+            "r": 148,
+            "g": 177,
+            "b": 26,
+            "a": 255
+          },
+          "texture": null
+        }
+      ]
+    },
+    {
+      "index": 1,
+      "vertices": 24,
+      "triangles": 12,
+      "materials": [
+        {
+          "color": {
+            "r": 255,
+            "g": 255,
+            "b": 255,
+            "a": 255
+          },
+          "texture": null
+        }
+      ]
+    }
+  ],
+  "frames": 3,
+  "dummies": [
+    "Sphere01",
+    "woodenbox_L0"
+  ]
+}

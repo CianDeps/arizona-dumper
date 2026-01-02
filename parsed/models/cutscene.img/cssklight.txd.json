@@ -1,0 +1,26 @@
+{
+  "type": "txd",
+  "textures": [
+    {
+      "name": "mp_CJ_LIGHT_FITTING",
+      "width": 64,
+      "height": 64,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "mp_CJ_Light",
+      "width": 128,
+      "height": 128,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "mp_CJ_FILLIMENT",
+      "width": 64,
+      "height": 64,
+      "format": "DXT3",
+      "alpha": true
+    }
+  ]
+}

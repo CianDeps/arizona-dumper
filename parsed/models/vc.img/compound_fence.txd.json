@@ -1,0 +1,26 @@
+{
+  "type": "txd",
+  "textures": [
+    {
+      "name": "bluemetal",
+      "width": 64,
+      "height": 64,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "dt_barb1",
+      "width": 64,
+      "height": 64,
+      "format": "DXT3",
+      "alpha": true
+    },
+    {
+      "name": "dt_fucked_fence_texture",
+      "width": 128,
+      "height": 128,
+      "format": "DXT3",
+      "alpha": true
+    }
+  ]
+}

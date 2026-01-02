@@ -1,0 +1,63 @@
+{
+  "type": "dff",
+  "version": "RenderWare 3.6.0.3 (SA)",
+  "modelType": 0,
+  "geometries": [
+    {
+      "index": 0,
+      "vertices": 150,
+      "triangles": 256,
+      "materials": [
+        {
+          "color": {
+            "r": 150,
+            "g": 150,
+            "b": 150,
+            "a": 255
+          },
+          "texture": null
+        },
+        {
+          "color": {
+            "r": 255,
+            "g": 255,
+            "b": 255,
+            "a": 255
+          },
+          "texture": null
+        }
+      ]
+    },
+    {
+      "index": 1,
+      "vertices": 150,
+      "triangles": 256,
+      "materials": [
+        {
+          "color": {
+            "r": 150,
+            "g": 150,
+            "b": 150,
+            "a": 255
+          },
+          "texture": null
+        },
+        {
+          "color": {
+            "r": 255,
+            "g": 255,
+            "b": 255,
+            "a": 255
+          },
+          "texture": null
+        }
+      ]
+    }
+  ],
+  "frames": 4,
+  "dummies": [
+    "munch_donut",
+    "munch_donut1",
+    "munch_donut2"
+  ]
+}

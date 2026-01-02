@@ -1,0 +1,26 @@
+{
+  "type": "txd",
+  "textures": [
+    {
+      "name": "sm_pinetreebit",
+      "width": 64,
+      "height": 64,
+      "format": "DXT3",
+      "alpha": true
+    },
+    {
+      "name": "Gen_Log_End",
+      "width": 128,
+      "height": 128,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "Gen_Log",
+      "width": 128,
+      "height": 256,
+      "format": "DXT1",
+      "alpha": false
+    }
+  ]
+}

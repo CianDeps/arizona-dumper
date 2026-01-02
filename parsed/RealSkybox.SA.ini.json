@@ -1,0 +1,26 @@
+{
+  "type": "config",
+  "lines": 20,
+  "content": [
+    "[Game tweaks]",
+    "MinDrawDistance    = 800.0  ",
+    "NoLowClouds        = 1      ",
+    "NoHorizonClouds    = 1       ",
+    "NoVolumetricClouds = 0       ",
+    "NoVanillaStars     = 1   ",
+    "[Skybox]",
+    "SkyboxDrawAfter      = 1       ",
+    "SkyboxFogType        = 3        ",
+    "SkyboxFogDistance    = 0.0012   ",
+    "CloudsRotationSpeed  = 0.002    ",
+    "StarsRotationSpeed   = 0.0002   ",
+    "SkyboxSizeXY         = 0.4      ",
+    "SkyboxSizeZ          = 0.2      ",
+    "CloudsMultBrightness = 0.4      ",
+    "CloudsNightDarkLimit = 0.8      ",
+    "CloudsMinBrightness  = 0.05     ",
+    "CloudsMultSunrise    = 2.5      ",
+    "CloudsCityOrange     = 1.0     ",
+    "StarsCityAlphaRemove = 1.0      "
+  ]
+}

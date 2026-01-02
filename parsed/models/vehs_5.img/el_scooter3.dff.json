@@ -1,0 +1,101 @@
+{
+  "type": "dff",
+  "version": "RenderWare 3.6.0.3 (SA)",
+  "modelType": 2,
+  "geometries": [
+    {
+      "index": 0,
+      "vertices": 2027,
+      "triangles": 2750,
+      "materials": [
+        {
+          "color": {
+            "r": 60,
+            "g": 255,
+            "b": 0,
+            "a": 255
+          },
+          "texture": null
+        }
+      ]
+    },
+    {
+      "index": 1,
+      "vertices": 6352,
+      "triangles": 3176,
+      "materials": [
+        {
+          "color": {
+            "r": 15,
+            "g": 15,
+            "b": 15,
+            "a": 255
+          },
+          "texture": null
+        }
+      ]
+    },
+    {
+      "index": 2,
+      "vertices": 2184,
+      "triangles": 2584,
+      "materials": [
+        {
+          "color": {
+            "r": 15,
+            "g": 15,
+            "b": 15,
+            "a": 255
+          },
+          "texture": null
+        }
+      ]
+    },
+    {
+      "index": 3,
+      "vertices": 407,
+      "triangles": 638,
+      "materials": [
+        {
+          "color": {
+            "r": 15,
+            "g": 15,
+            "b": 15,
+            "a": 255
+          },
+          "texture": null
+        }
+      ]
+    },
+    {
+      "index": 4,
+      "vertices": 5578,
+      "triangles": 2822,
+      "materials": [
+        {
+          "color": {
+            "r": 15,
+            "g": 15,
+            "b": 15,
+            "a": 255
+          },
+          "texture": null
+        }
+      ]
+    }
+  ],
+  "frames": 11,
+  "dummies": [
+    "el_scooter3",
+    "chassis_dummy",
+    "ped_frontseat",
+    "bargrip",
+    "headlights",
+    "taillights",
+    "body",
+    "wheel_rear",
+    "handlebars",
+    "forks_front",
+    "wheel_front"
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "type": "dff",
+  "version": "RenderWare 3.4.0.3 (VC on PC)",
+  "modelType": 0,
+  "geometries": [
+    {
+      "index": 0,
+      "vertices": 1512,
+      "triangles": 1344,
+      "materials": [
+        {
+          "color": {
+            "r": 255,
+            "g": 255,
+            "b": 255,
+            "a": 255
+          },
+          "texture": null
+        },
+        {
+          "color": {
+            "r": 255,
+            "g": 255,
+            "b": 255,
+            "a": 255
+          },
+          "texture": null
+        }
+      ]
+    }
+  ],
+  "frames": 13,
+  "dummies": [
+    "many_polys2",
+    "Collision_Box282",
+    "Collision_Box286",
+    "Collision_Box276",
+    "Collision_Box287",
+    "Collision_Box277",
+    "Collision_Box283",
+    "Collision_Box278",
+    "Collision_Box284",
+    "Collision_Box285",
+    "Collision_Box281",
+    "Collision_Box280",
+    "Collision_Box279"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "type": "txd",
+  "textures": [
+    {
+      "name": "vortexprop64A",
+      "width": 64,
+      "height": 64,
+      "format": "DXT3",
+      "alpha": true
+    },
+    {
+      "name": "vortex128x64",
+      "width": 64,
+      "height": 128,
+      "format": "DXT1",
+      "alpha": false
+    }
+  ]
+}

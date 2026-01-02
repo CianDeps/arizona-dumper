@@ -1,0 +1,208 @@
+{
+  "type": "dff",
+  "version": "RenderWare 3.6.0.3 (SA)",
+  "modelType": 2,
+  "geometries": [
+    {
+      "index": 0,
+      "vertices": 290,
+      "triangles": 208,
+      "materials": [
+        {
+          "color": {
+            "r": 204,
+            "g": 204,
+            "b": 204,
+            "a": 255
+          },
+          "texture": null
+        }
+      ]
+    },
+    {
+      "index": 1,
+      "vertices": 14516,
+      "triangles": 12619,
+      "materials": [
+        {
+          "color": {
+            "r": 204,
+            "g": 204,
+            "b": 204,
+            "a": 255
+          },
+          "texture": null
+        },
+        {
+          "color": {
+            "r": 204,
+            "g": 204,
+            "b": 204,
+            "a": 255
+          },
+          "texture": null
+        },
+        {
+          "color": {
+            "r": 255,
+            "g": 175,
+            "b": 0,
+            "a": 255
+          },
+          "texture": null
+        },
+        {
+          "color": {
+            "r": 185,
+            "g": 255,
+            "b": 0,
+            "a": 255
+          },
+          "texture": null
+        },
+        {
+          "color": {
+            "r": 3,
+            "g": 4,
+            "b": 7,
+            "a": 255
+          },
+          "texture": null
+        }
+      ]
+    },
+    {
+      "index": 2,
+      "vertices": 81,
+      "triangles": 27,
+      "materials": [
+        {
+          "color": {
+            "r": 204,
+            "g": 204,
+            "b": 204,
+            "a": 255
+          },
+          "texture": null
+        },
+        {
+          "color": {
+            "r": 255,
+            "g": 175,
+            "b": 0,
+            "a": 255
+          },
+          "texture": null
+        },
+        {
+          "color": {
+            "r": 185,
+            "g": 255,
+            "b": 0,
+            "a": 255
+          },
+          "texture": null
+        }
+      ]
+    },
+    {
+      "index": 3,
+      "vertices": 1436,
+      "triangles": 1600,
+      "materials": [
+        {
+          "color": {
+            "r": 204,
+            "g": 204,
+            "b": 204,
+            "a": 255
+          },
+          "texture": null
+        },
+        {
+          "color": {
+            "r": 204,
+            "g": 204,
+            "b": 204,
+            "a": 255
+          },
+          "texture": null
+        }
+      ]
+    },
+    {
+      "index": 4,
+      "vertices": 2035,
+      "triangles": 3328,
+      "materials": [
+        {
+          "color": {
+            "r": 255,
+            "g": 255,
+            "b": 255,
+            "a": 255
+          },
+          "texture": null
+        }
+      ]
+    },
+    {
+      "index": 5,
+      "vertices": 662,
+      "triangles": 336,
+      "materials": [
+        {
+          "color": {
+            "r": 3,
+            "g": 4,
+            "b": 7,
+            "a": 255
+          },
+          "texture": null
+        }
+      ]
+    },
+    {
+      "index": 6,
+      "vertices": 662,
+      "triangles": 336,
+      "materials": [
+        {
+          "color": {
+            "r": 3,
+            "g": 4,
+            "b": 7,
+            "a": 255
+          },
+          "texture": null
+        }
+      ]
+    }
+  ],
+  "frames": 23,
+  "dummies": [
+    "rickandmortycar",
+    "chassis_ok",
+    "wheel_rf_dummy",
+    "wheel_rb_dummy",
+    "wheel_lf_dummy",
+    "wheel_lb_dummy",
+    "chassis_vlo",
+    "Body",
+    "sticker",
+    "ped_frontseat",
+    "headlights",
+    "taillights",
+    "exhaust",
+    "engine",
+    "ug_nitro",
+    "wheel",
+    "door_lf",
+    "door_rf",
+    "plumbus",
+    "door_rf_dummy",
+    "door_lf_dummy",
+    "door_lf_ok",
+    "door_rf_ok"
+  ]
+}

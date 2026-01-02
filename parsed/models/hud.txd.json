@@ -1,0 +1,1062 @@
+{
+  "type": "txd",
+  "textures": [
+    {
+      "name": "radardisc",
+      "width": 64,
+      "height": 64,
+      "format": "DXT3",
+      "alpha": true
+    },
+    {
+      "name": "skipicon",
+      "width": 128,
+      "height": 128,
+      "format": "DXT3",
+      "alpha": true
+    },
+    {
+      "name": "siterocket",
+      "width": 32,
+      "height": 32,
+      "format": "DXT1",
+      "alpha": true
+    },
+    {
+      "name": "siteM16",
+      "width": 64,
+      "height": 64,
+      "format": "DXT3",
+      "alpha": true
+    },
+    {
+      "name": "radar_ZERO_old",
+      "width": 64,
+      "height": 64,
+      "format": "DXT1",
+      "alpha": true
+    },
+    {
+      "name": "radar_WOOZIE_old",
+      "width": 64,
+      "height": 64,
+      "format": "DXT1",
+      "alpha": true
+    },
+    {
+      "name": "radar_waypoint",
+      "width": 64,
+      "height": 64,
+      "format": "DXT3",
+      "alpha": true
+    },
+    {
+      "name": "radar_tshirt",
+      "width": 128,
+      "height": 128,
+      "format": "\u0015",
+      "alpha": true
+    },
+    {
+      "name": "radar_truck",
+      "width": 128,
+      "height": 128,
+      "format": "\u0015",
+      "alpha": true
+    },
+    {
+      "name": "radar_triadsCasino",
+      "width": 128,
+      "height": 128,
+      "format": "\u0015",
+      "alpha": true
+    },
+    {
+      "name": "radar_triads",
+      "width": 128,
+      "height": 128,
+      "format": "\u0015",
+      "alpha": true
+    },
+    {
+      "name": "radar_TorenoRanch",
+      "width": 128,
+      "height": 128,
+      "format": "\u0015",
+      "alpha": true
+    },
+    {
+      "name": "radar_TORENO",
+      "width": 128,
+      "height": 128,
+      "format": "\u0015",
+      "alpha": true
+    },
+    {
+      "name": "radar_THETRUTH",
+      "width": 128,
+      "height": 128,
+      "format": "\u0015",
+      "alpha": true
+    },
+    {
+      "name": "radar_tattoo",
+      "width": 64,
+      "height": 64,
+      "format": "DXT1",
+      "alpha": true
+    },
+    {
+      "name": "radar_SWEET",
+      "width": 64,
+      "height": 64,
+      "format": "DXT1",
+      "alpha": true
+    },
+    {
+      "name": "radar_spray",
+      "width": 64,
+      "height": 64,
+      "format": "DXT1",
+      "alpha": true
+    },
+    {
+      "name": "radar_school",
+      "width": 64,
+      "height": 64,
+      "format": "DXT1",
+      "alpha": true
+    },
+    {
+      "name": "radar_saveGame",
+      "width": 64,
+      "height": 64,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "radar_RYDER",
+      "width": 128,
+      "height": 128,
+      "format": "\u0015",
+      "alpha": true
+    },
+    {
+      "name": "radar_runway",
+      "width": 64,
+      "height": 64,
+      "format": "DXT1",
+      "alpha": true
+    },
+    {
+      "name": "radar_race",
+      "width": 128,
+      "height": 128,
+      "format": "\u0015",
+      "alpha": true
+    },
+    {
+      "name": "radar_qmark",
+      "width": 128,
+      "height": 128,
+      "format": "\u0015",
+      "alpha": true
+    },
+    {
+      "name": "radar_propertyR",
+      "width": 128,
+      "height": 128,
+      "format": "\u0015",
+      "alpha": true
+    },
+    {
+      "name": "radar_propertyG",
+      "width": 128,
+      "height": 128,
+      "format": "\u0015",
+      "alpha": true
+    },
+    {
+      "name": "radar_police",
+      "width": 64,
+      "height": 64,
+      "format": "DXT1",
+      "alpha": true
+    },
+    {
+      "name": "radar_pizza",
+      "width": 64,
+      "height": 64,
+      "format": "DXT1",
+      "alpha": true
+    },
+    {
+      "name": "radar_OGLOC",
+      "width": 64,
+      "height": 64,
+      "format": "DXT1",
+      "alpha": true
+    },
+    {
+      "name": "radar_north",
+      "width": 128,
+      "height": 128,
+      "format": "\u0015",
+      "alpha": true
+    },
+    {
+      "name": "radar_mafiaCasino",
+      "width": 64,
+      "height": 64,
+      "format": "DXT1",
+      "alpha": true
+    },
+    {
+      "name": "radar_MADDOG",
+      "width": 128,
+      "height": 128,
+      "format": "\u0015",
+      "alpha": true
+    },
+    {
+      "name": "radar_LocoSyndicate",
+      "width": 128,
+      "height": 128,
+      "format": "\u0015",
+      "alpha": true
+    },
+    {
+      "name": "radar_light",
+      "width": 64,
+      "height": 64,
+      "format": "DXT1",
+      "alpha": true
+    },
+    {
+      "name": "radar_impound",
+      "width": 64,
+      "height": 64,
+      "format": "DXT1",
+      "alpha": true
+    },
+    {
+      "name": "radar_hostpital",
+      "width": 128,
+      "height": 128,
+      "format": "\u0015",
+      "alpha": true
+    },
+    {
+      "name": "radar_gym",
+      "width": 64,
+      "height": 64,
+      "format": "DXT1",
+      "alpha": true
+    },
+    {
+      "name": "radar_gangY",
+      "width": 64,
+      "height": 64,
+      "format": "DXT1",
+      "alpha": true
+    },
+    {
+      "name": "radar_gangP",
+      "width": 64,
+      "height": 64,
+      "format": "DXT1",
+      "alpha": true
+    },
+    {
+      "name": "radar_gangN",
+      "width": 64,
+      "height": 64,
+      "format": "DXT1",
+      "alpha": true
+    },
+    {
+      "name": "radar_gangG",
+      "width": 64,
+      "height": 64,
+      "format": "DXT1",
+      "alpha": true
+    },
+    {
+      "name": "radar_gangB",
+      "width": 64,
+      "height": 64,
+      "format": "DXT1",
+      "alpha": true
+    },
+    {
+      "name": "radar_Flag",
+      "width": 64,
+      "height": 64,
+      "format": "DXT1",
+      "alpha": true
+    },
+    {
+      "name": "radar_fire",
+      "width": 64,
+      "height": 64,
+      "format": "DXT1",
+      "alpha": true
+    },
+    {
+      "name": "radar_enemyAttack",
+      "width": 64,
+      "height": 64,
+      "format": "DXT1",
+      "alpha": true
+    },
+    {
+      "name": "radar_emmetGun",
+      "width": 64,
+      "height": 64,
+      "format": "DXT1",
+      "alpha": true
+    },
+    {
+      "name": "radar_diner",
+      "width": 64,
+      "height": 64,
+      "format": "DXT1",
+      "alpha": true
+    },
+    {
+      "name": "radar_dateFood",
+      "width": 64,
+      "height": 64,
+      "format": "DXT1",
+      "alpha": true
+    },
+    {
+      "name": "radar_dateDrink",
+      "width": 64,
+      "height": 64,
+      "format": "DXT1",
+      "alpha": true
+    },
+    {
+      "name": "radar_dateDisco",
+      "width": 64,
+      "height": 64,
+      "format": "DXT3",
+      "alpha": true
+    },
+    {
+      "name": "radar_CRASH1",
+      "width": 128,
+      "height": 128,
+      "format": "\u0015",
+      "alpha": true
+    },
+    {
+      "name": "radar_CJ",
+      "width": 128,
+      "height": 128,
+      "format": "\u0015",
+      "alpha": true
+    },
+    {
+      "name": "radar_chicken",
+      "width": 128,
+      "height": 128,
+      "format": "\u0015",
+      "alpha": true
+    },
+    {
+      "name": "radar_CESARVIAPANDO",
+      "width": 64,
+      "height": 64,
+      "format": "DXT1",
+      "alpha": true
+    },
+    {
+      "name": "radar_centre",
+      "width": 64,
+      "height": 64,
+      "format": "DXT3",
+      "alpha": true
+    },
+    {
+      "name": "radar_CATALINAPINK",
+      "width": 128,
+      "height": 128,
+      "format": "\u0015",
+      "alpha": true
+    },
+    {
+      "name": "radar_cash",
+      "width": 64,
+      "height": 64,
+      "format": "DXT1",
+      "alpha": true
+    },
+    {
+      "name": "radar_burgerShot",
+      "width": 64,
+      "height": 64,
+      "format": "DXT1",
+      "alpha": true
+    },
+    {
+      "name": "radar_bulldozer",
+      "width": 64,
+      "height": 64,
+      "format": "DXT1",
+      "alpha": true
+    },
+    {
+      "name": "radar_boatyard",
+      "width": 64,
+      "height": 64,
+      "format": "DXT1",
+      "alpha": true
+    },
+    {
+      "name": "radar_BIGSMOKE",
+      "width": 128,
+      "height": 128,
+      "format": "\u0015",
+      "alpha": true
+    },
+    {
+      "name": "radar_barbers",
+      "width": 64,
+      "height": 64,
+      "format": "DXT1",
+      "alpha": true
+    },
+    {
+      "name": "radar_ammugun",
+      "width": 64,
+      "height": 64,
+      "format": "DXT1",
+      "alpha": true
+    },
+    {
+      "name": "radar_airYard",
+      "width": 64,
+      "height": 64,
+      "format": "DXT1",
+      "alpha": true
+    },
+    {
+      "name": "radarRingPlane",
+      "width": 256,
+      "height": 256,
+      "format": "DXT3",
+      "alpha": true
+    },
+    {
+      "name": "fist",
+      "width": 256,
+      "height": 256,
+      "format": "\u0015",
+      "alpha": true
+    },
+    {
+      "name": "arrow",
+      "width": 64,
+      "height": 64,
+      "format": "DXT3",
+      "alpha": true
+    },
+    {
+      "name": "radar_64",
+      "width": 128,
+      "height": 128,
+      "format": "\u0015",
+      "alpha": true
+    },
+    {
+      "name": "radar_65",
+      "width": 128,
+      "height": 128,
+      "format": "\u0015",
+      "alpha": true
+    },
+    {
+      "name": "radar_66",
+      "width": 128,
+      "height": 128,
+      "format": "DXT1",
+      "alpha": true
+    },
+    {
+      "name": "radar_67",
+      "width": 128,
+      "height": 128,
+      "format": "DXT1",
+      "alpha": true
+    },
+    {
+      "name": "radar_68",
+      "width": 128,
+      "height": 128,
+      "format": "DXT1",
+      "alpha": true
+    },
+    {
+      "name": "radar_69",
+      "width": 128,
+      "height": 128,
+      "format": "DXT1",
+      "alpha": true
+    },
+    {
+      "name": "radar_70",
+      "width": 128,
+      "height": 128,
+      "format": "DXT1",
+      "alpha": true
+    },
+    {
+      "name": "radar_71",
+      "width": 128,
+      "height": 128,
+      "format": "DXT1",
+      "alpha": true
+    },
+    {
+      "name": "radar_72",
+      "width": 128,
+      "height": 128,
+      "format": "DXT1",
+      "alpha": true
+    },
+    {
+      "name": "radar_73",
+      "width": 128,
+      "height": 128,
+      "format": "DXT1",
+      "alpha": true
+    },
+    {
+      "name": "radar_74",
+      "width": 128,
+      "height": 128,
+      "format": "DXT1",
+      "alpha": true
+    },
+    {
+      "name": "radar_75",
+      "width": 128,
+      "height": 128,
+      "format": "DXT1",
+      "alpha": true
+    },
+    {
+      "name": "radar_76",
+      "width": 128,
+      "height": 128,
+      "format": "DXT1",
+      "alpha": true
+    },
+    {
+      "name": "radar_77",
+      "width": 128,
+      "height": 128,
+      "format": "DXT1",
+      "alpha": true
+    },
+    {
+      "name": "radar_78",
+      "width": 128,
+      "height": 128,
+      "format": "DXT1",
+      "alpha": true
+    },
+    {
+      "name": "radar_79",
+      "width": 128,
+      "height": 128,
+      "format": "DXT1",
+      "alpha": true
+    },
+    {
+      "name": "radar_80",
+      "width": 128,
+      "height": 128,
+      "format": "\u0015",
+      "alpha": true
+    },
+    {
+      "name": "radar_81",
+      "width": 128,
+      "height": 128,
+      "format": "DXT1",
+      "alpha": true
+    },
+    {
+      "name": "radar_82",
+      "width": 128,
+      "height": 128,
+      "format": "DXT1",
+      "alpha": true
+    },
+    {
+      "name": "radar_83",
+      "width": 128,
+      "height": 128,
+      "format": "\u0015",
+      "alpha": true
+    },
+    {
+      "name": "radar_84",
+      "width": 128,
+      "height": 128,
+      "format": "DXT1",
+      "alpha": true
+    },
+    {
+      "name": "radar_85",
+      "width": 128,
+      "height": 128,
+      "format": "DXT1",
+      "alpha": true
+    },
+    {
+      "name": "radar_86",
+      "width": 128,
+      "height": 128,
+      "format": "DXT1",
+      "alpha": true
+    },
+    {
+      "name": "radar_87",
+      "width": 128,
+      "height": 128,
+      "format": "\u0015",
+      "alpha": true
+    },
+    {
+      "name": "radar_88",
+      "width": 128,
+      "height": 128,
+      "format": "DXT1",
+      "alpha": true
+    },
+    {
+      "name": "radar_89",
+      "width": 128,
+      "height": 128,
+      "format": "DXT1",
+      "alpha": true
+    },
+    {
+      "name": "radar_90_delete",
+      "width": 128,
+      "height": 128,
+      "format": "DXT1",
+      "alpha": true
+    },
+    {
+      "name": "radar_91",
+      "width": 128,
+      "height": 128,
+      "format": "\u0015",
+      "alpha": true
+    },
+    {
+      "name": "radar_92",
+      "width": 128,
+      "height": 128,
+      "format": "\u0015",
+      "alpha": true
+    },
+    {
+      "name": "radar_93",
+      "width": 128,
+      "height": 128,
+      "format": "\u0015",
+      "alpha": true
+    },
+    {
+      "name": "radar_94",
+      "width": 128,
+      "height": 128,
+      "format": "\u0015",
+      "alpha": true
+    },
+    {
+      "name": "radar_95",
+      "width": 128,
+      "height": 128,
+      "format": "\u0015",
+      "alpha": true
+    },
+    {
+      "name": "radar_96_delete",
+      "width": 128,
+      "height": 128,
+      "format": "\u0015",
+      "alpha": true
+    },
+    {
+      "name": "radar_97",
+      "width": 128,
+      "height": 128,
+      "format": "\u0015",
+      "alpha": true
+    },
+    {
+      "name": "radar_98",
+      "width": 128,
+      "height": 128,
+      "format": "\u0015",
+      "alpha": true
+    },
+    {
+      "name": "radar_99",
+      "width": 128,
+      "height": 128,
+      "format": "\u0015",
+      "alpha": true
+    },
+    {
+      "name": "radar_100",
+      "width": 128,
+      "height": 128,
+      "format": "\u0015",
+      "alpha": true
+    },
+    {
+      "name": "radar_101",
+      "width": 128,
+      "height": 128,
+      "format": "\u0015",
+      "alpha": true
+    },
+    {
+      "name": "radar_102",
+      "width": 128,
+      "height": 128,
+      "format": "\u0015",
+      "alpha": true
+    },
+    {
+      "name": "radar_103",
+      "width": 128,
+      "height": 128,
+      "format": "\u0015",
+      "alpha": true
+    },
+    {
+      "name": "radar_104",
+      "width": 128,
+      "height": 128,
+      "format": "\u0015",
+      "alpha": true
+    },
+    {
+      "name": "radar_105",
+      "width": 128,
+      "height": 128,
+      "format": "\u0015",
+      "alpha": true
+    },
+    {
+      "name": "radar_106",
+      "width": 128,
+      "height": 128,
+      "format": "\u0015",
+      "alpha": true
+    },
+    {
+      "name": "radar_107",
+      "width": 128,
+      "height": 128,
+      "format": "\u0015",
+      "alpha": true
+    },
+    {
+      "name": "radar_108",
+      "width": 128,
+      "height": 128,
+      "format": "\u0015",
+      "alpha": true
+    },
+    {
+      "name": "radar_109",
+      "width": 128,
+      "height": 128,
+      "format": "\u0015",
+      "alpha": true
+    },
+    {
+      "name": "radar_110",
+      "width": 128,
+      "height": 128,
+      "format": "\u0015",
+      "alpha": true
+    },
+    {
+      "name": "radar_111",
+      "width": 128,
+      "height": 128,
+      "format": "\u0015",
+      "alpha": true
+    },
+    {
+      "name": "radar_112",
+      "width": 128,
+      "height": 128,
+      "format": "\u0015",
+      "alpha": true
+    },
+    {
+      "name": "radar_113",
+      "width": 128,
+      "height": 128,
+      "format": "\u0015",
+      "alpha": true
+    },
+    {
+      "name": "radar_114",
+      "width": 128,
+      "height": 128,
+      "format": "\u0015",
+      "alpha": true
+    },
+    {
+      "name": "radar_115",
+      "width": 128,
+      "height": 128,
+      "format": "\u0015",
+      "alpha": true
+    },
+    {
+      "name": "radar_116",
+      "width": 128,
+      "height": 128,
+      "format": "\u0015",
+      "alpha": true
+    },
+    {
+      "name": "radar_117",
+      "width": 128,
+      "height": 128,
+      "format": "\u0015",
+      "alpha": true
+    },
+    {
+      "name": "radar_118",
+      "width": 128,
+      "height": 128,
+      "format": "\u0015",
+      "alpha": true
+    },
+    {
+      "name": "radar_120",
+      "width": 128,
+      "height": 128,
+      "format": "\u0015",
+      "alpha": true
+    },
+    {
+      "name": "radar_121",
+      "width": 128,
+      "height": 128,
+      "format": "\u0015",
+      "alpha": true
+    },
+    {
+      "name": "radar_122",
+      "width": 128,
+      "height": 128,
+      "format": "\u0015",
+      "alpha": true
+    },
+    {
+      "name": "radar_123",
+      "width": 128,
+      "height": 128,
+      "format": "\u0015",
+      "alpha": true
+    },
+    {
+      "name": "radar_124",
+      "width": 128,
+      "height": 128,
+      "format": "\u0015",
+      "alpha": true
+    },
+    {
+      "name": "radar_125",
+      "width": 128,
+      "height": 128,
+      "format": "\u0015",
+      "alpha": true
+    },
+    {
+      "name": "radar_126",
+      "width": 128,
+      "height": 128,
+      "format": "\u0015",
+      "alpha": true
+    },
+    {
+      "name": "radar_127",
+      "width": 128,
+      "height": 128,
+      "format": "\u0015",
+      "alpha": true
+    },
+    {
+      "name": "custom_crosshair_1",
+      "width": 40,
+      "height": 40,
+      "format": "\u0015",
+      "alpha": true
+    },
+    {
+      "name": "custom_crosshair_2",
+      "width": 45,
+      "height": 45,
+      "format": "\u0015",
+      "alpha": true
+    },
+    {
+      "name": "custom_crosshair_3",
+      "width": 45,
+      "height": 45,
+      "format": "\u0015",
+      "alpha": true
+    },
+    {
+      "name": "custom_crosshair_4",
+      "width": 45,
+      "height": 45,
+      "format": "\u0015",
+      "alpha": true
+    },
+    {
+      "name": "custom_crosshair_5",
+      "width": 45,
+      "height": 45,
+      "format": "\u0015",
+      "alpha": true
+    },
+    {
+      "name": "custom_crosshair_6",
+      "width": 45,
+      "height": 45,
+      "format": "\u0015",
+      "alpha": true
+    },
+    {
+      "name": "custom_crosshair_7",
+      "width": 45,
+      "height": 45,
+      "format": "\u0015",
+      "alpha": true
+    },
+    {
+      "name": "custom_crosshair_8",
+      "width": 35,
+      "height": 35,
+      "format": "\u0015",
+      "alpha": true
+    },
+    {
+      "name": "custom_crosshair_9",
+      "width": 35,
+      "height": 35,
+      "format": "\u0015",
+      "alpha": true
+    },
+    {
+      "name": "custom_crosshair_10",
+      "width": 40,
+      "height": 40,
+      "format": "\u0015",
+      "alpha": true
+    },
+    {
+      "name": "shot_icon",
+      "width": 512,
+      "height": 512,
+      "format": "DXT1",
+      "alpha": true
+    },
+    {
+      "name": "radar_ZERO",
+      "width": 128,
+      "height": 128,
+      "format": "DXT1",
+      "alpha": true
+    },
+    {
+      "name": "radar_WOOZIE",
+      "width": 128,
+      "height": 128,
+      "format": "\u0015",
+      "alpha": true
+    },
+    {
+      "name": "icon_quest",
+      "width": 128,
+      "height": 128,
+      "format": "\u0015",
+      "alpha": true
+    },
+    {
+      "name": "qr_telegram",
+      "width": 512,
+      "height": 512,
+      "format": "\u0015",
+      "alpha": true
+    },
+    {
+      "name": "qr_vk",
+      "width": 512,
+      "height": 512,
+      "format": "\u0015",
+      "alpha": true
+    },
+    {
+      "name": "radar_modGarage",
+      "width": 128,
+      "height": 128,
+      "format": "\u0015",
+      "alpha": true
+    },
+    {
+      "name": "radar_MCSTRAP",
+      "width": 128,
+      "height": 128,
+      "format": "\u0015",
+      "alpha": true
+    },
+    {
+      "name": "radar_girlfriend",
+      "width": 128,
+      "height": 128,
+      "format": "\u0015",
+      "alpha": true
+    },
+    {
+      "name": "radar_119",
+      "width": 128,
+      "height": 128,
+      "format": "\u0015",
+      "alpha": true
+    },
+    {
+      "name": "radar_90",
+      "width": 128,
+      "height": 128,
+      "format": "\u0015",
+      "alpha": true
+    },
+    {
+      "name": "radar_96",
+      "width": 128,
+      "height": 128,
+      "format": "\u0015",
+      "alpha": true
+    }
+  ]
+}

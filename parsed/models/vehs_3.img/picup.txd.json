@@ -1,0 +1,47 @@
+{
+  "type": "txd",
+  "textures": [
+    {
+      "name": "pickup_exterior_02d",
+      "width": 512,
+      "height": 512,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "pickup_interior_d",
+      "width": 512,
+      "height": 512,
+      "format": "\u0015",
+      "alpha": false
+    },
+    {
+      "name": "pickup_light_d",
+      "width": 256,
+      "height": 256,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "pickup_underbody_d",
+      "width": 512,
+      "height": 512,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "pickup_vehiclelights",
+      "width": 256,
+      "height": 256,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "pickup_window_d",
+      "width": 512,
+      "height": 512,
+      "format": "DXT3",
+      "alpha": false
+    }
+  ]
+}

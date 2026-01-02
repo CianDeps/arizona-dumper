@@ -1,0 +1,439 @@
+{
+  "type": "txd",
+  "textures": [
+    {
+      "name": "clear_number_usa",
+      "width": 512,
+      "height": 256,
+      "format": "DXT1",
+      "alpha": true
+    },
+    {
+      "name": "arkansas",
+      "width": 512,
+      "height": 256,
+      "format": "DXT1",
+      "alpha": true
+    },
+    {
+      "name": "california",
+      "width": 512,
+      "height": 256,
+      "format": "DXT1",
+      "alpha": true
+    },
+    {
+      "name": "colorado",
+      "width": 512,
+      "height": 256,
+      "format": "DXT1",
+      "alpha": true
+    },
+    {
+      "name": "connecticut",
+      "width": 512,
+      "height": 256,
+      "format": "DXT1",
+      "alpha": true
+    },
+    {
+      "name": "delaware",
+      "width": 512,
+      "height": 256,
+      "format": "DXT1",
+      "alpha": true
+    },
+    {
+      "name": "florida",
+      "width": 512,
+      "height": 256,
+      "format": "DXT1",
+      "alpha": true
+    },
+    {
+      "name": "georgia",
+      "width": 512,
+      "height": 256,
+      "format": "DXT1",
+      "alpha": true
+    },
+    {
+      "name": "hawaii",
+      "width": 512,
+      "height": 256,
+      "format": "DXT1",
+      "alpha": true
+    },
+    {
+      "name": "idaho",
+      "width": 512,
+      "height": 256,
+      "format": "DXT1",
+      "alpha": true
+    },
+    {
+      "name": "illinois",
+      "width": 512,
+      "height": 256,
+      "format": "DXT1",
+      "alpha": true
+    },
+    {
+      "name": "indiana",
+      "width": 512,
+      "height": 256,
+      "format": "DXT1",
+      "alpha": true
+    },
+    {
+      "name": "iowa",
+      "width": 512,
+      "height": 256,
+      "format": "DXT1",
+      "alpha": true
+    },
+    {
+      "name": "kansas",
+      "width": 512,
+      "height": 256,
+      "format": "DXT1",
+      "alpha": true
+    },
+    {
+      "name": "louisiane",
+      "width": 512,
+      "height": 256,
+      "format": "DXT1",
+      "alpha": true
+    },
+    {
+      "name": "maine",
+      "width": 512,
+      "height": 256,
+      "format": "DXT1",
+      "alpha": true
+    },
+    {
+      "name": "maryland",
+      "width": 512,
+      "height": 256,
+      "format": "DXT1",
+      "alpha": true
+    },
+    {
+      "name": "massachusetts",
+      "width": 512,
+      "height": 256,
+      "format": "DXT1",
+      "alpha": true
+    },
+    {
+      "name": "michigan",
+      "width": 512,
+      "height": 256,
+      "format": "DXT1",
+      "alpha": true
+    },
+    {
+      "name": "minnesota",
+      "width": 512,
+      "height": 256,
+      "format": "DXT1",
+      "alpha": true
+    },
+    {
+      "name": "mississippi",
+      "width": 512,
+      "height": 256,
+      "format": "DXT1",
+      "alpha": true
+    },
+    {
+      "name": "missouri",
+      "width": 512,
+      "height": 256,
+      "format": "DXT1",
+      "alpha": true
+    },
+    {
+      "name": "montana",
+      "width": 512,
+      "height": 256,
+      "format": "DXT1",
+      "alpha": true
+    },
+    {
+      "name": "nebraska",
+      "width": 512,
+      "height": 256,
+      "format": "DXT1",
+      "alpha": true
+    },
+    {
+      "name": "nevada",
+      "width": 512,
+      "height": 256,
+      "format": "DXT1",
+      "alpha": true
+    },
+    {
+      "name": "new-hampshire",
+      "width": 512,
+      "height": 256,
+      "format": "DXT1",
+      "alpha": true
+    },
+    {
+      "name": "new-jersey",
+      "width": 512,
+      "height": 256,
+      "format": "DXT1",
+      "alpha": true
+    },
+    {
+      "name": "new-mexico",
+      "width": 512,
+      "height": 256,
+      "format": "DXT1",
+      "alpha": true
+    },
+    {
+      "name": "new-york",
+      "width": 512,
+      "height": 256,
+      "format": "DXT1",
+      "alpha": true
+    },
+    {
+      "name": "north-carolina",
+      "width": 512,
+      "height": 256,
+      "format": "DXT1",
+      "alpha": true
+    },
+    {
+      "name": "north-dakota",
+      "width": 512,
+      "height": 256,
+      "format": "DXT1",
+      "alpha": true
+    },
+    {
+      "name": "ohio",
+      "width": 512,
+      "height": 256,
+      "format": "DXT1",
+      "alpha": true
+    },
+    {
+      "name": "oklahoma",
+      "width": 512,
+      "height": 256,
+      "format": "DXT1",
+      "alpha": true
+    },
+    {
+      "name": "oregon",
+      "width": 512,
+      "height": 256,
+      "format": "DXT1",
+      "alpha": true
+    },
+    {
+      "name": "pennsylvania",
+      "width": 512,
+      "height": 256,
+      "format": "DXT1",
+      "alpha": true
+    },
+    {
+      "name": "rhode-island",
+      "width": 512,
+      "height": 256,
+      "format": "DXT1",
+      "alpha": true
+    },
+    {
+      "name": "south-carolina",
+      "width": 512,
+      "height": 256,
+      "format": "DXT1",
+      "alpha": true
+    },
+    {
+      "name": "south-dakota",
+      "width": 512,
+      "height": 256,
+      "format": "DXT1",
+      "alpha": true
+    },
+    {
+      "name": "tennessee",
+      "width": 512,
+      "height": 256,
+      "format": "DXT1",
+      "alpha": true
+    },
+    {
+      "name": "texas",
+      "width": 512,
+      "height": 256,
+      "format": "DXT1",
+      "alpha": true
+    },
+    {
+      "name": "utah",
+      "width": 512,
+      "height": 256,
+      "format": "DXT1",
+      "alpha": true
+    },
+    {
+      "name": "vermont",
+      "width": 512,
+      "height": 256,
+      "format": "DXT1",
+      "alpha": true
+    },
+    {
+      "name": "virginia",
+      "width": 512,
+      "height": 256,
+      "format": "DXT1",
+      "alpha": true
+    },
+    {
+      "name": "washington",
+      "width": 512,
+      "height": 256,
+      "format": "DXT1",
+      "alpha": true
+    },
+    {
+      "name": "west-virginia",
+      "width": 512,
+      "height": 256,
+      "format": "DXT1",
+      "alpha": true
+    },
+    {
+      "name": "wisconsin",
+      "width": 512,
+      "height": 256,
+      "format": "DXT1",
+      "alpha": true
+    },
+    {
+      "name": "wyoming",
+      "width": 512,
+      "height": 256,
+      "format": "DXT1",
+      "alpha": true
+    },
+    {
+      "name": "alabama",
+      "width": 512,
+      "height": 256,
+      "format": "DXT1",
+      "alpha": true
+    },
+    {
+      "name": "alaska",
+      "width": 512,
+      "height": 256,
+      "format": "DXT1",
+      "alpha": true
+    },
+    {
+      "name": "arizona",
+      "width": 512,
+      "height": 256,
+      "format": "DXT1",
+      "alpha": true
+    },
+    {
+      "name": "clear_number_ua",
+      "width": 512,
+      "height": 128,
+      "format": "\u0015",
+      "alpha": true
+    },
+    {
+      "name": "clear_number_by",
+      "width": 512,
+      "height": 128,
+      "format": "\u0015",
+      "alpha": true
+    },
+    {
+      "name": "clear_number_kz",
+      "width": 512,
+      "height": 128,
+      "format": "\u0015",
+      "alpha": true
+    },
+    {
+      "name": "clear_number_ru",
+      "width": 512,
+      "height": 128,
+      "format": "\u0015",
+      "alpha": true
+    },
+    {
+      "name": "number_insurance",
+      "width": 512,
+      "height": 256,
+      "format": "\u0015",
+      "alpha": true
+    },
+    {
+      "name": "number_ghetto",
+      "width": 512,
+      "height": 256,
+      "format": "\u0015",
+      "alpha": true
+    },
+    {
+      "name": "number_licensing",
+      "width": 512,
+      "height": 256,
+      "format": "\u0015",
+      "alpha": true
+    },
+    {
+      "name": "number_tvstudio",
+      "width": 512,
+      "height": 256,
+      "format": "\u0015",
+      "alpha": true
+    },
+    {
+      "name": "number_goverement",
+      "width": 512,
+      "height": 256,
+      "format": "\u0015",
+      "alpha": true
+    },
+    {
+      "name": "number_army",
+      "width": 512,
+      "height": 256,
+      "format": "\u0015",
+      "alpha": true
+    },
+    {
+      "name": "number_hospital",
+      "width": 512,
+      "height": 256,
+      "format": "\u0015",
+      "alpha": true
+    },
+    {
+      "name": "number_police",
+      "width": 512,
+      "height": 256,
+      "format": "\u0015",
+      "alpha": true
+    }
+  ]
+}

@@ -1,0 +1,151 @@
+{
+  "type": "dff",
+  "version": "RenderWare 3.6.0.3 (SA)",
+  "modelType": 2,
+  "geometries": [
+    {
+      "index": 0,
+      "vertices": 84,
+      "triangles": 92,
+      "materials": [
+        {
+          "color": {
+            "r": 0,
+            "g": 0,
+            "b": 0,
+            "a": 255
+          },
+          "texture": null
+        },
+        {
+          "color": {
+            "r": 255,
+            "g": 255,
+            "b": 255,
+            "a": 255
+          },
+          "texture": null
+        }
+      ]
+    },
+    {
+      "index": 1,
+      "vertices": 633,
+      "triangles": 496,
+      "materials": [
+        {
+          "color": {
+            "r": 0,
+            "g": 0,
+            "b": 0,
+            "a": 127
+          },
+          "texture": null
+        },
+        {
+          "color": {
+            "r": 255,
+            "g": 255,
+            "b": 255,
+            "a": 255
+          },
+          "texture": null
+        },
+        {
+          "color": {
+            "r": 135,
+            "g": 130,
+            "b": 104,
+            "a": 255
+          },
+          "texture": null
+        },
+        {
+          "color": {
+            "r": 0,
+            "g": 0,
+            "b": 0,
+            "a": 255
+          },
+          "texture": null
+        },
+        {
+          "color": {
+            "r": 255,
+            "g": 255,
+            "b": 255,
+            "a": 255
+          },
+          "texture": null
+        }
+      ]
+    },
+    {
+      "index": 2,
+      "vertices": 151,
+      "triangles": 141,
+      "materials": [
+        {
+          "color": {
+            "r": 135,
+            "g": 130,
+            "b": 104,
+            "a": 255
+          },
+          "texture": null
+        },
+        {
+          "color": {
+            "r": 0,
+            "g": 0,
+            "b": 0,
+            "a": 255
+          },
+          "texture": null
+        }
+      ]
+    },
+    {
+      "index": 3,
+      "vertices": 114,
+      "triangles": 108,
+      "materials": [
+        {
+          "color": {
+            "r": 135,
+            "g": 130,
+            "b": 104,
+            "a": 255
+          },
+          "texture": null
+        },
+        {
+          "color": {
+            "r": 0,
+            "g": 0,
+            "b": 0,
+            "a": 255
+          },
+          "texture": null
+        }
+      ]
+    }
+  ],
+  "frames": 14,
+  "dummies": [
+    "rctiger",
+    "wheel_rf_dummy",
+    "wheel_rb_dummy",
+    "wheel_lf_dummy",
+    "wheel_lb_dummy",
+    "taillights",
+    "headlights",
+    "chassis_dummy",
+    "ped_frontseat",
+    "chassis",
+    "misc_a",
+    "misc_b",
+    "misc_c",
+    "wheel"
+  ]
+}

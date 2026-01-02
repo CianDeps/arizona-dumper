@@ -1,0 +1,26 @@
+{
+  "type": "txd",
+  "textures": [
+    {
+      "name": "ct_tastle",
+      "width": 16,
+      "height": 128,
+      "format": "DXT3",
+      "alpha": true
+    },
+    {
+      "name": "ct_rope",
+      "width": 128,
+      "height": 16,
+      "format": "DXT3",
+      "alpha": true
+    },
+    {
+      "name": "ct_lantern",
+      "width": 32,
+      "height": 32,
+      "format": "DXT1",
+      "alpha": false
+    }
+  ]
+}

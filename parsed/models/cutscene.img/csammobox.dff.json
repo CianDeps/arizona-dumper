@@ -1,0 +1,44 @@
+{
+  "type": "dff",
+  "version": "RenderWare 3.6.0.3 (SA)",
+  "modelType": 0,
+  "geometries": [
+    {
+      "index": 0,
+      "vertices": 24,
+      "triangles": 12,
+      "materials": [
+        {
+          "color": {
+            "r": 154,
+            "g": 154,
+            "b": 229,
+            "a": 255
+          },
+          "texture": null
+        }
+      ]
+    },
+    {
+      "index": 1,
+      "vertices": 96,
+      "triangles": 56,
+      "materials": [
+        {
+          "color": {
+            "r": 255,
+            "g": 255,
+            "b": 255,
+            "a": 255
+          },
+          "texture": null
+        }
+      ]
+    }
+  ],
+  "frames": 3,
+  "dummies": [
+    "Box01",
+    "AMMO_BOX_M1"
+  ]
+}

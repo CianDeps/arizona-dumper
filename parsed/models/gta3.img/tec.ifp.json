@@ -1,0 +1,267 @@
+{
+  "type": "ifp",
+  "name": "TEC",
+  "version": 0,
+  "animations": [
+    {
+      "name": "TEC_crouchfire",
+      "bones": [
+        {
+          "name": "Root",
+          "keyframes": 30
+        },
+        {
+          "name": "Pelvis",
+          "keyframes": 30
+        },
+        {
+          "name": "Spine",
+          "keyframes": 30
+        },
+        {
+          "name": "Spine1",
+          "keyframes": 30
+        },
+        {
+          "name": "Neck",
+          "keyframes": 30
+        },
+        {
+          "name": "Head",
+          "keyframes": 30
+        },
+        {
+          "name": "Bip01 L Clavicle",
+          "keyframes": 30
+        },
+        {
+          "name": "L UpperArm",
+          "keyframes": 30
+        },
+        {
+          "name": "L Forearm",
+          "keyframes": 30
+        },
+        {
+          "name": "L Hand",
+          "keyframes": 30
+        },
+        {
+          "name": "L Finger",
+          "keyframes": 30
+        },
+        {
+          "name": "Bip01 R Clavicle",
+          "keyframes": 30
+        },
+        {
+          "name": "R UpperArm",
+          "keyframes": 30
+        },
+        {
+          "name": "R Forearm",
+          "keyframes": 30
+        },
+        {
+          "name": "R Hand",
+          "keyframes": 30
+        },
+        {
+          "name": "R Finger",
+          "keyframes": 30
+        },
+        {
+          "name": "L Thigh",
+          "keyframes": 30
+        },
+        {
+          "name": "L Calf",
+          "keyframes": 30
+        },
+        {
+          "name": "L Foot",
+          "keyframes": 30
+        },
+        {
+          "name": "R Thigh",
+          "keyframes": 30
+        },
+        {
+          "name": "R Calf",
+          "keyframes": 30
+        },
+        {
+          "name": "R Foot",
+          "keyframes": 30
+        }
+      ]
+    },
+    {
+      "name": "TEC_crouchreload",
+      "bones": [
+        {
+          "name": "Root",
+          "keyframes": 41
+        },
+        {
+          "name": "Pelvis",
+          "keyframes": 41
+        },
+        {
+          "name": "Spine",
+          "keyframes": 41
+        },
+        {
+          "name": "Spine1",
+          "keyframes": 41
+        },
+        {
+          "name": "Neck",
+          "keyframes": 41
+        },
+        {
+          "name": "Head",
+          "keyframes": 41
+        },
+        {
+          "name": "Bip01 L Clavicle",
+          "keyframes": 41
+        },
+        {
+          "name": "L UpperArm",
+          "keyframes": 41
+        },
+        {
+          "name": "L Forearm",
+          "keyframes": 41
+        },
+        {
+          "name": "L Hand",
+          "keyframes": 41
+        },
+        {
+          "name": "L Finger",
+          "keyframes": 41
+        },
+        {
+          "name": "Bip01 R Clavicle",
+          "keyframes": 41
+        },
+        {
+          "name": "R UpperArm",
+          "keyframes": 41
+        },
+        {
+          "name": "R Forearm",
+          "keyframes": 41
+        },
+        {
+          "name": "R Hand",
+          "keyframes": 41
+        },
+        {
+          "name": "R Finger",
+          "keyframes": 41
+        },
+        {
+          "name": "L Thigh",
+          "keyframes": 41
+        },
+        {
+          "name": "L Calf",
+          "keyframes": 41
+        },
+        {
+          "name": "L Foot",
+          "keyframes": 41
+        },
+        {
+          "name": "R Thigh",
+          "keyframes": 41
+        },
+        {
+          "name": "R Calf",
+          "keyframes": 41
+        },
+        {
+          "name": "R Foot",
+          "keyframes": 41
+        }
+      ]
+    },
+    {
+      "name": "TEC_fire",
+      "bones": [
+        {
+          "name": "R UpperArm",
+          "keyframes": 11
+        },
+        {
+          "name": "R Forearm",
+          "keyframes": 10
+        },
+        {
+          "name": "R Hand",
+          "keyframes": 9
+        }
+      ]
+    },
+    {
+      "name": "TEC_reload",
+      "bones": [
+        {
+          "name": "Spine1",
+          "keyframes": 46
+        },
+        {
+          "name": "Neck",
+          "keyframes": 46
+        },
+        {
+          "name": "Head",
+          "keyframes": 46
+        },
+        {
+          "name": "Bip01 L Clavicle",
+          "keyframes": 46
+        },
+        {
+          "name": "L UpperArm",
+          "keyframes": 46
+        },
+        {
+          "name": "L Forearm",
+          "keyframes": 46
+        },
+        {
+          "name": "L Hand",
+          "keyframes": 46
+        },
+        {
+          "name": "L Finger",
+          "keyframes": 46
+        },
+        {
+          "name": "Bip01 R Clavicle",
+          "keyframes": 41
+        },
+        {
+          "name": "R UpperArm",
+          "keyframes": 41
+        },
+        {
+          "name": "R Forearm",
+          "keyframes": 41
+        },
+        {
+          "name": "R Hand",
+          "keyframes": 41
+        },
+        {
+          "name": "R Finger",
+          "keyframes": 41
+        }
+      ]
+    }
+  ]
+}

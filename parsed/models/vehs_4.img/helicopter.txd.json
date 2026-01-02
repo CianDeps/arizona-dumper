@@ -1,0 +1,54 @@
+{
+  "type": "txd",
+  "textures": [
+    {
+      "name": "helicopter_body",
+      "width": 1024,
+      "height": 1024,
+      "format": "DXT3",
+      "alpha": true
+    },
+    {
+      "name": "helicopter_rotor",
+      "width": 512,
+      "height": 512,
+      "format": "DXT1",
+      "alpha": true
+    },
+    {
+      "name": "helicopter_weps",
+      "width": 256,
+      "height": 256,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "helicopter_display",
+      "width": 512,
+      "height": 512,
+      "format": "DXT3",
+      "alpha": true
+    },
+    {
+      "name": "helicopter_radiator",
+      "width": 256,
+      "height": 256,
+      "format": "DXT1",
+      "alpha": true
+    },
+    {
+      "name": "helicopter_carbon",
+      "width": 128,
+      "height": 128,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "helicopter_wad",
+      "width": 2024,
+      "height": 1024,
+      "format": "DXT1",
+      "alpha": true
+    }
+  ]
+}

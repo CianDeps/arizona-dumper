@@ -1,0 +1,453 @@
+{
+  "type": "txd",
+  "textures": [
+    {
+      "name": "smoke5",
+      "width": 32,
+      "height": 32,
+      "format": "\u0016",
+      "alpha": false
+    },
+    {
+      "name": "bullethitsmoke",
+      "width": 64,
+      "height": 64,
+      "format": "\u0015",
+      "alpha": true
+    },
+    {
+      "name": "smoke4",
+      "width": 32,
+      "height": 32,
+      "format": "\u0016",
+      "alpha": false
+    },
+    {
+      "name": "sphere",
+      "width": 64,
+      "height": 64,
+      "format": "\u0015",
+      "alpha": true
+    },
+    {
+      "name": "bullethitsmoke1",
+      "width": 64,
+      "height": 64,
+      "format": "\u0015",
+      "alpha": true
+    },
+    {
+      "name": "waterspark_16",
+      "width": 64,
+      "height": 64,
+      "format": "\u0015",
+      "alpha": true
+    },
+    {
+      "name": "glassmall",
+      "width": 32,
+      "height": 32,
+      "format": "\u0015",
+      "alpha": true
+    },
+    {
+      "name": "smokeII_3",
+      "width": 32,
+      "height": 32,
+      "format": "\u0015",
+      "alpha": true
+    },
+    {
+      "name": "cardebris_01",
+      "width": 32,
+      "height": 32,
+      "format": "\u0015",
+      "alpha": true
+    },
+    {
+      "name": "cardebris_02",
+      "width": 32,
+      "height": 32,
+      "format": "\u0015",
+      "alpha": true
+    },
+    {
+      "name": "cardebris_03",
+      "width": 32,
+      "height": 32,
+      "format": "\u0015",
+      "alpha": true
+    },
+    {
+      "name": "cardebris_04",
+      "width": 32,
+      "height": 32,
+      "format": "\u0015",
+      "alpha": true
+    },
+    {
+      "name": "cardebris_05",
+      "width": 32,
+      "height": 32,
+      "format": "\u0015",
+      "alpha": true
+    },
+    {
+      "name": "cement",
+      "width": 32,
+      "height": 32,
+      "format": "\u0015",
+      "alpha": true
+    },
+    {
+      "name": "gameleaf01_64",
+      "width": 64,
+      "height": 64,
+      "format": "\u0015",
+      "alpha": true
+    },
+    {
+      "name": "wgush1",
+      "width": 64,
+      "height": 64,
+      "format": "\u0015",
+      "alpha": true
+    },
+    {
+      "name": "wjet2",
+      "width": 64,
+      "height": 64,
+      "format": "\u0015",
+      "alpha": true
+    },
+    {
+      "name": "beastie",
+      "width": 16,
+      "height": 16,
+      "format": "\u0015",
+      "alpha": true
+    },
+    {
+      "name": "collisionsmoke",
+      "width": 64,
+      "height": 64,
+      "format": "\u0015",
+      "alpha": true
+    },
+    {
+      "name": "splash_up",
+      "width": 32,
+      "height": 32,
+      "format": "\u0016",
+      "alpha": false
+    },
+    {
+      "name": "carsplash_02",
+      "width": 64,
+      "height": 64,
+      "format": "\u0015",
+      "alpha": true
+    },
+    {
+      "name": "wjet4",
+      "width": 128,
+      "height": 128,
+      "format": "\u0015",
+      "alpha": true
+    },
+    {
+      "name": "bubbles",
+      "width": 32,
+      "height": 32,
+      "format": "\u0015",
+      "alpha": true
+    },
+    {
+      "name": "boatsplash",
+      "width": 64,
+      "height": 64,
+      "format": "\u0015",
+      "alpha": true
+    },
+    {
+      "name": "gensplash",
+      "width": 64,
+      "height": 64,
+      "format": "\u0015",
+      "alpha": true
+    },
+    {
+      "name": "coronaringa",
+      "width": 64,
+      "height": 64,
+      "format": "\u0016",
+      "alpha": false
+    },
+    {
+      "name": "smoke",
+      "width": 32,
+      "height": 32,
+      "format": "\u0015",
+      "alpha": true
+    },
+    {
+      "name": "pointlight",
+      "width": 32,
+      "height": 32,
+      "format": "\u0015",
+      "alpha": true
+    },
+    {
+      "name": "cloudmasked",
+      "width": 64,
+      "height": 64,
+      "format": "\u0015",
+      "alpha": true
+    },
+    {
+      "name": "sphere_CJ",
+      "width": 64,
+      "height": 64,
+      "format": "\u0015",
+      "alpha": true
+    },
+    {
+      "name": "wjet6",
+      "width": 64,
+      "height": 64,
+      "format": "\u0015",
+      "alpha": true
+    },
+    {
+      "name": "fireball6",
+      "width": 32,
+      "height": 32,
+      "format": "\u0015",
+      "alpha": true
+    },
+    {
+      "name": "boatwake1",
+      "width": 64,
+      "height": 64,
+      "format": "\u0016",
+      "alpha": false
+    },
+    {
+      "name": "splash_up2",
+      "width": 32,
+      "height": 32,
+      "format": "\u0016",
+      "alpha": false
+    },
+    {
+      "name": "splash_up1",
+      "width": 32,
+      "height": 32,
+      "format": "\u0016",
+      "alpha": false
+    },
+    {
+      "name": "gunshell",
+      "width": 32,
+      "height": 32,
+      "format": "\u0015",
+      "alpha": true
+    },
+    {
+      "name": "flake1",
+      "width": 128,
+      "height": 128,
+      "format": "\u0015",
+      "alpha": true
+    },
+    {
+      "name": "flake2",
+      "width": 64,
+      "height": 64,
+      "format": "\u0015",
+      "alpha": true
+    },
+    {
+      "name": "snow1",
+      "width": 512,
+      "height": 512,
+      "format": "\u0015",
+      "alpha": true
+    },
+    {
+      "name": "snow2",
+      "width": 512,
+      "height": 512,
+      "format": "\u0015",
+      "alpha": true
+    },
+    {
+      "name": "snow3",
+      "width": 512,
+      "height": 512,
+      "format": "\u0015",
+      "alpha": true
+    },
+    {
+      "name": "smoothsparkl",
+      "width": 128,
+      "height": 128,
+      "format": "\u0015",
+      "alpha": true
+    },
+    {
+      "name": "lightnina",
+      "width": 256,
+      "height": 256,
+      "format": "\u0015",
+      "alpha": true
+    },
+    {
+      "name": "particle_flare_010",
+      "width": 128,
+      "height": 128,
+      "format": "\u0015",
+      "alpha": true
+    },
+    {
+      "name": "ex1t10",
+      "width": 256,
+      "height": 256,
+      "format": "\u0015",
+      "alpha": true
+    },
+    {
+      "name": "fireball6",
+      "width": 256,
+      "height": 256,
+      "format": "\u0015",
+      "alpha": true
+    },
+    {
+      "name": "bnw_fireball",
+      "width": 256,
+      "height": 256,
+      "format": "\u0015",
+      "alpha": true
+    },
+    {
+      "name": "whitestars",
+      "width": 128,
+      "height": 128,
+      "format": "DXT5",
+      "alpha": true
+    },
+    {
+      "name": "whitestarsaura",
+      "width": 256,
+      "height": 256,
+      "format": "DXT5",
+      "alpha": true
+    },
+    {
+      "name": "goldstars",
+      "width": 128,
+      "height": 128,
+      "format": "DXT5",
+      "alpha": true
+    },
+    {
+      "name": "goldstarsaura",
+      "width": 256,
+      "height": 256,
+      "format": "DXT5",
+      "alpha": true
+    },
+    {
+      "name": "portalEff",
+      "width": 180,
+      "height": 404,
+      "format": "DXT3",
+      "alpha": true
+    },
+    {
+      "name": "cdsmoke2",
+      "width": 1024,
+      "height": 1024,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "cdsmoke1",
+      "width": 1024,
+      "height": 1024,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "red_eye",
+      "width": 512,
+      "height": 512,
+      "format": "DXT5",
+      "alpha": true
+    },
+    {
+      "name": "lightning",
+      "width": 256,
+      "height": 384,
+      "format": "DXT3",
+      "alpha": true
+    },
+    {
+      "name": "circleshield",
+      "width": 256,
+      "height": 256,
+      "format": "DXT5",
+      "alpha": true
+    },
+    {
+      "name": "fur1",
+      "width": 256,
+      "height": 256,
+      "format": "DXT3",
+      "alpha": true
+    },
+    {
+      "name": "heart1",
+      "width": 256,
+      "height": 256,
+      "format": "DXT3",
+      "alpha": true
+    },
+    {
+      "name": "hexagon1",
+      "width": 256,
+      "height": 256,
+      "format": "DXT5",
+      "alpha": true
+    },
+    {
+      "name": "santahead1",
+      "width": 256,
+      "height": 256,
+      "format": "DXT3",
+      "alpha": true
+    },
+    {
+      "name": "santahead2",
+      "width": 256,
+      "height": 256,
+      "format": "DXT3",
+      "alpha": true
+    },
+    {
+      "name": "butterfly1",
+      "width": 256,
+      "height": 256,
+      "format": "DXT5",
+      "alpha": true
+    },
+    {
+      "name": "snowstorm1",
+      "width": 128,
+      "height": 128,
+      "format": "DXT5",
+      "alpha": true
+    }
+  ]
+}

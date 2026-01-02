@@ -1,0 +1,25 @@
+{
+  "type": "ifp",
+  "name": "LAw2",
+  "version": 0,
+  "animations": [
+    {
+      "name": "lightbeam_base",
+      "bones": [
+        {
+          "name": "lighthouse_beam",
+          "keyframes": 12
+        }
+      ]
+    },
+    {
+      "name": "sanpedlithus_law2",
+      "bones": [
+        {
+          "name": "lighthouse_beam",
+          "keyframes": 12
+        }
+      ]
+    }
+  ]
+}

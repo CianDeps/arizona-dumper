@@ -1,0 +1,24 @@
+{
+  "type": "ifp",
+  "name": "AnimTube",
+  "version": 0,
+  "animations": [
+    {
+      "name": "AnimTube",
+      "bones": [
+        {
+          "name": "Middle1",
+          "keyframes": 5
+        },
+        {
+          "name": "Middle2",
+          "keyframes": 5
+        },
+        {
+          "name": "Middle3",
+          "keyframes": 5
+        }
+      ]
+    }
+  ]
+}

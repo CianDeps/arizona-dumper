@@ -1,0 +1,47 @@
+{
+  "type": "dff",
+  "version": "RenderWare 3.6.0.3 (SA)",
+  "modelType": 2,
+  "geometries": [
+    {
+      "index": 0,
+      "vertices": 2404,
+      "triangles": 3386,
+      "materials": [
+        {
+          "color": {
+            "r": 204,
+            "g": 204,
+            "b": 204,
+            "a": 255
+          },
+          "texture": null
+        }
+      ]
+    }
+  ],
+  "frames": 21,
+  "dummies": [
+    "maverick",
+    "chassis_dummy",
+    "wheel_rf_dummy",
+    "ped_frontseat",
+    "wheel_lb_dummy",
+    "wheel_lf_dummy",
+    "wheel_rb_dummy",
+    "door_lf_dummy",
+    "door_rf_dummy",
+    "door_lr_dummy",
+    "door_rr_dummy",
+    "chassis",
+    "moving_rotor",
+    "moving_rotor2",
+    "static_rotor2",
+    "static_rotor",
+    "body",
+    "door_lf_ok",
+    "door_rf_ok",
+    "door_lr_ok",
+    "door_rr_ok"
+  ]
+}

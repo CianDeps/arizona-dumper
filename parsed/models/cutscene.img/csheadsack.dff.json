@@ -1,0 +1,40 @@
+{
+  "type": "dff",
+  "version": "RenderWare 3.6.0.3 (SA)",
+  "modelType": 1,
+  "geometries": [
+    {
+      "index": 0,
+      "vertices": 227,
+      "triangles": 450,
+      "materials": [
+        {
+          "color": {
+            "r": 255,
+            "g": 255,
+            "b": 255,
+            "a": 255
+          },
+          "texture": null
+        }
+      ]
+    }
+  ],
+  "frames": 15,
+  "dummies": [
+    "Root",
+    "Pelvis",
+    "R Thigh",
+    "L Thigh",
+    "Bip01 R Clavicle",
+    "Bip01 L Clavicle",
+    "L UpperArm",
+    "L Forearm",
+    "R UpperArm",
+    "R Forearm",
+    "L Calf",
+    "L Foot",
+    "R Calf",
+    "R Foot"
+  ]
+}

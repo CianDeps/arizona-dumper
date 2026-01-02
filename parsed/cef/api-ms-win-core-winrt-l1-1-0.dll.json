@@ -1,0 +1,39 @@
+{
+  "type": "binary",
+  "size": 3584,
+  "md5": "3972594f2f26a868b7a0fdf81d3db753",
+  "strings": [
+    "!This program cannot be run in DOS mode.",
+    "`.rsrc",
+    "@.reloc",
+    "api-ms-win-core-winrt-l1-1-0.pdb",
+    "api-ms-win-core-winrt-l1-1-0.dll",
+    "RoActivateInstance",
+    "RoGetActivationFactory",
+    "RoGetApartmentIdentifier",
+    "RoInitialize",
+    "RoRegisterActivationFactories",
+    "RoRegisterForApartmentShutdown",
+    "RoRevokeActivationFactories",
+    "RoUninitialize",
+    "RoUnregisterForApartmentShutdown"
+  ],
+  "pe": {
+    "imports": [
+      "0.dll"
+    ],
+    "exports": [
+      "Rich",
+      "RSDS",
+      "RoActivateInstance",
+      "RoGetActivationFactory",
+      "RoGetApartmentIdentifier",
+      "RoInitialize",
+      "RoRegisterActivationFactories",
+      "RoRegisterForApartmentShutdown",
+      "RoRevokeActivationFactories",
+      "RoUninitialize",
+      "RoUnregisterForApartmentShutdown"
+    ]
+  }
+}

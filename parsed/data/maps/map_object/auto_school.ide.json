@@ -1,0 +1,30 @@
+{
+  "type": "config",
+  "lines": 24,
+  "content": [
+    "objs",
+    "10311, byild_driv_school_1, driv_sch, 300, 0",
+    "11757, byild_driv_schoo_a, gta_tree_pine, 300, 2097156",
+    "10312, lod_byild_driv_sch, lod_driv_sch, 1000, 128",
+    "10314, driv_sch_overpass_1, driv_sch, 300, 0",
+    "10745, lod_driv_sch_over, lod_driv_sch, 1000, 128",
+    "10746, driv_sch_sign_1, driv_sch, 150, 128",
+    "10747, driv_sch_sign_2, driv_sch, 150, 128",
+    "10748, driv_sch_charg_1, driv_sch, 300, 0",
+    "11418, driv_sch_barrier_1, driv_sch, 150, 128",
+    "11419, driv_sch_barrier_12, driv_sch, 150, 128",
+    "11754, driv_sch_barrier_2, driv_sch, 150, 2097284",
+    "11755, land_driv_school_1, driv_sch, 300, 0",
+    "11756, lod_land_driv_sch, driv_sch, 800, 128",
+    "11759, fence_driv_school_1, driv_sch, 300, 0",
+    "end",
+    "txdp",
+    "driv_sch, driv_sch_def_sa",
+    "end",
+    "drivingsch_sfs.dff",
+    "drivingschlgnd_sfs.dff",
+    "lodingschlgnd_sfs.dff",
+    "sfse_12.col - drivingsch_sfs.col",
+    "sfse_stream4.ipl"
+  ]
+}

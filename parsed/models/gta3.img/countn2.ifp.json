@@ -1,0 +1,70 @@
+{
+  "type": "ifp",
+  "name": "countn2",
+  "version": 0,
+  "animations": [
+    {
+      "name": "a51_radar_scan",
+      "bones": [
+        {
+          "name": "a51_radar_wipe",
+          "keyframes": 5
+        }
+      ]
+    },
+    {
+      "name": "cn2_ringking",
+      "bones": [
+        {
+          "name": "cn2_ringkingnut",
+          "keyframes": 19
+        }
+      ]
+    },
+    {
+      "name": "des_cockbody",
+      "bones": [
+        {
+          "name": "des_cockhead",
+          "keyframes": 31
+        }
+      ]
+    },
+    {
+      "name": "des_stmotsigbas1",
+      "bones": [
+        {
+          "name": "des_stwnmotsign1",
+          "keyframes": 24
+        }
+      ]
+    },
+    {
+      "name": "des_ufosign",
+      "bones": [
+        {
+          "name": "des_ufosignbit",
+          "keyframes": 37
+        }
+      ]
+    },
+    {
+      "name": "ufo_light02",
+      "bones": [
+        {
+          "name": "ufo_fan02",
+          "keyframes": 4
+        }
+      ]
+    },
+    {
+      "name": "ufo_light03",
+      "bones": [
+        {
+          "name": "ufo_fan03",
+          "keyframes": 4
+        }
+      ]
+    }
+  ]
+}
