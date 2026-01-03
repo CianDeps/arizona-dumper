@@ -1,0 +1,116 @@
+name: Release
+
+on:
+  workflow_run:
+    workflows: ["Check Updates"]
+    types: [completed]
+    branches: [main]
+  workflow_dispatch:
+    inputs:
+      full_release:
+        description: "Create full base release"
+        type: boolean
+        default: false
+
+permissions:
+  contents: write
+
+jobs:
+  release:
+    runs-on: ubuntu-latest
+    if: ${{ github.event_name == 'workflow_dispatch' || github.event.workflow_run.conclusion == 'success' }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 2
+
+      - name: Check if data changed
+        id: changes
+        run: |
+          if git diff --name-only HEAD~1 HEAD | grep -q "^data/manifest.json"; then
+            echo "changed=true" >> $GITHUB_OUTPUT
+          else
+            echo "changed=false" >> $GITHUB_OUTPUT
+          fi
+
+      - name: Skip if no changes
+        if: steps.changes.outputs.changed == 'false' && github.event_name != 'workflow_dispatch'
+        run: echo "No manifest changes, skipping release"
+
+      - uses: oven-sh/setup-bun@v2
+        if: steps.changes.outputs.changed == 'true' || github.event_name == 'workflow_dispatch'
+
+      - name: Install xdelta3
+        if: steps.changes.outputs.changed == 'true' || github.event_name == 'workflow_dispatch'
+        run: sudo apt-get install -y xdelta3
+
+      - run: bun install
+        if: steps.changes.outputs.changed == 'true' || github.event_name == 'workflow_dispatch'
+
+      - name: Download game files
+        if: steps.changes.outputs.changed == 'true' || github.event_name == 'workflow_dispatch'
+        run: bun run download game_new
+
+      - name: Create archive
+        if: steps.changes.outputs.changed == 'true' || github.event_name == 'workflow_dispatch'
+        run: tar -czf game_new.tar.gz -C game_new .
+
+      - name: Get latest base release
+        id: base
+        if: (steps.changes.outputs.changed == 'true' || github.event_name == 'workflow_dispatch') && github.event.inputs.full_release != 'true'
+        run: |
+          BASE_TAG=$(gh release list --limit 100 | grep "base-" | head -1 | awk '{print $1}' || echo "")
+          if [ -n "$BASE_TAG" ]; then
+            echo "tag=$BASE_TAG" >> $GITHUB_OUTPUT
+            echo "found=true" >> $GITHUB_OUTPUT
+          else
+            echo "found=false" >> $GITHUB_OUTPUT
+          fi
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Download base release
+        if: steps.base.outputs.found == 'true' && github.event.inputs.full_release != 'true'
+        run: |
+          gh release download ${{ steps.base.outputs.tag }} -p "game.tar.gz" -O game_base.tar.gz
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Create xdelta patch
+        id: patch
+        if: steps.base.outputs.found == 'true' && github.event.inputs.full_release != 'true'
+        run: |
+          xdelta3 -e -9 -s game_base.tar.gz game_new.tar.gz patch.xdelta
+          echo "created=true" >> $GITHUB_OUTPUT
+
+      - name: Generate release tag
+        id: tag
+        if: steps.changes.outputs.changed == 'true' || github.event_name == 'workflow_dispatch'
+        run: |
+          DATE=$(date -u +%Y%m%d-%H%M%S)
+          if [ "${{ github.event.inputs.full_release }}" == "true" ] || [ "${{ steps.base.outputs.found }}" != "true" ]; then
+            echo "tag=base-$DATE" >> $GITHUB_OUTPUT
+            echo "is_base=true" >> $GITHUB_OUTPUT
+          else
+            echo "tag=patch-$DATE" >> $GITHUB_OUTPUT
+            echo "is_base=false" >> $GITHUB_OUTPUT
+          fi
+
+      - name: Create base release
+        if: steps.tag.outputs.is_base == 'true'
+        run: |
+          mv game_new.tar.gz game.tar.gz
+          gh release create ${{ steps.tag.outputs.tag }} game.tar.gz \
+            --title "Base Release ${{ steps.tag.outputs.tag }}" \
+            --notes "Full game archive. Use as base for applying patches."
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Create patch release
+        if: steps.tag.outputs.is_base == 'false' && steps.patch.outputs.created == 'true'
+        run: |
+          gh release create ${{ steps.tag.outputs.tag }} patch.xdelta \
+            --title "Patch ${{ steps.tag.outputs.tag }}" \
+            --notes "XDelta patch from ${{ steps.base.outputs.tag }}. Apply with: xdelta3 -d -s game_base.tar.gz patch.xdelta game_new.tar.gz"
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
