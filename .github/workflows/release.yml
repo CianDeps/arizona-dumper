@@ -72,7 +72,8 @@ jobs:
       - name: Download base release
         if: steps.base.outputs.found == 'true' && github.event.inputs.full_release != 'true'
         run: |
-          gh release download ${{ steps.base.outputs.tag }} -p "game.tar.gz" -O game_base.tar.gz
+          gh release download ${{ steps.base.outputs.tag }} -p "game.tar.gz*" -D base_parts
+          cat base_parts/game.tar.gz* > game_base.tar.gz
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
@@ -99,10 +100,10 @@ jobs:
       - name: Create base release
         if: steps.tag.outputs.is_base == 'true'
         run: |
-          mv game_new.tar.gz game.tar.gz
-          gh release create ${{ steps.tag.outputs.tag }} game.tar.gz \
+          split -b 1900M game_new.tar.gz game.tar.gz.part
+          gh release create ${{ steps.tag.outputs.tag }} game.tar.gz.part* \
             --title "Base Release ${{ steps.tag.outputs.tag }}" \
-            --notes "Full game archive. Use as base for applying patches."
+            --notes "Full game archive (split). Merge with: cat game.tar.gz.part* > game.tar.gz"
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
