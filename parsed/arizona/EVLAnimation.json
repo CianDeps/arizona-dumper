@@ -1,4 +1,3513 @@
 {
   "type": "json",
-  "data": {}
+  "data": {
+    "corona_animations": [
+      {
+        "name": "just_blink_red_1",
+        "frames": [
+          {
+            "color": {
+              "r": 255,
+              "g": 0,
+              "b": 0,
+              "a": 255
+            },
+            "scale": 0,
+            "time": 0,
+            "is_smoothed": false
+          },
+          {
+            "color": {
+              "r": 255,
+              "g": 0,
+              "b": 0,
+              "a": 255
+            },
+            "scale": 1.5,
+            "time": 1,
+            "is_smoothed": false
+          },
+          {
+            "color": {
+              "r": 255,
+              "g": 0,
+              "b": 0,
+              "a": 255
+            },
+            "scale": 0,
+            "time": 2,
+            "is_smoothed": false
+          }
+        ]
+      },
+      {
+        "name": "just_blink_red_smoothed",
+        "frames": [
+          {
+            "color": {
+              "r": 255,
+              "g": 0,
+              "b": 0,
+              "a": 255
+            },
+            "scale": 0,
+            "time": 0,
+            "is_smoothed": true
+          },
+          {
+            "color": {
+              "r": 255,
+              "g": 0,
+              "b": 0,
+              "a": 255
+            },
+            "scale": 1.5,
+            "time": 1,
+            "is_smoothed": true
+          },
+          {
+            "color": {
+              "r": 255,
+              "g": 0,
+              "b": 0,
+              "a": 255
+            },
+            "scale": 0,
+            "time": 2,
+            "is_smoothed": true
+          }
+        ]
+      },
+      {
+        "name": "double_blink_red_1",
+        "frames": [
+          {
+            "color": {
+              "r": 255,
+              "g": 0,
+              "b": 0,
+              "a": 255
+            },
+            "scale": 0,
+            "time": 0,
+            "is_smoothed": false
+          },
+          {
+            "color": {
+              "r": 255,
+              "g": 0,
+              "b": 0,
+              "a": 255
+            },
+            "scale": 1.5,
+            "time": 0.3,
+            "is_smoothed": false
+          },
+          {
+            "color": {
+              "r": 255,
+              "g": 0,
+              "b": 0,
+              "a": 255
+            },
+            "scale": 0,
+            "time": 0.35,
+            "is_smoothed": false
+          },
+          {
+            "color": {
+              "r": 255,
+              "g": 0,
+              "b": 0,
+              "a": 255
+            },
+            "scale": 1.5,
+            "time": 0.4,
+            "is_smoothed": false
+          },
+          {
+            "color": {
+              "r": 255,
+              "g": 0,
+              "b": 0,
+              "a": 255
+            },
+            "scale": 0,
+            "time": 0.45,
+            "is_smoothed": false
+          }
+        ]
+      },
+      {
+        "name": "just_blink_blue_1",
+        "frames": [
+          {
+            "color": {
+              "r": 0,
+              "g": 0,
+              "b": 255,
+              "a": 255
+            },
+            "scale": 0,
+            "time": 0,
+            "is_smoothed": false
+          },
+          {
+            "color": {
+              "r": 0,
+              "g": 0,
+              "b": 255,
+              "a": 255
+            },
+            "scale": 1.5,
+            "time": 1,
+            "is_smoothed": false
+          },
+          {
+            "color": {
+              "r": 0,
+              "g": 0,
+              "b": 255,
+              "a": 255
+            },
+            "scale": 0,
+            "time": 2,
+            "is_smoothed": false
+          }
+        ]
+      },
+      {
+        "name": "just_blink_blue_smoothed",
+        "frames": [
+          {
+            "color": {
+              "r": 0,
+              "g": 0,
+              "b": 255,
+              "a": 255
+            },
+            "scale": 0,
+            "time": 0,
+            "is_smoothed": true
+          },
+          {
+            "color": {
+              "r": 0,
+              "g": 0,
+              "b": 255,
+              "a": 255
+            },
+            "scale": 1.5,
+            "time": 1,
+            "is_smoothed": true
+          },
+          {
+            "color": {
+              "r": 0,
+              "g": 0,
+              "b": 255,
+              "a": 255
+            },
+            "scale": 0,
+            "time": 2,
+            "is_smoothed": true
+          }
+        ]
+      },
+      {
+        "name": "double_blink_blue_1",
+        "frames": [
+          {
+            "color": {
+              "r": 0,
+              "g": 0,
+              "b": 255,
+              "a": 255
+            },
+            "scale": 0,
+            "time": 0,
+            "is_smoothed": false
+          },
+          {
+            "color": {
+              "r": 0,
+              "g": 0,
+              "b": 255,
+              "a": 255
+            },
+            "scale": 1.5,
+            "time": 0.3,
+            "is_smoothed": false
+          },
+          {
+            "color": {
+              "r": 0,
+              "g": 0,
+              "b": 255,
+              "a": 255
+            },
+            "scale": 0,
+            "time": 0.35,
+            "is_smoothed": false
+          },
+          {
+            "color": {
+              "r": 0,
+              "g": 0,
+              "b": 255,
+              "a": 255
+            },
+            "scale": 1.5,
+            "time": 0.4,
+            "is_smoothed": false
+          },
+          {
+            "color": {
+              "r": 0,
+              "g": 0,
+              "b": 255,
+              "a": 255
+            },
+            "scale": 0,
+            "time": 0.45,
+            "is_smoothed": false
+          }
+        ]
+      },
+      {
+        "name": "just_blink_white_1",
+        "frames": [
+          {
+            "color": {
+              "r": 255,
+              "g": 255,
+              "b": 255,
+              "a": 255
+            },
+            "scale": 0,
+            "time": 0,
+            "is_smoothed": true
+          },
+          {
+            "color": {
+              "r": 255,
+              "g": 255,
+              "b": 255,
+              "a": 255
+            },
+            "scale": 1.5,
+            "time": 1,
+            "is_smoothed": true
+          },
+          {
+            "color": {
+              "r": 255,
+              "g": 255,
+              "b": 255,
+              "a": 255
+            },
+            "scale": 0,
+            "time": 2,
+            "is_smoothed": true
+          }
+        ]
+      },
+      {
+        "name": "double_blink_white_1",
+        "frames": [
+          {
+            "color": {
+              "r": 255,
+              "g": 255,
+              "b": 255,
+              "a": 255
+            },
+            "scale": 0,
+            "time": 0,
+            "is_smoothed": false
+          },
+          {
+            "color": {
+              "r": 255,
+              "g": 255,
+              "b": 255,
+              "a": 255
+            },
+            "scale": 1.5,
+            "time": 0.3,
+            "is_smoothed": false
+          },
+          {
+            "color": {
+              "r": 255,
+              "g": 255,
+              "b": 255,
+              "a": 255
+            },
+            "scale": 0,
+            "time": 0.35,
+            "is_smoothed": false
+          },
+          {
+            "color": {
+              "r": 255,
+              "g": 255,
+              "b": 255,
+              "a": 255
+            },
+            "scale": 1.5,
+            "time": 0.4,
+            "is_smoothed": false
+          },
+          {
+            "color": {
+              "r": 255,
+              "g": 255,
+              "b": 255,
+              "a": 255
+            },
+            "scale": 0,
+            "time": 0.45,
+            "is_smoothed": false
+          }
+        ]
+      },
+      {
+        "name": "just_blink_orange_1",
+        "frames": [
+          {
+            "color": {
+              "r": 255,
+              "g": 64,
+              "b": 0,
+              "a": 255
+            },
+            "scale": 0,
+            "time": 0,
+            "is_smoothed": true
+          },
+          {
+            "color": {
+              "r": 255,
+              "g": 64,
+              "b": 0,
+              "a": 255
+            },
+            "scale": 1,
+            "time": 1,
+            "is_smoothed": true
+          },
+          {
+            "color": {
+              "r": 255,
+              "g": 64,
+              "b": 0,
+              "a": 255
+            },
+            "scale": 0,
+            "time": 2,
+            "is_smoothed": true
+          }
+        ]
+      },
+      {
+        "name": "police_undercover_1",
+        "frames": [
+          {
+            "color": {
+              "r": 0,
+              "g": 0,
+              "b": 255,
+              "a": 255
+            },
+            "scale": 0,
+            "time": 0,
+            "is_smoothed": true
+          },
+          {
+            "color": {
+              "r": 0,
+              "g": 0,
+              "b": 255,
+              "a": 255
+            },
+            "scale": 1,
+            "time": 1,
+            "is_smoothed": true
+          },
+          {
+            "color": {
+              "r": 0,
+              "g": 0,
+              "b": 255,
+              "a": 255
+            },
+            "scale": 0,
+            "time": 2,
+            "is_smoothed": true
+          },
+          {
+            "color": {
+              "r": 255,
+              "g": 0,
+              "b": 0,
+              "a": 255
+            },
+            "scale": 0,
+            "time": 3,
+            "is_smoothed": true
+          },
+          {
+            "color": {
+              "r": 255,
+              "g": 0,
+              "b": 0,
+              "a": 255
+            },
+            "scale": 1,
+            "time": 4,
+            "is_smoothed": true
+          },
+          {
+            "color": {
+              "r": 255,
+              "g": 0,
+              "b": 0,
+              "a": 255
+            },
+            "scale": 0,
+            "time": 5,
+            "is_smoothed": true
+          }
+        ]
+      }
+    ],
+    "material_animations": [
+      {
+        "name": "just_blink_red_1",
+        "frames": [
+          {
+            "color": {
+              "r": 255,
+              "g": 0,
+              "b": 0,
+              "a": 255
+            },
+            "is_enabled": false,
+            "is_smoothed": false,
+            "time": 0
+          },
+          {
+            "color": {
+              "r": 255,
+              "g": 0,
+              "b": 0,
+              "a": 255
+            },
+            "is_enabled": true,
+            "is_smoothed": false,
+            "time": 1
+          },
+          {
+            "color": {
+              "r": 255,
+              "g": 0,
+              "b": 0,
+              "a": 255
+            },
+            "is_enabled": false,
+            "is_smoothed": false,
+            "time": 2
+          }
+        ]
+      },
+      {
+        "name": "double_blink_red_1",
+        "frames": [
+          {
+            "color": {
+              "r": 255,
+              "g": 0,
+              "b": 0,
+              "a": 255
+            },
+            "is_enabled": false,
+            "is_smoothed": false,
+            "time": 0
+          },
+          {
+            "color": {
+              "r": 255,
+              "g": 0,
+              "b": 0,
+              "a": 255
+            },
+            "is_enabled": true,
+            "is_smoothed": false,
+            "time": 0.3
+          },
+          {
+            "color": {
+              "r": 255,
+              "g": 0,
+              "b": 0,
+              "a": 255
+            },
+            "is_enabled": false,
+            "is_smoothed": false,
+            "time": 0.35
+          },
+          {
+            "color": {
+              "r": 255,
+              "g": 0,
+              "b": 0,
+              "a": 255
+            },
+            "is_enabled": true,
+            "is_smoothed": false,
+            "time": 0.4
+          },
+          {
+            "color": {
+              "r": 255,
+              "g": 0,
+              "b": 0,
+              "a": 255
+            },
+            "is_enabled": false,
+            "is_smoothed": false,
+            "time": 0.45
+          }
+        ]
+      },
+      {
+        "name": "just_blink_blue_1",
+        "frames": [
+          {
+            "color": {
+              "r": 0,
+              "g": 0,
+              "b": 255,
+              "a": 255
+            },
+            "is_enabled": false,
+            "is_smoothed": false,
+            "time": 0
+          },
+          {
+            "color": {
+              "r": 0,
+              "g": 0,
+              "b": 255,
+              "a": 255
+            },
+            "is_enabled": true,
+            "is_smoothed": true,
+            "time": 1
+          },
+          {
+            "color": {
+              "r": 0,
+              "g": 0,
+              "b": 255,
+              "a": 255
+            },
+            "is_enabled": false,
+            "is_smoothed": false,
+            "time": 2
+          }
+        ]
+      },
+      {
+        "name": "double_blink_blue_1",
+        "frames": [
+          {
+            "color": {
+              "r": 0,
+              "g": 0,
+              "b": 255,
+              "a": 255
+            },
+            "is_enabled": false,
+            "is_smoothed": false,
+            "time": 0
+          },
+          {
+            "color": {
+              "r": 0,
+              "g": 0,
+              "b": 255,
+              "a": 255
+            },
+            "is_enabled": true,
+            "is_smoothed": false,
+            "time": 0.3
+          },
+          {
+            "color": {
+              "r": 0,
+              "g": 0,
+              "b": 255,
+              "a": 255
+            },
+            "is_enabled": false,
+            "is_smoothed": false,
+            "time": 0.35
+          },
+          {
+            "color": {
+              "r": 0,
+              "g": 0,
+              "b": 255,
+              "a": 255
+            },
+            "is_enabled": true,
+            "is_smoothed": false,
+            "time": 0.4
+          },
+          {
+            "color": {
+              "r": 0,
+              "g": 0,
+              "b": 255,
+              "a": 255
+            },
+            "is_enabled": false,
+            "is_smoothed": false,
+            "time": 0.45
+          }
+        ]
+      },
+      {
+        "name": "just_blink_white_1",
+        "frames": [
+          {
+            "color": {
+              "r": 255,
+              "g": 255,
+              "b": 255,
+              "a": 255
+            },
+            "is_enabled": false,
+            "is_smoothed": true,
+            "time": 0
+          },
+          {
+            "color": {
+              "r": 255,
+              "g": 255,
+              "b": 255,
+              "a": 255
+            },
+            "is_enabled": true,
+            "is_smoothed": true,
+            "time": 1
+          },
+          {
+            "color": {
+              "r": 255,
+              "g": 255,
+              "b": 255,
+              "a": 255
+            },
+            "is_enabled": false,
+            "is_smoothed": true,
+            "time": 2
+          }
+        ]
+      },
+      {
+        "name": "double_blink_white_1",
+        "frames": [
+          {
+            "color": {
+              "r": 255,
+              "g": 255,
+              "b": 255,
+              "a": 255
+            },
+            "is_enabled": false,
+            "is_smoothed": false,
+            "time": 0
+          },
+          {
+            "color": {
+              "r": 255,
+              "g": 255,
+              "b": 255,
+              "a": 255
+            },
+            "is_enabled": true,
+            "is_smoothed": false,
+            "time": 0.3
+          },
+          {
+            "color": {
+              "r": 255,
+              "g": 255,
+              "b": 255,
+              "a": 255
+            },
+            "is_enabled": false,
+            "is_smoothed": false,
+            "time": 0.35
+          },
+          {
+            "color": {
+              "r": 255,
+              "g": 255,
+              "b": 255,
+              "a": 255
+            },
+            "is_enabled": true,
+            "is_smoothed": false,
+            "time": 0.4
+          },
+          {
+            "color": {
+              "r": 255,
+              "g": 255,
+              "b": 255,
+              "a": 255
+            },
+            "is_enabled": false,
+            "is_smoothed": false,
+            "time": 0.45
+          }
+        ]
+      },
+      {
+        "name": "just_blink_orange_1",
+        "frames": [
+          {
+            "color": {
+              "r": 255,
+              "g": 64,
+              "b": 0,
+              "a": 255
+            },
+            "is_enabled": false,
+            "is_smoothed": true,
+            "time": 0
+          },
+          {
+            "color": {
+              "r": 255,
+              "g": 64,
+              "b": 0,
+              "a": 255
+            },
+            "is_enabled": true,
+            "is_smoothed": true,
+            "time": 1
+          },
+          {
+            "color": {
+              "r": 255,
+              "g": 64,
+              "b": 0,
+              "a": 255
+            },
+            "is_enabled": false,
+            "is_smoothed": true,
+            "time": 2
+          }
+        ]
+      },
+      {
+        "name": "police_undercover_1",
+        "frames": [
+          {
+            "color": {
+              "r": 0,
+              "g": 0,
+              "b": 255,
+              "a": 255
+            },
+            "is_enabled": false,
+            "is_smoothed": true,
+            "time": 0
+          },
+          {
+            "color": {
+              "r": 0,
+              "g": 0,
+              "b": 255,
+              "a": 255
+            },
+            "is_enabled": true,
+            "is_smoothed": true,
+            "time": 1
+          },
+          {
+            "color": {
+              "r": 0,
+              "g": 0,
+              "b": 255,
+              "a": 255
+            },
+            "is_enabled": false,
+            "is_smoothed": true,
+            "time": 2
+          },
+          {
+            "color": {
+              "r": 255,
+              "g": 0,
+              "b": 0,
+              "a": 255
+            },
+            "is_enabled": false,
+            "is_smoothed": true,
+            "time": 3
+          },
+          {
+            "color": {
+              "r": 255,
+              "g": 0,
+              "b": 0,
+              "a": 255
+            },
+            "is_enabled": true,
+            "is_smoothed": true,
+            "time": 4
+          },
+          {
+            "color": {
+              "r": 255,
+              "g": 0,
+              "b": 0,
+              "a": 255
+            },
+            "is_enabled": false,
+            "is_smoothed": true,
+            "time": 5
+          }
+        ]
+      }
+    ],
+    "vehicle_settings": [
+      {
+        "model_id": 4803,
+        "coronas": [
+          {
+            "bone_name": "evl_blue_1",
+            "animation": "just_blink_blue_1",
+            "start_time": 1,
+            "speed": 3
+          },
+          {
+            "bone_name": "evl_blue_2",
+            "animation": "just_blink_blue_1",
+            "start_time": 1,
+            "speed": 3
+          },
+          {
+            "bone_name": "evl_blue_3",
+            "animation": "just_blink_blue_1",
+            "start_time": 1,
+            "speed": 3
+          },
+          {
+            "bone_name": "evl_blue_4",
+            "animation": "just_blink_blue_1",
+            "start_time": 1,
+            "speed": 3
+          },
+          {
+            "bone_name": "evl_blue_5",
+            "animation": "just_blink_blue_1",
+            "start_time": 1,
+            "speed": 3
+          },
+          {
+            "bone_name": "evl_blue_6",
+            "animation": "just_blink_blue_1",
+            "start_time": 1,
+            "speed": 3
+          },
+          {
+            "bone_name": "evl_blue_7",
+            "animation": "just_blink_blue_1",
+            "start_time": 1,
+            "speed": 3
+          },
+          {
+            "bone_name": "evl_blue_8",
+            "animation": "just_blink_blue_1",
+            "start_time": 1,
+            "speed": 3
+          },
+          {
+            "bone_name": "evl_blue_9",
+            "animation": "just_blink_blue_1",
+            "start_time": 1,
+            "speed": 3
+          },
+          {
+            "bone_name": "evl_red_1",
+            "animation": "just_blink_red_1",
+            "start_time": 0,
+            "speed": 3
+          },
+          {
+            "bone_name": "evl_red_2",
+            "animation": "just_blink_red_1",
+            "start_time": 0,
+            "speed": 3
+          },
+          {
+            "bone_name": "evl_red_3",
+            "animation": "just_blink_red_1",
+            "start_time": 0,
+            "speed": 3
+          },
+          {
+            "bone_name": "evl_red_4",
+            "animation": "just_blink_red_1",
+            "start_time": 0,
+            "speed": 3
+          },
+          {
+            "bone_name": "evl_red_5",
+            "animation": "just_blink_red_1",
+            "start_time": 0,
+            "speed": 3
+          },
+          {
+            "bone_name": "evl_red_6",
+            "animation": "just_blink_red_1",
+            "start_time": 0,
+            "speed": 3
+          },
+          {
+            "bone_name": "evl_red_7",
+            "animation": "just_blink_red_1",
+            "start_time": 0,
+            "speed": 3
+          },
+          {
+            "bone_name": "evl_red_8",
+            "animation": "just_blink_red_1",
+            "start_time": 0,
+            "speed": 3
+          },
+          {
+            "bone_name": "evl_red_9",
+            "animation": "just_blink_red_1",
+            "start_time": 0,
+            "speed": 3
+          }
+        ],
+        "materials": [
+          {
+            "group": 0,
+            "animation": "just_blink_red_1",
+            "start_time": 0,
+            "speed": 3
+          },
+          {
+            "group": 1,
+            "animation": "just_blink_blue_1",
+            "start_time": 1,
+            "speed": 3
+          }
+        ]
+      },
+      {
+        "model_id": 4796,
+        "coronas": [
+          {
+            "bone_name": "evl_red_1",
+            "animation": "just_blink_red_smoothed",
+            "start_time": 0,
+            "speed": 2
+          },
+          {
+            "bone_name": "evl_red_2",
+            "animation": "just_blink_red_smoothed",
+            "start_time": 1,
+            "speed": 2
+          },
+          {
+            "bone_name": "evl_red_3",
+            "animation": "just_blink_red_smoothed",
+            "start_time": 0,
+            "speed": 2
+          },
+          {
+            "bone_name": "evl_red_4",
+            "animation": "just_blink_red_smoothed",
+            "start_time": 1,
+            "speed": 2
+          },
+          {
+            "bone_name": "evl_red_5",
+            "animation": "just_blink_red_smoothed",
+            "start_time": 1,
+            "speed": 2
+          },
+          {
+            "bone_name": "evl_red_6",
+            "animation": "just_blink_red_smoothed",
+            "start_time": 0,
+            "speed": 2
+          },
+          {
+            "bone_name": "evl_red_7",
+            "animation": "just_blink_red_smoothed",
+            "start_time": 1,
+            "speed": 2
+          },
+          {
+            "bone_name": "evl_red_8",
+            "animation": "just_blink_red_smoothed",
+            "start_time": 0,
+            "speed": 2
+          },
+          {
+            "bone_name": "evl_red_9",
+            "animation": "just_blink_red_smoothed",
+            "start_time": 0,
+            "speed": 2
+          },
+          {
+            "bone_name": "evl_red_10",
+            "animation": "just_blink_red_smoothed",
+            "start_time": 1,
+            "speed": 2
+          },
+          {
+            "bone_name": "evl_red_11",
+            "animation": "just_blink_red_smoothed",
+            "start_time": 0,
+            "speed": 2
+          },
+          {
+            "bone_name": "evl_red_12",
+            "animation": "just_blink_red_smoothed",
+            "start_time": 1,
+            "speed": 2
+          },
+          {
+            "bone_name": "evl_red_13",
+            "animation": "just_blink_red_smoothed",
+            "start_time": 1,
+            "speed": 2
+          },
+          {
+            "bone_name": "evl_red_14",
+            "animation": "just_blink_red_smoothed",
+            "start_time": 0,
+            "speed": 2
+          },
+          {
+            "bone_name": "evl_red_15",
+            "animation": "just_blink_red_smoothed",
+            "start_time": 1,
+            "speed": 2
+          },
+          {
+            "bone_name": "evl_red_16",
+            "animation": "just_blink_red_smoothed",
+            "start_time": 0,
+            "speed": 2
+          }
+        ],
+        "materials": [
+          {
+            "group": 0,
+            "animation": "just_blink_red_smoothed",
+            "start_time": 0,
+            "speed": 2
+          },
+          {
+            "group": 1,
+            "animation": "just_blink_red_smoothed",
+            "start_time": 1,
+            "speed": 2
+          }
+        ]
+      },
+      {
+        "model_id": 4797,
+        "coronas": [
+          {
+            "bone_name": "evl_red_1",
+            "animation": "just_blink_red_smoothed",
+            "start_time": 0,
+            "speed": 2
+          },
+          {
+            "bone_name": "evl_red_2",
+            "animation": "just_blink_red_smoothed",
+            "start_time": 1,
+            "speed": 2
+          },
+          {
+            "bone_name": "evl_red_3",
+            "animation": "just_blink_red_smoothed",
+            "start_time": 0,
+            "speed": 2
+          },
+          {
+            "bone_name": "evl_red_4",
+            "animation": "just_blink_red_smoothed",
+            "start_time": 1,
+            "speed": 2
+          },
+          {
+            "bone_name": "evl_red_5",
+            "animation": "just_blink_red_smoothed",
+            "start_time": 1,
+            "speed": 2
+          },
+          {
+            "bone_name": "evl_red_6",
+            "animation": "just_blink_red_smoothed",
+            "start_time": 0,
+            "speed": 2
+          },
+          {
+            "bone_name": "evl_red_7",
+            "animation": "just_blink_red_smoothed",
+            "start_time": 1,
+            "speed": 2
+          },
+          {
+            "bone_name": "evl_red_8",
+            "animation": "just_blink_red_smoothed",
+            "start_time": 0,
+            "speed": 2
+          },
+          {
+            "bone_name": "evl_red_9",
+            "animation": "just_blink_red_smoothed",
+            "start_time": 0,
+            "speed": 2
+          },
+          {
+            "bone_name": "evl_red_10",
+            "animation": "just_blink_red_smoothed",
+            "start_time": 1,
+            "speed": 2
+          },
+          {
+            "bone_name": "evl_red_11",
+            "animation": "just_blink_red_smoothed",
+            "start_time": 0,
+            "speed": 2
+          },
+          {
+            "bone_name": "evl_red_12",
+            "animation": "just_blink_red_smoothed",
+            "start_time": 1,
+            "speed": 2
+          },
+          {
+            "bone_name": "evl_red_13",
+            "animation": "just_blink_red_smoothed",
+            "start_time": 1,
+            "speed": 2
+          },
+          {
+            "bone_name": "evl_red_14",
+            "animation": "just_blink_red_smoothed",
+            "start_time": 0,
+            "speed": 2
+          },
+          {
+            "bone_name": "evl_red_15",
+            "animation": "just_blink_red_smoothed",
+            "start_time": 1,
+            "speed": 2
+          },
+          {
+            "bone_name": "evl_red_16",
+            "animation": "just_blink_red_smoothed",
+            "start_time": 0,
+            "speed": 2
+          }
+        ],
+        "materials": [
+          {
+            "group": 0,
+            "animation": "just_blink_red_smoothed",
+            "start_time": 0,
+            "speed": 2
+          },
+          {
+            "group": 1,
+            "animation": "just_blink_red_smoothed",
+            "start_time": 1,
+            "speed": 2
+          }
+        ]
+      },
+      {
+        "model_id": 4798,
+        "coronas": [
+          {
+            "bone_name": "evl_red_1",
+            "animation": "just_blink_red_smoothed",
+            "start_time": 0,
+            "speed": 2
+          },
+          {
+            "bone_name": "evl_red_2",
+            "animation": "just_blink_red_smoothed",
+            "start_time": 1,
+            "speed": 2
+          },
+          {
+            "bone_name": "evl_red_3",
+            "animation": "just_blink_red_smoothed",
+            "start_time": 0,
+            "speed": 2
+          },
+          {
+            "bone_name": "evl_red_4",
+            "animation": "just_blink_red_smoothed",
+            "start_time": 1,
+            "speed": 2
+          },
+          {
+            "bone_name": "evl_red_5",
+            "animation": "just_blink_red_smoothed",
+            "start_time": 1,
+            "speed": 2
+          },
+          {
+            "bone_name": "evl_red_6",
+            "animation": "just_blink_red_smoothed",
+            "start_time": 0,
+            "speed": 2
+          },
+          {
+            "bone_name": "evl_red_7",
+            "animation": "just_blink_red_smoothed",
+            "start_time": 1,
+            "speed": 2
+          },
+          {
+            "bone_name": "evl_red_8",
+            "animation": "just_blink_red_smoothed",
+            "start_time": 0,
+            "speed": 2
+          },
+          {
+            "bone_name": "evl_red_9",
+            "animation": "just_blink_red_smoothed",
+            "start_time": 0,
+            "speed": 2
+          },
+          {
+            "bone_name": "evl_red_10",
+            "animation": "just_blink_red_smoothed",
+            "start_time": 1,
+            "speed": 2
+          },
+          {
+            "bone_name": "evl_red_11",
+            "animation": "just_blink_red_smoothed",
+            "start_time": 0,
+            "speed": 2
+          },
+          {
+            "bone_name": "evl_red_12",
+            "animation": "just_blink_red_smoothed",
+            "start_time": 1,
+            "speed": 2
+          },
+          {
+            "bone_name": "evl_red_13",
+            "animation": "just_blink_red_smoothed",
+            "start_time": 1,
+            "speed": 2
+          },
+          {
+            "bone_name": "evl_red_14",
+            "animation": "just_blink_red_smoothed",
+            "start_time": 0,
+            "speed": 2
+          },
+          {
+            "bone_name": "evl_red_15",
+            "animation": "just_blink_red_smoothed",
+            "start_time": 1,
+            "speed": 2
+          },
+          {
+            "bone_name": "evl_red_16",
+            "animation": "just_blink_red_smoothed",
+            "start_time": 0,
+            "speed": 2
+          }
+        ],
+        "materials": [
+          {
+            "group": 0,
+            "animation": "just_blink_red_smoothed",
+            "start_time": 0,
+            "speed": 2
+          },
+          {
+            "group": 1,
+            "animation": "just_blink_red_smoothed",
+            "start_time": 1,
+            "speed": 2
+          }
+        ]
+      },
+      {
+        "model_id": 4802,
+        "coronas": [
+          {
+            "bone_name": "evl_blue_1",
+            "animation": "double_blink_blue_1",
+            "start_time": 2,
+            "speed": 1
+          },
+          {
+            "bone_name": "evl_blue_2",
+            "animation": "double_blink_blue_1",
+            "start_time": 0,
+            "speed": 1
+          },
+          {
+            "bone_name": "evl_blue_3",
+            "animation": "double_blink_blue_1",
+            "start_time": 2,
+            "speed": 1
+          },
+          {
+            "bone_name": "evl_blue_4",
+            "animation": "double_blink_blue_1",
+            "start_time": 0,
+            "speed": 1
+          },
+          {
+            "bone_name": "evl_blue_5",
+            "animation": "double_blink_blue_1",
+            "start_time": 2,
+            "speed": 1
+          },
+          {
+            "bone_name": "evl_blue_6",
+            "animation": "double_blink_blue_1",
+            "start_time": 0,
+            "speed": 1
+          },
+          {
+            "bone_name": "evl_blue_7",
+            "animation": "double_blink_blue_1",
+            "start_time": 2,
+            "speed": 1
+          },
+          {
+            "bone_name": "evl_blue_8",
+            "animation": "double_blink_blue_1",
+            "start_time": 0,
+            "speed": 1
+          },
+          {
+            "bone_name": "evl_blue_9",
+            "animation": "double_blink_blue_1",
+            "start_time": 0,
+            "speed": 1
+          },
+          {
+            "bone_name": "evl_blue_10",
+            "animation": "double_blink_blue_1",
+            "start_time": 0,
+            "speed": 1
+          },
+          {
+            "bone_name": "evl_red_1",
+            "animation": "double_blink_red_1",
+            "start_time": 2,
+            "speed": 1
+          },
+          {
+            "bone_name": "evl_red_2",
+            "animation": "double_blink_red_1",
+            "start_time": 0,
+            "speed": 1
+          },
+          {
+            "bone_name": "evl_red_3",
+            "animation": "double_blink_red_1",
+            "start_time": 2,
+            "speed": 1
+          },
+          {
+            "bone_name": "evl_red_4",
+            "animation": "double_blink_red_1",
+            "start_time": 0,
+            "speed": 1
+          },
+          {
+            "bone_name": "evl_red_5",
+            "animation": "double_blink_red_1",
+            "start_time": 2,
+            "speed": 1
+          },
+          {
+            "bone_name": "evl_red_6",
+            "animation": "double_blink_red_1",
+            "start_time": 0,
+            "speed": 1
+          },
+          {
+            "bone_name": "evl_red_7",
+            "animation": "double_blink_red_1",
+            "start_time": 2,
+            "speed": 1
+          },
+          {
+            "bone_name": "evl_red_8",
+            "animation": "double_blink_red_1",
+            "start_time": 0,
+            "speed": 1
+          },
+          {
+            "bone_name": "evl_red_9",
+            "animation": "double_blink_red_1",
+            "start_time": 2,
+            "speed": 1
+          },
+          {
+            "bone_name": "evl_red_10",
+            "animation": "double_blink_red_1",
+            "start_time": 2,
+            "speed": 1
+          }
+        ],
+        "materials": [
+          {
+            "group": 0,
+            "animation": "double_blink_red_1",
+            "start_time": 2,
+            "speed": 1
+          },
+          {
+            "group": 1,
+            "animation": "double_blink_red_1",
+            "start_time": 0,
+            "speed": 1
+          },
+          {
+            "group": 2,
+            "animation": "double_blink_blue_1",
+            "start_time": 2,
+            "speed": 1
+          },
+          {
+            "group": 3,
+            "animation": "double_blink_blue_1",
+            "start_time": 0,
+            "speed": 1
+          }
+        ]
+      },
+      {
+        "model_id": 16864,
+        "coronas": [
+          {
+            "bone_name": "evl_blue_1",
+            "animation": "double_blink_blue_1",
+            "start_time": 0.05,
+            "speed": 0.5
+          },
+          {
+            "bone_name": "evl_blue_2",
+            "animation": "just_blink_blue_1",
+            "start_time": 0,
+            "speed": 6
+          },
+          {
+            "bone_name": "evl_blue_3",
+            "animation": "double_blink_blue_1",
+            "start_time": 0.05,
+            "speed": 0.5
+          },
+          {
+            "bone_name": "evl_blue_4",
+            "animation": "just_blink_blue_1",
+            "start_time": 0,
+            "speed": 6
+          },
+          {
+            "bone_name": "evl_blue_5",
+            "animation": "double_blink_blue_1",
+            "start_time": 0.05,
+            "speed": 0.5
+          },
+          {
+            "bone_name": "evl_blue_6",
+            "animation": "just_blink_blue_1",
+            "start_time": 0,
+            "speed": 6
+          },
+          {
+            "bone_name": "evl_blue_7",
+            "animation": "double_blink_blue_1",
+            "start_time": 0.05,
+            "speed": 0.5
+          },
+          {
+            "bone_name": "evl_blue_8",
+            "animation": "just_blink_blue_1",
+            "start_time": 0,
+            "speed": 6
+          },
+          {
+            "bone_name": "evl_red_1",
+            "animation": "just_blink_red_1",
+            "start_time": 0,
+            "speed": 6
+          },
+          {
+            "bone_name": "evl_red_2",
+            "animation": "double_blink_red_1",
+            "start_time": 0.05,
+            "speed": 0.5
+          },
+          {
+            "bone_name": "evl_red_3",
+            "animation": "just_blink_red_1",
+            "start_time": 0,
+            "speed": 6
+          },
+          {
+            "bone_name": "evl_red_4",
+            "animation": "double_blink_red_1",
+            "start_time": 0.05,
+            "speed": 0.5
+          },
+          {
+            "bone_name": "evl_red_5",
+            "animation": "just_blink_red_1",
+            "start_time": 0,
+            "speed": 6
+          },
+          {
+            "bone_name": "evl_red_6",
+            "animation": "double_blink_red_1",
+            "start_time": 0.05,
+            "speed": 0.5
+          },
+          {
+            "bone_name": "evl_red_7",
+            "animation": "just_blink_red_1",
+            "start_time": 0,
+            "speed": 6
+          },
+          {
+            "bone_name": "evl_red_8",
+            "animation": "double_blink_red_1",
+            "start_time": 0.05,
+            "speed": 0.5
+          },
+          {
+            "bone_name": "evl_red_9",
+            "animation": "just_blink_red_1",
+            "start_time": 0,
+            "speed": 6
+          },
+          {
+            "bone_name": "evl_red_10",
+            "animation": "double_blink_red_1",
+            "start_time": 0.05,
+            "speed": 0.5
+          },
+          {
+            "bone_name": "evl_white_1",
+            "animation": "just_blink_white_1",
+            "start_time": 0,
+            "speed": 3
+          },
+          {
+            "bone_name": "evl_white_2",
+            "animation": "just_blink_white_1",
+            "start_time": 3,
+            "speed": 3
+          }
+        ],
+        "materials": [
+          {
+            "group": 0,
+            "animation": "just_blink_red_1",
+            "start_time": 0,
+            "speed": 6
+          },
+          {
+            "group": 1,
+            "animation": "double_blink_red_1",
+            "start_time": 0.05,
+            "speed": 0.5
+          },
+          {
+            "group": 2,
+            "animation": "just_blink_blue_1",
+            "start_time": 0,
+            "speed": 6
+          },
+          {
+            "group": 3,
+            "animation": "double_blink_blue_1",
+            "start_time": 0.05,
+            "speed": 0.5
+          },
+          {
+            "group": 4,
+            "animation": "just_blink_white_1",
+            "start_time": 0,
+            "speed": 3
+          },
+          {
+            "group": 5,
+            "animation": "just_blink_white_1",
+            "start_time": 3,
+            "speed": 3
+          }
+        ]
+      },
+      {
+        "model_id": 12446,
+        "coronas": [
+          {
+            "bone_name": "evl_blue_1",
+            "animation": "double_blink_blue_1",
+            "start_time": 0,
+            "speed": 1
+          },
+          {
+            "bone_name": "evl_blue_2",
+            "animation": "double_blink_blue_1",
+            "start_time": 0,
+            "speed": 1
+          },
+          {
+            "bone_name": "evl_blue_3",
+            "animation": "double_blink_blue_1",
+            "start_time": 0,
+            "speed": 1
+          },
+          {
+            "bone_name": "evl_blue_4",
+            "animation": "double_blink_blue_1",
+            "start_time": 0,
+            "speed": 1
+          },
+          {
+            "bone_name": "evl_blue_5",
+            "animation": "double_blink_blue_1",
+            "start_time": 0,
+            "speed": 1
+          },
+          {
+            "bone_name": "evl_blue_6",
+            "animation": "double_blink_blue_1",
+            "start_time": 0,
+            "speed": 1
+          },
+          {
+            "bone_name": "evl_blue_7",
+            "animation": "double_blink_blue_1",
+            "start_time": 0,
+            "speed": 1
+          },
+          {
+            "bone_name": "evl_blue_8",
+            "animation": "double_blink_blue_1",
+            "start_time": 0,
+            "speed": 1
+          },
+          {
+            "bone_name": "evl_blue_9",
+            "animation": "double_blink_blue_1",
+            "start_time": 0,
+            "speed": 1
+          },
+          {
+            "bone_name": "evl_white_1",
+            "animation": "double_blink_white_1",
+            "start_time": 2,
+            "speed": 1
+          },
+          {
+            "bone_name": "evl_white_2",
+            "animation": "double_blink_white_1",
+            "start_time": 2,
+            "speed": 1
+          },
+          {
+            "bone_name": "evl_white_3",
+            "animation": "double_blink_white_1",
+            "start_time": 2,
+            "speed": 1
+          },
+          {
+            "bone_name": "evl_white_4",
+            "animation": "double_blink_white_1",
+            "start_time": 2,
+            "speed": 1
+          },
+          {
+            "bone_name": "evl_white_5",
+            "animation": "double_blink_white_1",
+            "start_time": 2,
+            "speed": 1
+          },
+          {
+            "bone_name": "evl_white_6",
+            "animation": "double_blink_white_1",
+            "start_time": 2,
+            "speed": 1
+          },
+          {
+            "bone_name": "evl_white_7",
+            "animation": "double_blink_white_1",
+            "start_time": 2,
+            "speed": 1
+          },
+          {
+            "bone_name": "evl_white_8",
+            "animation": "double_blink_white_1",
+            "start_time": 2,
+            "speed": 1
+          },
+          {
+            "bone_name": "evl_white_9",
+            "animation": "double_blink_white_1",
+            "start_time": 2,
+            "speed": 1
+          }
+        ],
+        "materials": [
+          {
+            "group": 0,
+            "animation": "double_blink_blue_1",
+            "start_time": 0,
+            "speed": 1
+          },
+          {
+            "group": 1,
+            "animation": "double_blink_white_1",
+            "start_time": 2,
+            "speed": 1
+          }
+        ]
+      },
+      {
+        "model_id": 15085,
+        "coronas": [
+          {
+            "bone_name": "evl_und_1",
+            "animation": "double_blink_red_1",
+            "start_time": 0,
+            "speed": 1
+          },
+          {
+            "bone_name": "evl_und_2",
+            "animation": "double_blink_red_1",
+            "start_time": 0,
+            "speed": 1
+          },
+          {
+            "bone_name": "evl_und_3",
+            "animation": "double_blink_blue_1",
+            "start_time": 2,
+            "speed": 1
+          },
+          {
+            "bone_name": "evl_und_4",
+            "animation": "double_blink_blue_1",
+            "start_time": 2,
+            "speed": 1
+          }
+        ],
+        "materials": [
+          {
+            "group": 0,
+            "animation": "double_blink_red_1",
+            "start_time": 0,
+            "speed": 1
+          },
+          {
+            "group": 1,
+            "animation": "double_blink_blue_1",
+            "start_time": 2,
+            "speed": 1
+          }
+        ]
+      },
+      {
+        "model_id": 15493,
+        "coronas": [
+          {
+            "bone_name": "evl_blue_1",
+            "animation": "double_blink_blue_1",
+            "start_time": 0,
+            "speed": 1
+          },
+          {
+            "bone_name": "evl_blue_2",
+            "animation": "just_blink_blue_1",
+            "start_time": 0,
+            "speed": 1
+          },
+          {
+            "bone_name": "evl_blue_3",
+            "animation": "double_blink_blue_1",
+            "start_time": 0,
+            "speed": 1
+          },
+          {
+            "bone_name": "evl_blue_4",
+            "animation": "just_blink_blue_1",
+            "start_time": 0,
+            "speed": 1
+          },
+          {
+            "bone_name": "evl_blue_5",
+            "animation": "just_blink_blue_1",
+            "start_time": 0,
+            "speed": 1
+          },
+          {
+            "bone_name": "evl_blue_6",
+            "animation": "double_blink_blue_1",
+            "start_time": 0,
+            "speed": 1
+          },
+          {
+            "bone_name": "evl_blue_7",
+            "animation": "just_blink_blue_1",
+            "start_time": 0,
+            "speed": 1
+          },
+          {
+            "bone_name": "evl_blue_8",
+            "animation": "double_blink_blue_1",
+            "start_time": 0,
+            "speed": 1
+          },
+          {
+            "bone_name": "evl_blue_9",
+            "animation": "double_blink_blue_1",
+            "start_time": 0,
+            "speed": 1
+          },
+          {
+            "bone_name": "evl_blue_10",
+            "animation": "just_blink_blue_1",
+            "start_time": 0,
+            "speed": 1
+          },
+          {
+            "bone_name": "evl_blue_11",
+            "animation": "double_blink_blue_1",
+            "start_time": 0,
+            "speed": 1
+          },
+          {
+            "bone_name": "evl_blue_12",
+            "animation": "just_blink_blue_1",
+            "start_time": 0,
+            "speed": 1
+          },
+          {
+            "bone_name": "evl_blue_13",
+            "animation": "just_blink_blue_1",
+            "start_time": 0,
+            "speed": 1
+          },
+          {
+            "bone_name": "evl_blue_14",
+            "animation": "double_blink_blue_1",
+            "start_time": 0,
+            "speed": 1
+          },
+          {
+            "bone_name": "evl_blue_15",
+            "animation": "just_blink_blue_1",
+            "start_time": 0,
+            "speed": 1
+          },
+          {
+            "bone_name": "evl_blue_16",
+            "animation": "double_blink_blue_1",
+            "start_time": 0,
+            "speed": 1
+          }
+        ],
+        "materials": [
+          {
+            "group": 0,
+            "animation": "double_blink_blue_1",
+            "start_time": 0,
+            "speed": 1
+          },
+          {
+            "group": 1,
+            "animation": "just_blink_blue_1",
+            "start_time": 0,
+            "speed": 1
+          }
+        ]
+      },
+      {
+        "model_id": 15494,
+        "coronas": [
+          {
+            "bone_name": "evl_blue_1",
+            "animation": "double_blink_blue_1",
+            "start_time": 0,
+            "speed": 1
+          },
+          {
+            "bone_name": "evl_blue_2",
+            "animation": "just_blink_blue_1",
+            "start_time": 0,
+            "speed": 1
+          },
+          {
+            "bone_name": "evl_blue_3",
+            "animation": "double_blink_blue_1",
+            "start_time": 0,
+            "speed": 1
+          },
+          {
+            "bone_name": "evl_blue_4",
+            "animation": "just_blink_blue_1",
+            "start_time": 0,
+            "speed": 1
+          },
+          {
+            "bone_name": "evl_blue_5",
+            "animation": "just_blink_blue_1",
+            "start_time": 0,
+            "speed": 1
+          },
+          {
+            "bone_name": "evl_blue_6",
+            "animation": "double_blink_blue_1",
+            "start_time": 0,
+            "speed": 1
+          },
+          {
+            "bone_name": "evl_blue_7",
+            "animation": "just_blink_blue_1",
+            "start_time": 0,
+            "speed": 1
+          },
+          {
+            "bone_name": "evl_blue_8",
+            "animation": "double_blink_blue_1",
+            "start_time": 0,
+            "speed": 1
+          },
+          {
+            "bone_name": "evl_blue_9",
+            "animation": "double_blink_blue_1",
+            "start_time": 0,
+            "speed": 1
+          },
+          {
+            "bone_name": "evl_blue_10",
+            "animation": "just_blink_blue_1",
+            "start_time": 0,
+            "speed": 1
+          },
+          {
+            "bone_name": "evl_blue_11",
+            "animation": "double_blink_blue_1",
+            "start_time": 0,
+            "speed": 1
+          },
+          {
+            "bone_name": "evl_blue_12",
+            "animation": "just_blink_blue_1",
+            "start_time": 0,
+            "speed": 1
+          },
+          {
+            "bone_name": "evl_blue_13",
+            "animation": "just_blink_blue_1",
+            "start_time": 0,
+            "speed": 1
+          },
+          {
+            "bone_name": "evl_blue_14",
+            "animation": "double_blink_blue_1",
+            "start_time": 0,
+            "speed": 1
+          },
+          {
+            "bone_name": "evl_blue_15",
+            "animation": "just_blink_blue_1",
+            "start_time": 0,
+            "speed": 1
+          },
+          {
+            "bone_name": "evl_blue_16",
+            "animation": "double_blink_blue_1",
+            "start_time": 0,
+            "speed": 1
+          }
+        ],
+        "materials": [
+          {
+            "group": 0,
+            "animation": "double_blink_blue_1",
+            "start_time": 0,
+            "speed": 1
+          },
+          {
+            "group": 1,
+            "animation": "just_blink_blue_1",
+            "start_time": 0,
+            "speed": 1
+          }
+        ]
+      },
+      {
+        "model_id": 15499,
+        "coronas": [
+          {
+            "bone_name": "evl_blue_1",
+            "animation": "just_blink_blue_smoothed",
+            "start_time": 0,
+            "speed": 2
+          },
+          {
+            "bone_name": "evl_blue_2",
+            "animation": "just_blink_blue_smoothed",
+            "start_time": 1,
+            "speed": 2
+          },
+          {
+            "bone_name": "evl_blue_3",
+            "animation": "just_blink_blue_smoothed",
+            "start_time": 0,
+            "speed": 2
+          },
+          {
+            "bone_name": "evl_blue_4",
+            "animation": "just_blink_blue_smoothed",
+            "start_time": 1,
+            "speed": 2
+          },
+          {
+            "bone_name": "evl_blue_5",
+            "animation": "just_blink_blue_smoothed",
+            "start_time": 1,
+            "speed": 2
+          },
+          {
+            "bone_name": "evl_blue_6",
+            "animation": "just_blink_blue_smoothed",
+            "start_time": 0,
+            "speed": 2
+          },
+          {
+            "bone_name": "evl_blue_7",
+            "animation": "just_blink_blue_smoothed",
+            "start_time": 1,
+            "speed": 2
+          },
+          {
+            "bone_name": "evl_blue_8",
+            "animation": "just_blink_blue_smoothed",
+            "start_time": 0,
+            "speed": 2
+          },
+          {
+            "bone_name": "evl_blue_9",
+            "animation": "just_blink_blue_smoothed",
+            "start_time": 0,
+            "speed": 2
+          },
+          {
+            "bone_name": "evl_blue_10",
+            "animation": "just_blink_blue_smoothed",
+            "start_time": 1,
+            "speed": 2
+          },
+          {
+            "bone_name": "evl_blue_11",
+            "animation": "just_blink_blue_smoothed",
+            "start_time": 0,
+            "speed": 2
+          },
+          {
+            "bone_name": "evl_blue_12",
+            "animation": "just_blink_blue_smoothed",
+            "start_time": 1,
+            "speed": 2
+          },
+          {
+            "bone_name": "evl_blue_13",
+            "animation": "just_blink_blue_smoothed",
+            "start_time": 1,
+            "speed": 2
+          },
+          {
+            "bone_name": "evl_blue_14",
+            "animation": "just_blink_blue_smoothed",
+            "start_time": 0,
+            "speed": 2
+          },
+          {
+            "bone_name": "evl_blue_15",
+            "animation": "just_blink_blue_smoothed",
+            "start_time": 1,
+            "speed": 2
+          },
+          {
+            "bone_name": "evl_blue_16",
+            "animation": "just_blink_blue_smoothed",
+            "start_time": 0,
+            "speed": 2
+          },
+          {
+            "bone_name": "evl_und_1",
+            "animation": "double_blink_red_1",
+            "start_time": 0,
+            "speed": 1
+          },
+          {
+            "bone_name": "evl_und_2",
+            "animation": "double_blink_red_1",
+            "start_time": 0,
+            "speed": 1
+          },
+          {
+            "bone_name": "evl_und_3",
+            "animation": "double_blink_blue_1",
+            "start_time": 2,
+            "speed": 1
+          },
+          {
+            "bone_name": "evl_und_4",
+            "animation": "double_blink_blue_1",
+            "start_time": 2,
+            "speed": 1
+          }
+        ],
+        "materials": [
+          {
+            "group": 0,
+            "animation": "just_blink_blue_smoothed",
+            "start_time": 0,
+            "speed": 2
+          },
+          {
+            "group": 1,
+            "animation": "just_blink_blue_smoothed",
+            "start_time": 1,
+            "speed": 2
+          },
+          {
+            "group": 2,
+            "animation": "double_blink_red_1",
+            "start_time": 0,
+            "speed": 1
+          },
+          {
+            "group": 3,
+            "animation": "double_blink_blue_1",
+            "start_time": 2,
+            "speed": 1
+          }
+        ]
+      },
+      {
+        "model_id": 15500,
+        "coronas": [
+          {
+            "bone_name": "evl_blue_1",
+            "animation": "just_blink_blue_smoothed",
+            "start_time": 0,
+            "speed": 2
+          },
+          {
+            "bone_name": "evl_blue_2",
+            "animation": "just_blink_blue_smoothed",
+            "start_time": 1,
+            "speed": 2
+          },
+          {
+            "bone_name": "evl_blue_3",
+            "animation": "just_blink_blue_smoothed",
+            "start_time": 0,
+            "speed": 2
+          },
+          {
+            "bone_name": "evl_blue_4",
+            "animation": "just_blink_blue_smoothed",
+            "start_time": 1,
+            "speed": 2
+          },
+          {
+            "bone_name": "evl_blue_5",
+            "animation": "just_blink_blue_smoothed",
+            "start_time": 1,
+            "speed": 2
+          },
+          {
+            "bone_name": "evl_blue_6",
+            "animation": "just_blink_blue_smoothed",
+            "start_time": 0,
+            "speed": 2
+          },
+          {
+            "bone_name": "evl_blue_7",
+            "animation": "just_blink_blue_smoothed",
+            "start_time": 1,
+            "speed": 2
+          },
+          {
+            "bone_name": "evl_blue_8",
+            "animation": "just_blink_blue_smoothed",
+            "start_time": 0,
+            "speed": 2
+          },
+          {
+            "bone_name": "evl_blue_9",
+            "animation": "just_blink_blue_smoothed",
+            "start_time": 0,
+            "speed": 2
+          },
+          {
+            "bone_name": "evl_blue_10",
+            "animation": "just_blink_blue_smoothed",
+            "start_time": 1,
+            "speed": 2
+          },
+          {
+            "bone_name": "evl_blue_11",
+            "animation": "just_blink_blue_smoothed",
+            "start_time": 0,
+            "speed": 2
+          },
+          {
+            "bone_name": "evl_blue_12",
+            "animation": "just_blink_blue_smoothed",
+            "start_time": 1,
+            "speed": 2
+          },
+          {
+            "bone_name": "evl_blue_13",
+            "animation": "just_blink_blue_smoothed",
+            "start_time": 1,
+            "speed": 2
+          },
+          {
+            "bone_name": "evl_blue_14",
+            "animation": "just_blink_blue_smoothed",
+            "start_time": 0,
+            "speed": 2
+          },
+          {
+            "bone_name": "evl_blue_15",
+            "animation": "just_blink_blue_smoothed",
+            "start_time": 1,
+            "speed": 2
+          },
+          {
+            "bone_name": "evl_blue_16",
+            "animation": "just_blink_blue_smoothed",
+            "start_time": 0,
+            "speed": 2
+          },
+          {
+            "bone_name": "evl_und_1",
+            "animation": "double_blink_red_1",
+            "start_time": 0,
+            "speed": 1
+          },
+          {
+            "bone_name": "evl_und_2",
+            "animation": "double_blink_red_1",
+            "start_time": 0,
+            "speed": 1
+          },
+          {
+            "bone_name": "evl_und_3",
+            "animation": "double_blink_blue_1",
+            "start_time": 2,
+            "speed": 1
+          },
+          {
+            "bone_name": "evl_und_4",
+            "animation": "double_blink_blue_1",
+            "start_time": 2,
+            "speed": 1
+          }
+        ],
+        "materials": [
+          {
+            "group": 0,
+            "animation": "just_blink_blue_smoothed",
+            "start_time": 0,
+            "speed": 2
+          },
+          {
+            "group": 1,
+            "animation": "just_blink_blue_smoothed",
+            "start_time": 1,
+            "speed": 2
+          },
+          {
+            "group": 2,
+            "animation": "double_blink_red_1",
+            "start_time": 0,
+            "speed": 1
+          },
+          {
+            "group": 3,
+            "animation": "double_blink_blue_1",
+            "start_time": 2,
+            "speed": 1
+          }
+        ]
+      },
+      {
+        "model_id": 16909,
+        "coronas": [
+          {
+            "bone_name": "evl_blue_1",
+            "animation": "just_blink_red_smoothed",
+            "start_time": 0,
+            "speed": 2
+          },
+          {
+            "bone_name": "evl_blue_2",
+            "animation": "just_blink_red_smoothed",
+            "start_time": 1,
+            "speed": 2
+          },
+          {
+            "bone_name": "evl_blue_3",
+            "animation": "just_blink_red_smoothed",
+            "start_time": 0,
+            "speed": 2
+          },
+          {
+            "bone_name": "evl_blue_4",
+            "animation": "just_blink_red_smoothed",
+            "start_time": 1,
+            "speed": 2
+          },
+          {
+            "bone_name": "evl_blue_5",
+            "animation": "just_blink_red_smoothed",
+            "start_time": 0,
+            "speed": 2
+          },
+          {
+            "bone_name": "evl_blue_6",
+            "animation": "just_blink_red_smoothed",
+            "start_time": 1,
+            "speed": 2
+          },
+          {
+            "bone_name": "evl_blue_7",
+            "animation": "just_blink_red_smoothed",
+            "start_time": 0,
+            "speed": 2
+          },
+          {
+            "bone_name": "evl_blue_8",
+            "animation": "just_blink_red_smoothed",
+            "start_time": 1,
+            "speed": 2
+          },
+          {
+            "bone_name": "evl_blue_9",
+            "animation": "just_blink_red_smoothed",
+            "start_time": 0,
+            "speed": 2
+          },
+          {
+            "bone_name": "evl_blue_10",
+            "animation": "just_blink_red_smoothed",
+            "start_time": 1,
+            "speed": 2
+          },
+          {
+            "bone_name": "evl_red_1",
+            "animation": "just_blink_blue_smoothed",
+            "start_time": 0,
+            "speed": 2
+          },
+          {
+            "bone_name": "evl_red_2",
+            "animation": "just_blink_blue_smoothed",
+            "start_time": 1,
+            "speed": 2
+          },
+          {
+            "bone_name": "evl_red_3",
+            "animation": "just_blink_blue_smoothed",
+            "start_time": 0,
+            "speed": 2
+          },
+          {
+            "bone_name": "evl_red_4",
+            "animation": "just_blink_blue_smoothed",
+            "start_time": 1,
+            "speed": 2
+          },
+          {
+            "bone_name": "evl_red_5",
+            "animation": "just_blink_blue_smoothed",
+            "start_time": 0,
+            "speed": 2
+          },
+          {
+            "bone_name": "evl_red_6",
+            "animation": "just_blink_blue_smoothed",
+            "start_time": 1,
+            "speed": 2
+          },
+          {
+            "bone_name": "evl_red_7",
+            "animation": "just_blink_blue_smoothed",
+            "start_time": 0,
+            "speed": 2
+          },
+          {
+            "bone_name": "evl_red_8",
+            "animation": "just_blink_blue_smoothed",
+            "start_time": 1,
+            "speed": 2
+          },
+          {
+            "bone_name": "evl_red_9",
+            "animation": "just_blink_blue_smoothed",
+            "start_time": 0,
+            "speed": 2
+          },
+          {
+            "bone_name": "evl_red_10",
+            "animation": "just_blink_blue_smoothed",
+            "start_time": 1,
+            "speed": 2
+          }
+        ],
+        "materials": [
+          {
+            "group": 0,
+            "animation": "just_blink_red_smoothed",
+            "start_time": 0,
+            "speed": 2
+          },
+          {
+            "group": 1,
+            "animation": "just_blink_red_smoothed",
+            "start_time": 1,
+            "speed": 2
+          },
+          {
+            "group": 2,
+            "animation": "just_blink_blue_smoothed",
+            "start_time": 0,
+            "speed": 2
+          },
+          {
+            "group": 3,
+            "animation": "just_blink_blue_smoothed",
+            "start_time": 1,
+            "speed": 2
+          }
+        ]
+      },
+      {
+        "model_id": 12444,
+        "coronas": [
+          {
+            "bone_name": "evl_blue_1",
+            "animation": "just_blink_blue_smoothed",
+            "start_time": 0,
+            "speed": 2
+          },
+          {
+            "bone_name": "evl_blue_2",
+            "animation": "just_blink_blue_smoothed",
+            "start_time": 1,
+            "speed": 2
+          },
+          {
+            "bone_name": "evl_blue_3",
+            "animation": "just_blink_blue_smoothed",
+            "start_time": 0,
+            "speed": 2
+          },
+          {
+            "bone_name": "evl_blue_4",
+            "animation": "just_blink_blue_smoothed",
+            "start_time": 0,
+            "speed": 2
+          },
+          {
+            "bone_name": "evl_blue_5",
+            "animation": "just_blink_blue_smoothed",
+            "start_time": 1,
+            "speed": 2
+          },
+          {
+            "bone_name": "evl_blue_6",
+            "animation": "just_blink_blue_smoothed",
+            "start_time": 0,
+            "speed": 2
+          },
+          {
+            "bone_name": "evl_red_1",
+            "animation": "just_blink_red_smoothed",
+            "start_time": 1,
+            "speed": 2
+          },
+          {
+            "bone_name": "evl_red_2",
+            "animation": "just_blink_red_smoothed",
+            "start_time": 0,
+            "speed": 2
+          },
+          {
+            "bone_name": "evl_red_3",
+            "animation": "just_blink_red_smoothed",
+            "start_time": 1,
+            "speed": 2
+          },
+          {
+            "bone_name": "evl_red_4",
+            "animation": "just_blink_red_smoothed",
+            "start_time": 1,
+            "speed": 2
+          },
+          {
+            "bone_name": "evl_red_5",
+            "animation": "just_blink_red_smoothed",
+            "start_time": 0,
+            "speed": 2
+          },
+          {
+            "bone_name": "evl_red_6",
+            "animation": "just_blink_red_smoothed",
+            "start_time": 1,
+            "speed": 2
+          },
+          {
+            "bone_name": "evl_white_1",
+            "animation": "double_blink_white_1",
+            "start_time": 0,
+            "speed": 1
+          },
+          {
+            "bone_name": "evl_white_2",
+            "animation": "double_blink_white_1",
+            "start_time": 1,
+            "speed": 1
+          },
+          {
+            "bone_name": "evl_white_3",
+            "animation": "double_blink_white_1",
+            "start_time": 0,
+            "speed": 1
+          },
+          {
+            "bone_name": "evl_white_4",
+            "animation": "double_blink_white_1",
+            "start_time": 1,
+            "speed": 1
+          },
+          {
+            "bone_name": "evl_white_5",
+            "animation": "double_blink_white_1",
+            "start_time": 0,
+            "speed": 1
+          },
+          {
+            "bone_name": "evl_white_6",
+            "animation": "double_blink_white_1",
+            "start_time": 1,
+            "speed": 1
+          }
+        ],
+        "materials": [
+          {
+            "group": 0,
+            "animation": "just_blink_blue_smoothed",
+            "start_time": 0,
+            "speed": 2
+          },
+          {
+            "group": 1,
+            "animation": "just_blink_blue_smoothed",
+            "start_time": 1,
+            "speed": 2
+          },
+          {
+            "group": 2,
+            "animation": "just_blink_red_smoothed",
+            "start_time": 1,
+            "speed": 2
+          },
+          {
+            "group": 3,
+            "animation": "just_blink_red_smoothed",
+            "start_time": 0,
+            "speed": 2
+          },
+          {
+            "group": 4,
+            "animation": "double_blink_white_1",
+            "start_time": 1,
+            "speed": 1
+          },
+          {
+            "group": 5,
+            "animation": "double_blink_white_1",
+            "start_time": 0,
+            "speed": 1
+          }
+        ]
+      },
+      {
+        "model_id": 12445,
+        "coronas": [
+          {
+            "bone_name": "evl_blue_1",
+            "animation": "just_blink_blue_smoothed",
+            "start_time": 0,
+            "speed": 2
+          },
+          {
+            "bone_name": "evl_blue_2",
+            "animation": "just_blink_blue_smoothed",
+            "start_time": 1,
+            "speed": 2
+          },
+          {
+            "bone_name": "evl_blue_3",
+            "animation": "just_blink_blue_smoothed",
+            "start_time": 0,
+            "speed": 2
+          },
+          {
+            "bone_name": "evl_blue_4",
+            "animation": "just_blink_blue_smoothed",
+            "start_time": 0,
+            "speed": 2
+          },
+          {
+            "bone_name": "evl_blue_5",
+            "animation": "just_blink_blue_smoothed",
+            "start_time": 1,
+            "speed": 2
+          },
+          {
+            "bone_name": "evl_blue_6",
+            "animation": "just_blink_blue_smoothed",
+            "start_time": 0,
+            "speed": 2
+          },
+          {
+            "bone_name": "evl_red_1",
+            "animation": "just_blink_red_smoothed",
+            "start_time": 1,
+            "speed": 2
+          },
+          {
+            "bone_name": "evl_red_2",
+            "animation": "just_blink_red_smoothed",
+            "start_time": 0,
+            "speed": 2
+          },
+          {
+            "bone_name": "evl_red_3",
+            "animation": "just_blink_red_smoothed",
+            "start_time": 1,
+            "speed": 2
+          },
+          {
+            "bone_name": "evl_red_4",
+            "animation": "just_blink_red_smoothed",
+            "start_time": 1,
+            "speed": 2
+          },
+          {
+            "bone_name": "evl_red_5",
+            "animation": "just_blink_red_smoothed",
+            "start_time": 0,
+            "speed": 2
+          },
+          {
+            "bone_name": "evl_red_6",
+            "animation": "just_blink_red_smoothed",
+            "start_time": 1,
+            "speed": 2
+          },
+          {
+            "bone_name": "evl_white_1",
+            "animation": "double_blink_white_1",
+            "start_time": 0,
+            "speed": 1
+          },
+          {
+            "bone_name": "evl_white_2",
+            "animation": "double_blink_white_1",
+            "start_time": 1,
+            "speed": 1
+          },
+          {
+            "bone_name": "evl_white_3",
+            "animation": "double_blink_white_1",
+            "start_time": 0,
+            "speed": 1
+          },
+          {
+            "bone_name": "evl_white_4",
+            "animation": "double_blink_white_1",
+            "start_time": 1,
+            "speed": 1
+          },
+          {
+            "bone_name": "evl_white_5",
+            "animation": "double_blink_white_1",
+            "start_time": 0,
+            "speed": 1
+          },
+          {
+            "bone_name": "evl_white_6",
+            "animation": "double_blink_white_1",
+            "start_time": 1,
+            "speed": 1
+          }
+        ],
+        "materials": [
+          {
+            "group": 0,
+            "animation": "just_blink_blue_smoothed",
+            "start_time": 0,
+            "speed": 2
+          },
+          {
+            "group": 1,
+            "animation": "just_blink_blue_smoothed",
+            "start_time": 1,
+            "speed": 2
+          },
+          {
+            "group": 2,
+            "animation": "just_blink_red_smoothed",
+            "start_time": 1,
+            "speed": 2
+          },
+          {
+            "group": 3,
+            "animation": "just_blink_red_smoothed",
+            "start_time": 0,
+            "speed": 2
+          },
+          {
+            "group": 4,
+            "animation": "double_blink_white_1",
+            "start_time": 1,
+            "speed": 1
+          },
+          {
+            "group": 5,
+            "animation": "double_blink_white_1",
+            "start_time": 0,
+            "speed": 1
+          }
+        ]
+      },
+      {
+        "model_id": 16874,
+        "coronas": [
+          {
+            "bone_name": "evl_blue_1",
+            "animation": "just_blink_red_smoothed",
+            "start_time": 0,
+            "speed": 2
+          },
+          {
+            "bone_name": "evl_blue_2",
+            "animation": "just_blink_red_smoothed",
+            "start_time": 1,
+            "speed": 2
+          },
+          {
+            "bone_name": "evl_blue_3",
+            "animation": "just_blink_red_smoothed",
+            "start_time": 0,
+            "speed": 2
+          },
+          {
+            "bone_name": "evl_blue_4",
+            "animation": "just_blink_red_smoothed",
+            "start_time": 0,
+            "speed": 2
+          },
+          {
+            "bone_name": "evl_blue_5",
+            "animation": "just_blink_red_smoothed",
+            "start_time": 1,
+            "speed": 2
+          },
+          {
+            "bone_name": "evl_blue_6",
+            "animation": "just_blink_red_smoothed",
+            "start_time": 0,
+            "speed": 2
+          },
+          {
+            "bone_name": "evl_red_1",
+            "animation": "just_blink_blue_smoothed",
+            "start_time": 1,
+            "speed": 2
+          },
+          {
+            "bone_name": "evl_red_2",
+            "animation": "just_blink_blue_smoothed",
+            "start_time": 0,
+            "speed": 2
+          },
+          {
+            "bone_name": "evl_red_3",
+            "animation": "just_blink_blue_smoothed",
+            "start_time": 1,
+            "speed": 2
+          },
+          {
+            "bone_name": "evl_red_4",
+            "animation": "just_blink_blue_smoothed",
+            "start_time": 1,
+            "speed": 2
+          },
+          {
+            "bone_name": "evl_red_5",
+            "animation": "just_blink_blue_smoothed",
+            "start_time": 0,
+            "speed": 2
+          },
+          {
+            "bone_name": "evl_red_6",
+            "animation": "just_blink_blue_smoothed",
+            "start_time": 1,
+            "speed": 2
+          },
+          {
+            "bone_name": "evl_white_1",
+            "animation": "double_blink_white_1",
+            "start_time": 0,
+            "speed": 1
+          },
+          {
+            "bone_name": "evl_white_2",
+            "animation": "double_blink_white_1",
+            "start_time": 0,
+            "speed": 1
+          },
+          {
+            "bone_name": "evl_white_3",
+            "animation": "double_blink_white_1",
+            "start_time": 0,
+            "speed": 1
+          },
+          {
+            "bone_name": "evl_white_4",
+            "animation": "double_blink_white_1",
+            "start_time": 0,
+            "speed": 1
+          }
+        ],
+        "materials": [
+          {
+            "group": 0,
+            "animation": "just_blink_red_smoothed",
+            "start_time": 0,
+            "speed": 2
+          },
+          {
+            "group": 1,
+            "animation": "just_blink_red_smoothed",
+            "start_time": 1,
+            "speed": 2
+          },
+          {
+            "group": 2,
+            "animation": "just_blink_blue_smoothed",
+            "start_time": 1,
+            "speed": 2
+          },
+          {
+            "group": 3,
+            "animation": "just_blink_blue_smoothed",
+            "start_time": 0,
+            "speed": 2
+          },
+          {
+            "group": 4,
+            "animation": "double_blink_white_1",
+            "start_time": 0,
+            "speed": 1
+          },
+          {
+            "group": 5,
+            "animation": "double_blink_white_1",
+            "start_time": 0,
+            "speed": 1
+          }
+        ]
+      },
+      {
+        "model_id": 15560,
+        "coronas": [
+          {
+            "bone_name": "evl_blue_1",
+            "animation": "just_blink_blue_smoothed",
+            "start_time": 0,
+            "speed": 2
+          },
+          {
+            "bone_name": "evl_blue_2",
+            "animation": "just_blink_blue_smoothed",
+            "start_time": 1,
+            "speed": 2
+          },
+          {
+            "bone_name": "evl_blue_3",
+            "animation": "just_blink_blue_smoothed",
+            "start_time": 0,
+            "speed": 2
+          },
+          {
+            "bone_name": "evl_blue_4",
+            "animation": "just_blink_blue_smoothed",
+            "start_time": 1,
+            "speed": 2
+          },
+          {
+            "bone_name": "evl_blue_5",
+            "animation": "just_blink_blue_smoothed",
+            "start_time": 0,
+            "speed": 2
+          },
+          {
+            "bone_name": "evl_blue_6",
+            "animation": "just_blink_blue_smoothed",
+            "start_time": 1,
+            "speed": 2
+          },
+          {
+            "bone_name": "evl_blue_7",
+            "animation": "just_blink_blue_smoothed",
+            "start_time": 0,
+            "speed": 2
+          },
+          {
+            "bone_name": "evl_blue_8",
+            "animation": "just_blink_blue_smoothed",
+            "start_time": 1,
+            "speed": 2
+          },
+          {
+            "bone_name": "evl_blue_9",
+            "animation": "just_blink_blue_smoothed",
+            "start_time": 0,
+            "speed": 2
+          },
+          {
+            "bone_name": "evl_red_1",
+            "animation": "just_blink_red_smoothed",
+            "start_time": 0,
+            "speed": 2
+          },
+          {
+            "bone_name": "evl_red_2",
+            "animation": "just_blink_red_smoothed",
+            "start_time": 1,
+            "speed": 2
+          },
+          {
+            "bone_name": "evl_red_3",
+            "animation": "just_blink_red_smoothed",
+            "start_time": 0,
+            "speed": 2
+          },
+          {
+            "bone_name": "evl_red_4",
+            "animation": "just_blink_red_smoothed",
+            "start_time": 1,
+            "speed": 2
+          },
+          {
+            "bone_name": "evl_red_5",
+            "animation": "just_blink_red_smoothed",
+            "start_time": 0,
+            "speed": 2
+          },
+          {
+            "bone_name": "evl_red_6",
+            "animation": "just_blink_red_smoothed",
+            "start_time": 1,
+            "speed": 2
+          },
+          {
+            "bone_name": "evl_red_7",
+            "animation": "just_blink_red_smoothed",
+            "start_time": 0,
+            "speed": 2
+          },
+          {
+            "bone_name": "evl_red_8",
+            "animation": "just_blink_red_smoothed",
+            "start_time": 1,
+            "speed": 2
+          },
+          {
+            "bone_name": "evl_red_9",
+            "animation": "just_blink_red_smoothed",
+            "start_time": 1,
+            "speed": 2
+          }
+        ],
+        "materials": [
+          {
+            "group": 0,
+            "animation": "just_blink_blue_smoothed",
+            "start_time": 0,
+            "speed": 2
+          },
+          {
+            "group": 1,
+            "animation": "just_blink_blue_smoothed",
+            "start_time": 1,
+            "speed": 2
+          },
+          {
+            "group": 2,
+            "animation": "just_blink_red_smoothed",
+            "start_time": 0,
+            "speed": 2
+          },
+          {
+            "group": 3,
+            "animation": "just_blink_red_smoothed",
+            "start_time": 1,
+            "speed": 2
+          }
+        ]
+      },
+      {
+        "model_id": 525,
+        "coronas": [
+          {
+            "bone_name": "evl_orange_1",
+            "animation": "just_blink_orange_1",
+            "start_time": 0,
+            "speed": 2
+          },
+          {
+            "bone_name": "evl_orange_2",
+            "animation": "just_blink_orange_1",
+            "start_time": 1,
+            "speed": 2
+          },
+          {
+            "bone_name": "evl_orange_3",
+            "animation": "just_blink_orange_1",
+            "start_time": 1,
+            "speed": 2
+          },
+          {
+            "bone_name": "evl_orange_4",
+            "animation": "just_blink_orange_1",
+            "start_time": 0,
+            "speed": 2
+          },
+          {
+            "bone_name": "evl_orange_5",
+            "animation": "just_blink_orange_1",
+            "start_time": 1,
+            "speed": 2
+          },
+          {
+            "bone_name": "evl_orange_6",
+            "animation": "just_blink_orange_1",
+            "start_time": 0,
+            "speed": 2
+          },
+          {
+            "bone_name": "evl_orange_7",
+            "animation": "just_blink_orange_1",
+            "start_time": 1,
+            "speed": 2
+          },
+          {
+            "bone_name": "evl_orange_8",
+            "animation": "just_blink_orange_1",
+            "start_time": 0,
+            "speed": 2
+          },
+          {
+            "bone_name": "evl_orange_9",
+            "animation": "just_blink_orange_1",
+            "start_time": 1,
+            "speed": 2
+          },
+          {
+            "bone_name": "evl_orange_10",
+            "animation": "just_blink_orange_1",
+            "start_time": 0,
+            "speed": 2
+          },
+          {
+            "bone_name": "evl_orange_11",
+            "animation": "just_blink_orange_1",
+            "start_time": 1,
+            "speed": 2
+          }
+        ],
+        "materials": [
+          {
+            "group": 0,
+            "animation": "just_blink_orange_1",
+            "start_time": 0,
+            "speed": 2
+          },
+          {
+            "group": 1,
+            "animation": "just_blink_orange_1",
+            "start_time": 1,
+            "speed": 2
+          }
+        ]
+      },
+      {
+        "model_id": 15416,
+        "coronas": [
+          {
+            "bone_name": "evl_red_1",
+            "animation": "just_blink_red_1",
+            "start_time": 0,
+            "speed": 2
+          },
+          {
+            "bone_name": "evl_red_2",
+            "animation": "just_blink_red_1",
+            "start_time": 1,
+            "speed": 2
+          },
+          {
+            "bone_name": "evl_red_3",
+            "animation": "just_blink_red_1",
+            "start_time": 0,
+            "speed": 2
+          },
+          {
+            "bone_name": "evl_red_4",
+            "animation": "just_blink_red_1",
+            "start_time": 0,
+            "speed": 2
+          },
+          {
+            "bone_name": "evl_red_5",
+            "animation": "just_blink_red_1",
+            "start_time": 1,
+            "speed": 2
+          },
+          {
+            "bone_name": "evl_red_6",
+            "animation": "just_blink_red_1",
+            "start_time": 0,
+            "speed": 2
+          },
+          {
+            "bone_name": "evl_red_7",
+            "animation": "just_blink_red_1",
+            "start_time": 1,
+            "speed": 2
+          },
+          {
+            "bone_name": "evl_red_8",
+            "animation": "just_blink_red_1",
+            "start_time": 0,
+            "speed": 2
+          },
+          {
+            "bone_name": "evl_red_9",
+            "animation": "just_blink_red_1",
+            "start_time": 1,
+            "speed": 2
+          },
+          {
+            "bone_name": "evl_red_10",
+            "animation": "just_blink_red_1",
+            "start_time": 0,
+            "speed": 2
+          },
+          {
+            "bone_name": "evl_red_11",
+            "animation": "just_blink_red_1",
+            "start_time": 1,
+            "speed": 2
+          },
+          {
+            "bone_name": "evl_red_12",
+            "animation": "just_blink_red_1",
+            "start_time": 0,
+            "speed": 2
+          },
+          {
+            "bone_name": "evl_red_13",
+            "animation": "just_blink_red_1",
+            "start_time": 0,
+            "speed": 2
+          },
+          {
+            "bone_name": "evl_red_14",
+            "animation": "just_blink_red_1",
+            "start_time": 1,
+            "speed": 2
+          },
+          {
+            "bone_name": "evl_white_1",
+            "animation": "just_blink_white_1",
+            "start_time": 1,
+            "speed": 2
+          },
+          {
+            "bone_name": "evl_white_2",
+            "animation": "just_blink_white_1",
+            "start_time": 1,
+            "speed": 2
+          },
+          {
+            "bone_name": "evl_white_3",
+            "animation": "just_blink_white_1",
+            "start_time": 1,
+            "speed": 2
+          },
+          {
+            "bone_name": "evl_white_4",
+            "animation": "just_blink_white_1",
+            "start_time": 0,
+            "speed": 2
+          },
+          {
+            "bone_name": "evl_white_5",
+            "animation": "just_blink_white_1",
+            "start_time": 0,
+            "speed": 2
+          },
+          {
+            "bone_name": "evl_white_6",
+            "animation": "just_blink_white_1",
+            "start_time": 1,
+            "speed": 2
+          },
+          {
+            "bone_name": "evl_white_7",
+            "animation": "just_blink_white_1",
+            "start_time": 1,
+            "speed": 2
+          },
+          {
+            "bone_name": "evl_white_8",
+            "animation": "just_blink_white_1",
+            "start_time": 1,
+            "speed": 2
+          },
+          {
+            "bone_name": "evl_white_9",
+            "animation": "just_blink_white_1",
+            "start_time": 1,
+            "speed": 2
+          },
+          {
+            "bone_name": "evl_white_10",
+            "animation": "just_blink_white_1",
+            "start_time": 0,
+            "speed": 2
+          }
+        ],
+        "materials": [
+          {
+            "group": 0,
+            "animation": "just_blink_red_1",
+            "start_time": 0,
+            "speed": 2
+          },
+          {
+            "group": 1,
+            "animation": "just_blink_red_1",
+            "start_time": 1,
+            "speed": 2
+          },
+          {
+            "group": 2,
+            "animation": "just_blink_white_1",
+            "start_time": 0,
+            "speed": 2
+          },
+          {
+            "group": 3,
+            "animation": "just_blink_white_1",
+            "start_time": 1,
+            "speed": 2
+          }
+        ]
+      },
+      {
+        "model_id": 15422,
+        "coronas": [
+          {
+            "bone_name": "evl_red_1",
+            "animation": "just_blink_red_smoothed",
+            "start_time": 0,
+            "speed": 2
+          },
+          {
+            "bone_name": "evl_red_2",
+            "animation": "just_blink_red_smoothed",
+            "start_time": 1,
+            "speed": 2
+          },
+          {
+            "bone_name": "evl_blue_1",
+            "animation": "just_blink_blue_smoothed",
+            "start_time": 0,
+            "speed": 2
+          },
+          {
+            "bone_name": "evl_blue_2",
+            "animation": "just_blink_blue_smoothed",
+            "start_time": 1,
+            "speed": 2
+          },
+          {
+            "bone_name": "evl_white_1",
+            "animation": "double_blink_white_1",
+            "start_time": 0,
+            "speed": 1
+          }
+        ],
+        "materials": [
+          {
+            "group": 0,
+            "animation": "just_blink_red_smoothed",
+            "start_time": 0,
+            "speed": 2
+          },
+          {
+            "group": 1,
+            "animation": "just_blink_red_smoothed",
+            "start_time": 1,
+            "speed": 2
+          },
+          {
+            "group": 2,
+            "animation": "just_blink_blue_smoothed",
+            "start_time": 0,
+            "speed": 2
+          },
+          {
+            "group": 3,
+            "animation": "just_blink_blue_smoothed",
+            "start_time": 1,
+            "speed": 2
+          },
+          {
+            "group": 4,
+            "animation": "double_blink_white_1",
+            "start_time": 0,
+            "speed": 1
+          }
+        ]
+      },
+      {
+        "model_id": 15489,
+        "coronas": [
+          {
+            "bone_name": "evl_under_1",
+            "animation": "police_undercover_1",
+            "start_time": 0,
+            "speed": 2
+          },
+          {
+            "bone_name": "evl_under_2",
+            "animation": "police_undercover_1",
+            "start_time": 1,
+            "speed": 2
+          },
+          {
+            "bone_name": "evl_under_3",
+            "animation": "police_undercover_1",
+            "start_time": 0,
+            "speed": 2
+          },
+          {
+            "bone_name": "evl_under_4",
+            "animation": "police_undercover_1",
+            "start_time": 1,
+            "speed": 2
+          }
+        ],
+        "materials": [
+          {
+            "group": 0,
+            "animation": "police_undercover_1",
+            "start_time": 0,
+            "speed": 2
+          }
+        ]
+      },
+      {
+        "model_id": 15424,
+        "coronas": [
+          {
+            "bone_name": "evl_under_1",
+            "animation": "police_undercover_1",
+            "start_time": 0,
+            "speed": 2
+          },
+          {
+            "bone_name": "evl_under_2",
+            "animation": "police_undercover_1",
+            "start_time": 1,
+            "speed": 2
+          },
+          {
+            "bone_name": "evl_under_3",
+            "animation": "police_undercover_1",
+            "start_time": 0,
+            "speed": 2
+          },
+          {
+            "bone_name": "evl_under_4",
+            "animation": "police_undercover_1",
+            "start_time": 1,
+            "speed": 2
+          }
+        ],
+        "materials": [
+          {
+            "group": 0,
+            "animation": "police_undercover_1",
+            "start_time": 0,
+            "speed": 2
+          }
+        ]
+      }
+    ]
+  }
 }
