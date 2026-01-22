@@ -188,6 +188,60 @@
         },
         {
           "color": {
+            "r": 125,
+            "g": 130,
+            "b": 50,
+            "a": 255
+          },
+          "texture": null
+        },
+        {
+          "color": {
+            "r": 125,
+            "g": 130,
+            "b": 51,
+            "a": 255
+          },
+          "texture": null
+        },
+        {
+          "color": {
+            "r": 125,
+            "g": 130,
+            "b": 52,
+            "a": 255
+          },
+          "texture": null
+        },
+        {
+          "color": {
+            "r": 125,
+            "g": 130,
+            "b": 53,
+            "a": 255
+          },
+          "texture": null
+        },
+        {
+          "color": {
+            "r": 125,
+            "g": 130,
+            "b": 54,
+            "a": 255
+          },
+          "texture": null
+        },
+        {
+          "color": {
+            "r": 125,
+            "g": 130,
+            "b": 55,
+            "a": 255
+          },
+          "texture": null
+        },
+        {
+          "color": {
             "r": 255,
             "g": 255,
             "b": 255,
@@ -1223,7 +1277,7 @@
       ]
     }
   ],
-  "frames": 56,
+  "frames": 72,
   "dummies": [
     "lc200",
     "headlights",
@@ -1239,6 +1293,7 @@
     "tlght_generic_r",
     "headlights2",
     "taillights2",
+    "chassis",
     "ug_nitro",
     "carback_lg",
     "carback",
@@ -1253,33 +1308,48 @@
     "door_lf_dummy",
     "door_rr_dummy",
     "door_lr_dummy",
+    "evl_white_1",
     "door_rf_dummy",
     "boot_dummy",
+    "evl_red_1",
     "windscreen_dummy",
     "platelight",
-    "chassis",
+    "evl_blue_1",
+    "evl_red_5",
     "bonnet_ok",
     "boot_ok",
+    "evl_blue_5",
     "bump_front_ok",
     "bump_rear_ok",
+    "evl_red_6",
     "door_lf_ok",
     "door_lr_ok",
+    "evl_blue_6",
     "door_rf_ok",
     "door_rr_ok",
     "gls",
     "windscreen_ok",
     "bonnet_dam",
     "boot_dam",
+    "evl_red_2",
     "bump_front_dam",
+    "evl_white_2",
     "bump_rear_dam",
+    "evl_white_3",
     "door_lf_dam",
+    "evl_white_4",
     "door_lr_dam",
     "door_rf_dam",
     "door_rr_dam",
     "windscreen_dam",
+    "evl_blue_2",
     "int",
     "wheel_rf",
+    "evl_red_3",
     "boot_ok_gls",
-    "boot_dam_gls"
+    "boot_dam_gls",
+    "evl_blue_3",
+    "evl_red_4",
+    "evl_blue_4"
   ]
 }

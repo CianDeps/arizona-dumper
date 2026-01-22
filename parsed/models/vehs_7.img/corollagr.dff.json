@@ -774,15 +774,6 @@
         },
         {
           "color": {
-            "r": 255,
-            "g": 255,
-            "b": 255,
-            "a": 153
-          },
-          "texture": null
-        },
-        {
-          "color": {
             "r": 204,
             "g": 48,
             "b": 0,
@@ -796,6 +787,15 @@
             "g": 204,
             "b": 204,
             "a": 255
+          },
+          "texture": null
+        },
+        {
+          "color": {
+            "r": 255,
+            "g": 255,
+            "b": 255,
+            "a": 153
           },
           "texture": null
         }
@@ -844,15 +844,6 @@
         },
         {
           "color": {
-            "r": 255,
-            "g": 255,
-            "b": 255,
-            "a": 153
-          },
-          "texture": null
-        },
-        {
-          "color": {
             "r": 204,
             "g": 48,
             "b": 0,
@@ -866,6 +857,15 @@
             "g": 204,
             "b": 204,
             "a": 255
+          },
+          "texture": null
+        },
+        {
+          "color": {
+            "r": 255,
+            "g": 255,
+            "b": 255,
+            "a": 153
           },
           "texture": null
         }
@@ -1016,6 +1016,15 @@
       "materials": [
         {
           "color": {
+            "r": 255,
+            "g": 255,
+            "b": 255,
+            "a": 153
+          },
+          "texture": null
+        },
+        {
+          "color": {
             "r": 60,
             "g": 255,
             "b": 0,
@@ -1047,15 +1056,6 @@
             "g": 204,
             "b": 204,
             "a": 255
-          },
-          "texture": null
-        },
-        {
-          "color": {
-            "r": 255,
-            "g": 255,
-            "b": 255,
-            "a": 153
           },
           "texture": null
         },
@@ -1127,6 +1127,15 @@
       "materials": [
         {
           "color": {
+            "r": 255,
+            "g": 255,
+            "b": 255,
+            "a": 153
+          },
+          "texture": null
+        },
+        {
+          "color": {
             "r": 60,
             "g": 255,
             "b": 0,
@@ -1163,15 +1172,6 @@
         },
         {
           "color": {
-            "r": 255,
-            "g": 255,
-            "b": 255,
-            "a": 153
-          },
-          "texture": null
-        },
-        {
-          "color": {
             "r": 204,
             "g": 48,
             "b": 0,
@@ -1191,7 +1191,7 @@
       ]
     }
   ],
-  "frames": 52,
+  "frames": 53,
   "dummies": [
     "toy_grcorolla",
     "chassis_dummy",
@@ -1244,6 +1244,7 @@
     "door_rfg_ok",
     "glasslights",
     "side_glass_ok",
-    "door_lfg_ok"
+    "door_lfg_ok",
+    "brake_caliper"
   ]
 }

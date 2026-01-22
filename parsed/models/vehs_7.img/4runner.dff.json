@@ -53,7 +53,7 @@
     },
     {
       "index": 3,
-      "vertices": 2114,
+      "vertices": 2116,
       "triangles": 1968,
       "materials": [
         {
@@ -105,7 +105,7 @@
     },
     {
       "index": 4,
-      "vertices": 1922,
+      "vertices": 1924,
       "triangles": 1776,
       "materials": [
         {
@@ -381,7 +381,7 @@
     },
     {
       "index": 10,
-      "vertices": 1198,
+      "vertices": 1205,
       "triangles": 1132,
       "materials": [
         {
@@ -433,7 +433,7 @@
     },
     {
       "index": 11,
-      "vertices": 1196,
+      "vertices": 1203,
       "triangles": 1132,
       "materials": [
         {
@@ -485,7 +485,7 @@
     },
     {
       "index": 12,
-      "vertices": 1200,
+      "vertices": 1207,
       "triangles": 1132,
       "materials": [
         {
@@ -537,7 +537,7 @@
     },
     {
       "index": 13,
-      "vertices": 1200,
+      "vertices": 1207,
       "triangles": 1132,
       "materials": [
         {
@@ -589,7 +589,7 @@
     },
     {
       "index": 14,
-      "vertices": 1210,
+      "vertices": 1220,
       "triangles": 1270,
       "materials": [
         {
@@ -741,8 +741,8 @@
     },
     {
       "index": 19,
-      "vertices": 14998,
-      "triangles": 13603,
+      "vertices": 15014,
+      "triangles": 13601,
       "materials": [
         {
           "color": {
@@ -782,27 +782,9 @@
         },
         {
           "color": {
-            "r": 204,
-            "g": 204,
-            "b": 204,
-            "a": 255
-          },
-          "texture": null
-        },
-        {
-          "color": {
             "r": 153,
             "g": 153,
             "b": 153,
-            "a": 255
-          },
-          "texture": null
-        },
-        {
-          "color": {
-            "r": 204,
-            "g": 204,
-            "b": 204,
             "a": 255
           },
           "texture": null
@@ -896,6 +878,24 @@
             "a": 255
           },
           "texture": null
+        },
+        {
+          "color": {
+            "r": 204,
+            "g": 204,
+            "b": 204,
+            "a": 255
+          },
+          "texture": null
+        },
+        {
+          "color": {
+            "r": 204,
+            "g": 204,
+            "b": 204,
+            "a": 255
+          },
+          "texture": null
         }
       ]
     },
@@ -944,7 +944,7 @@
     },
     {
       "index": 21,
-      "vertices": 4025,
+      "vertices": 4067,
       "triangles": 3100,
       "materials": [
         {
@@ -1003,7 +1003,7 @@
     },
     {
       "index": 23,
-      "vertices": 4024,
+      "vertices": 4066,
       "triangles": 3099,
       "materials": [
         {
@@ -1062,7 +1062,7 @@
     },
     {
       "index": 25,
-      "vertices": 1717,
+      "vertices": 1731,
       "triangles": 1736,
       "materials": [
         {
@@ -1096,7 +1096,7 @@
     },
     {
       "index": 26,
-      "vertices": 5723,
+      "vertices": 5741,
       "triangles": 4991,
       "materials": [
         {
@@ -1148,7 +1148,7 @@
     },
     {
       "index": 27,
-      "vertices": 1143,
+      "vertices": 1217,
       "triangles": 788,
       "materials": [
         {
@@ -1181,7 +1181,7 @@
       ]
     }
   ],
-  "frames": 56,
+  "frames": 57,
   "dummies": [
     "4run",
     "chassis_dummy",
@@ -1238,6 +1238,7 @@
     "bumpg_front_dam",
     "wheel",
     "ug_nitro",
-    "chassis_vlo"
+    "chassis_vlo",
+    "brake_caliper"
   ]
 }
