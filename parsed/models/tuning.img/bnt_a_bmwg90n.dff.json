@@ -5,9 +5,36 @@
   "geometries": [
     {
       "index": 0,
-      "vertices": 1500,
-      "triangles": 1758,
+      "vertices": 995,
+      "triangles": 1170,
       "materials": [
+        {
+          "color": {
+            "r": 60,
+            "g": 255,
+            "b": 0,
+            "a": 255
+          },
+          "texture": null
+        },
+        {
+          "color": {
+            "r": 153,
+            "g": 153,
+            "b": 153,
+            "a": 255
+          },
+          "texture": null
+        },
+        {
+          "color": {
+            "r": 255,
+            "g": 0,
+            "b": 175,
+            "a": 255
+          },
+          "texture": null
+        },
         {
           "color": {
             "r": 204,
@@ -20,27 +47,9 @@
         {
           "color": {
             "r": 255,
-            "g": 175,
-            "b": 0,
+            "g": 0,
+            "b": 175,
             "a": 255
-          },
-          "texture": null
-        },
-        {
-          "color": {
-            "r": 0,
-            "g": 255,
-            "b": 200,
-            "a": 255
-          },
-          "texture": null
-        },
-        {
-          "color": {
-            "r": 255,
-            "g": 255,
-            "b": 255,
-            "a": 153
           },
           "texture": null
         }
@@ -49,6 +58,6 @@
   ],
   "frames": 1,
   "dummies": [
-    "rf_a_furat1"
+    "bnt_a_bmwg90"
   ]
 }

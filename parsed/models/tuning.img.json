@@ -1,8 +1,12 @@
 {
   "type": "img",
   "version": "v2",
-  "totalEntries": 2042,
+  "totalEntries": 2060,
   "entries": [
+    {
+      "name": "bnt_a_bmwg90n.dff",
+      "size": 65536
+    },
     {
       "name": "bnt_a_bmwm3g81.dff",
       "size": 43008
@@ -54,6 +58,10 @@
     {
       "name": "bnt_a_furat2.dff",
       "size": 182272
+    },
+    {
+      "name": "bnt_a_furat3.dff",
+      "size": 186368
     },
     {
       "name": "bnt_a_g63amg.dff",
@@ -350,6 +358,10 @@
     {
       "name": "bnt_b_bmwe38_a.dff",
       "size": 571392
+    },
+    {
+      "name": "bnt_b_bmwg90n.dff",
+      "size": 36864
     },
     {
       "name": "bnt_b_bmwix_a.DFF",
@@ -890,6 +902,10 @@
     {
       "name": "bnt_b_furat2.dff",
       "size": 194560
+    },
+    {
+      "name": "bnt_b_furat3.dff",
+      "size": 210944
     },
     {
       "name": "bnt_b_g630_a.DFF",
@@ -2772,6 +2788,10 @@
       "size": 67584
     },
     {
+      "name": "exh_a_bmwg90n.dff",
+      "size": 43008
+    },
+    {
       "name": "exh_a_bmwm3g81.dff",
       "size": 30720
     },
@@ -2814,6 +2834,10 @@
     {
       "name": "exh_a_furat2.dff",
       "size": 325632
+    },
+    {
+      "name": "exh_a_furat3.dff",
+      "size": 284672
     },
     {
       "name": "exh_a_g63amg.dff",
@@ -2896,6 +2920,10 @@
       "size": 196608
     },
     {
+      "name": "fbmp_a_bmwg90n.dff",
+      "size": 155648
+    },
+    {
       "name": "fbmp_a_bmwm3g81.dff",
       "size": 202752
     },
@@ -2945,6 +2973,10 @@
     },
     {
       "name": "fbmp_a_furat2.dff",
+      "size": 49152
+    },
+    {
+      "name": "fbmp_a_furat3.dff",
       "size": 49152
     },
     {
@@ -3222,6 +3254,10 @@
     {
       "name": "rbmp_aveo_e.DFF",
       "size": 18432
+    },
+    {
+      "name": "rbmp_a_bmwg90n.dff",
+      "size": 192512
     },
     {
       "name": "rbmp_a_bmwm3g81.dff",
@@ -5128,6 +5164,10 @@
       "size": 192512
     },
     {
+      "name": "rf_a_bmwg90n.dff",
+      "size": 20480
+    },
+    {
       "name": "rf_a_bmwm3g81.dff",
       "size": 18432
     },
@@ -5169,11 +5209,15 @@
     },
     {
       "name": "rf_a_furat1.dff",
-      "size": 94208
+      "size": 98304
     },
     {
       "name": "rf_a_furat2.dff",
       "size": 26624
+    },
+    {
+      "name": "rf_a_furat3.dff",
+      "size": 32768
     },
     {
       "name": "rf_a_g63amg.dff",
@@ -5248,6 +5292,10 @@
       "size": 321536
     },
     {
+      "name": "spl_a_bmwg90n.dff",
+      "size": 32768
+    },
+    {
       "name": "spl_a_bmwm3g81.dff",
       "size": 43008
     },
@@ -5294,6 +5342,10 @@
     {
       "name": "spl_a_furat2.dff",
       "size": 12288
+    },
+    {
+      "name": "spl_a_furat3.dff",
+      "size": 20480
     },
     {
       "name": "spl_a_g63amg_r.dff",
@@ -7449,7 +7501,7 @@
     },
     {
       "name": "tuning.col",
-      "size": 38912
+      "size": 43008
     },
     {
       "name": "tunning_0000.dff",
@@ -7604,6 +7656,10 @@
       "size": 34816
     },
     {
+      "name": "wg_l_a_bmwg90n.dff",
+      "size": 45056
+    },
+    {
       "name": "wg_l_a_bmwm3g81.dff",
       "size": 73728
     },
@@ -7654,6 +7710,10 @@
     {
       "name": "wg_l_a_furat2.dff",
       "size": 32768
+    },
+    {
+      "name": "wg_l_a_furat3.dff",
+      "size": 43008
     },
     {
       "name": "wg_l_a_g63amg.dff",
@@ -7728,6 +7788,10 @@
       "size": 34816
     },
     {
+      "name": "wg_r_a_bmwg90n.dff",
+      "size": 40960
+    },
+    {
       "name": "wg_r_a_bmwm3g81.dff",
       "size": 73728
     },
@@ -7778,6 +7842,10 @@
     {
       "name": "wg_r_a_furat2.dff",
       "size": 32768
+    },
+    {
+      "name": "wg_r_a_furat3.dff",
+      "size": 43008
     },
     {
       "name": "wg_r_a_g63amg.dff",
@@ -7853,7 +7921,7 @@
     },
     {
       "name": "wheels_vip.txd",
-      "size": 6189056
+      "size": 6320128
     },
     {
       "name": "wheel_1.dff",
@@ -8010,6 +8078,10 @@
     {
       "name": "wheel_lex_myst.dff",
       "size": 276480
+    },
+    {
+      "name": "wheel_mansfv10.dff",
+      "size": 114688
     },
     {
       "name": "wheel_meshes.dff",
