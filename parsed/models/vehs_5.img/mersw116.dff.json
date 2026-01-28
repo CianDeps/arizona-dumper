@@ -583,8 +583,8 @@
     },
     {
       "index": 17,
-      "vertices": 2300,
-      "triangles": 1790,
+      "vertices": 1185,
+      "triangles": 932,
       "materials": [
         {
           "color": {
@@ -612,11 +612,149 @@
             "a": 255
           },
           "texture": null
+        },
+        {
+          "color": {
+            "r": 204,
+            "g": 204,
+            "b": 204,
+            "a": 153
+          },
+          "texture": null
         }
       ]
     },
     {
       "index": 18,
+      "vertices": 1185,
+      "triangles": 932,
+      "materials": [
+        {
+          "color": {
+            "r": 204,
+            "g": 204,
+            "b": 204,
+            "a": 255
+          },
+          "texture": null
+        },
+        {
+          "color": {
+            "r": 60,
+            "g": 255,
+            "b": 0,
+            "a": 255
+          },
+          "texture": null
+        },
+        {
+          "color": {
+            "r": 204,
+            "g": 204,
+            "b": 204,
+            "a": 255
+          },
+          "texture": null
+        },
+        {
+          "color": {
+            "r": 204,
+            "g": 204,
+            "b": 204,
+            "a": 153
+          },
+          "texture": null
+        }
+      ]
+    },
+    {
+      "index": 19,
+      "vertices": 1185,
+      "triangles": 932,
+      "materials": [
+        {
+          "color": {
+            "r": 204,
+            "g": 204,
+            "b": 204,
+            "a": 255
+          },
+          "texture": null
+        },
+        {
+          "color": {
+            "r": 60,
+            "g": 255,
+            "b": 0,
+            "a": 255
+          },
+          "texture": null
+        },
+        {
+          "color": {
+            "r": 204,
+            "g": 204,
+            "b": 204,
+            "a": 255
+          },
+          "texture": null
+        },
+        {
+          "color": {
+            "r": 255,
+            "g": 255,
+            "b": 255,
+            "a": 153
+          },
+          "texture": null
+        }
+      ]
+    },
+    {
+      "index": 20,
+      "vertices": 1185,
+      "triangles": 932,
+      "materials": [
+        {
+          "color": {
+            "r": 204,
+            "g": 204,
+            "b": 204,
+            "a": 255
+          },
+          "texture": null
+        },
+        {
+          "color": {
+            "r": 60,
+            "g": 255,
+            "b": 0,
+            "a": 255
+          },
+          "texture": null
+        },
+        {
+          "color": {
+            "r": 204,
+            "g": 204,
+            "b": 204,
+            "a": 255
+          },
+          "texture": null
+        },
+        {
+          "color": {
+            "r": 255,
+            "g": 255,
+            "b": 255,
+            "a": 153
+          },
+          "texture": null
+        }
+      ]
+    },
+    {
+      "index": 21,
       "vertices": 5718,
       "triangles": 5809,
       "materials": [
@@ -632,7 +770,7 @@
       ]
     },
     {
-      "index": 19,
+      "index": 22,
       "vertices": 3561,
       "triangles": 2624,
       "materials": [
@@ -648,7 +786,7 @@
       ]
     },
     {
-      "index": 20,
+      "index": 23,
       "vertices": 92,
       "triangles": 140,
       "materials": [
@@ -664,23 +802,7 @@
       ]
     },
     {
-      "index": 21,
-      "vertices": 70,
-      "triangles": 74,
-      "materials": [
-        {
-          "color": {
-            "r": 204,
-            "g": 204,
-            "b": 204,
-            "a": 153
-          },
-          "texture": null
-        }
-      ]
-    },
-    {
-      "index": 22,
+      "index": 24,
       "vertices": 1334,
       "triangles": 1046,
       "materials": [
@@ -705,7 +827,7 @@
       ]
     },
     {
-      "index": 23,
+      "index": 25,
       "vertices": 1122,
       "triangles": 1512,
       "materials": [
@@ -721,7 +843,7 @@
       ]
     },
     {
-      "index": 24,
+      "index": 26,
       "vertices": 21,
       "triangles": 25,
       "materials": [
@@ -737,7 +859,7 @@
       ]
     },
     {
-      "index": 25,
+      "index": 27,
       "vertices": 21,
       "triangles": 25,
       "materials": [
@@ -753,7 +875,7 @@
       ]
     }
   ],
-  "frames": 51,
+  "frames": 56,
   "dummies": [
     "monstera",
     "chassis_dummy",
@@ -764,11 +886,14 @@
     "wheel_rb_dummy",
     "wheel_rf_dummy",
     "ped_frontseat",
+    "ped_backseat",
     "exhaust",
     "bump_front_dummy",
     "bump_rear_dummy",
     "door_lf_dummy",
+    "door_lr_dummy",
     "door_rf_dummy",
+    "door_rr_dummy",
     "windscreen_dummy",
     "transmission_f",
     "transmission_r",
@@ -796,11 +921,13 @@
     "bonnet_dam",
     "boot_ok",
     "boot_dam",
-    "doorsR",
+    "door_rr_ok",
+    "door_lr_ok",
+    "door_rr_dam",
+    "door_lr_dam",
     "int",
     "eng",
     "rearwin",
-    "rdoorglass",
     "rear_glass",
     "exh",
     "door_lf_ok",

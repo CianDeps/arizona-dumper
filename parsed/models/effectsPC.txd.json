@@ -334,28 +334,28 @@
       "name": "whitestars",
       "width": 128,
       "height": 128,
-      "format": "DXT5",
+      "format": "\u0015",
       "alpha": true
     },
     {
       "name": "whitestarsaura",
       "width": 256,
       "height": 256,
-      "format": "DXT5",
+      "format": "\u0015",
       "alpha": true
     },
     {
       "name": "goldstars",
       "width": 128,
       "height": 128,
-      "format": "DXT5",
+      "format": "\u0015",
       "alpha": true
     },
     {
       "name": "goldstarsaura",
       "width": 256,
       "height": 256,
-      "format": "DXT5",
+      "format": "\u0015",
       "alpha": true
     },
     {
@@ -367,23 +367,23 @@
     },
     {
       "name": "cdsmoke2",
-      "width": 1024,
-      "height": 1024,
-      "format": "DXT1",
+      "width": 1920,
+      "height": 1080,
+      "format": "\u0016",
       "alpha": false
     },
     {
       "name": "cdsmoke1",
-      "width": 1024,
-      "height": 1024,
-      "format": "DXT1",
+      "width": 1920,
+      "height": 1080,
+      "format": "\u0016",
       "alpha": false
     },
     {
       "name": "red_eye",
       "width": 512,
       "height": 512,
-      "format": "DXT5",
+      "format": "\u0015",
       "alpha": true
     },
     {
@@ -397,7 +397,7 @@
       "name": "circleshield",
       "width": 256,
       "height": 256,
-      "format": "DXT5",
+      "format": "\u0015",
       "alpha": true
     },
     {
@@ -447,6 +447,34 @@
       "width": 128,
       "height": 128,
       "format": "DXT5",
+      "alpha": true
+    },
+    {
+      "name": "len1",
+      "width": 256,
+      "height": 256,
+      "format": "DXT3",
+      "alpha": true
+    },
+    {
+      "name": "len2",
+      "width": 256,
+      "height": 256,
+      "format": "DXT3",
+      "alpha": true
+    },
+    {
+      "name": "hlopok1",
+      "width": 256,
+      "height": 256,
+      "format": "DXT5",
+      "alpha": true
+    },
+    {
+      "name": "shepka1",
+      "width": 256,
+      "height": 256,
+      "format": "DXT3",
       "alpha": true
     }
   ]

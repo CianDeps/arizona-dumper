@@ -1,0 +1,33 @@
+{
+  "type": "txd",
+  "textures": [
+    {
+      "name": "airsht1_vlo",
+      "width": 512,
+      "height": 512,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "airsht1_body",
+      "width": 1024,
+      "height": 1024,
+      "format": "DXT1",
+      "alpha": true
+    },
+    {
+      "name": "obj91_airsht1t",
+      "width": 1024,
+      "height": 1024,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "airsht1_barel",
+      "width": 1024,
+      "height": 1024,
+      "format": "DXT5",
+      "alpha": true
+    }
+  ]
+}

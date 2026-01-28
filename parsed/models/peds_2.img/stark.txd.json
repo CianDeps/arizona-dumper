@@ -1,0 +1,47 @@
+{
+  "type": "txd",
+  "textures": [
+    {
+      "name": "stark_coat",
+      "width": 512,
+      "height": 512,
+      "format": "DXT1",
+      "alpha": true
+    },
+    {
+      "name": "stark_body",
+      "width": 512,
+      "height": 512,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "stark_face",
+      "width": 512,
+      "height": 512,
+      "format": "DXT1",
+      "alpha": true
+    },
+    {
+      "name": "stark_hair",
+      "width": 128,
+      "height": 128,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "stark_lowr",
+      "width": 512,
+      "height": 512,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "canae_obvodka",
+      "width": 64,
+      "height": 64,
+      "format": "DXT1",
+      "alpha": false
+    }
+  ]
+}
