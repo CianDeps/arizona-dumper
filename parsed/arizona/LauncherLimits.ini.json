@@ -1,6 +1,6 @@
 {
   "type": "config",
-  "lines": 89,
+  "lines": 92,
   "content": [
     "[DYNAMIC LIMITS]",
     "ColModels = 32511",
@@ -8,6 +8,9 @@
     "rwObjectInstances = 5000",
     "Matrices = 20000",
     "EntryInfoNodes = 4500",
+    "Peds = 255",
+    "PedIntelligence = 300",
+    "PedAttractors = 300",
     "Collision links = 100",
     "[IPL]",
     "Entity index array = 140",
