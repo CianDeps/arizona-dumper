@@ -30,8 +30,8 @@
     },
     {
       "index": 1,
-      "vertices": 10334,
-      "triangles": 13161,
+      "vertices": 10353,
+      "triangles": 13153,
       "materials": [
         {
           "color": {
@@ -184,8 +184,8 @@
     },
     {
       "index": 5,
-      "vertices": 3152,
-      "triangles": 3112,
+      "vertices": 3148,
+      "triangles": 3108,
       "materials": [
         {
           "color": {
@@ -218,7 +218,7 @@
     },
     {
       "index": 6,
-      "vertices": 1151,
+      "vertices": 1159,
       "triangles": 1196,
       "materials": [
         {
@@ -755,7 +755,7 @@
       ]
     }
   ],
-  "frames": 56,
+  "frames": 55,
   "dummies": [
     "infernus",
     "headlights",
@@ -811,7 +811,6 @@
     "door_rfg_ok",
     "door_lfg_ok",
     "door_rfg_dam",
-    "door_lfg_dam",
-    "brake_caliper"
+    "door_lfg_dam"
   ]
 }

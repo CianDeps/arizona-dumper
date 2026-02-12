@@ -288,31 +288,6 @@
     },
     {
       "index": 7,
-      "vertices": 1610,
-      "triangles": 700,
-      "materials": [
-        {
-          "color": {
-            "r": 204,
-            "g": 204,
-            "b": 204,
-            "a": 255
-          },
-          "texture": null
-        },
-        {
-          "color": {
-            "r": 153,
-            "g": 153,
-            "b": 153,
-            "a": 255
-          },
-          "texture": null
-        }
-      ]
-    },
-    {
-      "index": 8,
       "vertices": 504,
       "triangles": 354,
       "materials": [
@@ -328,7 +303,7 @@
       ]
     }
   ],
-  "frames": 33,
+  "frames": 32,
   "dummies": [
     "wowrod",
     "chassis_dummy",
@@ -354,7 +329,6 @@
     "wheel_lb_dummy",
     "wheel_lf_dummy",
     "wheel_rf_dummy",
-    "wheel_rf",
     "wheel_rf",
     "wheel_rb_dummy",
     "ped_frontseat",

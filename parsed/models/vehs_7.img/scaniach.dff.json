@@ -372,33 +372,6 @@
         },
         {
           "color": {
-            "r": 204,
-            "g": 47,
-            "b": 0,
-            "a": 0
-          },
-          "texture": null
-        },
-        {
-          "color": {
-            "r": 204,
-            "g": 47,
-            "b": 0,
-            "a": 0
-          },
-          "texture": null
-        },
-        {
-          "color": {
-            "r": 204,
-            "g": 204,
-            "b": 204,
-            "a": 255
-          },
-          "texture": null
-        },
-        {
-          "color": {
             "r": 255,
             "g": 60,
             "b": 0,
@@ -423,6 +396,33 @@
             "a": 255
           },
           "texture": null
+        },
+        {
+          "color": {
+            "r": 204,
+            "g": 204,
+            "b": 204,
+            "a": 255
+          },
+          "texture": null
+        },
+        {
+          "color": {
+            "r": 204,
+            "g": 47,
+            "b": 0,
+            "a": 0
+          },
+          "texture": null
+        },
+        {
+          "color": {
+            "r": 204,
+            "g": 47,
+            "b": 0,
+            "a": 0
+          },
+          "texture": null
         }
       ]
     },
@@ -445,15 +445,6 @@
             "r": 204,
             "g": 204,
             "b": 204,
-            "a": 153
-          },
-          "texture": null
-        },
-        {
-          "color": {
-            "r": 204,
-            "g": 204,
-            "b": 204,
             "a": 254
           },
           "texture": null
@@ -464,6 +455,15 @@
             "g": 204,
             "b": 204,
             "a": 255
+          },
+          "texture": null
+        },
+        {
+          "color": {
+            "r": 204,
+            "g": 204,
+            "b": 204,
+            "a": 153
           },
           "texture": null
         }
@@ -520,24 +520,6 @@
         {
           "color": {
             "r": 204,
-            "g": 204,
-            "b": 204,
-            "a": 255
-          },
-          "texture": null
-        },
-        {
-          "color": {
-            "r": 204,
-            "g": 204,
-            "b": 204,
-            "a": 255
-          },
-          "texture": null
-        },
-        {
-          "color": {
-            "r": 204,
             "g": 47,
             "b": 0,
             "a": 0
@@ -550,6 +532,24 @@
             "g": 47,
             "b": 0,
             "a": 0
+          },
+          "texture": null
+        },
+        {
+          "color": {
+            "r": 204,
+            "g": 204,
+            "b": 204,
+            "a": 255
+          },
+          "texture": null
+        },
+        {
+          "color": {
+            "r": 204,
+            "g": 204,
+            "b": 204,
+            "a": 255
           },
           "texture": null
         },
@@ -598,18 +598,18 @@
       "materials": [
         {
           "color": {
-            "r": 255,
-            "g": 255,
-            "b": 255,
+            "r": 204,
+            "g": 204,
+            "b": 204,
             "a": 153
           },
           "texture": null
         },
         {
           "color": {
-            "r": 204,
-            "g": 204,
-            "b": 204,
+            "r": 255,
+            "g": 255,
+            "b": 255,
             "a": 153
           },
           "texture": null
@@ -1135,7 +1135,7 @@
       ]
     }
   ],
-  "frames": 52,
+  "frames": 51,
   "dummies": [
     "rdtrain",
     "headlights",
@@ -1187,7 +1187,6 @@
     "bump_rear_ok",
     "bump_front_ok",
     "windscreen_ok",
-    "door_rf_ok",
-    "brake_caliper"
+    "door_rf_ok"
   ]
 }

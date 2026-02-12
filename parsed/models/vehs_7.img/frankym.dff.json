@@ -91,7 +91,7 @@
     },
     {
       "index": 2,
-      "vertices": 772,
+      "vertices": 773,
       "triangles": 838,
       "materials": [
         {
@@ -134,7 +134,7 @@
     },
     {
       "index": 3,
-      "vertices": 768,
+      "vertices": 769,
       "triangles": 838,
       "materials": [
         {
@@ -606,15 +606,6 @@
         {
           "color": {
             "r": 204,
-            "g": 204,
-            "b": 204,
-            "a": 255
-          },
-          "texture": null
-        },
-        {
-          "color": {
-            "r": 204,
             "g": 47,
             "b": 0,
             "a": 0
@@ -645,6 +636,15 @@
             "g": 255,
             "b": 255,
             "a": 153
+          },
+          "texture": null
+        },
+        {
+          "color": {
+            "r": 204,
+            "g": 204,
+            "b": 204,
+            "a": 255
           },
           "texture": null
         }
@@ -804,7 +804,7 @@
       ]
     }
   ],
-  "frames": 54,
+  "frames": 53,
   "dummies": [
     "linerun",
     "chassis_dummy",
@@ -858,7 +858,6 @@
     "carback",
     "platelight",
     "int",
-    "chassis_vlo",
-    "brake_caliper"
+    "chassis_vlo"
   ]
 }

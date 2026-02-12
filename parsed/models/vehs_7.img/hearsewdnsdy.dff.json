@@ -62,15 +62,6 @@
         },
         {
           "color": {
-            "r": 204,
-            "g": 204,
-            "b": 204,
-            "a": 255
-          },
-          "texture": null
-        },
-        {
-          "color": {
             "r": 255,
             "g": 255,
             "b": 255,
@@ -164,6 +155,15 @@
             "r": 204,
             "g": 48,
             "b": 0,
+            "a": 255
+          },
+          "texture": null
+        },
+        {
+          "color": {
+            "r": 204,
+            "g": 204,
+            "b": 204,
             "a": 255
           },
           "texture": null
@@ -1120,7 +1120,7 @@
       ]
     }
   ],
-  "frames": 58,
+  "frames": 57,
   "dummies": [
     "SREDA",
     "wheel_lf_dummy",
@@ -1178,7 +1178,6 @@
     "door_lr_ok",
     "door_rr_dam",
     "boot_dam",
-    "door_lr_dam",
-    "brake_caliper"
+    "door_lr_dam"
   ]
 }

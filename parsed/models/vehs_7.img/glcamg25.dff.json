@@ -145,6 +145,15 @@
         },
         {
           "color": {
+            "r": 204,
+            "g": 204,
+            "b": 204,
+            "a": 255
+          },
+          "texture": null
+        },
+        {
+          "color": {
             "r": 60,
             "g": 255,
             "b": 0,
@@ -184,15 +193,6 @@
             "r": 255,
             "g": 0,
             "b": 175,
-            "a": 255
-          },
-          "texture": null
-        },
-        {
-          "color": {
-            "r": 204,
-            "g": 204,
-            "b": 204,
             "a": 255
           },
           "texture": null
@@ -282,14 +282,23 @@
     },
     {
       "index": 1,
-      "vertices": 2234,
-      "triangles": 2148,
+      "vertices": 2266,
+      "triangles": 2180,
       "materials": [
         {
           "color": {
             "r": 153,
             "g": 153,
             "b": 153,
+            "a": 255
+          },
+          "texture": null
+        },
+        {
+          "color": {
+            "r": 204,
+            "g": 204,
+            "b": 204,
             "a": 255
           },
           "texture": null

@@ -319,8 +319,8 @@
     },
     {
       "index": 5,
-      "vertices": 7795,
-      "triangles": 7412,
+      "vertices": 7801,
+      "triangles": 7410,
       "materials": [
         {
           "color": {
@@ -389,8 +389,8 @@
     },
     {
       "index": 6,
-      "vertices": 2952,
-      "triangles": 2971,
+      "vertices": 2946,
+      "triangles": 2969,
       "materials": [
         {
           "color": {
@@ -441,8 +441,8 @@
     },
     {
       "index": 7,
-      "vertices": 2912,
-      "triangles": 2939,
+      "vertices": 2909,
+      "triangles": 2938,
       "materials": [
         {
           "color": {
@@ -1237,14 +1237,23 @@
     },
     {
       "index": 23,
-      "vertices": 1930,
-      "triangles": 1877,
+      "vertices": 1978,
+      "triangles": 1925,
       "materials": [
         {
           "color": {
             "r": 153,
             "g": 153,
             "b": 153,
+            "a": 255
+          },
+          "texture": null
+        },
+        {
+          "color": {
+            "r": 204,
+            "g": 204,
+            "b": 204,
             "a": 255
           },
           "texture": null

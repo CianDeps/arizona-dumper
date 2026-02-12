@@ -5,7 +5,7 @@
   "geometries": [
     {
       "index": 0,
-      "vertices": 584,
+      "vertices": 587,
       "triangles": 594,
       "materials": [
         {
@@ -242,8 +242,8 @@
     },
     {
       "index": 3,
-      "vertices": 741,
-      "triangles": 546,
+      "vertices": 321,
+      "triangles": 246,
       "materials": [
         {
           "color": {
@@ -868,8 +868,8 @@
     },
     {
       "index": 14,
-      "vertices": 1110,
-      "triangles": 1224,
+      "vertices": 1316,
+      "triangles": 1497,
       "materials": [
         {
           "color": {
@@ -904,6 +904,24 @@
             "g": 204,
             "b": 204,
             "a": 255
+          },
+          "texture": null
+        },
+        {
+          "color": {
+            "r": 204,
+            "g": 204,
+            "b": 204,
+            "a": 255
+          },
+          "texture": null
+        },
+        {
+          "color": {
+            "r": 255,
+            "g": 255,
+            "b": 255,
+            "a": 153
           },
           "texture": null
         }
@@ -912,7 +930,7 @@
     {
       "index": 15,
       "vertices": 1316,
-      "triangles": 1481,
+      "triangles": 1497,
       "materials": [
         {
           "color": {
@@ -956,6 +974,15 @@
             "g": 204,
             "b": 204,
             "a": 255
+          },
+          "texture": null
+        },
+        {
+          "color": {
+            "r": 255,
+            "g": 255,
+            "b": 255,
+            "a": 153
           },
           "texture": null
         }
@@ -1308,8 +1335,8 @@
     "door_lf_dam",
     "door_lr_ok",
     "door_lr_dam",
-    "bump_rear_dam",
     "bump_rear_ok",
+    "bump_rear_dam",
     "windscreen_ok",
     "windscreen_dam",
     "tail_glass",

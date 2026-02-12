@@ -65,8 +65,8 @@
         {
           "color": {
             "r": 204,
-            "g": 204,
-            "b": 204,
+            "g": 48,
+            "b": 0,
             "a": 255
           },
           "texture": null
@@ -74,8 +74,8 @@
         {
           "color": {
             "r": 204,
-            "g": 48,
-            "b": 0,
+            "g": 204,
+            "b": 204,
             "a": 255
           },
           "texture": null
@@ -1215,7 +1215,7 @@
       ]
     }
   ],
-  "frames": 62,
+  "frames": 61,
   "dummies": [
     "premier",
     "exhaust",
@@ -1277,7 +1277,6 @@
     "obves_glass",
     "bump_rear_dam",
     "boot_dam",
-    "glass2",
-    "brake_caliper"
+    "glass2"
   ]
 }

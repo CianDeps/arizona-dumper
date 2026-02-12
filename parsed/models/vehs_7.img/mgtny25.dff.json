@@ -5,7 +5,7 @@
   "geometries": [
     {
       "index": 0,
-      "vertices": 11107,
+      "vertices": 11133,
       "triangles": 10886,
       "materials": [
         {
@@ -147,7 +147,7 @@
     },
     {
       "index": 1,
-      "vertices": 1066,
+      "vertices": 1078,
       "triangles": 852,
       "materials": [
         {
@@ -181,14 +181,23 @@
     },
     {
       "index": 2,
-      "vertices": 2069,
-      "triangles": 1864,
+      "vertices": 2132,
+      "triangles": 1912,
       "materials": [
         {
           "color": {
             "r": 153,
             "g": 153,
             "b": 153,
+            "a": 255
+          },
+          "texture": null
+        },
+        {
+          "color": {
+            "r": 204,
+            "g": 204,
+            "b": 204,
             "a": 255
           },
           "texture": null
@@ -355,7 +364,7 @@
     },
     {
       "index": 5,
-      "vertices": 2617,
+      "vertices": 2627,
       "triangles": 2474,
       "materials": [
         {
@@ -416,7 +425,7 @@
     },
     {
       "index": 6,
-      "vertices": 1724,
+      "vertices": 1728,
       "triangles": 1782,
       "materials": [
         {
@@ -588,8 +597,8 @@
     },
     {
       "index": 10,
-      "vertices": 9763,
-      "triangles": 9042,
+      "vertices": 9779,
+      "triangles": 9038,
       "materials": [
         {
           "color": {
@@ -808,7 +817,7 @@
     },
     {
       "index": 17,
-      "vertices": 2634,
+      "vertices": 2644,
       "triangles": 2474,
       "materials": [
         {
@@ -869,8 +878,8 @@
     },
     {
       "index": 18,
-      "vertices": 1730,
-      "triangles": 1782,
+      "vertices": 1733,
+      "triangles": 1780,
       "materials": [
         {
           "color": {
