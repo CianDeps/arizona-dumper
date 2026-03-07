@@ -2,18 +2,18 @@
   "type": "txd",
   "textures": [
     {
-      "name": "flowert",
+      "name": "floweraicon",
       "width": 64,
       "height": 64,
       "format": "DXT3",
       "alpha": true
     },
     {
-      "name": "floweraicon",
-      "width": 64,
-      "height": 64,
-      "format": "DXT3",
-      "alpha": true
+      "name": "flowert",
+      "width": 512,
+      "height": 512,
+      "format": "DXT1",
+      "alpha": false
     }
   ]
 }
