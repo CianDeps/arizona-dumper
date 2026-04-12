@@ -2,6 +2,34 @@
   "type": "txd",
   "textures": [
     {
+      "name": "des_thrails",
+      "width": 128,
+      "height": 128,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "sjmfrateblu2",
+      "width": 128,
+      "height": 128,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "sjmgrund2b",
+      "width": 256,
+      "height": 256,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "sw_bars",
+      "width": 256,
+      "height": 128,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
       "name": "sw_brick04",
       "width": 256,
       "height": 256,
@@ -9,14 +37,35 @@
       "alpha": false
     },
     {
-      "name": "sw_wall01",
+      "name": "sw_brick05",
       "width": 256,
       "height": 256,
       "format": "DXT1",
       "alpha": false
     },
     {
-      "name": "sw_shutters1",
+      "name": "sw_brick05b",
+      "width": 256,
+      "height": 256,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "sw_copdoor1",
+      "width": 256,
+      "height": 256,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "sw_copgrass01",
+      "width": 256,
+      "height": 256,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "sw_path1",
       "width": 256,
       "height": 256,
       "format": "DXT1",
@@ -37,51 +86,9 @@
       "alpha": false
     },
     {
-      "name": "sw_stairs1",
+      "name": "sw_wall01",
       "width": 256,
       "height": 256,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "sw_path1",
-      "width": 256,
-      "height": 256,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "sw_copgrass01",
-      "width": 256,
-      "height": 256,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "sjmgrund2b",
-      "width": 256,
-      "height": 256,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "des_thrails",
-      "width": 128,
-      "height": 128,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "sw_copdoor1",
-      "width": 256,
-      "height": 256,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "sjmfrateblu2",
-      "width": 128,
-      "height": 128,
       "format": "DXT1",
       "alpha": false
     },
@@ -93,37 +100,9 @@
       "alpha": false
     },
     {
-      "name": "sw_bars",
-      "width": 256,
-      "height": 128,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "sw_brick05b",
-      "width": 256,
-      "height": 256,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
       "name": "ws_bigstones",
       "width": 256,
       "height": 256,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "sw_brick05",
-      "width": 256,
-      "height": 256,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "black16",
-      "width": 16,
-      "height": 16,
       "format": "DXT1",
       "alpha": false
     }

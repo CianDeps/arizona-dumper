@@ -5,8 +5,8 @@
   "geometries": [
     {
       "index": 0,
-      "vertices": 1091,
-      "triangles": 878,
+      "vertices": 1601,
+      "triangles": 1467,
       "materials": [
         {
           "color": {
@@ -106,14 +106,21 @@
             "a": 255
           },
           "texture": null
+        },
+        {
+          "color": {
+            "r": 255,
+            "g": 255,
+            "b": 255,
+            "a": 102
+          },
+          "texture": null
         }
       ]
     }
   ],
-  "frames": 3,
+  "frames": 1,
   "dummies": [
-    "jet_interior",
-    "Omni431",
-    "Omni21"
+    "jet_interior"
   ]
 }

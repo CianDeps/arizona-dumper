@@ -2,6 +2,13 @@
   "type": "txd",
   "textures": [
     {
+      "name": "Bow_LoadingBayDoor",
+      "width": 128,
+      "height": 128,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
       "name": "dockpave_256",
       "width": 256,
       "height": 256,
@@ -9,21 +16,14 @@
       "alpha": false
     },
     {
-      "name": "sw_stairs1",
+      "name": "doorkb_1_256",
       "width": 256,
       "height": 256,
       "format": "DXT1",
       "alpha": false
     },
     {
-      "name": "sw_lastdrop",
-      "width": 256,
-      "height": 128,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "doorkb_1_256",
+      "name": "roof10L256",
       "width": 256,
       "height": 256,
       "format": "DXT1",
@@ -37,16 +37,9 @@
       "alpha": false
     },
     {
-      "name": "roof10L256",
+      "name": "sw_lastdrop",
       "width": 256,
-      "height": 256,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "ws_sandstone2",
-      "width": 256,
-      "height": 256,
+      "height": 128,
       "format": "DXT1",
       "alpha": false
     },
@@ -58,7 +51,7 @@
       "alpha": false
     },
     {
-      "name": "ws_whitewall2_top",
+      "name": "ws_sandstone2",
       "width": 256,
       "height": 256,
       "format": "DXT1",
@@ -72,16 +65,9 @@
       "alpha": false
     },
     {
-      "name": "Bow_LoadingBayDoor",
-      "width": 128,
-      "height": 128,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "sw_smlite",
-      "width": 64,
-      "height": 64,
+      "name": "ws_whitewall2_top",
+      "width": 256,
+      "height": 256,
       "format": "DXT1",
       "alpha": false
     }

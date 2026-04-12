@@ -2,6 +2,13 @@
   "type": "txd",
   "textures": [
     {
+      "name": "alleywallyell",
+      "width": 128,
+      "height": 128,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
       "name": "casinoshop31_256",
       "width": 128,
       "height": 128,
@@ -9,37 +16,16 @@
       "alpha": false
     },
     {
+      "name": "roof04L256",
+      "width": 256,
+      "height": 256,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
       "name": "zippizzaco_256",
       "width": 128,
       "height": 64,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "banding3_64HV",
-      "width": 64,
-      "height": 64,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "roof04L256",
-      "width": 128,
-      "height": 128,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "alleydoor8",
-      "width": 128,
-      "height": 128,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "alleywallyell",
-      "width": 128,
-      "height": 128,
       "format": "DXT1",
       "alpha": false
     }

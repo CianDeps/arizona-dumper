@@ -5,8 +5,8 @@
   "geometries": [
     {
       "index": 0,
-      "vertices": 4924,
-      "triangles": 2975,
+      "vertices": 4691,
+      "triangles": 2983,
       "materials": [
         {
           "color": {
@@ -19,15 +19,6 @@
         },
         {
           "color": {
-            "r": 150,
-            "g": 150,
-            "b": 150,
-            "a": 255
-          },
-          "texture": null
-        },
-        {
-          "color": {
             "r": 255,
             "g": 255,
             "b": 255,
@@ -130,34 +121,7 @@
             "r": 255,
             "g": 255,
             "b": 255,
-            "a": 102
-          },
-          "texture": null
-        },
-        {
-          "color": {
-            "r": 255,
-            "g": 255,
-            "b": 255,
             "a": 255
-          },
-          "texture": null
-        },
-        {
-          "color": {
-            "r": 255,
-            "g": 255,
-            "b": 255,
-            "a": 255
-          },
-          "texture": null
-        },
-        {
-          "color": {
-            "r": 255,
-            "g": 255,
-            "b": 255,
-            "a": 153
           },
           "texture": null
         },
@@ -202,7 +166,43 @@
             "r": 255,
             "g": 255,
             "b": 255,
-            "a": 204
+            "a": 255
+          },
+          "texture": null
+        },
+        {
+          "color": {
+            "r": 255,
+            "g": 255,
+            "b": 255,
+            "a": 255
+          },
+          "texture": null
+        },
+        {
+          "color": {
+            "r": 255,
+            "g": 255,
+            "b": 255,
+            "a": 255
+          },
+          "texture": null
+        },
+        {
+          "color": {
+            "r": 255,
+            "g": 255,
+            "b": 255,
+            "a": 255
+          },
+          "texture": null
+        },
+        {
+          "color": {
+            "r": 255,
+            "g": 255,
+            "b": 255,
+            "a": 255
           },
           "texture": null
         },
@@ -320,43 +320,43 @@
   "frames": 39,
   "dummies": [
     "midvegsavehouse",
-    "FPoint557",
-    "FPoint528",
-    "FPoint529",
-    "FPoint530",
-    "FPoint531",
-    "FPoint532",
-    "FPoint533",
-    "FPoint534",
-    "FPoint535",
-    "FPoint536",
-    "FPoint537",
-    "FPoint538",
-    "FPoint539",
-    "FPoint521",
-    "FPoint562",
-    "FPoint561",
-    "FPoint560",
-    "FPoint559",
-    "FPoint558",
-    "FPoint13",
-    "FPoint556",
-    "FPoint527",
-    "FPoint526",
-    "FPoint525",
-    "FPoint524",
-    "FPoint12",
-    "FPoint522",
-    "FPoint555",
-    "FPoint520",
-    "FPoint515",
-    "FPoint518",
-    "FPoint517",
-    "FPoint516",
-    "FPoint514",
-    "FPoint513",
-    "FPoint512",
+    "FPoint519",
     "FPoint523",
-    "FPoint519"
+    "FPoint512",
+    "FPoint513",
+    "FPoint514",
+    "FPoint516",
+    "FPoint517",
+    "FPoint518",
+    "FPoint515",
+    "FPoint520",
+    "FPoint555",
+    "FPoint522",
+    "FPoint12",
+    "FPoint524",
+    "FPoint525",
+    "FPoint526",
+    "FPoint527",
+    "FPoint556",
+    "FPoint13",
+    "FPoint558",
+    "FPoint559",
+    "FPoint560",
+    "FPoint561",
+    "FPoint562",
+    "FPoint521",
+    "FPoint539",
+    "FPoint538",
+    "FPoint537",
+    "FPoint536",
+    "FPoint535",
+    "FPoint534",
+    "FPoint533",
+    "FPoint532",
+    "FPoint531",
+    "FPoint530",
+    "FPoint529",
+    "FPoint528",
+    "FPoint557"
   ]
 }

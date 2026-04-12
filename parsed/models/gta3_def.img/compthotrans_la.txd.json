@@ -5,15 +5,8 @@
       "name": "nbarlid",
       "width": 64,
       "height": 64,
-      "format": "DXT3",
+      "format": "DXT5",
       "alpha": true
-    },
-    {
-      "name": "sjmlawarplt",
-      "width": 128,
-      "height": 128,
-      "format": "DXT1",
-      "alpha": false
     },
     {
       "name": "sanpedock993",
@@ -26,13 +19,27 @@
       "name": "sanpedock994",
       "width": 128,
       "height": 128,
-      "format": "DXT3",
-      "alpha": true
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "sjmlawarplt",
+      "width": 128,
+      "height": 128,
+      "format": "DXT1",
+      "alpha": false
     },
     {
       "name": "sjmlawarplt3",
       "width": 256,
       "height": 256,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "n_icons_64",
+      "width": 512,
+      "height": 512,
       "format": "DXT1",
       "alpha": false
     }

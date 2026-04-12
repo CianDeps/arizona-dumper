@@ -5,14 +5,23 @@
   "geometries": [
     {
       "index": 0,
-      "vertices": 1596,
-      "triangles": 1024,
+      "vertices": 1752,
+      "triangles": 1084,
       "materials": [
         {
           "color": {
-            "r": 128,
-            "g": 128,
-            "b": 128,
+            "r": 255,
+            "g": 255,
+            "b": 255,
+            "a": 255
+          },
+          "texture": null
+        },
+        {
+          "color": {
+            "r": 255,
+            "g": 255,
+            "b": 255,
             "a": 255
           },
           "texture": null

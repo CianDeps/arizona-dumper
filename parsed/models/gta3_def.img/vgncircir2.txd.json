@@ -2,13 +2,6 @@
   "type": "txd",
   "textures": [
     {
-      "name": "hairybanjo_256",
-      "width": 256,
-      "height": 256,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
       "name": "aluminiumbands64",
       "width": 128,
       "height": 128,
@@ -26,8 +19,15 @@
       "name": "Clown_Pock_sign1c2",
       "width": 256,
       "height": 256,
-      "format": "DXT3",
+      "format": "DXT5",
       "alpha": true
+    },
+    {
+      "name": "hairybanjo_256",
+      "width": 256,
+      "height": 256,
+      "format": "DXT1",
+      "alpha": false
     }
   ]
 }

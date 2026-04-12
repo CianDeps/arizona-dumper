@@ -930,7 +930,7 @@
     },
     {
       "index": 19,
-      "vertices": 2286,
+      "vertices": 2287,
       "triangles": 2013,
       "materials": [
         {
@@ -982,7 +982,7 @@
     },
     {
       "index": 20,
-      "vertices": 2286,
+      "vertices": 2287,
       "triangles": 2013,
       "materials": [
         {
@@ -1034,7 +1034,7 @@
     },
     {
       "index": 21,
-      "vertices": 2284,
+      "vertices": 2285,
       "triangles": 2013,
       "materials": [
         {
@@ -1086,7 +1086,7 @@
     },
     {
       "index": 22,
-      "vertices": 2284,
+      "vertices": 2285,
       "triangles": 2013,
       "materials": [
         {
@@ -1143,15 +1143,6 @@
       "materials": [
         {
           "color": {
-            "r": 255,
-            "g": 255,
-            "b": 255,
-            "a": 255
-          },
-          "texture": null
-        },
-        {
-          "color": {
             "r": 153,
             "g": 153,
             "b": 153,
@@ -1173,6 +1164,15 @@
             "r": 204,
             "g": 204,
             "b": 204,
+            "a": 255
+          },
+          "texture": null
+        },
+        {
+          "color": {
+            "r": 255,
+            "g": 255,
+            "b": 255,
             "a": 255
           },
           "texture": null
@@ -1239,6 +1239,7 @@
     "bonnet_ok",
     "bonnet_dam",
     "bump_front_dummy",
+    "carback_lg",
     "tlght_f",
     "tlght_r",
     "bump_front_ok",
@@ -1269,7 +1270,6 @@
     "carplate",
     "carback",
     "platelight",
-    "carback_lg",
     "carplate_lg",
     "windscreen_ok",
     "windscreen_dam",

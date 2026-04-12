@@ -1,7 +1,7 @@
 {
   "type": "img",
   "version": "v2",
-  "totalEntries": 1735,
+  "totalEntries": 1840,
   "entries": [
     {
       "name": "accs_east23.txd",
@@ -17,7 +17,7 @@
     },
     {
       "name": "acc_gmod.col",
-      "size": 452608
+      "size": 598016
     },
     {
       "name": "acs1.txd",
@@ -181,7 +181,11 @@
     },
     {
       "name": "anim_accs.ifp",
-      "size": 190464
+      "size": 126976
+    },
+    {
+      "name": "anim_simp.ifp",
+      "size": 354304
     },
     {
       "name": "armourburger.dff",
@@ -2125,7 +2129,7 @@
     },
     {
       "name": "obj52_chainsawman.dff",
-      "size": 129024
+      "size": 118784
     },
     {
       "name": "obj52_citrion.dff",
@@ -4308,14 +4312,6 @@
       "size": 81920
     },
     {
-      "name": "obj71_bomjball.dff",
-      "size": 73728
-    },
-    {
-      "name": "obj71_hasbik.dff",
-      "size": 83968
-    },
-    {
       "name": "obj72.txd",
       "size": 395264
     },
@@ -6446,6 +6442,430 @@
     {
       "name": "obj90_zsnake.dff",
       "size": 67584
+    },
+    {
+      "name": "obj92.txd",
+      "size": 13920256
+    },
+    {
+      "name": "obj92a_crown1.dff",
+      "size": 18432
+    },
+    {
+      "name": "obj92a_crown2.dff",
+      "size": 18432
+    },
+    {
+      "name": "obj92a_crown3.dff",
+      "size": 20480
+    },
+    {
+      "name": "obj92a_mgcbk.dff",
+      "size": 86016
+    },
+    {
+      "name": "obj92a_mgstick3.dff",
+      "size": 49152
+    },
+    {
+      "name": "obj92a_nim2.dff",
+      "size": 49152
+    },
+    {
+      "name": "obj92a_nim3.dff",
+      "size": 49152
+    },
+    {
+      "name": "obj92a_nimbz1.dff",
+      "size": 24576
+    },
+    {
+      "name": "obj92a_nimbz2.dff",
+      "size": 28672
+    },
+    {
+      "name": "obj92a_nimbz3.dff",
+      "size": 38912
+    },
+    {
+      "name": "obj92a_pcfs1.dff",
+      "size": 61440
+    },
+    {
+      "name": "obj92a_pcfs2.dff",
+      "size": 67584
+    },
+    {
+      "name": "obj92a_pcfs3.dff",
+      "size": 67584
+    },
+    {
+      "name": "obj92a_wnmb1.dff",
+      "size": 174080
+    },
+    {
+      "name": "obj92a_wnmb2.dff",
+      "size": 174080
+    },
+    {
+      "name": "obj92a_wnmb3.dff",
+      "size": 182272
+    },
+    {
+      "name": "obj92_aarmor1.dff",
+      "size": 135168
+    },
+    {
+      "name": "obj92_aarmor2.dff",
+      "size": 135168
+    },
+    {
+      "name": "obj92_aarmor3.dff",
+      "size": 137216
+    },
+    {
+      "name": "obj92_aaura.dff",
+      "size": 45056
+    },
+    {
+      "name": "obj92_altab1.dff",
+      "size": 131072
+    },
+    {
+      "name": "obj92_altab2.dff",
+      "size": 131072
+    },
+    {
+      "name": "obj92_altab3.dff",
+      "size": 131072
+    },
+    {
+      "name": "obj92_aradio1.dff",
+      "size": 79872
+    },
+    {
+      "name": "obj92_aradio2.dff",
+      "size": 77824
+    },
+    {
+      "name": "obj92_aradio3.dff",
+      "size": 81920
+    },
+    {
+      "name": "obj92_arm1.dff",
+      "size": 38912
+    },
+    {
+      "name": "obj92_arm2.dff",
+      "size": 38912
+    },
+    {
+      "name": "obj92_arm3.dff",
+      "size": 38912
+    },
+    {
+      "name": "obj92_armorp1.dff",
+      "size": 110592
+    },
+    {
+      "name": "obj92_armorp2.dff",
+      "size": 110592
+    },
+    {
+      "name": "obj92_armorp3.dff",
+      "size": 122880
+    },
+    {
+      "name": "obj92_armybt1.dff",
+      "size": 22528
+    },
+    {
+      "name": "obj92_armybt2.dff",
+      "size": 22528
+    },
+    {
+      "name": "obj92_armybt3.dff",
+      "size": 26624
+    },
+    {
+      "name": "obj92_armyhel1.dff",
+      "size": 55296
+    },
+    {
+      "name": "obj92_armyhel2.dff",
+      "size": 106496
+    },
+    {
+      "name": "obj92_armyhel3.dff",
+      "size": 139264
+    },
+    {
+      "name": "obj92_bag1.dff",
+      "size": 69632
+    },
+    {
+      "name": "obj92_bag2.dff",
+      "size": 69632
+    },
+    {
+      "name": "obj92_bag3.dff",
+      "size": 71680
+    },
+    {
+      "name": "obj92_bagarmy1.dff",
+      "size": 57344
+    },
+    {
+      "name": "obj92_bagarmy2.dff",
+      "size": 55296
+    },
+    {
+      "name": "obj92_bagarmy3.dff",
+      "size": 65536
+    },
+    {
+      "name": "obj92_bagbj.dff",
+      "size": 129024
+    },
+    {
+      "name": "obj92_caura.dff",
+      "size": 45056
+    },
+    {
+      "name": "obj92_clm.dff",
+      "size": 83968
+    },
+    {
+      "name": "obj92_clokm1.dff",
+      "size": 32768
+    },
+    {
+      "name": "obj92_clokm2.dff",
+      "size": 32768
+    },
+    {
+      "name": "obj92_clokm3.dff",
+      "size": 32768
+    },
+    {
+      "name": "obj92_fpk.dff",
+      "size": 55296
+    },
+    {
+      "name": "obj92_hlst1.dff",
+      "size": 47104
+    },
+    {
+      "name": "obj92_hlst2.dff",
+      "size": 47104
+    },
+    {
+      "name": "obj92_hlst3.dff",
+      "size": 47104
+    },
+    {
+      "name": "obj92_mgboots1.dff",
+      "size": 61440
+    },
+    {
+      "name": "obj92_mgboots2.dff",
+      "size": 61440
+    },
+    {
+      "name": "obj92_mgboots3.dff",
+      "size": 61440
+    },
+    {
+      "name": "obj92_mgchain1.dff",
+      "size": 59392
+    },
+    {
+      "name": "obj92_mgchain2.dff",
+      "size": 59392
+    },
+    {
+      "name": "obj92_mgchain3.dff",
+      "size": 59392
+    },
+    {
+      "name": "obj92_mghat1.dff",
+      "size": 45056
+    },
+    {
+      "name": "obj92_mghat2.dff",
+      "size": 45056
+    },
+    {
+      "name": "obj92_mghat3.dff",
+      "size": 40960
+    },
+    {
+      "name": "obj92_mgstick1.dff",
+      "size": 47104
+    },
+    {
+      "name": "obj92_mgstick2.dff",
+      "size": 47104
+    },
+    {
+      "name": "obj92_mknf1.dff",
+      "size": 51200
+    },
+    {
+      "name": "obj92_mknf2.dff",
+      "size": 51200
+    },
+    {
+      "name": "obj92_mknf3.dff",
+      "size": 26624
+    },
+    {
+      "name": "obj92_mol.dff",
+      "size": 55296
+    },
+    {
+      "name": "obj92_mpd1.dff",
+      "size": 14336
+    },
+    {
+      "name": "obj92_mpd2.dff",
+      "size": 14336
+    },
+    {
+      "name": "obj92_mpd3.dff",
+      "size": 14336
+    },
+    {
+      "name": "obj92_mrm1.dff",
+      "size": 14336
+    },
+    {
+      "name": "obj92_mrm2.dff",
+      "size": 14336
+    },
+    {
+      "name": "obj92_mrm3.dff",
+      "size": 14336
+    },
+    {
+      "name": "obj92_m_electro.dff",
+      "size": 174080
+    },
+    {
+      "name": "obj92_nim1.dff",
+      "size": 51200
+    },
+    {
+      "name": "obj92_pat1.dff",
+      "size": 141312
+    },
+    {
+      "name": "obj92_pat2.dff",
+      "size": 141312
+    },
+    {
+      "name": "obj92_pat3.dff",
+      "size": 141312
+    },
+    {
+      "name": "obj92_pbat1.dff",
+      "size": 59392
+    },
+    {
+      "name": "obj92_pbat2.dff",
+      "size": 59392
+    },
+    {
+      "name": "obj92_pbat3.dff",
+      "size": 71680
+    },
+    {
+      "name": "obj92_pblt1.dff",
+      "size": 47104
+    },
+    {
+      "name": "obj92_pblt2.dff",
+      "size": 47104
+    },
+    {
+      "name": "obj92_pblt3.dff",
+      "size": 47104
+    },
+    {
+      "name": "obj92_phlmt1.dff",
+      "size": 26624
+    },
+    {
+      "name": "obj92_phlmt2.dff",
+      "size": 40960
+    },
+    {
+      "name": "obj92_phlmt3.dff",
+      "size": 77824
+    },
+    {
+      "name": "obj92_poliboot1.dff",
+      "size": 26624
+    },
+    {
+      "name": "obj92_poliboot2.dff",
+      "size": 26624
+    },
+    {
+      "name": "obj92_poliboot3.dff",
+      "size": 26624
+    },
+    {
+      "name": "obj92_pshield1.dff",
+      "size": 36864
+    },
+    {
+      "name": "obj92_pshield2.dff",
+      "size": 36864
+    },
+    {
+      "name": "obj92_pshield3.dff",
+      "size": 40960
+    },
+    {
+      "name": "obj92_radiop1.dff",
+      "size": 43008
+    },
+    {
+      "name": "obj92_radiop2.dff",
+      "size": 43008
+    },
+    {
+      "name": "obj92_radiop3.dff",
+      "size": 43008
+    },
+    {
+      "name": "obj92_shm1.dff",
+      "size": 32768
+    },
+    {
+      "name": "obj92_shm2.dff",
+      "size": 32768
+    },
+    {
+      "name": "obj92_shm3.dff",
+      "size": 34816
+    },
+    {
+      "name": "obj92_warmr1.dff",
+      "size": 98304
+    },
+    {
+      "name": "obj92_warmr2.dff",
+      "size": 98304
+    },
+    {
+      "name": "obj92_warmr3.dff",
+      "size": 100352
+    },
+    {
+      "name": "obj92_wizaura.dff",
+      "size": 2048
     },
     {
       "name": "obj9_backp_1.dff",

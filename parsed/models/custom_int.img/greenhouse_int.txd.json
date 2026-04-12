@@ -1,0 +1,47 @@
+{
+  "type": "txd",
+  "textures": [
+    {
+      "name": "greenhouse_alpha",
+      "width": 1024,
+      "height": 1024,
+      "format": "DXT5",
+      "alpha": true
+    },
+    {
+      "name": "greenhouse_floor",
+      "width": 512,
+      "height": 512,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "greenhouse_light",
+      "width": 512,
+      "height": 512,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "greenhouse_wood1",
+      "width": 512,
+      "height": 512,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "greenhouse_wood2",
+      "width": 512,
+      "height": 512,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "little_house_glass",
+      "width": 512,
+      "height": 512,
+      "format": "DXT1",
+      "alpha": false
+    }
+  ]
+}

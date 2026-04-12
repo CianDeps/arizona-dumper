@@ -2,17 +2,17 @@
   "type": "txd",
   "textures": [
     {
-      "name": "telewires_law",
-      "width": 32,
-      "height": 32,
-      "format": "DXT1",
+      "name": "telewireslong",
+      "width": 512,
+      "height": 128,
+      "format": "DXT5",
       "alpha": true
     },
     {
-      "name": "telewireslong",
-      "width": 256,
+      "name": "telewires_law",
+      "width": 32,
       "height": 32,
-      "format": "DXT3",
+      "format": "DXT5",
       "alpha": true
     }
   ]

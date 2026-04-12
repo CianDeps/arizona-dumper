@@ -9,6 +9,20 @@
       "alpha": false
     },
     {
+      "name": "binhandle",
+      "width": 64,
+      "height": 32,
+      "format": "DXT3",
+      "alpha": true
+    },
+    {
+      "name": "binside",
+      "width": 32,
+      "height": 128,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
       "name": "binend",
       "width": 128,
       "height": 128,

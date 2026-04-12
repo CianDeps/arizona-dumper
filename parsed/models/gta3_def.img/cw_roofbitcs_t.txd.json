@@ -2,23 +2,9 @@
   "type": "txd",
   "textures": [
     {
-      "name": "aroofbit93",
-      "width": 128,
-      "height": 32,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
       "name": "aroofbit1",
       "width": 128,
       "height": 128,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "aroofbit4",
-      "width": 64,
-      "height": 64,
       "format": "DXT1",
       "alpha": false
     },
@@ -33,6 +19,13 @@
       "name": "aroofbit3",
       "width": 128,
       "height": 128,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "aroofbit4",
+      "width": 64,
+      "height": 64,
       "format": "DXT1",
       "alpha": false
     },
@@ -72,6 +65,13 @@
       "alpha": false
     },
     {
+      "name": "aroofbit91",
+      "width": 64,
+      "height": 128,
+      "format": "DXT5",
+      "alpha": true
+    },
+    {
       "name": "aroofbit92",
       "width": 64,
       "height": 64,
@@ -79,11 +79,11 @@
       "alpha": false
     },
     {
-      "name": "aroofbit91",
-      "width": 64,
-      "height": 128,
-      "format": "DXT3",
-      "alpha": true
+      "name": "aroofbit93",
+      "width": 128,
+      "height": 32,
+      "format": "DXT1",
+      "alpha": false
     }
   ]
 }

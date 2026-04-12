@@ -2,6 +2,13 @@
   "type": "txd",
   "textures": [
     {
+      "name": "girder2_grey_64HV",
+      "width": 64,
+      "height": 64,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
       "name": "washapartwall1_256",
       "width": 128,
       "height": 128,
@@ -12,13 +19,6 @@
       "name": "ws_carparkwall2",
       "width": 128,
       "height": 128,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "girder2_grey_64HV",
-      "width": 64,
-      "height": 64,
       "format": "DXT1",
       "alpha": false
     },

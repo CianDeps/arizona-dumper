@@ -2,30 +2,30 @@
   "type": "txd",
   "textures": [
     {
-      "name": "sjmlawarshel2",
-      "width": 64,
-      "height": 64,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "sjmlawarshel",
+      "name": "Box_Texturepage",
       "width": 128,
       "height": 128,
-      "format": "DXT3",
-      "alpha": true
+      "format": "DXT1",
+      "alpha": false
     },
     {
       "name": "shadow1shelfd",
       "width": 128,
       "height": 128,
-      "format": "DXT3",
+      "format": "DXT5",
       "alpha": true
     },
     {
-      "name": "Box_Texturepage",
+      "name": "sjmlawarshel",
       "width": 128,
       "height": 128,
+      "format": "DXT5",
+      "alpha": true
+    },
+    {
+      "name": "sjmlawarshel2",
+      "width": 64,
+      "height": 64,
       "format": "DXT1",
       "alpha": false
     }

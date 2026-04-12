@@ -2,23 +2,9 @@
   "type": "txd",
   "textures": [
     {
-      "name": "Bow_Abpave_Gen",
-      "width": 128,
-      "height": 128,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "rustc256128",
-      "width": 128,
-      "height": 128,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "Metalox64",
-      "width": 64,
-      "height": 64,
+      "name": "barrel_64HV",
+      "width": 256,
+      "height": 256,
       "format": "DXT1",
       "alpha": false
     },
@@ -30,9 +16,16 @@
       "alpha": false
     },
     {
-      "name": "barrel_64HV",
-      "width": 64,
-      "height": 64,
+      "name": "Bow_Abpave_Gen",
+      "width": 256,
+      "height": 256,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "rustc256128",
+      "width": 256,
+      "height": 256,
       "format": "DXT1",
       "alpha": false
     }

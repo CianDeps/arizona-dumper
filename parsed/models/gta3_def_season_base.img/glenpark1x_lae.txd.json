@@ -2,86 +2,23 @@
   "type": "txd",
   "textures": [
     {
+      "name": "ahoodfence2",
+      "width": 128,
+      "height": 128,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "ahoodgardr",
+      "width": 128,
+      "height": 128,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
       "name": "craproad1_LAe",
       "width": 512,
       "height": 512,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "scumtiles3_LAe",
-      "width": 256,
-      "height": 256,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "concretemanky",
-      "width": 256,
-      "height": 256,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "stones256128",
-      "width": 128,
-      "height": 128,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "sjmcargr",
-      "width": 256,
-      "height": 256,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "savtop",
-      "width": 128,
-      "height": 128,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "villagreen128256",
-      "width": 128,
-      "height": 256,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "Bow_Abattoir_Conc2",
-      "width": 128,
-      "height": 128,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "lasclean1",
-      "width": 128,
-      "height": 128,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "sl_pornshopla1b",
-      "width": 256,
-      "height": 256,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "sl_pornshopla1",
-      "width": 256,
-      "height": 256,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "mural06_LA",
-      "width": 256,
-      "height": 128,
       "format": "DXT1",
       "alpha": false
     },
@@ -93,56 +30,14 @@
       "alpha": false
     },
     {
-      "name": "sanpedton3",
+      "name": "hedgealphad1",
       "width": 64,
-      "height": 32,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "santall4",
-      "width": 128,
       "height": 128,
-      "format": "DXT1",
-      "alpha": false
+      "format": "DXT5",
+      "alpha": true
     },
     {
-      "name": "shutter03LA",
-      "width": 256,
-      "height": 256,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "savtopWN",
-      "width": 128,
-      "height": 128,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "newall1-1128",
-      "width": 128,
-      "height": 128,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "ws_rooftarmac1",
-      "width": 256,
-      "height": 256,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "Bow_Abpave_Gen",
-      "width": 256,
-      "height": 256,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "ahoodgardr",
+      "name": "lasclean1",
       "width": 128,
       "height": 128,
       "format": "DXT1",
@@ -156,13 +51,6 @@
       "alpha": false
     },
     {
-      "name": "sjmpostback",
-      "width": 128,
-      "height": 128,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
       "name": "lasjmscruffwall1",
       "width": 256,
       "height": 256,
@@ -170,22 +58,57 @@
       "alpha": false
     },
     {
-      "name": "sjmscorclawn",
+      "name": "mural06_LA",
+      "width": 256,
+      "height": 128,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "newall1-1128",
       "width": 128,
       "height": 128,
       "format": "DXT1",
       "alpha": false
     },
     {
-      "name": "hedgealphad1",
+      "name": "sanpedton3",
       "width": 64,
+      "height": 32,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "savtop",
+      "width": 128,
       "height": 128,
       "format": "DXT1",
       "alpha": false
     },
     {
-      "name": "greyground256",
+      "name": "savtopWN",
       "width": 128,
+      "height": 128,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "scumtiles3_LAe",
+      "width": 256,
+      "height": 256,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "shutter03LA",
+      "width": 256,
+      "height": 256,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "sjmhoodlawn4",
+      "width": 256,
       "height": 128,
       "format": "DXT1",
       "alpha": false
@@ -198,16 +121,37 @@
       "alpha": false
     },
     {
-      "name": "sjmhoodlawn4",
+      "name": "sjmpostback",
       "width": 128,
       "height": 128,
       "format": "DXT1",
       "alpha": false
     },
     {
-      "name": "ahoodfence2",
+      "name": "sl_pornshopla1",
+      "width": 256,
+      "height": 256,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "sl_pornshopla1b",
+      "width": 256,
+      "height": 256,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "stones256128",
       "width": 128,
       "height": 128,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "villagreen128256",
+      "width": 128,
+      "height": 256,
       "format": "DXT1",
       "alpha": false
     }

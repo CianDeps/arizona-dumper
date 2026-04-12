@@ -2,28 +2,7 @@
   "type": "txd",
   "textures": [
     {
-      "name": "mp_carter_wallpaper",
-      "width": 256,
-      "height": 256,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "mp_carter_greenwall",
-      "width": 256,
-      "height": 256,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "mp_carter_doorway",
-      "width": 256,
-      "height": 256,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "mp_carter_carpet",
+      "name": "ab_corFloor",
       "width": 256,
       "height": 256,
       "format": "DXT1",
@@ -44,15 +23,15 @@
       "alpha": false
     },
     {
-      "name": "gragedoorkb1",
-      "width": 64,
+      "name": "firestation_rollerdoor2",
+      "width": 128,
       "height": 128,
       "format": "DXT1",
       "alpha": false
     },
     {
-      "name": "firestation_rollerdoor2",
-      "width": 128,
+      "name": "gragedoorkb1",
+      "width": 64,
       "height": 128,
       "format": "DXT1",
       "alpha": false
@@ -65,7 +44,28 @@
       "alpha": false
     },
     {
-      "name": "ab_corFloor",
+      "name": "mp_carter_carpet",
+      "width": 256,
+      "height": 256,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "mp_carter_doorway",
+      "width": 256,
+      "height": 256,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "mp_carter_greenwall",
+      "width": 256,
+      "height": 256,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "mp_carter_wallpaper",
       "width": 256,
       "height": 256,
       "format": "DXT1",

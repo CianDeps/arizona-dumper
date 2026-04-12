@@ -2,7 +2,49 @@
   "type": "txd",
   "textures": [
     {
-      "name": "GB_yellow01",
+      "name": "alleydoor6",
+      "width": 128,
+      "height": 128,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "alleydoor9b",
+      "width": 512,
+      "height": 256,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "bankoff01_law",
+      "width": 64,
+      "height": 128,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "barberpole1",
+      "width": 256,
+      "height": 256,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "BigS01_law",
+      "width": 256,
+      "height": 128,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "chatwall03_law",
+      "width": 256,
+      "height": 256,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "concretenewb256128",
       "width": 256,
       "height": 256,
       "format": "DXT1",
@@ -16,49 +58,21 @@
       "alpha": false
     },
     {
-      "name": "laspedhus91",
-      "width": 256,
-      "height": 256,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "newall1-3seamless",
+      "name": "GB_canopy01b",
       "width": 128,
       "height": 128,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "alleydoor6",
-      "width": 128,
-      "height": 128,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "alleydoor9b",
-      "width": 256,
-      "height": 256,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "greenshade2_64",
-      "width": 64,
-      "height": 64,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "GB_sign04",
-      "width": 256,
-      "height": 256,
       "format": "DXT1",
       "alpha": false
     },
     {
       "name": "GB_chatwall03b",
+      "width": 256,
+      "height": 256,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "GB_shop01",
       "width": 256,
       "height": 256,
       "format": "DXT1",
@@ -72,14 +86,14 @@
       "alpha": false
     },
     {
-      "name": "GB_shop01",
+      "name": "GB_sign02",
       "width": 256,
       "height": 256,
       "format": "DXT1",
       "alpha": false
     },
     {
-      "name": "GB_sign02",
+      "name": "GB_sign04",
       "width": 256,
       "height": 256,
       "format": "DXT1",
@@ -93,7 +107,21 @@
       "alpha": false
     },
     {
-      "name": "GB_canopy01b",
+      "name": "GB_yellow01",
+      "width": 256,
+      "height": 256,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "greenshade2_64",
+      "width": 64,
+      "height": 64,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "hotwall1_law",
       "width": 128,
       "height": 128,
       "format": "DXT1",
@@ -107,44 +135,16 @@
       "alpha": false
     },
     {
-      "name": "sanpedock96",
-      "width": 128,
-      "height": 128,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "BigS01_law",
-      "width": 256,
-      "height": 128,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "hotwall1_law",
-      "width": 128,
-      "height": 128,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "bankoff01_law",
-      "width": 64,
-      "height": 128,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "chatwall03_law",
+      "name": "laspedhus91",
       "width": 256,
       "height": 256,
       "format": "DXT1",
       "alpha": false
     },
     {
-      "name": "topsm01drk_law",
-      "width": 128,
-      "height": 128,
+      "name": "newall1-3seamless",
+      "width": 256,
+      "height": 256,
       "format": "DXT1",
       "alpha": false
     },
@@ -156,21 +156,7 @@
       "alpha": false
     },
     {
-      "name": "simplewall256",
-      "width": 128,
-      "height": 128,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "concretemanky",
-      "width": 256,
-      "height": 256,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "venflat02",
+      "name": "sanpedock96",
       "width": 128,
       "height": 128,
       "format": "DXT1",
@@ -184,21 +170,21 @@
       "alpha": false
     },
     {
-      "name": "lostonclad1",
-      "width": 128,
-      "height": 128,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "barberpole1",
+      "name": "simplewall256",
       "width": 256,
       "height": 256,
       "format": "DXT1",
       "alpha": false
     },
     {
-      "name": "concretenewb256128",
+      "name": "topsm01drk_law",
+      "width": 128,
+      "height": 128,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "venflat02",
       "width": 128,
       "height": 128,
       "format": "DXT1",

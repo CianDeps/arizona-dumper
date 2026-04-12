@@ -1,0 +1,40 @@
+{
+  "type": "txd",
+  "textures": [
+    {
+      "name": "muzzle_texture4",
+      "width": 32,
+      "height": 32,
+      "format": "DXT3",
+      "alpha": true
+    },
+    {
+      "name": "minigunicon",
+      "width": 64,
+      "height": 64,
+      "format": "DXT3",
+      "alpha": true
+    },
+    {
+      "name": "bulletbelt",
+      "width": 32,
+      "height": 32,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "minigun_2",
+      "width": 512,
+      "height": 512,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "cartoon_muzzlefire_tx",
+      "width": 512,
+      "height": 512,
+      "format": "DXT5",
+      "alpha": true
+    }
+  ]
+}

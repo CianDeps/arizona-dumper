@@ -2,6 +2,20 @@
   "type": "txd",
   "textures": [
     {
+      "name": "corporate2",
+      "width": 128,
+      "height": 128,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "cw_movieboard",
+      "width": 128,
+      "height": 128,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
       "name": "GB_good men",
       "width": 128,
       "height": 128,
@@ -16,16 +30,37 @@
       "alpha": false
     },
     {
-      "name": "cw_movieboard",
+      "name": "LAglaswall1",
       "width": 128,
       "height": 128,
       "format": "DXT1",
       "alpha": false
     },
     {
-      "name": "plaintarmac1",
-      "width": 512,
-      "height": 512,
+      "name": "lalightledge",
+      "width": 256,
+      "height": 128,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "newall9",
+      "width": 128,
+      "height": 128,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "pcut_band_law",
+      "width": 128,
+      "height": 64,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "pcut_bot_law",
+      "width": 128,
+      "height": 128,
       "format": "DXT1",
       "alpha": false
     },
@@ -51,42 +86,7 @@
       "alpha": false
     },
     {
-      "name": "corporate2",
-      "width": 128,
-      "height": 128,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "lalightledge",
-      "width": 256,
-      "height": 128,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "newall9",
-      "width": 128,
-      "height": 128,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "LAglaswall1",
-      "width": 128,
-      "height": 128,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
       "name": "ws_doubledoor1",
-      "width": 256,
-      "height": 256,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "ws_rooftarmac1",
       "width": 256,
       "height": 256,
       "format": "DXT1",
@@ -96,20 +96,6 @@
       "name": "ws_redbrickold",
       "width": 256,
       "height": 256,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "pcut_band_law",
-      "width": 128,
-      "height": 64,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "pcut_bot_law",
-      "width": 128,
-      "height": 128,
       "format": "DXT1",
       "alpha": false
     }

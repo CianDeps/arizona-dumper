@@ -2,51 +2,23 @@
   "type": "txd",
   "textures": [
     {
-      "name": "nt_bonav1_refl",
+      "name": "airportwall_256128",
       "width": 128,
       "height": 128,
       "format": "DXT1",
       "alpha": false
     },
     {
-      "name": "planta256",
-      "width": 256,
-      "height": 256,
-      "format": "DXT3",
-      "alpha": true
-    },
-    {
-      "name": "sl_laexporail",
-      "width": 256,
-      "height": 256,
-      "format": "DXT1",
-      "alpha": true
-    },
-    {
-      "name": "sm_Agave_1",
-      "width": 128,
+      "name": "bonavenlif_LAn",
+      "width": 64,
       "height": 64,
-      "format": "DXT3",
-      "alpha": true
-    },
-    {
-      "name": "sl_laglasswall2",
-      "width": 256,
-      "height": 256,
       "format": "DXT1",
       "alpha": false
     },
     {
-      "name": "tarmacplain_bank",
-      "width": 512,
-      "height": 512,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "sl_laoffblok2wall1",
-      "width": 256,
-      "height": 256,
+      "name": "brickgrey",
+      "width": 128,
+      "height": 128,
       "format": "DXT1",
       "alpha": false
     },
@@ -58,25 +30,18 @@
       "alpha": false
     },
     {
-      "name": "BLOCK2",
-      "width": 128,
-      "height": 128,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "sl_dwntwnshpfrnt1",
-      "width": 256,
-      "height": 256,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
       "name": "nt_bonav1",
       "width": 128,
       "height": 128,
-      "format": "DXT3",
+      "format": "DXT5",
       "alpha": true
+    },
+    {
+      "name": "nt_bonav1_refl",
+      "width": 128,
+      "height": 128,
+      "format": "DXT1",
+      "alpha": false
     },
     {
       "name": "parking1plain",
@@ -86,14 +51,14 @@
       "alpha": false
     },
     {
-      "name": "ws_whitewall2_bottom",
+      "name": "planta256",
       "width": 256,
       "height": 256,
-      "format": "DXT1",
-      "alpha": false
+      "format": "DXT5",
+      "alpha": true
     },
     {
-      "name": "sl_dwntwndr1",
+      "name": "sl_concretewall1",
       "width": 256,
       "height": 256,
       "format": "DXT1",
@@ -107,11 +72,11 @@
       "alpha": false
     },
     {
-      "name": "stormdrain5_nt",
+      "name": "sl_laexporail",
       "width": 256,
       "height": 256,
-      "format": "DXT1",
-      "alpha": false
+      "format": "DXT5",
+      "alpha": true
     },
     {
       "name": "sl_laglasswall1",
@@ -121,58 +86,23 @@
       "alpha": false
     },
     {
-      "name": "sl_LAbedingsoil",
+      "name": "sl_laglasswall2",
       "width": 256,
       "height": 256,
       "format": "DXT1",
       "alpha": false
     },
     {
-      "name": "Grass_128HV",
-      "width": 128,
-      "height": 128,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "brickgrey",
-      "width": 128,
-      "height": 128,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "concretemanky",
+      "name": "sl_laoffblok2wall1",
       "width": 256,
       "height": 256,
       "format": "DXT1",
       "alpha": false
     },
     {
-      "name": "airportwall_256128",
-      "width": 128,
-      "height": 128,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "sl_concretewall1",
+      "name": "ws_whitewall2_bottom",
       "width": 256,
       "height": 256,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "bonavenlif_LAn",
-      "width": 64,
-      "height": 64,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "stormdrain3_nt",
-      "width": 128,
-      "height": 128,
       "format": "DXT1",
       "alpha": false
     }

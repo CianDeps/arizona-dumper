@@ -5,15 +5,76 @@
   "geometries": [
     {
       "index": 0,
-      "vertices": 300,
-      "triangles": 186,
+      "vertices": 164,
+      "triangles": 86,
       "materials": [
         {
           "color": {
             "r": 255,
             "g": 255,
             "b": 255,
-            "a": 128
+            "a": 255
+          },
+          "texture": null
+        },
+        {
+          "color": {
+            "r": 255,
+            "g": 255,
+            "b": 255,
+            "a": 255
+          },
+          "texture": null
+        },
+        {
+          "color": {
+            "r": 255,
+            "g": 255,
+            "b": 255,
+            "a": 255
+          },
+          "texture": null
+        }
+      ]
+    },
+    {
+      "index": 1,
+      "vertices": 217,
+      "triangles": 148,
+      "materials": [
+        {
+          "color": {
+            "r": 255,
+            "g": 255,
+            "b": 255,
+            "a": 255
+          },
+          "texture": null
+        },
+        {
+          "color": {
+            "r": 255,
+            "g": 255,
+            "b": 255,
+            "a": 255
+          },
+          "texture": null
+        },
+        {
+          "color": {
+            "r": 255,
+            "g": 255,
+            "b": 255,
+            "a": 255
+          },
+          "texture": null
+        },
+        {
+          "color": {
+            "r": 255,
+            "g": 255,
+            "b": 255,
+            "a": 255
           },
           "texture": null
         },
@@ -38,8 +99,10 @@
       ]
     }
   ],
-  "frames": 1,
+  "frames": 3,
   "dummies": [
-    "CJ_PIZZA_DISPf"
+    "cj_pizza_dispf",
+    "pizza_2",
+    "pizza_1"
   ]
 }

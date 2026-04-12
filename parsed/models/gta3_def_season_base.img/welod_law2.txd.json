@@ -2,98 +2,35 @@
   "type": "txd",
   "textures": [
     {
-      "name": "wstunnel_lod",
-      "width": 64,
-      "height": 64,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "sjmlodb4",
-      "width": 64,
-      "height": 64,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "wallsectlawnlod",
+      "name": "aptarmac_lod",
       "width": 32,
-      "height": 64,
+      "height": 32,
       "format": "DXT1",
       "alpha": false
     },
     {
-      "name": "count02_LAw2LOD",
-      "width": 64,
-      "height": 64,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "sunset12b_lod",
-      "width": 64,
-      "height": 64,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "suns9bLAw2_LOD",
+      "name": "beachLOD01_LAw2",
       "width": 128,
       "height": 128,
       "format": "DXT1",
       "alpha": false
     },
     {
-      "name": "suns9aLAw2_LOD",
+      "name": "beatow01LOD_LAw2",
+      "width": 32,
+      "height": 256,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "beatow02LOD_LAw2",
       "width": 64,
-      "height": 64,
+      "height": 128,
       "format": "DXT1",
       "alpha": false
     },
     {
-      "name": "rodeo01bLAw2_LOD",
-      "width": 128,
-      "height": 64,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "rodeo5_lod",
-      "width": 128,
-      "height": 64,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "rodeo05bLAw2_LOD",
-      "width": 128,
-      "height": 64,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "rodeo04dLAw2_LOD",
-      "width": 64,
-      "height": 64,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "ground01LAw2_LOD",
-      "width": 64,
-      "height": 64,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "century02b_lod",
-      "width": 256,
-      "height": 64,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "cent02_LA_LOD",
+      "name": "carpark_lod",
       "width": 32,
       "height": 32,
       "format": "DXT1",
@@ -107,9 +44,93 @@
       "alpha": false
     },
     {
-      "name": "LODr04b2_lod",
+      "name": "cent02_LA_LOD",
+      "width": 32,
+      "height": 32,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "century02b_lod",
+      "width": 256,
+      "height": 64,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "cobbles_kb_256LOD",
+      "width": 32,
+      "height": 32,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "count02_LAw2LOD",
+      "width": 64,
+      "height": 64,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "dualroadLOD01",
+      "width": 64,
+      "height": 64,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "freewaylaw2_lod",
+      "width": 64,
+      "height": 64,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "grassdry_lod",
+      "width": 32,
+      "height": 32,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "ground01LAw2_LOD",
+      "width": 64,
+      "height": 64,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "helmLOD01_LAw2",
       "width": 128,
       "height": 64,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "lanLODroad1",
+      "width": 64,
+      "height": 64,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "lawroad1_lod",
+      "width": 64,
+      "height": 64,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "lightho01_LOD",
+      "width": 64,
+      "height": 64,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "LODdesgreengrass",
+      "width": 32,
+      "height": 32,
       "format": "DXT1",
       "alpha": false
     },
@@ -121,8 +142,57 @@
       "alpha": false
     },
     {
-      "name": "rodeo01LAw2_LOD",
+      "name": "LODr04b2_lod",
+      "width": 128,
+      "height": 64,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "malibuLOD01_LAw2",
+      "width": 128,
+      "height": 64,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "malibuLOD02_LAw2",
+      "width": 128,
+      "height": 64,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "malibuLOD03_LAw2",
+      "width": 128,
+      "height": 64,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "malibuLOD04_LAw2",
+      "width": 128,
+      "height": 64,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "Pier02a_lod",
       "width": 64,
+      "height": 256,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "pier03b1_lod",
+      "width": 128,
+      "height": 64,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "pier03b2_lod",
+      "width": 128,
       "height": 64,
       "format": "DXT1",
       "alpha": false
@@ -142,30 +212,9 @@
       "alpha": false
     },
     {
-      "name": "pier03b2_lod",
+      "name": "pier1LOD_LAw2",
       "width": 128,
       "height": 64,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "pier03b1_lod",
-      "width": 128,
-      "height": 64,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "roof01L_lod",
-      "width": 32,
-      "height": 32,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "roof10L_lod",
-      "width": 32,
-      "height": 32,
       "format": "DXT1",
       "alpha": false
     },
@@ -177,135 +226,9 @@
       "alpha": false
     },
     {
-      "name": "Pier02a_lod",
-      "width": 64,
-      "height": 256,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "pier1LOD_LAw2",
-      "width": 128,
-      "height": 64,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "carpark_lod",
-      "width": 32,
-      "height": 32,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "beachLOD01_LAw2",
-      "width": 128,
-      "height": 128,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "sandnew_law",
-      "width": 32,
-      "height": 32,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "malibuLOD01_LAw2",
-      "width": 128,
-      "height": 64,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "malibuLOD04_LAw2",
-      "width": 128,
-      "height": 64,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "malibuLOD03_LAw2",
-      "width": 128,
-      "height": 64,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "malibuLOD02_LAw2",
-      "width": 128,
-      "height": 64,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "lanLODroad1",
-      "width": 64,
-      "height": 64,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "cobbles_kb_256LOD",
-      "width": 32,
-      "height": 32,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "LODdesgreengrass",
-      "width": 32,
-      "height": 32,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
       "name": "pierLOD_LAw2",
       "width": 32,
       "height": 32,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "lightho01_LOD",
-      "width": 64,
-      "height": 64,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "helmLOD01_LAw2",
-      "width": 128,
-      "height": 64,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "freewaylaw2_lod",
-      "width": 64,
-      "height": 64,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "venice01b2_lod",
-      "width": 64,
-      "height": 32,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "ws_roof_lod",
-      "width": 32,
-      "height": 32,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "venice1LAw2_LOD",
-      "width": 128,
-      "height": 64,
       "format": "DXT1",
       "alpha": false
     },
@@ -317,49 +240,21 @@
       "alpha": false
     },
     {
-      "name": "beatow01LOD_LAw2",
-      "width": 32,
-      "height": 256,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "SanClifft04b_lod",
-      "width": 64,
-      "height": 32,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "beatow02LOD_LAw2",
-      "width": 64,
-      "height": 128,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "lawroad1_lod",
-      "width": 64,
-      "height": 64,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "suns11LAw2_LOD",
+      "name": "rodeo01bLAw2_LOD",
       "width": 128,
       "height": 64,
       "format": "DXT1",
       "alpha": false
     },
     {
-      "name": "suns3LAw2_LOD",
+      "name": "rodeo01LAw2_LOD",
       "width": 64,
-      "height": 128,
+      "height": 64,
       "format": "DXT1",
       "alpha": false
     },
     {
-      "name": "sunset8aLAw2_LOD",
+      "name": "rodeo04dLAw2_LOD",
       "width": 64,
       "height": 64,
       "format": "DXT1",
@@ -373,37 +268,23 @@
       "alpha": false
     },
     {
-      "name": "sunset10_lod",
+      "name": "rodeo05bLAw2_LOD",
       "width": 128,
-      "height": 32,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "grassdry_lod",
-      "width": 32,
-      "height": 32,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "dualroadLOD01",
-      "width": 64,
       "height": 64,
       "format": "DXT1",
       "alpha": false
     },
     {
-      "name": "ws_rooftarmac1LOD",
-      "width": 32,
-      "height": 32,
+      "name": "rodeo5_lod",
+      "width": 128,
+      "height": 64,
       "format": "DXT1",
       "alpha": false
     },
     {
-      "name": "suns4LAw2_LOD",
-      "width": 64,
-      "height": 64,
+      "name": "roof01L_lod",
+      "width": 32,
+      "height": 32,
       "format": "DXT1",
       "alpha": false
     },
@@ -415,8 +296,36 @@
       "alpha": false
     },
     {
-      "name": "towerLOD_LAw2",
+      "name": "roof10L_lod",
+      "width": 32,
+      "height": 32,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "SanClifft04b_lod",
       "width": 64,
+      "height": 32,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "sandnew_law",
+      "width": 32,
+      "height": 32,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "sjmlodb4",
+      "width": 64,
+      "height": 64,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "suns11LAw2_LOD",
+      "width": 128,
       "height": 64,
       "format": "DXT1",
       "alpha": false
@@ -429,9 +338,135 @@
       "alpha": false
     },
     {
-      "name": "aptarmac_lod",
+      "name": "suns3LAw2_LOD",
+      "width": 64,
+      "height": 128,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "suns4LAw2_LOD",
+      "width": 64,
+      "height": 64,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "suns9aLAw2_LOD",
+      "width": 64,
+      "height": 64,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "suns9bLAw2_LOD",
+      "width": 128,
+      "height": 128,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "sunset10_lod",
+      "width": 128,
+      "height": 32,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "sunset12b_lod",
+      "width": 64,
+      "height": 64,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "sunset8aLAw2_LOD",
+      "width": 64,
+      "height": 64,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "towerLOD_LAw2",
+      "width": 64,
+      "height": 64,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "venice01b2_lod",
+      "width": 64,
+      "height": 32,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "venice1LAw2_LOD",
+      "width": 128,
+      "height": 64,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "wallsectlawnlod",
+      "width": 32,
+      "height": 64,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "wstunnel_lod",
+      "width": 64,
+      "height": 64,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "ws_rooftarmac1LOD",
+      "width": 64,
+      "height": 64,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "ws_roof_lod",
       "width": 32,
       "height": 32,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "LoDtahouse05_LAw2",
+      "width": 256,
+      "height": 256,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "aal loodd",
+      "width": 256,
+      "height": 256,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "LoDtahouse04_LAw2",
+      "width": 256,
+      "height": 256,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "LoDtahousegrp_LAw2",
+      "width": 256,
+      "height": 256,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "MariaSignLOD",
+      "width": 128,
+      "height": 128,
       "format": "DXT1",
       "alpha": false
     }

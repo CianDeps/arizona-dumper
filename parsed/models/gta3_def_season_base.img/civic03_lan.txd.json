@@ -2,23 +2,16 @@
   "type": "txd",
   "textures": [
     {
-      "name": "downtwin11",
-      "width": 256,
-      "height": 256,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "downtwin10",
-      "width": 256,
+      "name": "bailbonds1_LAn",
+      "width": 128,
       "height": 128,
       "format": "DXT1",
       "alpha": false
     },
     {
-      "name": "sl_shopshttr1",
-      "width": 256,
-      "height": 256,
+      "name": "bailbonds2_LAn",
+      "width": 128,
+      "height": 128,
       "format": "DXT1",
       "alpha": false
     },
@@ -30,14 +23,21 @@
       "alpha": false
     },
     {
-      "name": "downtsign8_LA",
-      "width": 256,
+      "name": "crossing_law",
+      "width": 512,
       "height": 256,
       "format": "DXT1",
       "alpha": false
     },
     {
-      "name": "downtshop7_LAn",
+      "name": "dirt64b2",
+      "width": 128,
+      "height": 128,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "downtshop5_LAn",
       "width": 256,
       "height": 256,
       "format": "DXT1",
@@ -51,13 +51,6 @@
       "alpha": false
     },
     {
-      "name": "downtshop5_LAn",
-      "width": 256,
-      "height": 256,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
       "name": "downtsign2_LA",
       "width": 256,
       "height": 256,
@@ -65,21 +58,21 @@
       "alpha": false
     },
     {
-      "name": "downtwin2b",
-      "width": 128,
-      "height": 128,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "downtshop2_LAn",
+      "name": "downtsign8_LA",
       "width": 256,
       "height": 256,
       "format": "DXT1",
       "alpha": false
     },
     {
-      "name": "pediments1",
+      "name": "downtwin10",
+      "width": 256,
+      "height": 128,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "downtwin11",
       "width": 256,
       "height": 256,
       "format": "DXT1",
@@ -93,6 +86,13 @@
       "alpha": false
     },
     {
+      "name": "downtwin2b",
+      "width": 128,
+      "height": 128,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
       "name": "downtwin6",
       "width": 256,
       "height": 256,
@@ -100,58 +100,23 @@
       "alpha": false
     },
     {
-      "name": "bailbonds2_LAn",
-      "width": 128,
-      "height": 128,
+      "name": "parking2plain",
+      "width": 512,
+      "height": 512,
       "format": "DXT1",
       "alpha": false
     },
     {
-      "name": "ws_rooftarmac1",
+      "name": "pediments1",
       "width": 256,
       "height": 256,
       "format": "DXT1",
       "alpha": false
     },
     {
-      "name": "dirt64b2",
-      "width": 128,
-      "height": 128,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "crossing_law",
-      "width": 512,
+      "name": "sl_shopshttr1",
+      "width": 256,
       "height": 256,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "parking2plain",
-      "width": 128,
-      "height": 128,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "gymshop1_LAe",
-      "width": 128,
-      "height": 128,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "gymshop2_LAe",
-      "width": 128,
-      "height": 128,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "bailbonds1_LAn",
-      "width": 128,
-      "height": 128,
       "format": "DXT1",
       "alpha": false
     },
@@ -163,42 +128,7 @@
       "alpha": false
     },
     {
-      "name": "concretenewb256",
-      "width": 128,
-      "height": 128,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "LAroad_offroad1",
-      "width": 128,
-      "height": 128,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "dt_road",
-      "width": 512,
-      "height": 512,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "sidelatino1_LAe",
-      "width": 256,
-      "height": 256,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
       "name": "ws_whitewall2_bottom",
-      "width": 256,
-      "height": 256,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "ws_rottenwall",
       "width": 256,
       "height": 256,
       "format": "DXT1",

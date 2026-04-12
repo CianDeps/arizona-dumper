@@ -2,25 +2,11 @@
   "type": "txd",
   "textures": [
     {
-      "name": "kmb_chip2",
-      "width": 64,
-      "height": 64,
+      "name": "kmb_atm",
+      "width": 128,
+      "height": 256,
       "format": "DXT1",
       "alpha": false
-    },
-    {
-      "name": "kmb_chip1",
-      "width": 64,
-      "height": 64,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "kmb_wiresC",
-      "width": 64,
-      "height": 64,
-      "format": "DXT3",
-      "alpha": true
     },
     {
       "name": "kmb_atm_dam",
@@ -37,11 +23,25 @@
       "alpha": false
     },
     {
-      "name": "kmb_atm",
-      "width": 128,
-      "height": 256,
+      "name": "kmb_chip1",
+      "width": 64,
+      "height": 64,
       "format": "DXT1",
       "alpha": false
+    },
+    {
+      "name": "kmb_chip2",
+      "width": 64,
+      "height": 64,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "kmb_wiresC",
+      "width": 64,
+      "height": 64,
+      "format": "DXT5",
+      "alpha": true
     }
   ]
 }

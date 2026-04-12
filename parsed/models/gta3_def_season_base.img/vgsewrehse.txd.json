@@ -2,51 +2,9 @@
   "type": "txd",
   "textures": [
     {
-      "name": "roof01L256",
-      "width": 128,
-      "height": 128,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "LoadingDoorClean",
-      "width": 128,
-      "height": 128,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "patio1",
-      "width": 128,
-      "height": 128,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "courthsewin_128",
-      "width": 128,
-      "height": 128,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "vgnwrehsewal2_256",
+      "name": "airportmetalwall256",
       "width": 256,
       "height": 256,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "vgnwrehsewal1_256",
-      "width": 256,
-      "height": 256,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "Bow_LoadingBayDoor",
-      "width": 128,
-      "height": 128,
       "format": "DXT1",
       "alpha": false
     },
@@ -58,13 +16,6 @@
       "alpha": false
     },
     {
-      "name": "alleydoor8",
-      "width": 128,
-      "height": 128,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
       "name": "alleydoorb256",
       "width": 256,
       "height": 256,
@@ -72,8 +23,8 @@
       "alpha": false
     },
     {
-      "name": "metaldoor01_256",
-      "width": 64,
+      "name": "Bow_LoadingBayDoor",
+      "width": 128,
       "height": 128,
       "format": "DXT1",
       "alpha": false
@@ -93,23 +44,9 @@
       "alpha": false
     },
     {
-      "name": "airportmetalwall256",
+      "name": "courthsewin_128",
       "width": 128,
       "height": 128,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "ventb64",
-      "width": 64,
-      "height": 64,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "banding3_64HV",
-      "width": 64,
-      "height": 64,
       "format": "DXT1",
       "alpha": false
     },
@@ -121,14 +58,49 @@
       "alpha": false
     },
     {
-      "name": "fire_esc_fence",
+      "name": "LoadingDoorClean",
+      "width": 128,
+      "height": 128,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "metaldoor01_256",
+      "width": 128,
+      "height": 256,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "patio1",
+      "width": 128,
+      "height": 128,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "roof01L256",
+      "width": 256,
+      "height": 256,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "ventb64",
       "width": 64,
       "height": 64,
       "format": "DXT1",
-      "alpha": true
+      "alpha": false
     },
     {
-      "name": "vnghse6_128",
+      "name": "vgnwrehse2_256",
+      "width": 128,
+      "height": 128,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "vgnwrehse3_256",
       "width": 128,
       "height": 128,
       "format": "DXT1",
@@ -142,14 +114,21 @@
       "alpha": false
     },
     {
-      "name": "vgnwrehse2_256",
-      "width": 128,
-      "height": 128,
+      "name": "vgnwrehsewal1_256",
+      "width": 256,
+      "height": 256,
       "format": "DXT1",
       "alpha": false
     },
     {
-      "name": "vgnwrehse3_256",
+      "name": "vgnwrehsewal2_256",
+      "width": 256,
+      "height": 256,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "vnghse6_128",
       "width": 128,
       "height": 128,
       "format": "DXT1",

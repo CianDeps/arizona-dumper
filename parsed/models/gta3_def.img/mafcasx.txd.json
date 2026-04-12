@@ -2,13 +2,6 @@
   "type": "txd",
   "textures": [
     {
-      "name": "cof_wood1",
-      "width": 256,
-      "height": 256,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
       "name": "ab_sheetSteel",
       "width": 256,
       "height": 256,
@@ -19,8 +12,15 @@
       "name": "cof_wind1",
       "width": 256,
       "height": 256,
-      "format": "DXT3",
+      "format": "DXT5",
       "alpha": true
+    },
+    {
+      "name": "cof_wood1",
+      "width": 256,
+      "height": 256,
+      "format": "DXT1",
+      "alpha": false
     }
   ]
 }

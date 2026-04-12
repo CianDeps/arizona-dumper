@@ -1,0 +1,76 @@
+{
+  "type": "ifp",
+  "name": "goggles",
+  "version": 0,
+  "animations": [
+    {
+      "name": "goggles_put_on",
+      "bones": [
+        {
+          "name": " Spine 1",
+          "keyframes": 10
+        },
+        {
+          "name": " Spine 2",
+          "keyframes": 10
+        },
+        {
+          "name": " Neck",
+          "keyframes": 10
+        },
+        {
+          "name": " Head",
+          "keyframes": 10
+        },
+        {
+          "name": "Bip01 L Clavicle",
+          "keyframes": 13
+        },
+        {
+          "name": " L UpperArm",
+          "keyframes": 13
+        },
+        {
+          "name": " L ForeArm",
+          "keyframes": 13
+        },
+        {
+          "name": " L Hand",
+          "keyframes": 13
+        },
+        {
+          "name": " L Finger",
+          "keyframes": 13
+        },
+        {
+          "name": "L Finger01",
+          "keyframes": 13
+        },
+        {
+          "name": "Bip01 R Clavicle",
+          "keyframes": 11
+        },
+        {
+          "name": " R UpperArm",
+          "keyframes": 11
+        },
+        {
+          "name": " R ForeArm",
+          "keyframes": 11
+        },
+        {
+          "name": " R Hand",
+          "keyframes": 11
+        },
+        {
+          "name": " R Finger",
+          "keyframes": 11
+        },
+        {
+          "name": "R Finger01",
+          "keyframes": 11
+        }
+      ]
+    }
+  ]
+}

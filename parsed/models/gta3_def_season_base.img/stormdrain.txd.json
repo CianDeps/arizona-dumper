@@ -3,8 +3,15 @@
   "textures": [
     {
       "name": "alleygroundb256",
-      "width": 128,
-      "height": 64,
+      "width": 256,
+      "height": 256,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "banding3c_64HV",
+      "width": 256,
+      "height": 256,
       "format": "DXT1",
       "alpha": false
     },
@@ -16,20 +23,6 @@
       "alpha": false
     },
     {
-      "name": "downtwin9det",
-      "width": 128,
-      "height": 128,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "banding3c_64HV",
-      "width": 64,
-      "height": 64,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
       "name": "crossing_law",
       "width": 512,
       "height": 256,
@@ -37,21 +30,14 @@
       "alpha": false
     },
     {
-      "name": "dt_road",
-      "width": 512,
-      "height": 512,
+      "name": "downtwin9det",
+      "width": 128,
+      "height": 128,
       "format": "DXT1",
       "alpha": false
     },
     {
-      "name": "stormdrain6",
-      "width": 64,
-      "height": 64,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "macbrij4_LAe",
+      "name": "golf_heavygrass",
       "width": 256,
       "height": 256,
       "format": "DXT1",
@@ -65,28 +51,7 @@
       "alpha": false
     },
     {
-      "name": "golf_heavygrass",
-      "width": 256,
-      "height": 256,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
       "name": "macbrij2_LAe",
-      "width": 256,
-      "height": 256,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "BLOCK2",
-      "width": 128,
-      "height": 128,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "stormdrain2_nt",
       "width": 256,
       "height": 256,
       "format": "DXT1",
@@ -95,6 +60,13 @@
     {
       "name": "stormdrain1_nt",
       "width": 512,
+      "height": 256,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "stormdrain6",
+      "width": 256,
       "height": 256,
       "format": "DXT1",
       "alpha": false

@@ -2,38 +2,31 @@
   "type": "txd",
   "textures": [
     {
+      "name": "711doors1",
+      "width": 128,
+      "height": 128,
+      "format": "DXT5",
+      "alpha": true
+    },
+    {
+      "name": "blob1_LAwN",
+      "width": 128,
+      "height": 128,
+      "format": "DXT5",
+      "alpha": true
+    },
+    {
       "name": "melrsign03_LA",
       "width": 256,
       "height": 256,
-      "format": "DXT3",
+      "format": "DXT5",
       "alpha": true
     },
     {
       "name": "rippost01_LA",
       "width": 256,
       "height": 256,
-      "format": "DXT3",
-      "alpha": true
-    },
-    {
-      "name": "711doors1",
-      "width": 128,
-      "height": 128,
-      "format": "DXT3",
-      "alpha": true
-    },
-    {
-      "name": "gymshop1_LAe",
-      "width": 128,
-      "height": 128,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "blob1_LAwN",
-      "width": 128,
-      "height": 128,
-      "format": "DXT3",
+      "format": "DXT5",
       "alpha": true
     }
   ]

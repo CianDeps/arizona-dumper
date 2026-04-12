@@ -2,69 +2,6 @@
   "type": "txd",
   "textures": [
     {
-      "name": "sw_door09",
-      "width": 64,
-      "height": 128,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "sw_genx4",
-      "width": 256,
-      "height": 256,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "law_gazgrn1",
-      "width": 256,
-      "height": 256,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "law_terra5",
-      "width": 256,
-      "height": 256,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "law_terra4",
-      "width": 256,
-      "height": 256,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "stormdrain3_nt",
-      "width": 128,
-      "height": 128,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "law_yellow6",
-      "width": 256,
-      "height": 64,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "wdpanel01b_law",
-      "width": 128,
-      "height": 128,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "wdpanel01_law",
-      "width": 128,
-      "height": 128,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
       "name": "flatdoor01_law",
       "width": 128,
       "height": 128,
@@ -72,30 +9,23 @@
       "alpha": false
     },
     {
-      "name": "stonewall_la",
-      "width": 128,
-      "height": 128,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "stonesteps1",
-      "width": 64,
-      "height": 32,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "ws_carpark2",
+      "name": "garagedoor5_law",
       "width": 256,
       "height": 256,
       "format": "DXT1",
       "alpha": false
     },
     {
-      "name": "crazypave",
-      "width": 64,
-      "height": 64,
+      "name": "jettylounge_law",
+      "width": 256,
+      "height": 128,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "law_blue1",
+      "width": 256,
+      "height": 256,
       "format": "DXT1",
       "alpha": false
     },
@@ -114,35 +44,14 @@
       "alpha": false
     },
     {
-      "name": "stonewalls2",
-      "width": 128,
-      "height": 128,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "law_blue7",
+      "name": "law_blue4",
       "width": 256,
-      "height": 64,
+      "height": 256,
       "format": "DXT1",
       "alpha": false
     },
     {
       "name": "law_blue5",
-      "width": 256,
-      "height": 256,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "law_blue1",
-      "width": 256,
-      "height": 256,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "law_blue4",
       "width": 256,
       "height": 256,
       "format": "DXT1",
@@ -156,6 +65,20 @@
       "alpha": false
     },
     {
+      "name": "law_blue7",
+      "width": 256,
+      "height": 64,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "law_gazgrn1",
+      "width": 256,
+      "height": 256,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
       "name": "law_terra2",
       "width": 256,
       "height": 256,
@@ -163,28 +86,14 @@
       "alpha": false
     },
     {
-      "name": "greyground256",
-      "width": 128,
-      "height": 128,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "newlawdoor",
-      "width": 128,
-      "height": 256,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "garagedoor5_law",
+      "name": "law_terra4",
       "width": 256,
       "height": 256,
       "format": "DXT1",
       "alpha": false
     },
     {
-      "name": "ws_rooftarmac1",
+      "name": "law_terra5",
       "width": 256,
       "height": 256,
       "format": "DXT1",
@@ -212,16 +121,16 @@
       "alpha": false
     },
     {
-      "name": "Bow_church_grass_alt",
-      "width": 128,
-      "height": 128,
+      "name": "law_yellow6",
+      "width": 256,
+      "height": 64,
       "format": "DXT1",
       "alpha": false
     },
     {
-      "name": "jettylounge_law",
-      "width": 256,
-      "height": 128,
+      "name": "newlawdoor",
+      "width": 128,
+      "height": 256,
       "format": "DXT1",
       "alpha": false
     },
@@ -233,9 +142,51 @@
       "alpha": false
     },
     {
-      "name": "concretebigb256128",
+      "name": "stonesteps1",
       "width": 64,
-      "height": 64,
+      "height": 32,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "stonewalls2",
+      "width": 128,
+      "height": 128,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "stonewall_la",
+      "width": 256,
+      "height": 256,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "sw_genx4",
+      "width": 256,
+      "height": 256,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "wdpanel01b_law",
+      "width": 128,
+      "height": 128,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "wdpanel01_law",
+      "width": 128,
+      "height": 128,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "sw_door09",
+      "width": 64,
+      "height": 128,
       "format": "DXT1",
       "alpha": false
     }

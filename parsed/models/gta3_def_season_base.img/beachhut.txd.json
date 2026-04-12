@@ -2,6 +2,20 @@
   "type": "txd",
   "textures": [
     {
+      "name": "asanmonbhut1",
+      "width": 128,
+      "height": 128,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "asanmonbhut2",
+      "width": 128,
+      "height": 128,
+      "format": "DXT5",
+      "alpha": true
+    },
+    {
       "name": "sw_flatroof01",
       "width": 256,
       "height": 256,
@@ -12,20 +26,6 @@
       "name": "ws_decking1",
       "width": 256,
       "height": 256,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "asanmonbhut2",
-      "width": 128,
-      "height": 128,
-      "format": "DXT1",
-      "alpha": true
-    },
-    {
-      "name": "asanmonbhut1",
-      "width": 128,
-      "height": 128,
       "format": "DXT1",
       "alpha": false
     }

@@ -2,51 +2,9 @@
   "type": "txd",
   "textures": [
     {
-      "name": "sf_shop2",
-      "width": 128,
+      "name": "cluckbell01_law",
+      "width": 256,
       "height": 128,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "pizzasign_LAe",
-      "width": 128,
-      "height": 128,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "ziplogo1_128",
-      "width": 128,
-      "height": 128,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "ctmall13",
-      "width": 128,
-      "height": 128,
-      "format": "DXT3",
-      "alpha": true
-    },
-    {
-      "name": "ctmall08",
-      "width": 32,
-      "height": 32,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "ctmall05",
-      "width": 64,
-      "height": 64,
-      "format": "DXT3",
-      "alpha": true
-    },
-    {
-      "name": "ctmall01_128",
-      "width": 128,
-      "height": 64,
       "format": "DXT1",
       "alpha": false
     },
@@ -58,98 +16,14 @@
       "alpha": false
     },
     {
-      "name": "cluckbell01_law",
-      "width": 256,
-      "height": 128,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "ctmallsign01_128",
+      "name": "ctmall01_128",
       "width": 128,
-      "height": 128,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "ctmall19_128",
-      "width": 128,
-      "height": 128,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "ctmall18_64",
-      "width": 64,
       "height": 64,
       "format": "DXT1",
       "alpha": false
     },
     {
-      "name": "ctmall17_128",
-      "width": 128,
-      "height": 128,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "ctmall16_128",
-      "width": 128,
-      "height": 128,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "ctmall15_128",
-      "width": 128,
-      "height": 128,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "ctmall12_128",
-      "width": 128,
-      "height": 128,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "ctmall11_64",
-      "width": 64,
-      "height": 64,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "ctmall10_64",
-      "width": 64,
-      "height": 64,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "greyground256",
-      "width": 128,
-      "height": 128,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "ctmall07",
-      "width": 64,
-      "height": 64,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "ctmall06",
-      "width": 64,
-      "height": 64,
-      "format": "DXT3",
-      "alpha": true
-    },
-    {
-      "name": "ctmall04_64",
+      "name": "ctmall02_64",
       "width": 64,
       "height": 64,
       "format": "DXT1",
@@ -163,9 +37,128 @@
       "alpha": false
     },
     {
-      "name": "ctmall02_64",
+      "name": "ctmall04_64",
       "width": 64,
       "height": 64,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "ctmall05",
+      "width": 64,
+      "height": 64,
+      "format": "DXT5",
+      "alpha": true
+    },
+    {
+      "name": "ctmall06",
+      "width": 64,
+      "height": 64,
+      "format": "DXT5",
+      "alpha": true
+    },
+    {
+      "name": "ctmall07",
+      "width": 64,
+      "height": 64,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "ctmall08",
+      "width": 32,
+      "height": 32,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "ctmall10_64",
+      "width": 64,
+      "height": 64,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "ctmall11_64",
+      "width": 64,
+      "height": 64,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "ctmall12_128",
+      "width": 128,
+      "height": 128,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "ctmall13",
+      "width": 128,
+      "height": 128,
+      "format": "DXT5",
+      "alpha": true
+    },
+    {
+      "name": "ctmall15_128",
+      "width": 128,
+      "height": 128,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "ctmall16_128",
+      "width": 128,
+      "height": 128,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "ctmall17_128",
+      "width": 128,
+      "height": 128,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "ctmall18_64",
+      "width": 64,
+      "height": 64,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "ctmall19_128",
+      "width": 128,
+      "height": 128,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "ctmallsign01_128",
+      "width": 128,
+      "height": 128,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "pizzasign_LAe",
+      "width": 128,
+      "height": 128,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "sf_shop2",
+      "width": 256,
+      "height": 256,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "ziplogo1_128",
+      "width": 128,
+      "height": 128,
       "format": "DXT1",
       "alpha": false
     }

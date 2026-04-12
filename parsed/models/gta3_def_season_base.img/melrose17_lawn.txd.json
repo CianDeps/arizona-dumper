@@ -2,35 +2,7 @@
   "type": "txd",
   "textures": [
     {
-      "name": "shopface01_law",
-      "width": 64,
-      "height": 128,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "shopwin06_law",
-      "width": 128,
-      "height": 128,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "shopface06_law",
-      "width": 128,
-      "height": 256,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "shopdoor02_law",
-      "width": 128,
-      "height": 256,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "LoadingDoorClean",
+      "name": "brwall_128",
       "width": 128,
       "height": 128,
       "format": "DXT1",
@@ -44,15 +16,22 @@
       "alpha": false
     },
     {
-      "name": "shopface02bl_law",
+      "name": "shopdoor02_law",
       "width": 128,
+      "height": 256,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "shopface01_law",
+      "width": 64,
       "height": 128,
       "format": "DXT1",
       "alpha": false
     },
     {
-      "name": "shopwin02_law",
-      "width": 64,
+      "name": "shopface02bl_law",
+      "width": 128,
       "height": 128,
       "format": "DXT1",
       "alpha": false
@@ -65,8 +44,8 @@
       "alpha": false
     },
     {
-      "name": "Bow_Abpave_Gen",
-      "width": 256,
+      "name": "shopface06_law",
+      "width": 128,
       "height": 256,
       "format": "DXT1",
       "alpha": false
@@ -79,7 +58,14 @@
       "alpha": false
     },
     {
-      "name": "brwall_128",
+      "name": "shopwin02_law",
+      "width": 64,
+      "height": 128,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "shopwin06_law",
       "width": 128,
       "height": 128,
       "format": "DXT1",

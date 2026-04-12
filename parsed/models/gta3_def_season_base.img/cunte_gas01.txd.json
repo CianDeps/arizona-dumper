@@ -16,6 +16,20 @@
       "alpha": false
     },
     {
+      "name": "cj_flag2",
+      "width": 512,
+      "height": 256,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "comptsign8_LAe",
+      "width": 256,
+      "height": 256,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
       "name": "cos_liqcounter",
       "width": 256,
       "height": 256,
@@ -23,21 +37,14 @@
       "alpha": false
     },
     {
-      "name": "sw_gasshelves",
+      "name": "des_pylon1",
       "width": 256,
-      "height": 256,
-      "format": "DXT1",
+      "height": 128,
+      "format": "DXT5",
       "alpha": true
     },
     {
       "name": "downtsign13_LA",
-      "width": 256,
-      "height": 256,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "comptsign8_LAe",
       "width": 256,
       "height": 256,
       "format": "DXT1",
@@ -58,49 +65,7 @@
       "alpha": false
     },
     {
-      "name": "cj_flag2",
-      "width": 512,
-      "height": 256,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "des_pylon1",
-      "width": 256,
-      "height": 128,
-      "format": "DXT3",
-      "alpha": true
-    },
-    {
-      "name": "sw_gasso2",
-      "width": 256,
-      "height": 128,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "sw_gasso",
-      "width": 256,
-      "height": 128,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "sw_gasstation1",
-      "width": 256,
-      "height": 256,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "sw_flatroof01",
-      "width": 256,
-      "height": 256,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "sw_floor1",
+      "name": "sw_brick03",
       "width": 256,
       "height": 256,
       "format": "DXT1",
@@ -128,14 +93,42 @@
       "alpha": false
     },
     {
+      "name": "sw_floor1",
+      "width": 256,
+      "height": 256,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
       "name": "sw_garagewin",
       "width": 256,
       "height": 128,
-      "format": "DXT3",
+      "format": "DXT5",
       "alpha": true
     },
     {
-      "name": "sw_brick03",
+      "name": "sw_gasshelves",
+      "width": 256,
+      "height": 256,
+      "format": "DXT5",
+      "alpha": true
+    },
+    {
+      "name": "sw_gasso",
+      "width": 256,
+      "height": 128,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "sw_gasso2",
+      "width": 256,
+      "height": 128,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "sw_gasstation1",
       "width": 256,
       "height": 256,
       "format": "DXT1",

@@ -2,16 +2,16 @@
   "type": "txd",
   "textures": [
     {
-      "name": "welder",
+      "name": "airvent2_128",
       "width": 64,
       "height": 64,
       "format": "DXT1",
       "alpha": false
     },
     {
-      "name": "panel2_64a",
-      "width": 64,
-      "height": 64,
+      "name": "Alumox64b",
+      "width": 256,
+      "height": 256,
       "format": "DXT1",
       "alpha": false
     },
@@ -23,49 +23,21 @@
       "alpha": false
     },
     {
-      "name": "Alumox64b",
-      "width": 64,
-      "height": 64,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "spraypipegz1",
-      "width": 32,
-      "height": 64,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "sf_spraydoor1",
-      "width": 64,
-      "height": 128,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "airvent2_128",
-      "width": 64,
-      "height": 64,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "sf_spray_floor2",
+      "name": "newindow4",
       "width": 128,
       "height": 128,
       "format": "DXT1",
       "alpha": false
     },
     {
-      "name": "sf_spray_floor1",
-      "width": 128,
-      "height": 128,
+      "name": "panel2_64a",
+      "width": 64,
+      "height": 64,
       "format": "DXT1",
       "alpha": false
     },
     {
-      "name": "sf_spray3",
+      "name": "sf_spray1",
       "width": 128,
       "height": 128,
       "format": "DXT1",
@@ -79,16 +51,44 @@
       "alpha": false
     },
     {
-      "name": "sf_spray1",
+      "name": "sf_spray3",
       "width": 128,
       "height": 128,
       "format": "DXT1",
       "alpha": false
     },
     {
-      "name": "newindow4",
+      "name": "sf_spraydoor1",
+      "width": 64,
+      "height": 128,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "sf_spray_floor1",
       "width": 128,
       "height": 128,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "sf_spray_floor2",
+      "width": 128,
+      "height": 128,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "spraypipegz1",
+      "width": 32,
+      "height": 64,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "welder",
+      "width": 64,
+      "height": 64,
       "format": "DXT1",
       "alpha": false
     }

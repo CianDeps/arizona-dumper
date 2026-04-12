@@ -2,16 +2,23 @@
   "type": "txd",
   "textures": [
     {
-      "name": "dirtringtex3_256",
-      "width": 128,
-      "height": 512,
+      "name": "alleydoor2",
+      "width": 256,
+      "height": 256,
       "format": "DXT1",
       "alpha": false
     },
     {
-      "name": "dirtringtex2_256",
-      "width": 512,
-      "height": 128,
+      "name": "Bow_sub_walltiles",
+      "width": 256,
+      "height": 256,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "concretewall1_256",
+      "width": 256,
+      "height": 256,
       "format": "DXT1",
       "alpha": false
     },
@@ -23,23 +30,23 @@
       "alpha": false
     },
     {
-      "name": "alleydoor2",
-      "width": 256,
-      "height": 256,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "concretewall1_256",
-      "width": 128,
+      "name": "dirtringtex2_256",
+      "width": 512,
       "height": 128,
       "format": "DXT1",
       "alpha": false
     },
     {
-      "name": "ws_whitewall2_bottom",
-      "width": 256,
-      "height": 256,
+      "name": "dirtringtex3_256",
+      "width": 128,
+      "height": 512,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "gallery01_law",
+      "width": 128,
+      "height": 64,
       "format": "DXT1",
       "alpha": false
     },
@@ -58,16 +65,16 @@
       "alpha": false
     },
     {
-      "name": "gallery01_law",
-      "width": 128,
-      "height": 64,
+      "name": "ws_whitewall2_bottom",
+      "width": 256,
+      "height": 256,
       "format": "DXT1",
       "alpha": false
     },
     {
-      "name": "Bow_sub_walltiles",
-      "width": 128,
-      "height": 128,
+      "name": "ws_whitewall2_botlod",
+      "width": 256,
+      "height": 256,
       "format": "DXT1",
       "alpha": false
     }

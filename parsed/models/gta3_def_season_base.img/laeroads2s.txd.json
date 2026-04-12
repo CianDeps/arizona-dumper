@@ -2,49 +2,21 @@
   "type": "txd",
   "textures": [
     {
-      "name": "pierdoor01_law",
-      "width": 128,
-      "height": 128,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "macbrij2_LAe",
-      "width": 256,
-      "height": 256,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "trainground1",
-      "width": 256,
-      "height": 256,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
       "name": "carparkwall1_256",
-      "width": 128,
-      "height": 128,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "Bow_Abattoir_Conc2",
-      "width": 128,
-      "height": 128,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "sidelatino1_LAe",
       "width": 256,
       "height": 256,
       "format": "DXT1",
       "alpha": false
     },
     {
-      "name": "backalley1_LAe",
+      "name": "crossing_law",
+      "width": 512,
+      "height": 256,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "forumstand1_LAe",
       "width": 256,
       "height": 256,
       "format": "DXT1",
@@ -58,15 +30,29 @@
       "alpha": false
     },
     {
-      "name": "forumstand1_LAe",
+      "name": "hedgealphad1",
+      "width": 64,
+      "height": 128,
+      "format": "DXT5",
+      "alpha": true
+    },
+    {
+      "name": "macbrij2_LAe",
       "width": 256,
       "height": 256,
       "format": "DXT1",
       "alpha": false
     },
     {
-      "name": "hedgealphad1",
-      "width": 64,
+      "name": "mudyforest256",
+      "width": 256,
+      "height": 256,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "pierdoor01_law",
+      "width": 128,
       "height": 128,
       "format": "DXT1",
       "alpha": false
@@ -86,30 +72,9 @@
       "alpha": false
     },
     {
-      "name": "crossing_law",
-      "width": 512,
-      "height": 256,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "mudyforest256",
-      "width": 256,
-      "height": 256,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "snpedtest1",
+      "name": "trainground1",
       "width": 512,
       "height": 512,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "sjmhoodlawn41",
-      "width": 256,
-      "height": 256,
       "format": "DXT1",
       "alpha": false
     }

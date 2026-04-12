@@ -2,14 +2,7 @@
   "type": "txd",
   "textures": [
     {
-      "name": "LoadingDoorClean",
-      "width": 128,
-      "height": 128,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "roof06L256",
+      "name": "brickglasvgn1_256",
       "width": 128,
       "height": 128,
       "format": "DXT1",
@@ -30,9 +23,16 @@
       "alpha": false
     },
     {
-      "name": "brickglasvgn1_256",
+      "name": "LoadingDoorClean",
       "width": 128,
       "height": 128,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "roof06L256",
+      "width": 256,
+      "height": 256,
       "format": "DXT1",
       "alpha": false
     }

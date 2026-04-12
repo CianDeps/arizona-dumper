@@ -1,0 +1,110 @@
+{
+  "type": "txd",
+  "textures": [
+    {
+      "name": "angar_alpha",
+      "width": 512,
+      "height": 256,
+      "format": "DXT5",
+      "alpha": true
+    },
+    {
+      "name": "angar_fence",
+      "width": 512,
+      "height": 512,
+      "format": "DXT5",
+      "alpha": true
+    },
+    {
+      "name": "angar_floor",
+      "width": 512,
+      "height": 512,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "angar_floor1",
+      "width": 512,
+      "height": 512,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "angar_fuel",
+      "width": 512,
+      "height": 512,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "angar_gates",
+      "width": 512,
+      "height": 512,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "angar_other1",
+      "width": 512,
+      "height": 512,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "angar_prop",
+      "width": 512,
+      "height": 512,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "angar_prop1",
+      "width": 512,
+      "height": 512,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "angar_roof",
+      "width": 512,
+      "height": 512,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "angar_wall1",
+      "width": 512,
+      "height": 512,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "angar_wall2",
+      "width": 512,
+      "height": 512,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "ingredients_box",
+      "width": 512,
+      "height": 512,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "materials_box",
+      "width": 512,
+      "height": 512,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "milit_box",
+      "width": 512,
+      "height": 512,
+      "format": "DXT1",
+      "alpha": false
+    }
+  ]
+}

@@ -2,70 +2,21 @@
   "type": "txd",
   "textures": [
     {
-      "name": "ws_hangardoor",
-      "width": 256,
-      "height": 256,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "ws_trainstationwin1",
-      "width": 256,
-      "height": 256,
-      "format": "DXT3",
-      "alpha": true
-    },
-    {
-      "name": "railgird32bit",
-      "width": 64,
-      "height": 64,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "ws_crossbeam1",
-      "width": 256,
-      "height": 256,
-      "format": "DXT3",
-      "alpha": true
-    },
-    {
-      "name": "sl_rustyrailing",
-      "width": 128,
-      "height": 64,
-      "format": "DXT1",
-      "alpha": true
-    },
-    {
-      "name": "wallgreyred128",
+      "name": "beigehotel_128",
       "width": 128,
       "height": 128,
       "format": "DXT1",
       "alpha": false
     },
     {
-      "name": "ws_breezeblocks",
+      "name": "Bow_sub_walltiles",
       "width": 256,
       "height": 256,
       "format": "DXT1",
       "alpha": false
     },
     {
-      "name": "ws_corr_2_plain",
-      "width": 256,
-      "height": 256,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "ws_rooftarmac1",
-      "width": 256,
-      "height": 256,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "Alumox64",
+      "name": "chevronYB_64",
       "width": 64,
       "height": 64,
       "format": "DXT1",
@@ -79,16 +30,37 @@
       "alpha": false
     },
     {
-      "name": "chevronYB_64",
+      "name": "railgird32bit",
       "width": 64,
       "height": 64,
       "format": "DXT1",
       "alpha": false
     },
     {
-      "name": "greyground256128",
+      "name": "sl_rustyrailing",
       "width": 128,
-      "height": 128,
+      "height": 64,
+      "format": "DXT5",
+      "alpha": true
+    },
+    {
+      "name": "vegparking2_256",
+      "width": 128,
+      "height": 256,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "wallgreyred128",
+      "width": 256,
+      "height": 256,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "ws_breezeblocks",
+      "width": 256,
+      "height": 256,
       "format": "DXT1",
       "alpha": false
     },
@@ -100,18 +72,18 @@
       "alpha": false
     },
     {
-      "name": "beigehotel_128",
-      "width": 128,
-      "height": 128,
+      "name": "ws_corr_2_plain",
+      "width": 256,
+      "height": 256,
       "format": "DXT1",
       "alpha": false
     },
     {
-      "name": "vegparking2_256",
-      "width": 128,
+      "name": "ws_crossbeam1",
+      "width": 256,
       "height": 256,
-      "format": "DXT1",
-      "alpha": false
+      "format": "DXT5",
+      "alpha": true
     },
     {
       "name": "ws_finalbuild",
@@ -128,6 +100,13 @@
       "alpha": false
     },
     {
+      "name": "ws_hangardoor",
+      "width": 256,
+      "height": 256,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
       "name": "ws_mixedbrick",
       "width": 256,
       "height": 256,
@@ -135,11 +114,11 @@
       "alpha": false
     },
     {
-      "name": "Bow_sub_walltiles",
-      "width": 128,
-      "height": 128,
-      "format": "DXT1",
-      "alpha": false
+      "name": "ws_trainstationwin1",
+      "width": 256,
+      "height": 256,
+      "format": "DXT5",
+      "alpha": true
     }
   ]
 }

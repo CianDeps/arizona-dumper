@@ -2,13 +2,6 @@
   "type": "txd",
   "textures": [
     {
-      "name": "xvehicleenv128",
-      "width": 128,
-      "height": 128,
-      "format": "\u0016",
-      "alpha": false
-    },
-    {
       "name": "vehicletyres128",
       "width": 128,
       "height": 256,
@@ -384,6 +377,153 @@
       "width": 256,
       "height": 256,
       "format": "\u0016",
+      "alpha": false
+    },
+    {
+      "name": "un_brakelight",
+      "width": 256,
+      "height": 256,
+      "format": "\u0016",
+      "alpha": false
+    },
+    {
+      "name": "un_carbon",
+      "width": 128,
+      "height": 128,
+      "format": "\u0015",
+      "alpha": false
+    },
+    {
+      "name": "un_env_body",
+      "width": 256,
+      "height": 256,
+      "format": "\u0015",
+      "alpha": false
+    },
+    {
+      "name": "un_fcarbon",
+      "width": 512,
+      "height": 512,
+      "format": "\u0016",
+      "alpha": false
+    },
+    {
+      "name": "un_generic",
+      "width": 1024,
+      "height": 1024,
+      "format": "\u0016",
+      "alpha": false
+    },
+    {
+      "name": "un_glassdam",
+      "width": 1024,
+      "height": 1024,
+      "format": "\u0015",
+      "alpha": true
+    },
+    {
+      "name": "un_grill",
+      "width": 128,
+      "height": 128,
+      "format": "\u0015",
+      "alpha": true
+    },
+    {
+      "name": "un_grillw",
+      "width": 128,
+      "height": 128,
+      "format": "\u0015",
+      "alpha": true
+    },
+    {
+      "name": "un_interiors",
+      "width": 1024,
+      "height": 1024,
+      "format": "\u0016",
+      "alpha": false
+    },
+    {
+      "name": "un_l_turn",
+      "width": 256,
+      "height": 256,
+      "format": "\u0015",
+      "alpha": false
+    },
+    {
+      "name": "un_mbrakes",
+      "width": 256,
+      "height": 256,
+      "format": "\u0015",
+      "alpha": true
+    },
+    {
+      "name": "un_plastic",
+      "width": 32,
+      "height": 32,
+      "format": "\u0016",
+      "alpha": false
+    },
+    {
+      "name": "un_r_turn",
+      "width": 256,
+      "height": 256,
+      "format": "\u0015",
+      "alpha": false
+    },
+    {
+      "name": "un_revlight",
+      "width": 256,
+      "height": 256,
+      "format": "\u0015",
+      "alpha": false
+    },
+    {
+      "name": "un_riffled",
+      "width": 512,
+      "height": 512,
+      "format": "\u0016",
+      "alpha": false
+    },
+    {
+      "name": "un_tyreciv",
+      "width": 512,
+      "height": 512,
+      "format": "\u0016",
+      "alpha": false
+    },
+    {
+      "name": "un_tyretruck",
+      "width": 512,
+      "height": 512,
+      "format": "\u0016",
+      "alpha": false
+    },
+    {
+      "name": "un_vehiclelights",
+      "width": 1024,
+      "height": 512,
+      "format": "\u0015",
+      "alpha": false
+    },
+    {
+      "name": "un_vehiclelightson",
+      "width": 1024,
+      "height": 512,
+      "format": "\u0015",
+      "alpha": false
+    },
+    {
+      "name": "xvehicleenv128",
+      "width": 512,
+      "height": 512,
+      "format": "\u0015",
+      "alpha": false
+    },
+    {
+      "name": "body_remap",
+      "width": 512,
+      "height": 512,
+      "format": "\u0015",
       "alpha": false
     }
   ]

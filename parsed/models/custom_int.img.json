@@ -1,7 +1,7 @@
 {
   "type": "img",
   "version": "v2",
-  "totalEntries": 164,
+  "totalEntries": 206,
   "entries": [
     {
       "name": "arztwn.txd",
@@ -33,11 +33,11 @@
     },
     {
       "name": "arztwn_hall.dff",
-      "size": 993280
+      "size": 1124352
     },
     {
       "name": "arztwn_hall2.dff",
-      "size": 94208
+      "size": 106496
     },
     {
       "name": "arztwn_hall_f.dff",
@@ -132,6 +132,18 @@
       "size": 10240
     },
     {
+      "name": "car_m_pra.dff",
+      "size": 4096
+    },
+    {
+      "name": "car_m_prb.dff",
+      "size": 4096
+    },
+    {
+      "name": "car_m_prc.dff",
+      "size": 6144
+    },
+    {
       "name": "casino_door.dff",
       "size": 2048
     },
@@ -154,6 +166,30 @@
     {
       "name": "craps_table_n.dff",
       "size": 28672
+    },
+    {
+      "name": "data_center.txd",
+      "size": 2099200
+    },
+    {
+      "name": "data_center_decal.dff",
+      "size": 51200
+    },
+    {
+      "name": "data_center_int.dff",
+      "size": 139264
+    },
+    {
+      "name": "data_center_light.dff",
+      "size": 49152
+    },
+    {
+      "name": "data_center_prop.dff",
+      "size": 380928
+    },
+    {
+      "name": "data_center_prop1.dff",
+      "size": 102400
     },
     {
       "name": "dm_map_002.dff",
@@ -232,6 +268,22 @@
       "size": 4096
     },
     {
+      "name": "greenhouse_int.dff",
+      "size": 159744
+    },
+    {
+      "name": "greenhouse_int.txd",
+      "size": 2273280
+    },
+    {
+      "name": "greenhouse_int_1.dff",
+      "size": 282624
+    },
+    {
+      "name": "greenhouse_int_dec.dff",
+      "size": 63488
+    },
+    {
       "name": "hint7_cab_3.dff",
       "size": 6144
     },
@@ -262,6 +314,54 @@
     {
       "name": "htl2_plant_3.dff",
       "size": 6144
+    },
+    {
+      "name": "int_car_market_1.dff",
+      "size": 456704
+    },
+    {
+      "name": "int_car_market_dc_1.dff",
+      "size": 10240
+    },
+    {
+      "name": "int_car_market_dc_2.dff",
+      "size": 8192
+    },
+    {
+      "name": "int_car_market_dc_3.dff",
+      "size": 16384
+    },
+    {
+      "name": "int_car_market_dc_4.dff",
+      "size": 6144
+    },
+    {
+      "name": "int_car_market_dt_1.dff",
+      "size": 1048576
+    },
+    {
+      "name": "int_car_market_op.dff",
+      "size": 6144
+    },
+    {
+      "name": "int_car_market_p1.dff",
+      "size": 4096
+    },
+    {
+      "name": "int_car_market_p2.dff",
+      "size": 4096
+    },
+    {
+      "name": "int_car_market_p3.dff",
+      "size": 8192
+    },
+    {
+      "name": "int_car_market_p6.dff",
+      "size": 10240
+    },
+    {
+      "name": "int_car_market_st_1.dff",
+      "size": 14336
     },
     {
       "name": "int_casino.txd",
@@ -350,6 +450,26 @@
     {
       "name": "new_int_bank.txd",
       "size": 7135232
+    },
+    {
+      "name": "n_carsale_int.txd",
+      "size": 4046848
+    },
+    {
+      "name": "n_st_atm.dff",
+      "size": 47104
+    },
+    {
+      "name": "n_st_kiosk.dff",
+      "size": 24576
+    },
+    {
+      "name": "n_st_stand.dff",
+      "size": 43008
+    },
+    {
+      "name": "n_st_stand2.dff",
+      "size": 43008
     },
     {
       "name": "pokertable_1.dff",
@@ -616,12 +736,60 @@
       "size": 6144
     },
     {
+      "name": "tir_int.dff",
+      "size": 131072
+    },
+    {
+      "name": "tir_int.txd",
+      "size": 3674112
+    },
+    {
+      "name": "tir_int_decal.dff",
+      "size": 51200
+    },
+    {
+      "name": "tir_int_prop.dff",
+      "size": 546816
+    },
+    {
+      "name": "tir_target1.dff",
+      "size": 8192
+    },
+    {
+      "name": "tir_target2.dff",
+      "size": 4096
+    },
+    {
+      "name": "tir_target3.dff",
+      "size": 4096
+    },
+    {
+      "name": "tir_target4.dff",
+      "size": 4096
+    },
+    {
+      "name": "tir_target5.dff",
+      "size": 4096
+    },
+    {
+      "name": "tir_target6.dff",
+      "size": 4096
+    },
+    {
+      "name": "tir_target7.dff",
+      "size": 4096
+    },
+    {
       "name": "TuninIntTXD.txd",
       "size": 1574912
     },
     {
       "name": "tunsalonX.dff",
       "size": 372736
+    },
+    {
+      "name": "veg_palmkb2_n.dff",
+      "size": 124928
     },
     {
       "name": "wheel_fortune_1.dff",

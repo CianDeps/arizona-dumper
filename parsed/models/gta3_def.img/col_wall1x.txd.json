@@ -9,13 +9,6 @@
       "alpha": false
     },
     {
-      "name": "wall1",
-      "width": 128,
-      "height": 128,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
       "name": "motel_wall4",
       "width": 128,
       "height": 256,
@@ -23,7 +16,7 @@
       "alpha": false
     },
     {
-      "name": "mp_diner_ceilingdirt",
+      "name": "mp_burn_wall1",
       "width": 256,
       "height": 256,
       "format": "DXT1",
@@ -37,9 +30,16 @@
       "alpha": false
     },
     {
-      "name": "mp_burn_wall1",
+      "name": "mp_diner_ceilingdirt",
       "width": 256,
       "height": 256,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "wall1",
+      "width": 128,
+      "height": 128,
       "format": "DXT1",
       "alpha": false
     }

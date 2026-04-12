@@ -3,8 +3,22 @@
   "textures": [
     {
       "name": "Bow_grass_gryard",
-      "width": 128,
-      "height": 128,
+      "width": 256,
+      "height": 256,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "crossing_law",
+      "width": 512,
+      "height": 256,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "crossing_law2",
+      "width": 512,
+      "height": 256,
       "format": "DXT1",
       "alpha": false
     },
@@ -23,7 +37,7 @@
       "alpha": false
     },
     {
-      "name": "vegastriproad1_256",
+      "name": "vegaspavement3_256",
       "width": 512,
       "height": 512,
       "format": "DXT1",
@@ -37,42 +51,7 @@
       "alpha": false
     },
     {
-      "name": "crossing_law2",
-      "width": 512,
-      "height": 256,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "vegaspavement3_256",
-      "width": 512,
-      "height": 512,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "BLOCK",
-      "width": 256,
-      "height": 256,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "crossing_law",
-      "width": 512,
-      "height": 256,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "vegasroad1_256",
-      "width": 512,
-      "height": 512,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "vegaspavement2_256",
+      "name": "vegastriproad1_256",
       "width": 512,
       "height": 512,
       "format": "DXT1",

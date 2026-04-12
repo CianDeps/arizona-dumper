@@ -2,77 +2,7 @@
   "type": "txd",
   "textures": [
     {
-      "name": "wallwindblank_256",
-      "width": 128,
-      "height": 128,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "eld_box3_law",
-      "width": 64,
-      "height": 64,
-      "format": "DXT3",
-      "alpha": true
-    },
-    {
-      "name": "eld_box2_law",
-      "width": 32,
-      "height": 256,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "zombiegeddon",
-      "width": 128,
-      "height": 64,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "eld_box_law",
-      "width": 512,
-      "height": 128,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "frostwin01_law",
-      "width": 128,
-      "height": 128,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "eldritch_law",
-      "width": 128,
-      "height": 512,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "holbuild03d_law",
-      "width": 64,
-      "height": 64,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "holbuild03c_law",
-      "width": 128,
-      "height": 64,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "holbuild03b_law",
-      "width": 256,
-      "height": 256,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "holbuild03_law",
+      "name": "alleydoorb256",
       "width": 256,
       "height": 256,
       "format": "DXT1",
@@ -86,7 +16,126 @@
       "alpha": false
     },
     {
-      "name": "comptwall3",
+      "name": "compcouwall1",
+      "width": 128,
+      "height": 128,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "compcouwall2",
+      "width": 128,
+      "height": 128,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "eldritch_law",
+      "width": 128,
+      "height": 512,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "eld_box2_law",
+      "width": 32,
+      "height": 256,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "eld_box3_law",
+      "width": 64,
+      "height": 64,
+      "format": "DXT5",
+      "alpha": true
+    },
+    {
+      "name": "eld_box_law",
+      "width": 512,
+      "height": 128,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "fence_64",
+      "width": 64,
+      "height": 64,
+      "format": "DXT5",
+      "alpha": true
+    },
+    {
+      "name": "frostwin01_law",
+      "width": 128,
+      "height": 128,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "holbuild01c_law",
+      "width": 128,
+      "height": 64,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "holbuild01_law",
+      "width": 128,
+      "height": 128,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "holbuild02b_law",
+      "width": 128,
+      "height": 128,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "holbuild02c_law",
+      "width": 128,
+      "height": 128,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "holbuild02d_law",
+      "width": 256,
+      "height": 256,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "holbuild02_law",
+      "width": 256,
+      "height": 256,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "holbuild03b_law",
+      "width": 256,
+      "height": 256,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "holbuild03c_law",
+      "width": 128,
+      "height": 64,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "holbuild03d_law",
+      "width": 64,
+      "height": 64,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "holbuild03_law",
       "width": 256,
       "height": 256,
       "format": "DXT1",
@@ -100,7 +149,7 @@
       "alpha": false
     },
     {
-      "name": "snpdwhit3",
+      "name": "holshop_law",
       "width": 128,
       "height": 128,
       "format": "DXT1",
@@ -110,13 +159,6 @@
       "name": "pillarbase_law",
       "width": 64,
       "height": 64,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "holbuild02d_law",
-      "width": 256,
-      "height": 256,
       "format": "DXT1",
       "alpha": false
     },
@@ -135,49 +177,7 @@
       "alpha": false
     },
     {
-      "name": "holbuild02c_law",
-      "width": 128,
-      "height": 128,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "holbuild02b_law",
-      "width": 128,
-      "height": 128,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "holbuild02_law",
-      "width": 256,
-      "height": 256,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "concretebigb256128",
-      "width": 64,
-      "height": 64,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "alleydoorb256",
-      "width": 256,
-      "height": 256,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "startours01_law",
-      "width": 256,
-      "height": 64,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "holshop_law",
+      "name": "snpdwhit3",
       "width": 128,
       "height": 128,
       "format": "DXT1",
@@ -191,37 +191,23 @@
       "alpha": false
     },
     {
-      "name": "compcouwall2",
-      "width": 128,
-      "height": 128,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "compcouwall1",
-      "width": 128,
-      "height": 128,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "fence_64",
-      "width": 64,
-      "height": 64,
-      "format": "DXT3",
-      "alpha": true
-    },
-    {
-      "name": "holbuild01c_law",
-      "width": 128,
+      "name": "startours01_law",
+      "width": 256,
       "height": 64,
       "format": "DXT1",
       "alpha": false
     },
     {
-      "name": "holbuild01_law",
-      "width": 128,
-      "height": 128,
+      "name": "wallwindblank_256",
+      "width": 256,
+      "height": 256,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "ws_carparknew1",
+      "width": 256,
+      "height": 256,
       "format": "DXT1",
       "alpha": false
     },
@@ -233,9 +219,9 @@
       "alpha": false
     },
     {
-      "name": "ws_carparknew1",
-      "width": 256,
-      "height": 256,
+      "name": "zombiegeddon",
+      "width": 128,
+      "height": 64,
       "format": "DXT1",
       "alpha": false
     }

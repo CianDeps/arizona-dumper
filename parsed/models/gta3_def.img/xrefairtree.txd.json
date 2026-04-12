@@ -2,20 +2,6 @@
   "type": "txd",
   "textures": [
     {
-      "name": "rustadark128",
-      "width": 128,
-      "height": 128,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "treepropleaf01",
-      "width": 128,
-      "height": 128,
-      "format": "DXT3",
-      "alpha": true
-    },
-    {
       "name": "carfx1",
       "width": 128,
       "height": 128,
@@ -28,6 +14,20 @@
       "height": 64,
       "format": "DXT1",
       "alpha": false
+    },
+    {
+      "name": "rustadark128",
+      "width": 128,
+      "height": 128,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "treepropleaf01",
+      "width": 128,
+      "height": 128,
+      "format": "DXT5",
+      "alpha": true
     }
   ]
 }

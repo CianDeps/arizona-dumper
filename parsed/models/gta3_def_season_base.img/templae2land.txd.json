@@ -2,9 +2,30 @@
   "type": "txd",
   "textures": [
     {
-      "name": "chipboard_256128",
+      "name": "barberpole1",
+      "width": 256,
+      "height": 256,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "bincoslae2_128",
+      "width": 256,
+      "height": 64,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "bincowin",
       "width": 128,
       "height": 128,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "chipboard_256128",
+      "width": 256,
+      "height": 256,
       "format": "DXT1",
       "alpha": false
     },
@@ -23,28 +44,7 @@
       "alpha": false
     },
     {
-      "name": "sidewgrass5",
-      "width": 256,
-      "height": 256,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
       "name": "LAglaswall2",
-      "width": 128,
-      "height": 128,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "shopdoors1_LAe",
-      "width": 256,
-      "height": 256,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "LAstripmall2",
       "width": 128,
       "height": 128,
       "format": "DXT1",
@@ -58,16 +58,9 @@
       "alpha": false
     },
     {
-      "name": "bluapartwall1_256",
+      "name": "LAstripmall2",
       "width": 128,
       "height": 128,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "concretemanky",
-      "width": 256,
-      "height": 256,
       "format": "DXT1",
       "alpha": false
     },
@@ -79,30 +72,16 @@
       "alpha": false
     },
     {
-      "name": "lostonclad1",
-      "width": 128,
-      "height": 128,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "barberpole1",
+      "name": "shopdoors1_LAe",
       "width": 256,
       "height": 256,
       "format": "DXT1",
       "alpha": false
     },
     {
-      "name": "bincoslae2_128",
+      "name": "sidewgrass5",
       "width": 256,
-      "height": 64,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "bincowin",
-      "width": 128,
-      "height": 128,
+      "height": 256,
       "format": "DXT1",
       "alpha": false
     }

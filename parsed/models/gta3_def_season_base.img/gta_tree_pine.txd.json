@@ -2,25 +2,25 @@
   "type": "txd",
   "textures": [
     {
-      "name": "tree19Mi",
+      "name": "Gen_Log",
       "width": 128,
-      "height": 128,
-      "format": "DXT5",
-      "alpha": true
-    },
-    {
-      "name": "sm_redwood_branch",
-      "width": 128,
-      "height": 128,
-      "format": "DXT5",
-      "alpha": true
-    },
-    {
-      "name": "sm_redwood_bark",
-      "width": 64,
-      "height": 128,
+      "height": 256,
       "format": "DXT1",
       "alpha": false
+    },
+    {
+      "name": "Gen_Log_End",
+      "width": 256,
+      "height": 256,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "kb_ivy2_256",
+      "width": 256,
+      "height": 256,
+      "format": "DXT5",
+      "alpha": true
     },
     {
       "name": "sm_pinetreebit",
@@ -30,25 +30,25 @@
       "alpha": true
     },
     {
-      "name": "kb_ivy2_256",
+      "name": "sm_redwood_bark",
+      "width": 128,
+      "height": 256,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "sm_redwood_branch",
       "width": 128,
       "height": 128,
       "format": "DXT5",
       "alpha": true
     },
     {
-      "name": "Gen_Log_End",
-      "width": 128,
-      "height": 128,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "Gen_Log",
-      "width": 64,
-      "height": 128,
-      "format": "DXT1",
-      "alpha": false
+      "name": "tree19Mi",
+      "width": 256,
+      "height": 256,
+      "format": "DXT5",
+      "alpha": true
     }
   ]
 }

@@ -2,30 +2,16 @@
   "type": "txd",
   "textures": [
     {
-      "name": "CJ_W_wood",
+      "name": "CJ_CHROME2",
       "width": 128,
       "height": 128,
       "format": "DXT1",
       "alpha": false
-    },
-    {
-      "name": "CJ_WOODDOOR5",
-      "width": 128,
-      "height": 256,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "CJ_WOODDOOR3",
-      "width": 128,
-      "height": 256,
-      "format": "DXT3",
-      "alpha": true
     },
     {
       "name": "CJ_SCOR_DOOR",
-      "width": 64,
-      "height": 128,
+      "width": 128,
+      "height": 256,
       "format": "DXT1",
       "alpha": false
     },
@@ -37,16 +23,30 @@
       "alpha": false
     },
     {
-      "name": "CJ_CHROME2",
+      "name": "CJ_WOODDOOR2",
       "width": 128,
-      "height": 128,
+      "height": 256,
       "format": "DXT1",
       "alpha": false
     },
     {
-      "name": "CJ_WOODDOOR2",
+      "name": "CJ_WOODDOOR3",
       "width": 128,
       "height": 256,
+      "format": "DXT5",
+      "alpha": true
+    },
+    {
+      "name": "CJ_WOODDOOR5",
+      "width": 128,
+      "height": 256,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "CJ_W_wood",
+      "width": 128,
+      "height": 128,
       "format": "DXT1",
       "alpha": false
     }

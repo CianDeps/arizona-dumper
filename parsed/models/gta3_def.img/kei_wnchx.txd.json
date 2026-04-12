@@ -2,18 +2,18 @@
   "type": "txd",
   "textures": [
     {
-      "name": "chainlinkac1_128",
-      "width": 16,
-      "height": 32,
-      "format": "DXT3",
-      "alpha": true
-    },
-    {
-      "name": "yellowscum64",
+      "name": "black64",
       "width": 64,
       "height": 64,
       "format": "DXT1",
       "alpha": false
+    },
+    {
+      "name": "chainlinkac1_128",
+      "width": 64,
+      "height": 128,
+      "format": "DXT5",
+      "alpha": true
     },
     {
       "name": "noodpot_64",
@@ -23,16 +23,9 @@
       "alpha": false
     },
     {
-      "name": "yellow_64",
-      "width": 64,
-      "height": 64,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "black64",
-      "width": 64,
-      "height": 64,
+      "name": "trilby04",
+      "width": 32,
+      "height": 32,
       "format": "DXT1",
       "alpha": false
     },
@@ -44,9 +37,16 @@
       "alpha": false
     },
     {
-      "name": "trilby04",
-      "width": 32,
-      "height": 32,
+      "name": "yellowscum64",
+      "width": 64,
+      "height": 64,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "yellow_64",
+      "width": 64,
+      "height": 64,
       "format": "DXT1",
       "alpha": false
     }

@@ -2,30 +2,9 @@
   "type": "txd",
   "textures": [
     {
-      "name": "dt_carpark_line_texture",
-      "width": 64,
-      "height": 64,
-      "format": "DXT3",
-      "alpha": true
-    },
-    {
       "name": "des_motelsigns1",
       "width": 128,
       "height": 128,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "gnhotelwall02_128",
-      "width": 128,
-      "height": 128,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "stormdrain7",
-      "width": 64,
-      "height": 64,
       "format": "DXT1",
       "alpha": false
     },
@@ -37,9 +16,9 @@
       "alpha": false
     },
     {
-      "name": "rooftiles1",
-      "width": 128,
-      "height": 64,
+      "name": "des_motelwall4",
+      "width": 256,
+      "height": 128,
       "format": "DXT1",
       "alpha": false
     },
@@ -51,8 +30,29 @@
       "alpha": false
     },
     {
-      "name": "des_motelwall4",
-      "width": 256,
+      "name": "dt_carpark_line_texture",
+      "width": 128,
+      "height": 128,
+      "format": "DXT5",
+      "alpha": true
+    },
+    {
+      "name": "gnhotelwall02_128",
+      "width": 128,
+      "height": 128,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "rooftiles1",
+      "width": 128,
+      "height": 64,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "stormdrain7",
+      "width": 128,
       "height": 128,
       "format": "DXT1",
       "alpha": false

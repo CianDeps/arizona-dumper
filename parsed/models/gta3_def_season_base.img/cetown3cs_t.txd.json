@@ -2,14 +2,28 @@
   "type": "txd",
   "textures": [
     {
-      "name": "sw_door18",
-      "width": 128,
+      "name": "alleydoor2",
+      "width": 256,
+      "height": 256,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "des_cafesign",
+      "width": 256,
       "height": 128,
       "format": "DXT1",
       "alpha": false
     },
     {
-      "name": "ws_rooftarmac1",
+      "name": "newall10_seamless",
+      "width": 256,
+      "height": 256,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "pierboards_la",
       "width": 256,
       "height": 256,
       "format": "DXT1",
@@ -23,14 +37,7 @@
       "alpha": false
     },
     {
-      "name": "floor_tileone_256",
-      "width": 128,
-      "height": 128,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "alleydoor2",
+      "name": "sw_barnwood2",
       "width": 256,
       "height": 256,
       "format": "DXT1",
@@ -44,7 +51,21 @@
       "alpha": false
     },
     {
-      "name": "sw_wind18",
+      "name": "sw_slate01",
+      "width": 256,
+      "height": 256,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "sw_wall03",
+      "width": 256,
+      "height": 256,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "sw_wind10",
       "width": 256,
       "height": 128,
       "format": "DXT1",
@@ -58,23 +79,23 @@
       "alpha": false
     },
     {
-      "name": "ws_corr_2_plain",
+      "name": "sw_wind18",
+      "width": 256,
+      "height": 128,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "taxitop01",
       "width": 256,
       "height": 256,
       "format": "DXT1",
       "alpha": false
     },
     {
-      "name": "newall10_seamless",
-      "width": 128,
-      "height": 128,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "pierboards_la",
-      "width": 128,
-      "height": 128,
+      "name": "ws_corr_2_plain",
+      "width": 256,
+      "height": 256,
       "format": "DXT1",
       "alpha": false
     },
@@ -87,62 +108,6 @@
     },
     {
       "name": "ws_sandstone2",
-      "width": 256,
-      "height": 256,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "sw_wind16",
-      "width": 256,
-      "height": 128,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "sw_wind10",
-      "width": 256,
-      "height": 128,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "sw_slate01",
-      "width": 256,
-      "height": 256,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "sw_barnwood2",
-      "width": 256,
-      "height": 256,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "taxitop01",
-      "width": 128,
-      "height": 128,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "des_cafesign",
-      "width": 256,
-      "height": 128,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "sw_storewin01",
-      "width": 256,
-      "height": 128,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "sw_wall03",
       "width": 256,
       "height": 256,
       "format": "DXT1",

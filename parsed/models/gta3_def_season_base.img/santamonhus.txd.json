@@ -2,35 +2,42 @@
   "type": "txd",
   "textures": [
     {
+      "name": "comptwindo2",
+      "width": 128,
+      "height": 128,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "fence_64",
+      "width": 64,
+      "height": 64,
+      "format": "DXT5",
+      "alpha": true
+    },
+    {
+      "name": "glassblock_law",
+      "width": 64,
+      "height": 64,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
       "name": "glass_fence_64hv",
       "width": 64,
       "height": 64,
-      "format": "DXT3",
+      "format": "DXT5",
       "alpha": true
     },
     {
-      "name": "shingles2",
-      "width": 64,
-      "height": 64,
+      "name": "lasmulap5",
+      "width": 256,
+      "height": 256,
       "format": "DXT1",
       "alpha": false
     },
     {
-      "name": "wire2",
-      "width": 64,
-      "height": 64,
-      "format": "DXT3",
-      "alpha": true
-    },
-    {
-      "name": "pierbuild11d_law",
-      "width": 64,
-      "height": 64,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "pierbuild11c_law",
+      "name": "pierbuild10b_law",
       "width": 128,
       "height": 128,
       "format": "DXT1",
@@ -44,16 +51,23 @@
       "alpha": false
     },
     {
-      "name": "pierbuild11_law",
+      "name": "pierbuild11c_law",
+      "width": 128,
+      "height": 128,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "pierbuild11d_law",
       "width": 64,
       "height": 64,
       "format": "DXT1",
       "alpha": false
     },
     {
-      "name": "pierbuild10b_law",
-      "width": 128,
-      "height": 128,
+      "name": "pierbuild11_law",
+      "width": 64,
+      "height": 64,
       "format": "DXT1",
       "alpha": false
     },
@@ -72,36 +86,15 @@
       "alpha": false
     },
     {
-      "name": "studwalltop_law",
+      "name": "pierhouse3_law",
       "width": 128,
       "height": 128,
       "format": "DXT1",
       "alpha": false
     },
     {
-      "name": "fence_64",
-      "width": 64,
-      "height": 64,
-      "format": "DXT3",
-      "alpha": true
-    },
-    {
-      "name": "pierwall04_law",
-      "width": 128,
-      "height": 64,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
       "name": "pierhouse4_law",
       "width": 128,
-      "height": 64,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "glassblock_law",
-      "width": 64,
       "height": 64,
       "format": "DXT1",
       "alpha": false
@@ -114,29 +107,8 @@
       "alpha": false
     },
     {
-      "name": "comptwindo2",
+      "name": "pierwall04_law",
       "width": 128,
-      "height": 128,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "pierhouse3_law",
-      "width": 128,
-      "height": 128,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "pierbild04_law",
-      "width": 64,
-      "height": 64,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "concretebigb256",
-      "width": 64,
       "height": 64,
       "format": "DXT1",
       "alpha": false
@@ -149,25 +121,18 @@
       "alpha": false
     },
     {
-      "name": "Bow_Warehousewall",
-      "width": 128,
-      "height": 128,
+      "name": "shingles2",
+      "width": 64,
+      "height": 64,
       "format": "DXT1",
       "alpha": false
     },
     {
-      "name": "sjmlahus28",
-      "width": 128,
-      "height": 128,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "lasmulap5",
-      "width": 256,
-      "height": 256,
-      "format": "DXT1",
-      "alpha": false
+      "name": "wire2",
+      "width": 64,
+      "height": 64,
+      "format": "DXT5",
+      "alpha": true
     }
   ]
 }

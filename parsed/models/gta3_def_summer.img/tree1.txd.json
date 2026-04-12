@@ -2,14 +2,14 @@
   "type": "txd",
   "textures": [
     {
-      "name": "Elm_treegrn4",
-      "width": 128,
-      "height": 128,
-      "format": "DXT5",
-      "alpha": true
+      "name": "bzelka1",
+      "width": 64,
+      "height": 64,
+      "format": "DXT1",
+      "alpha": false
     },
     {
-      "name": "Elm_treegrn2",
+      "name": "elmtreered",
       "width": 128,
       "height": 128,
       "format": "DXT5",
@@ -23,18 +23,18 @@
       "alpha": true
     },
     {
-      "name": "elmtreered",
+      "name": "Elm_treegrn2",
       "width": 128,
       "height": 128,
       "format": "DXT5",
       "alpha": true
     },
     {
-      "name": "bzelka1",
-      "width": 64,
-      "height": 64,
-      "format": "DXT1",
-      "alpha": false
+      "name": "Elm_treegrn4",
+      "width": 128,
+      "height": 128,
+      "format": "DXT5",
+      "alpha": true
     }
   ]
 }

@@ -2,9 +2,9 @@
   "type": "txd",
   "textures": [
     {
-      "name": "carfx1",
-      "width": 128,
-      "height": 128,
+      "name": "24hoursign1_256",
+      "width": 256,
+      "height": 256,
       "format": "DXT1",
       "alpha": false
     },
@@ -16,23 +16,16 @@
       "alpha": false
     },
     {
-      "name": "24hoursign1_256",
-      "width": 256,
-      "height": 256,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "sexsign1_256",
-      "width": 256,
+      "name": "compcouwall1",
+      "width": 128,
       "height": 128,
       "format": "DXT1",
       "alpha": false
     },
     {
-      "name": "touristbureau_256",
-      "width": 256,
-      "height": 256,
+      "name": "frostwin01_law",
+      "width": 128,
+      "height": 128,
       "format": "DXT1",
       "alpha": false
     },
@@ -44,7 +37,14 @@
       "alpha": false
     },
     {
-      "name": "compcouwall1",
+      "name": "sexsign1_256",
+      "width": 256,
+      "height": 128,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "snpedflatt2",
       "width": 128,
       "height": 128,
       "format": "DXT1",
@@ -58,27 +58,6 @@
       "alpha": false
     },
     {
-      "name": "curbyell_64H",
-      "width": 64,
-      "height": 64,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "frostwin01_law",
-      "width": 128,
-      "height": 128,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "snpedflatt2",
-      "width": 128,
-      "height": 128,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
       "name": "takeaway1",
       "width": 128,
       "height": 128,
@@ -86,16 +65,16 @@
       "alpha": false
     },
     {
-      "name": "vgnlowbildwal1_256",
+      "name": "touristbureau_256",
       "width": 256,
       "height": 256,
       "format": "DXT1",
       "alpha": false
     },
     {
-      "name": "vgspawnroof02_128",
-      "width": 128,
-      "height": 128,
+      "name": "vgnlowbildwal1_256",
+      "width": 256,
+      "height": 256,
       "format": "DXT1",
       "alpha": false
     }

@@ -2,42 +2,14 @@
   "type": "txd",
   "textures": [
     {
-      "name": "steel64",
-      "width": 64,
-      "height": 64,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "junk_tyre",
-      "width": 64,
-      "height": 64,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "gen_chrome",
+      "name": "bluecab1_256",
       "width": 128,
       "height": 128,
       "format": "DXT1",
       "alpha": false
     },
     {
-      "name": "cj_chromepipe",
-      "width": 128,
-      "height": 128,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "chainlinkac1_128",
-      "width": 16,
-      "height": 32,
-      "format": "DXT3",
-      "alpha": true
-    },
-    {
-      "name": "yellowcabchev_256",
+      "name": "bluecab2_256",
       "width": 128,
       "height": 128,
       "format": "DXT1",
@@ -58,16 +30,30 @@
       "alpha": false
     },
     {
-      "name": "bluecab1_256",
+      "name": "chainlinkac1_128",
+      "width": 64,
+      "height": 128,
+      "format": "DXT5",
+      "alpha": true
+    },
+    {
+      "name": "cj_chromepipe",
       "width": 128,
       "height": 128,
       "format": "DXT1",
       "alpha": false
     },
     {
-      "name": "bluecab2_256",
-      "width": 128,
-      "height": 128,
+      "name": "gen_chrome",
+      "width": 256,
+      "height": 256,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "junk_tyre",
+      "width": 64,
+      "height": 64,
       "format": "DXT1",
       "alpha": false
     },
@@ -86,9 +72,23 @@
       "alpha": false
     },
     {
+      "name": "steel64",
+      "width": 64,
+      "height": 64,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
       "name": "ws_oldpaintedyello",
       "width": 256,
       "height": 256,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "yellowcabchev_256",
+      "width": 128,
+      "height": 128,
       "format": "DXT1",
       "alpha": false
     }

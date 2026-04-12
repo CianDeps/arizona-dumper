@@ -2,8 +2,15 @@
   "type": "txd",
   "textures": [
     {
-      "name": "poolcue",
-      "width": 128,
+      "name": "blue_pool_table",
+      "width": 256,
+      "height": 256,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "Bow_bar_metal_cabinet",
+      "width": 64,
       "height": 128,
       "format": "DXT1",
       "alpha": false
@@ -16,15 +23,15 @@
       "alpha": false
     },
     {
-      "name": "blue_pool_table",
+      "name": "poolcue",
       "width": 128,
       "height": 128,
       "format": "DXT1",
       "alpha": false
     },
     {
-      "name": "Bow_bar_metal_cabinet",
-      "width": 64,
+      "name": "pool_table_cloth",
+      "width": 128,
       "height": 128,
       "format": "DXT1",
       "alpha": false
@@ -33,13 +40,6 @@
       "name": "trilby04",
       "width": 32,
       "height": 32,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "pool_table_cloth",
-      "width": 128,
-      "height": 128,
       "format": "DXT1",
       "alpha": false
     }

@@ -2,21 +2,28 @@
   "type": "txd",
   "textures": [
     {
-      "name": "vegasfence01_64",
-      "width": 64,
-      "height": 64,
+      "name": "concrete_64HV",
+      "width": 256,
+      "height": 256,
       "format": "DXT1",
-      "alpha": true
+      "alpha": false
     },
     {
-      "name": "residence05_256",
+      "name": "residence01_256",
       "width": 256,
       "height": 128,
       "format": "DXT1",
       "alpha": false
     },
     {
-      "name": "carpark_128",
+      "name": "residence02_256",
+      "width": 256,
+      "height": 128,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "residence03_128",
       "width": 128,
       "height": 128,
       "format": "DXT1",
@@ -30,30 +37,9 @@
       "alpha": false
     },
     {
-      "name": "residence03_128",
-      "width": 128,
-      "height": 128,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "residence02_256",
+      "name": "residence05_256",
       "width": 256,
       "height": 128,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "residence01_256",
-      "width": 256,
-      "height": 128,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "concrete_64HV",
-      "width": 64,
-      "height": 64,
       "format": "DXT1",
       "alpha": false
     },
@@ -63,6 +49,13 @@
       "height": 64,
       "format": "DXT1",
       "alpha": false
+    },
+    {
+      "name": "vegasfence01_64",
+      "width": 64,
+      "height": 64,
+      "format": "DXT5",
+      "alpha": true
     }
   ]
 }

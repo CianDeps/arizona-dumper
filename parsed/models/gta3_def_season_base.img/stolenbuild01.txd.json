@@ -2,98 +2,7 @@
   "type": "txd",
   "textures": [
     {
-      "name": "gm_labuld2_d",
-      "width": 256,
-      "height": 64,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "sl_LAbedingsoil",
-      "width": 256,
-      "height": 256,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "sl_plazatile02",
-      "width": 256,
-      "height": 256,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "ws_fluorescent1",
-      "width": 128,
-      "height": 128,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "sf_backaley1",
-      "width": 256,
-      "height": 256,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
       "name": "bank_sfe1",
-      "width": 256,
-      "height": 256,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "greyground256",
-      "width": 128,
-      "height": 128,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "sl_dwntwndr1",
-      "width": 256,
-      "height": 256,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "eastwin07_LAe2",
-      "width": 256,
-      "height": 256,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "sl_dtbuild1door1",
-      "width": 256,
-      "height": 256,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "sl_dtbuild1wall1",
-      "width": 256,
-      "height": 256,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "sl_dtbuild1win3",
-      "width": 256,
-      "height": 256,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "sl_dtbuild1win2",
-      "width": 256,
-      "height": 256,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "sl_dtbuild1win1",
       "width": 256,
       "height": 256,
       "format": "DXT1",
@@ -102,12 +11,12 @@
     {
       "name": "dt_fire_escape_shit_texture",
       "width": 128,
-      "height": 64,
-      "format": "DXT3",
+      "height": 128,
+      "format": "DXT5",
       "alpha": true
     },
     {
-      "name": "ws_rooftarmac1",
+      "name": "eastwin07_LAe2",
       "width": 256,
       "height": 256,
       "format": "DXT1",
@@ -128,9 +37,44 @@
       "alpha": false
     },
     {
-      "name": "sl_dtwn2wall1",
-      "width": 128,
-      "height": 128,
+      "name": "sf_backaley1",
+      "width": 256,
+      "height": 256,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "sl_dtbuild1door1",
+      "width": 256,
+      "height": 256,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "sl_dtbuild1wall1",
+      "width": 256,
+      "height": 256,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "sl_dtbuild1win1",
+      "width": 256,
+      "height": 256,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "sl_dtbuild1win2",
+      "width": 256,
+      "height": 256,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "sl_dtbuild1win3",
+      "width": 256,
+      "height": 256,
       "format": "DXT1",
       "alpha": false
     },
@@ -142,7 +86,21 @@
       "alpha": false
     },
     {
+      "name": "sl_dtwn2wall1",
+      "width": 128,
+      "height": 128,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
       "name": "sl_dtwn2win1",
+      "width": 256,
+      "height": 256,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "sl_plazatile02",
       "width": 256,
       "height": 256,
       "format": "DXT1",

@@ -2,38 +2,10 @@
   "type": "txd",
   "textures": [
     {
-      "name": "Metalox64",
-      "width": 64,
-      "height": 64,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
       "name": "barbwire1",
       "width": 128,
       "height": 128,
-      "format": "DXT3",
-      "alpha": true
-    },
-    {
-      "name": "metpat64",
-      "width": 64,
-      "height": 64,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "sw_metalgate1",
-      "width": 256,
-      "height": 128,
-      "format": "DXT3",
-      "alpha": true
-    },
-    {
-      "name": "tvstud03_LAw2",
-      "width": 256,
-      "height": 256,
-      "format": "DXT3",
+      "format": "DXT5",
       "alpha": true
     },
     {
@@ -42,6 +14,20 @@
       "height": 256,
       "format": "DXT1",
       "alpha": false
+    },
+    {
+      "name": "studioroof",
+      "width": 256,
+      "height": 256,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "sw_metalgate1",
+      "width": 256,
+      "height": 128,
+      "format": "DXT5",
+      "alpha": true
     },
     {
       "name": "tvstud01_LAw2",
@@ -58,18 +44,11 @@
       "alpha": false
     },
     {
-      "name": "studioroof",
-      "width": 64,
-      "height": 64,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "stormdrain5_nt",
+      "name": "tvstud03_LAw2",
       "width": 256,
       "height": 256,
-      "format": "DXT1",
-      "alpha": false
+      "format": "DXT5",
+      "alpha": true
     }
   ]
 }

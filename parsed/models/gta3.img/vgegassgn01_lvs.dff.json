@@ -5,31 +5,6 @@
   "geometries": [
     {
       "index": 0,
-      "vertices": 72,
-      "triangles": 44,
-      "materials": [
-        {
-          "color": {
-            "r": 255,
-            "g": 255,
-            "b": 255,
-            "a": 255
-          },
-          "texture": null
-        },
-        {
-          "color": {
-            "r": 255,
-            "g": 255,
-            "b": 255,
-            "a": 255
-          },
-          "texture": null
-        }
-      ]
-    },
-    {
-      "index": 1,
       "vertices": 114,
       "triangles": 80,
       "materials": [
@@ -61,10 +36,36 @@
           "texture": null
         }
       ]
+    },
+    {
+      "index": 1,
+      "vertices": 72,
+      "triangles": 44,
+      "materials": [
+        {
+          "color": {
+            "r": 255,
+            "g": 255,
+            "b": 255,
+            "a": 255
+          },
+          "texture": null
+        },
+        {
+          "color": {
+            "r": 255,
+            "g": 255,
+            "b": 255,
+            "a": 255
+          },
+          "texture": null
+        }
+      ]
     }
   ],
   "frames": 3,
   "dummies": [
+    "vgegassgn01_lvs",
     "vgegassgn01_lvs",
     "vgegassgn02_lvs"
   ]

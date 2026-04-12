@@ -2,7 +2,14 @@
   "type": "txd",
   "textures": [
     {
-      "name": "LAcityhwin2",
+      "name": "bevdoor03_law",
+      "width": 128,
+      "height": 128,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "cityhalldoor1",
       "width": 128,
       "height": 128,
       "format": "DXT1",
@@ -16,13 +23,6 @@
       "alpha": false
     },
     {
-      "name": "cityhalltow2",
-      "width": 128,
-      "height": 128,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
       "name": "cityhalltow1",
       "width": 64,
       "height": 64,
@@ -30,42 +30,14 @@
       "alpha": false
     },
     {
-      "name": "LAcityhwin1",
+      "name": "cityhalltow2",
       "width": 128,
       "height": 128,
       "format": "DXT1",
       "alpha": false
     },
     {
-      "name": "LAcityhwal1",
-      "width": 128,
-      "height": 128,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "man_cellarfloor128",
-      "width": 128,
-      "height": 128,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "sl_LAbedingsoil",
-      "width": 256,
-      "height": 256,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "citywall4",
-      "width": 256,
-      "height": 256,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "citywall3",
+      "name": "citywall1",
       "width": 256,
       "height": 256,
       "format": "DXT1",
@@ -79,21 +51,14 @@
       "alpha": false
     },
     {
-      "name": "citywin1",
+      "name": "citywall3",
       "width": 256,
       "height": 256,
       "format": "DXT1",
       "alpha": false
     },
     {
-      "name": "cityhalldoor1",
-      "width": 128,
-      "height": 128,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "concretemanky",
+      "name": "citywall4",
       "width": 256,
       "height": 256,
       "format": "DXT1",
@@ -107,9 +72,37 @@
       "alpha": false
     },
     {
-      "name": "citywall1",
+      "name": "citywin1",
       "width": 256,
       "height": 256,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "LAcityhwal1",
+      "width": 128,
+      "height": 128,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "LAcityhwin1",
+      "width": 128,
+      "height": 128,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "LAcityhwin2",
+      "width": 128,
+      "height": 128,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "man_cellarfloor128",
+      "width": 128,
+      "height": 128,
       "format": "DXT1",
       "alpha": false
     },
@@ -117,20 +110,6 @@
       "name": "sl_plazatile01",
       "width": 256,
       "height": 256,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "ws_rooftarmac1",
-      "width": 256,
-      "height": 256,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "bevdoor03_law",
-      "width": 128,
-      "height": 128,
       "format": "DXT1",
       "alpha": false
     }

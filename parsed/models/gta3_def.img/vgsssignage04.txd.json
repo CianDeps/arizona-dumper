@@ -9,14 +9,28 @@
       "alpha": false
     },
     {
-      "name": "heat_04",
+      "name": "black32",
+      "width": 4,
+      "height": 4,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "diderSachs01",
+      "width": 128,
+      "height": 64,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "eris_3",
       "width": 256,
       "height": 128,
       "format": "DXT1",
       "alpha": false
     },
     {
-      "name": "semi2Dirty",
+      "name": "heat_04",
       "width": 256,
       "height": 128,
       "format": "DXT1",
@@ -30,34 +44,6 @@
       "alpha": false
     },
     {
-      "name": "yellow2_128",
-      "width": 128,
-      "height": 128,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "eris_3",
-      "width": 256,
-      "height": 128,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "black32",
-      "width": 32,
-      "height": 32,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "diderSachs01",
-      "width": 128,
-      "height": 64,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
       "name": "midgrey64",
       "width": 64,
       "height": 64,
@@ -67,6 +53,20 @@
     {
       "name": "semi1Dirty",
       "width": 256,
+      "height": 128,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "semi2Dirty",
+      "width": 256,
+      "height": 128,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "yellow2_128",
+      "width": 128,
       "height": 128,
       "format": "DXT1",
       "alpha": false

@@ -2,44 +2,16 @@
   "type": "txd",
   "textures": [
     {
-      "name": "muddywater",
+      "name": "Bow_church_dirt",
       "width": 64,
       "height": 64,
-      "format": "DXT3",
-      "alpha": true
-    },
-    {
-      "name": "des_motelsigns3",
-      "width": 16,
-      "height": 16,
       "format": "DXT1",
       "alpha": false
     },
     {
-      "name": "rooftiles1",
-      "width": 32,
-      "height": 32,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "des_motelwall5",
-      "width": 32,
-      "height": 32,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "grasstype4blndtodirt",
-      "width": 32,
-      "height": 32,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "grasstype10_4blend",
-      "width": 32,
-      "height": 32,
+      "name": "concretenewb256",
+      "width": 64,
+      "height": 64,
       "format": "DXT1",
       "alpha": false
     },
@@ -58,84 +30,14 @@
       "alpha": false
     },
     {
-      "name": "plaintarmac1",
+      "name": "cw2_mountdirt",
       "width": 64,
       "height": 64,
       "format": "DXT1",
       "alpha": false
     },
     {
-      "name": "grasstype4blndtomud",
-      "width": 32,
-      "height": 32,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "desertstones256forestmix",
-      "width": 32,
-      "height": 32,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "forestfloor3_forest",
-      "width": 64,
-      "height": 64,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "forestfloor3",
-      "width": 64,
-      "height": 64,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "des_dirtgrassmixb",
-      "width": 64,
-      "height": 64,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "des_dirtgrassmixc",
-      "width": 64,
-      "height": 64,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "stormdrain5_nt",
-      "width": 64,
-      "height": 64,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "sw_tunnel02bmp",
-      "width": 64,
-      "height": 64,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "des_dirtgrassmix_grass4",
-      "width": 64,
-      "height": 64,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "des_dirtgrassmixbmp",
-      "width": 64,
-      "height": 64,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "des_dam_conc",
+      "name": "cw2_mounttrail",
       "width": 64,
       "height": 64,
       "format": "DXT1",
@@ -149,121 +51,30 @@
       "alpha": false
     },
     {
-      "name": "cw2_mounttrail",
+      "name": "cw2_weeroad1",
       "width": 64,
       "height": 64,
       "format": "DXT1",
       "alpha": false
     },
     {
-      "name": "mountainskree_stones256",
-      "width": 64,
-      "height": 64,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "forestfloor_sones256",
-      "width": 64,
-      "height": 64,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "grassdead1",
+      "name": "desertstones256",
       "width": 32,
       "height": 32,
       "format": "DXT1",
       "alpha": false
     },
     {
-      "name": "forestfloorblendded",
-      "width": 64,
-      "height": 64,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "dirttracksgrass256",
-      "width": 64,
-      "height": 64,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "cw2_mountdirt",
-      "width": 64,
-      "height": 64,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "newcrop3",
+      "name": "desertstones256forestmix",
       "width": 32,
       "height": 32,
       "format": "DXT1",
       "alpha": false
     },
     {
-      "name": "sw_dirt01_forestblend",
-      "width": 64,
-      "height": 64,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "sw_dirt01",
-      "width": 64,
-      "height": 64,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "grass10_grassdeep1",
+      "name": "desgreengrass",
       "width": 32,
       "height": 32,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "grassdeep1",
-      "width": 32,
-      "height": 32,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "grass10des_dirt2",
-      "width": 32,
-      "height": 32,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "forestfloor256_blenddirt",
-      "width": 64,
-      "height": 64,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "RAIL_stones256",
-      "width": 64,
-      "height": 64,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "rocktq128_forestblend2",
-      "width": 64,
-      "height": 64,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "ws_traingravel",
-      "width": 64,
-      "height": 64,
       "format": "DXT1",
       "alpha": false
     },
@@ -282,7 +93,322 @@
       "alpha": false
     },
     {
-      "name": "grasstype510_10",
+      "name": "desmudtrail",
+      "width": 64,
+      "height": 64,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "des_dam_conc",
+      "width": 64,
+      "height": 64,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "des_dirt2",
+      "width": 64,
+      "height": 64,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "des_dirtgrassmixb",
+      "width": 64,
+      "height": 64,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "des_dirtgrassmixbmp",
+      "width": 64,
+      "height": 64,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "des_dirtgrassmixc",
+      "width": 64,
+      "height": 64,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "des_dirtgrassmix_grass4",
+      "width": 64,
+      "height": 64,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "des_motelsigns3",
+      "width": 16,
+      "height": 16,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "des_motelwall5",
+      "width": 32,
+      "height": 32,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "des_shingles",
+      "width": 64,
+      "height": 64,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "dirt64b2",
+      "width": 64,
+      "height": 64,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "dirttracksgrass256",
+      "width": 64,
+      "height": 64,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "forestfloor256",
+      "width": 64,
+      "height": 64,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "forestfloor256_blenddirt",
+      "width": 64,
+      "height": 64,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "forestfloor3",
+      "width": 64,
+      "height": 64,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "forestfloor3_forest",
+      "width": 64,
+      "height": 64,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "forestfloor4",
+      "width": 64,
+      "height": 64,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "forestfloorblendded",
+      "width": 64,
+      "height": 64,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "forestfloor_sones256",
+      "width": 64,
+      "height": 64,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "forest_rocks",
+      "width": 64,
+      "height": 64,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "grass10des_dirt2",
+      "width": 32,
+      "height": 32,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "grass10dirt",
+      "width": 32,
+      "height": 32,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "grass10forest",
+      "width": 32,
+      "height": 32,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "grass10_grassdeep1",
+      "width": 32,
+      "height": 32,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "grass10_stones256",
+      "width": 32,
+      "height": 32,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "grass4dirtytrans",
+      "width": 64,
+      "height": 64,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "grass4_des_dirt2",
+      "width": 32,
+      "height": 32,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "grassdead1",
+      "width": 32,
+      "height": 32,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "grassdeep1",
+      "width": 32,
+      "height": 32,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "grassdeep256",
+      "width": 32,
+      "height": 32,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "grassdirtblend",
+      "width": 64,
+      "height": 64,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "grassgrnbrnx256",
+      "width": 64,
+      "height": 64,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "grassshort2long256",
+      "width": 64,
+      "height": 64,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "grasstype1-4",
+      "width": 32,
+      "height": 32,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "grasstype10",
+      "width": 32,
+      "height": 32,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "grasstype10_4blend",
+      "width": 32,
+      "height": 32,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "grasstype3",
+      "width": 64,
+      "height": 64,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "grasstype3dirt",
+      "width": 64,
+      "height": 64,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "grasstype4-3",
+      "width": 32,
+      "height": 32,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "grasstype4",
+      "width": 32,
+      "height": 32,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "grasstype4blndtodirt",
+      "width": 32,
+      "height": 32,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "grasstype4blndtomud",
+      "width": 32,
+      "height": 32,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "grasstype4_forestblend",
+      "width": 32,
+      "height": 32,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "grasstype4_mudblend",
+      "width": 32,
+      "height": 32,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "grasstype4_staw",
+      "width": 32,
+      "height": 32,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "grasstype5",
       "width": 64,
       "height": 64,
       "format": "DXT1",
@@ -296,14 +422,42 @@
       "alpha": false
     },
     {
-      "name": "grass10forest",
-      "width": 32,
-      "height": 32,
+      "name": "grasstype510_10",
+      "width": 64,
+      "height": 64,
       "format": "DXT1",
       "alpha": false
     },
     {
-      "name": "grass10_stones256",
+      "name": "grasstype5_4",
+      "width": 64,
+      "height": 64,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "grasstype5_dirt",
+      "width": 64,
+      "height": 64,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "mountainskree_stones256",
+      "width": 64,
+      "height": 64,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "muddywater",
+      "width": 64,
+      "height": 64,
+      "format": "DXT5",
+      "alpha": true
+    },
+    {
+      "name": "newcrop3",
       "width": 32,
       "height": 32,
       "format": "DXT1",
@@ -324,7 +478,42 @@
       "alpha": false
     },
     {
-      "name": "forest_rocks",
+      "name": "plaintarmac1",
+      "width": 64,
+      "height": 64,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "RAIL_stones256",
+      "width": 64,
+      "height": 64,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "redbridge128",
+      "width": 128,
+      "height": 128,
+      "format": "DXT5",
+      "alpha": true
+    },
+    {
+      "name": "roadblendcunt",
+      "width": 64,
+      "height": 64,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "rocktq128",
+      "width": 64,
+      "height": 64,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "rocktq128blender",
       "width": 64,
       "height": 64,
       "format": "DXT1",
@@ -338,48 +527,6 @@
       "alpha": false
     },
     {
-      "name": "grassgrnbrnx256",
-      "width": 64,
-      "height": 64,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "cw2_weeroad1",
-      "width": 64,
-      "height": 64,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "desmudtrail",
-      "width": 64,
-      "height": 64,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "Bow_church_dirt",
-      "width": 64,
-      "height": 64,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "grass4dirtytrans",
-      "width": 64,
-      "height": 64,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "grasstype5_dirt",
-      "width": 64,
-      "height": 64,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
       "name": "rocktq128_forestblend",
       "width": 64,
       "height": 64,
@@ -387,14 +534,63 @@
       "alpha": false
     },
     {
-      "name": "sw_sandgrass4",
+      "name": "rocktq128_forestblend2",
+      "width": 64,
+      "height": 64,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "rocktq128_grass4blend",
+      "width": 64,
+      "height": 64,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "rock_country128",
+      "width": 64,
+      "height": 64,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "rooftiles1",
       "width": 32,
       "height": 32,
       "format": "DXT1",
       "alpha": false
     },
     {
-      "name": "grasstype3dirt",
+      "name": "stones256",
+      "width": 64,
+      "height": 64,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "stonewall3_la",
+      "width": 32,
+      "height": 32,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "stormdrain5_nt",
+      "width": 64,
+      "height": 64,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "sw_dirt01",
+      "width": 64,
+      "height": 64,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "sw_dirt01_forestblend",
       "width": 64,
       "height": 64,
       "format": "DXT1",
@@ -408,84 +604,14 @@
       "alpha": false
     },
     {
-      "name": "grasstype1-4",
+      "name": "sw_sandgrass4",
       "width": 32,
       "height": 32,
       "format": "DXT1",
       "alpha": false
     },
     {
-      "name": "grass4_des_dirt2",
-      "width": 32,
-      "height": 32,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "des_dirt2",
-      "width": 64,
-      "height": 64,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "grasstype5_4",
-      "width": 64,
-      "height": 64,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "grasstype4_mudblend",
-      "width": 32,
-      "height": 32,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "grassdeep256",
-      "width": 32,
-      "height": 32,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "grassshort2long256",
-      "width": 64,
-      "height": 64,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "forestfloor256",
-      "width": 64,
-      "height": 64,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "grasstype4_forestblend",
-      "width": 32,
-      "height": 32,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "grasstype5",
-      "width": 64,
-      "height": 64,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "grasstype3",
-      "width": 64,
-      "height": 64,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "ws_rottenwall",
+      "name": "sw_tunnel02bmp",
       "width": 64,
       "height": 64,
       "format": "DXT1",
@@ -506,9 +632,16 @@
       "alpha": false
     },
     {
-      "name": "desertstones256",
-      "width": 32,
-      "height": 32,
+      "name": "ws_freeway4",
+      "width": 64,
+      "height": 64,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "ws_rottenwall",
+      "width": 64,
+      "height": 64,
       "format": "DXT1",
       "alpha": false
     },
@@ -520,126 +653,7 @@
       "alpha": false
     },
     {
-      "name": "forestfloor4",
-      "width": 64,
-      "height": 64,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "grasstype4_staw",
-      "width": 32,
-      "height": 32,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "stonewall3_la",
-      "width": 32,
-      "height": 32,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "des_shingles",
-      "width": 64,
-      "height": 64,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "grasstype4-3",
-      "width": 32,
-      "height": 32,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "dirt64b2",
-      "width": 64,
-      "height": 64,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "rocktq128_grass4blend",
-      "width": 64,
-      "height": 64,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "grasstype4",
-      "width": 32,
-      "height": 32,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "grassdirtblend",
-      "width": 64,
-      "height": 64,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "stones256",
-      "width": 64,
-      "height": 64,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "grass10dirt",
-      "width": 32,
-      "height": 32,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "rocktq128",
-      "width": 64,
-      "height": 64,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "rocktq128blender",
-      "width": 64,
-      "height": 64,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "grasstype10",
-      "width": 32,
-      "height": 32,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "roadblendcunt",
-      "width": 64,
-      "height": 64,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "ws_freeway4",
-      "width": 64,
-      "height": 64,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "desgreengrass",
-      "width": 32,
-      "height": 32,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "ws_tunnelwall2",
+      "name": "ws_traingravel",
       "width": 64,
       "height": 64,
       "format": "DXT1",
@@ -653,18 +667,11 @@
       "alpha": false
     },
     {
-      "name": "concretenewb256",
+      "name": "ws_tunnelwall2",
       "width": 64,
       "height": 64,
       "format": "DXT1",
       "alpha": false
-    },
-    {
-      "name": "redbridge128",
-      "width": 128,
-      "height": 128,
-      "format": "DXT1",
-      "alpha": true
     }
   ]
 }

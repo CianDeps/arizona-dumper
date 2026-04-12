@@ -5,7 +5,7 @@
   "geometries": [
     {
       "index": 0,
-      "vertices": 2768,
+      "vertices": 2759,
       "triangles": 1718,
       "materials": [
         {
@@ -49,7 +49,34 @@
             "r": 255,
             "g": 255,
             "b": 255,
-            "a": 153
+            "a": 255
+          },
+          "texture": null
+        },
+        {
+          "color": {
+            "r": 255,
+            "g": 255,
+            "b": 255,
+            "a": 255
+          },
+          "texture": null
+        },
+        {
+          "color": {
+            "r": 255,
+            "g": 255,
+            "b": 255,
+            "a": 255
+          },
+          "texture": null
+        },
+        {
+          "color": {
+            "r": 255,
+            "g": 255,
+            "b": 255,
+            "a": 255
           },
           "texture": null
         },
@@ -94,15 +121,6 @@
             "r": 255,
             "g": 255,
             "b": 255,
-            "a": 179
-          },
-          "texture": null
-        },
-        {
-          "color": {
-            "r": 255,
-            "g": 255,
-            "b": 255,
             "a": 255
           },
           "texture": null
@@ -113,24 +131,6 @@
             "g": 255,
             "b": 255,
             "a": 255
-          },
-          "texture": null
-        },
-        {
-          "color": {
-            "r": 255,
-            "g": 255,
-            "b": 255,
-            "a": 255
-          },
-          "texture": null
-        },
-        {
-          "color": {
-            "r": 255,
-            "g": 255,
-            "b": 255,
-            "a": 153
           },
           "texture": null
         },
@@ -185,19 +185,19 @@
   "frames": 15,
   "dummies": [
     "cunthouse",
-    "Omni05",
-    "FPoint01",
-    "FPoint02",
-    "FPoint03",
-    "FPoint04",
-    "FPoint06",
-    "FPoint07",
+    "daylightsvcunt",
+    "daylightsvcunt",
+    "daylightsvcunt",
+    "daylightsvcunt",
+    "daylightsvcunt",
+    "daylightsvcunt",
     "daylightsvcunt02",
-    "daylightsvcunt",
-    "daylightsvcunt",
-    "daylightsvcunt",
-    "daylightsvcunt",
-    "daylightsvcunt",
-    "daylightsvcunt"
+    "FPoint07",
+    "FPoint06",
+    "FPoint04",
+    "FPoint03",
+    "FPoint02",
+    "FPoint01",
+    "Omni05"
   ]
 }

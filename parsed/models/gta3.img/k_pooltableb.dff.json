@@ -5,9 +5,18 @@
   "geometries": [
     {
       "index": 0,
-      "vertices": 994,
+      "vertices": 1050,
       "triangles": 697,
       "materials": [
+        {
+          "color": {
+            "r": 255,
+            "g": 255,
+            "b": 255,
+            "a": 255
+          },
+          "texture": null
+        },
         {
           "color": {
             "r": 255,
@@ -49,6 +58,6 @@
   ],
   "frames": 1,
   "dummies": [
-    "k_pooltableb"
+    "k_pooltablesm"
   ]
 }

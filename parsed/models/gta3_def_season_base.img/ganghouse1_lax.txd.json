@@ -2,21 +2,21 @@
   "type": "txd",
   "textures": [
     {
-      "name": "comptwall3",
+      "name": "aanewd",
+      "width": 64,
+      "height": 64,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "aluminiumbands256",
       "width": 256,
       "height": 256,
       "format": "DXT1",
       "alpha": false
     },
     {
-      "name": "comptwall15",
-      "width": 256,
-      "height": 256,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "comptwall2",
+      "name": "brick",
       "width": 128,
       "height": 128,
       "format": "DXT1",
@@ -26,21 +26,7 @@
       "name": "compfence1_LAe",
       "width": 256,
       "height": 256,
-      "format": "DXT3",
-      "alpha": true
-    },
-    {
-      "name": "comptwall5",
-      "width": 256,
-      "height": 256,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "grille1_LA",
-      "width": 256,
-      "height": 256,
-      "format": "DXT3",
+      "format": "DXT5",
       "alpha": true
     },
     {
@@ -58,7 +44,7 @@
       "alpha": false
     },
     {
-      "name": "comptwall7",
+      "name": "comptwall15",
       "width": 256,
       "height": 256,
       "format": "DXT1",
@@ -72,42 +58,21 @@
       "alpha": false
     },
     {
-      "name": "brick",
+      "name": "comptwall2",
       "width": 128,
       "height": 128,
       "format": "DXT1",
       "alpha": false
     },
     {
-      "name": "snpdhus2",
-      "width": 64,
-      "height": 128,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "aluminiumbands256",
-      "width": 128,
-      "height": 128,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "gangwin2_LAe",
+      "name": "comptwall5",
       "width": 256,
       "height": 256,
       "format": "DXT1",
       "alpha": false
     },
     {
-      "name": "aanewd",
-      "width": 64,
-      "height": 64,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "Heliconcrete",
+      "name": "comptwall7",
       "width": 256,
       "height": 256,
       "format": "DXT1",
@@ -121,6 +86,20 @@
       "alpha": false
     },
     {
+      "name": "gangwin2_LAe",
+      "width": 256,
+      "height": 256,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "grille1_LA",
+      "width": 256,
+      "height": 256,
+      "format": "DXT5",
+      "alpha": true
+    },
+    {
       "name": "sanpednhus1r",
       "width": 256,
       "height": 256,
@@ -128,9 +107,9 @@
       "alpha": false
     },
     {
-      "name": "compdoor1_LAe",
-      "width": 256,
-      "height": 256,
+      "name": "snpdhus2",
+      "width": 64,
+      "height": 128,
       "format": "DXT1",
       "alpha": false
     }

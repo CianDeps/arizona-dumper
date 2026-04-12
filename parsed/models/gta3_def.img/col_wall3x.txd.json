@@ -2,13 +2,6 @@
   "type": "txd",
   "textures": [
     {
-      "name": "kitchen-wall1",
-      "width": 128,
-      "height": 128,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
       "name": "ab_wood1",
       "width": 128,
       "height": 128,
@@ -23,7 +16,7 @@
       "alpha": false
     },
     {
-      "name": "wall3",
+      "name": "kitchen-wall1",
       "width": 128,
       "height": 128,
       "format": "DXT1",
@@ -45,6 +38,13 @@
     },
     {
       "name": "wall1",
+      "width": 128,
+      "height": 128,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "wall3",
       "width": 128,
       "height": 128,
       "format": "DXT1",

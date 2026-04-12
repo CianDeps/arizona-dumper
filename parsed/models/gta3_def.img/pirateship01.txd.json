@@ -2,78 +2,8 @@
   "type": "txd",
   "textures": [
     {
-      "name": "tislndshpmast",
+      "name": "ab_wood01",
       "width": 256,
-      "height": 128,
-      "format": "DXT3",
-      "alpha": true
-    },
-    {
-      "name": "tislandbanister",
-      "width": 128,
-      "height": 128,
-      "format": "DXT3",
-      "alpha": true
-    },
-    {
-      "name": "ws_corr_metal3",
-      "width": 128,
-      "height": 256,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "tislandwall05_128",
-      "width": 128,
-      "height": 64,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "tislndshpillar01_128",
-      "width": 64,
-      "height": 128,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "tislandwdbox02_64",
-      "width": 64,
-      "height": 64,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "tislandwdbox01_128",
-      "width": 128,
-      "height": 128,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "boardwalk_la",
-      "width": 128,
-      "height": 128,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "tislandshpback_256",
-      "width": 256,
-      "height": 256,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "planks01",
-      "width": 128,
-      "height": 128,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "old_carpet_dvdr",
-      "width": 64,
       "height": 256,
       "format": "DXT1",
       "alpha": false
@@ -86,14 +16,7 @@
       "alpha": false
     },
     {
-      "name": "ab_wood01",
-      "width": 256,
-      "height": 256,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "LAtranswall1",
+      "name": "boardwalk_la",
       "width": 128,
       "height": 128,
       "format": "DXT1",
@@ -107,9 +30,23 @@
       "alpha": false
     },
     {
-      "name": "greenwall2",
+      "name": "floorboard256128",
       "width": 128,
       "height": 128,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "LAtranswall1",
+      "width": 128,
+      "height": 128,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "old_carpet_dvdr",
+      "width": 64,
+      "height": 256,
       "format": "DXT1",
       "alpha": false
     },
@@ -121,14 +58,35 @@
       "alpha": false
     },
     {
-      "name": "tislandledge03_128",
+      "name": "pirates07_128",
+      "width": 64,
+      "height": 128,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "piratesign01_128",
       "width": 128,
       "height": 128,
       "format": "DXT1",
       "alpha": false
     },
     {
-      "name": "tislandfront03_128",
+      "name": "planks01",
+      "width": 256,
+      "height": 256,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "tislandbanister",
+      "width": 128,
+      "height": 128,
+      "format": "DXT5",
+      "alpha": true
+    },
+    {
+      "name": "tislandfront01_128",
       "width": 128,
       "height": 128,
       "format": "DXT1",
@@ -142,7 +100,35 @@
       "alpha": false
     },
     {
-      "name": "tislandfront01_128",
+      "name": "tislandfront03_128",
+      "width": 128,
+      "height": 128,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "tislandledge03_128",
+      "width": 128,
+      "height": 128,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "tislandshpback_256",
+      "width": 256,
+      "height": 256,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "tislandwall01_128",
+      "width": 128,
+      "height": 128,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "tislandwall02_128",
       "width": 128,
       "height": 128,
       "format": "DXT1",
@@ -156,44 +142,44 @@
       "alpha": false
     },
     {
-      "name": "tislandwall02_128",
+      "name": "tislandwall05_128",
+      "width": 128,
+      "height": 64,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "tislandwdbox01_128",
       "width": 128,
       "height": 128,
       "format": "DXT1",
       "alpha": false
     },
     {
-      "name": "tislandwall01_128",
-      "width": 128,
-      "height": 128,
+      "name": "tislandwdbox02_64",
+      "width": 64,
+      "height": 64,
       "format": "DXT1",
       "alpha": false
     },
     {
-      "name": "black32",
-      "width": 32,
-      "height": 32,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "piratesign01_128",
-      "width": 128,
-      "height": 128,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "floorboard256128",
-      "width": 128,
-      "height": 128,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "pirates07_128",
+      "name": "tislndshpillar01_128",
       "width": 64,
       "height": 128,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "tislndshpmast",
+      "width": 256,
+      "height": 128,
+      "format": "DXT5",
+      "alpha": true
+    },
+    {
+      "name": "ws_corr_metal3",
+      "width": 128,
+      "height": 256,
       "format": "DXT1",
       "alpha": false
     }

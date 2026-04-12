@@ -2,66 +2,52 @@
   "type": "txd",
   "textures": [
     {
-      "name": "sm_des_bush3",
+      "name": "sm_Agave_1",
       "width": 128,
-      "height": 128,
-      "format": "DXT3",
-      "alpha": true
-    },
-    {
-      "name": "sm_des_bush2",
-      "width": 128,
-      "height": 128,
-      "format": "DXT3",
-      "alpha": true
-    },
-    {
-      "name": "sm_des_bush1",
-      "width": 128,
-      "height": 128,
-      "format": "DXT3",
-      "alpha": true
-    },
-    {
-      "name": "sm_cactus_leaf",
-      "width": 64,
       "height": 64,
-      "format": "DXT3",
-      "alpha": true
-    },
-    {
-      "name": "sm_Agave_bloom",
-      "width": 64,
-      "height": 128,
-      "format": "DXT3",
-      "alpha": true
-    },
-    {
-      "name": "sm_minipalm1",
-      "width": 128,
-      "height": 128,
-      "format": "DXT3",
+      "format": "DXT5",
       "alpha": true
     },
     {
       "name": "sm_Agave_2",
       "width": 128,
       "height": 128,
-      "format": "DXT3",
+      "format": "DXT5",
       "alpha": true
     },
     {
-      "name": "sm_Agave_1",
-      "width": 128,
+      "name": "sm_Agave_bloom",
+      "width": 64,
+      "height": 128,
+      "format": "DXT5",
+      "alpha": true
+    },
+    {
+      "name": "sm_cactus_leaf",
+      "width": 64,
       "height": 64,
-      "format": "DXT3",
+      "format": "DXT5",
       "alpha": true
     },
     {
-      "name": "sm_josh_leaf",
+      "name": "sm_des_bush1",
       "width": 128,
       "height": 128,
-      "format": "DXT3",
+      "format": "DXT5",
+      "alpha": true
+    },
+    {
+      "name": "sm_des_bush2",
+      "width": 128,
+      "height": 128,
+      "format": "DXT5",
+      "alpha": true
+    },
+    {
+      "name": "sm_des_bush3",
+      "width": 128,
+      "height": 128,
+      "format": "DXT5",
       "alpha": true
     },
     {
@@ -70,6 +56,20 @@
       "height": 128,
       "format": "DXT1",
       "alpha": false
+    },
+    {
+      "name": "sm_josh_leaf",
+      "width": 128,
+      "height": 128,
+      "format": "DXT5",
+      "alpha": true
+    },
+    {
+      "name": "sm_minipalm1",
+      "width": 128,
+      "height": 128,
+      "format": "DXT5",
+      "alpha": true
     }
   ]
 }

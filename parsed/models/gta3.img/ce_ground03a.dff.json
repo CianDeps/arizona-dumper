@@ -5,24 +5,15 @@
   "geometries": [
     {
       "index": 0,
-      "vertices": 291,
-      "triangles": 311,
+      "vertices": 3,
+      "triangles": 1,
       "materials": [
         {
           "color": {
-            "r": 255,
-            "g": 255,
-            "b": 255,
-            "a": 252
-          },
-          "texture": null
-        },
-        {
-          "color": {
-            "r": 255,
-            "g": 255,
-            "b": 255,
-            "a": 252
+            "r": 204,
+            "g": 204,
+            "b": 204,
+            "a": 255
           },
           "texture": null
         }
@@ -31,6 +22,6 @@
   ],
   "frames": 1,
   "dummies": [
-    "CE_ground03A"
+    "clean"
   ]
 }

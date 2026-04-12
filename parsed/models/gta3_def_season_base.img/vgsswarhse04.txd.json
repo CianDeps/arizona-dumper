@@ -3,15 +3,8 @@
   "textures": [
     {
       "name": "alleydoor9b",
-      "width": 256,
+      "width": 512,
       "height": 256,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "GB_truckdepot04",
-      "width": 128,
-      "height": 128,
       "format": "DXT1",
       "alpha": false
     },
@@ -23,14 +16,49 @@
       "alpha": false
     },
     {
-      "name": "vent01_64",
-      "width": 64,
-      "height": 64,
+      "name": "carpark_128",
+      "width": 256,
+      "height": 256,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "corrRoof_64HV",
+      "width": 256,
+      "height": 256,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "fitzwallvgn2_256",
+      "width": 256,
+      "height": 256,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "fitzwallvgn3_256",
+      "width": 256,
+      "height": 256,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "flightschoolwall01_128",
+      "width": 128,
+      "height": 128,
       "format": "DXT1",
       "alpha": false
     },
     {
       "name": "GB_truckdepot03",
+      "width": 128,
+      "height": 128,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "GB_truckdepot04",
       "width": 128,
       "height": 128,
       "format": "DXT1",
@@ -51,14 +79,7 @@
       "alpha": false
     },
     {
-      "name": "striplight01_128",
-      "width": 128,
-      "height": 32,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "marinawindow1_256",
+      "name": "LAglaswall1",
       "width": 128,
       "height": 128,
       "format": "DXT1",
@@ -66,8 +87,15 @@
     },
     {
       "name": "marinadoor1_256",
+      "width": 256,
+      "height": 256,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "striplight01_128",
       "width": 128,
-      "height": 128,
+      "height": 32,
       "format": "DXT1",
       "alpha": false
     },
@@ -75,20 +103,13 @@
       "name": "vegasfence01_64",
       "width": 64,
       "height": 64,
-      "format": "DXT1",
+      "format": "DXT5",
       "alpha": true
     },
     {
-      "name": "carpark_128",
-      "width": 128,
-      "height": 128,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "flightschoolwall01_128",
-      "width": 128,
-      "height": 128,
+      "name": "vent01_64",
+      "width": 64,
+      "height": 64,
       "format": "DXT1",
       "alpha": false
     },
@@ -100,35 +121,7 @@
       "alpha": false
     },
     {
-      "name": "corrRoof_64HV",
-      "width": 128,
-      "height": 128,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
       "name": "vgsSfltschool01",
-      "width": 256,
-      "height": 256,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "LAglaswall1",
-      "width": 128,
-      "height": 128,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "fitzwallvgn2_256",
-      "width": 256,
-      "height": 256,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "fitzwallvgn3_256",
       "width": 256,
       "height": 256,
       "format": "DXT1",

@@ -5,9 +5,18 @@
   "geometries": [
     {
       "index": 0,
-      "vertices": 4,
-      "triangles": 2,
+      "vertices": 32,
+      "triangles": 18,
       "materials": [
+        {
+          "color": {
+            "r": 255,
+            "g": 255,
+            "b": 255,
+            "a": 255
+          },
+          "texture": null
+        },
         {
           "color": {
             "r": 255,
@@ -22,6 +31,6 @@
   ],
   "frames": 1,
   "dummies": [
-    "gravecov01_LAwN"
+    "grave08_law01"
   ]
 }

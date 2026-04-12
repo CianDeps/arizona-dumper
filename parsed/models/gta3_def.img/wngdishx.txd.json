@@ -2,10 +2,17 @@
   "type": "txd",
   "textures": [
     {
+      "name": "dish1",
+      "width": 64,
+      "height": 64,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
       "name": "dish_leg",
       "width": 64,
       "height": 64,
-      "format": "DXT3",
+      "format": "DXT5",
       "alpha": true
     },
     {
@@ -17,13 +24,6 @@
     },
     {
       "name": "shutter_64",
-      "width": 64,
-      "height": 64,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "dish1",
       "width": 64,
       "height": 64,
       "format": "DXT1",

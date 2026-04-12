@@ -2,13 +2,6 @@
   "type": "txd",
   "textures": [
     {
-      "name": "CJ_DUMP3",
-      "width": 128,
-      "height": 128,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
       "name": "CJ_BIN_LID",
       "width": 128,
       "height": 128,
@@ -16,14 +9,14 @@
       "alpha": false
     },
     {
-      "name": "CJ_PHONESEXADD",
-      "width": 128,
-      "height": 128,
+      "name": "CJ_DUMP3",
+      "width": 256,
+      "height": 256,
       "format": "DXT1",
       "alpha": false
     },
     {
-      "name": "CJ_phoneboxmiami",
+      "name": "CJ_LAMPPOST1",
       "width": 128,
       "height": 128,
       "format": "DXT1",
@@ -37,9 +30,16 @@
       "alpha": false
     },
     {
-      "name": "CJ_LAMPPOST1",
-      "width": 64,
-      "height": 64,
+      "name": "CJ_phoneboxmiami",
+      "width": 128,
+      "height": 128,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "CJ_PHONESEXADD",
+      "width": 128,
+      "height": 128,
       "format": "DXT1",
       "alpha": false
     },
@@ -47,8 +47,8 @@
       "name": "CJ_FRAME_Glass",
       "width": 256,
       "height": 256,
-      "format": "DXT1",
-      "alpha": false
+      "format": "DXT5",
+      "alpha": true
     }
   ]
 }

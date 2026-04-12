@@ -5,22 +5,15 @@
       "name": "des_byframe1",
       "width": 256,
       "height": 256,
-      "format": "DXT3",
+      "format": "DXT5",
       "alpha": true
     },
     {
       "name": "des_facmetal",
       "width": 256,
       "height": 256,
-      "format": "DXT3",
+      "format": "DXT5",
       "alpha": true
-    },
-    {
-      "name": "des_factower",
-      "width": 256,
-      "height": 256,
-      "format": "DXT1",
-      "alpha": false
     },
     {
       "name": "des_facmetalsoild",
@@ -30,7 +23,7 @@
       "alpha": false
     },
     {
-      "name": "pavea256",
+      "name": "des_factower",
       "width": 256,
       "height": 256,
       "format": "DXT1",
@@ -38,13 +31,6 @@
     },
     {
       "name": "stormdrain4_nt",
-      "width": 128,
-      "height": 128,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "BLOCK2",
       "width": 128,
       "height": 128,
       "format": "DXT1",

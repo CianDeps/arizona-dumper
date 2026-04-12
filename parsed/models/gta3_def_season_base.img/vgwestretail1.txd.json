@@ -2,76 +2,6 @@
   "type": "txd",
   "textures": [
     {
-      "name": "marinadoor1_256",
-      "width": 128,
-      "height": 128,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "Bow_Warehousewall",
-      "width": 128,
-      "height": 128,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "lightwallba256",
-      "width": 128,
-      "height": 128,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "miragedoor1_256",
-      "width": 256,
-      "height": 256,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "casinosign1_256",
-      "width": 256,
-      "height": 64,
-      "format": "DXT3",
-      "alpha": true
-    },
-    {
-      "name": "casinobulb2_128",
-      "width": 128,
-      "height": 128,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "steakhouse_256",
-      "width": 512,
-      "height": 256,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "Upt_Fence_Mesh",
-      "width": 256,
-      "height": 256,
-      "format": "DXT3",
-      "alpha": true
-    },
-    {
-      "name": "curbyell_64H",
-      "width": 64,
-      "height": 64,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "conc_slabgrey_256128",
-      "width": 128,
-      "height": 128,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
       "name": "alleydoor2",
       "width": 256,
       "height": 256,
@@ -86,13 +16,6 @@
       "alpha": false
     },
     {
-      "name": "vgndwntwnrf1_256",
-      "width": 64,
-      "height": 64,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
       "name": "badhousewalld02_128",
       "width": 128,
       "height": 128,
@@ -100,16 +23,30 @@
       "alpha": false
     },
     {
-      "name": "marinawindow1_256",
+      "name": "Bow_Warehousewall",
+      "width": 256,
+      "height": 256,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "casinobulb2_128",
       "width": 128,
       "height": 128,
       "format": "DXT1",
       "alpha": false
     },
     {
-      "name": "homies_1_128",
-      "width": 128,
+      "name": "casinosign1_256",
+      "width": 256,
       "height": 64,
+      "format": "DXT5",
+      "alpha": true
+    },
+    {
+      "name": "conc_slabgrey_256128",
+      "width": 256,
+      "height": 256,
       "format": "DXT1",
       "alpha": false
     },
@@ -121,9 +58,37 @@
       "alpha": false
     },
     {
-      "name": "roof01L256",
+      "name": "homies_1_128",
+      "width": 256,
+      "height": 128,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "lightwallba256",
       "width": 256,
       "height": 256,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "miragedoor1_256",
+      "width": 256,
+      "height": 256,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "steakhouse_256",
+      "width": 512,
+      "height": 256,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "vgndwntwnrf1_256",
+      "width": 64,
+      "height": 64,
       "format": "DXT1",
       "alpha": false
     },

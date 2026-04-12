@@ -2,28 +2,7 @@
   "type": "txd",
   "textures": [
     {
-      "name": "highshopwall1256",
-      "width": 64,
-      "height": 128,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "genroof03_128",
-      "width": 64,
-      "height": 64,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "concrete_64HV",
-      "width": 64,
-      "height": 64,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "alleywall2",
+      "name": "ahoodfence2",
       "width": 128,
       "height": 128,
       "format": "DXT1",
@@ -31,6 +10,13 @@
     },
     {
       "name": "alleywall1",
+      "width": 128,
+      "height": 128,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "alleywall2",
       "width": 128,
       "height": 128,
       "format": "DXT1",
@@ -51,16 +37,23 @@
       "alpha": false
     },
     {
-      "name": "ahoodfence2",
+      "name": "concrete_64HV",
+      "width": 256,
+      "height": 256,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "genroof03_128",
       "width": 128,
       "height": 128,
       "format": "DXT1",
       "alpha": false
     },
     {
-      "name": "greyground256",
-      "width": 128,
-      "height": 128,
+      "name": "highshopwall1256",
+      "width": 512,
+      "height": 256,
       "format": "DXT1",
       "alpha": false
     }

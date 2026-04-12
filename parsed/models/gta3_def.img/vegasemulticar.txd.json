@@ -2,55 +2,6 @@
   "type": "txd",
   "textures": [
     {
-      "name": "vgsclubdoor02_128",
-      "width": 128,
-      "height": 128,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "wilswin01_la",
-      "width": 64,
-      "height": 64,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "greyground256128",
-      "width": 128,
-      "height": 128,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "carpark_128",
-      "width": 128,
-      "height": 128,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "ws_fluorescent1",
-      "width": 128,
-      "height": 128,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "ws_fireexit",
-      "width": 128,
-      "height": 128,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "concretenewb256",
-      "width": 128,
-      "height": 128,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
       "name": "airvent_gz",
       "width": 64,
       "height": 64,
@@ -58,42 +9,14 @@
       "alpha": false
     },
     {
-      "name": "ws_carparkwall2",
+      "name": "bigpark_sfe",
       "width": 128,
-      "height": 128,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "gnhotelwall02_128",
-      "width": 128,
-      "height": 128,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "ws_mixedbrick",
-      "width": 256,
       "height": 256,
       "format": "DXT1",
       "alpha": false
     },
     {
       "name": "Bow_sub_walltiles",
-      "width": 128,
-      "height": 128,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "ws_carpark2",
-      "width": 256,
-      "height": 256,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "ws_doubledoor1",
       "width": 256,
       "height": 256,
       "format": "DXT1",
@@ -110,18 +33,39 @@
       "name": "sfMAST2",
       "width": 128,
       "height": 128,
-      "format": "DXT3",
+      "format": "DXT5",
       "alpha": true
     },
     {
-      "name": "bigpark_sfe",
+      "name": "vgsclubdoor02_128",
       "width": 128,
-      "height": 256,
+      "height": 128,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "wilswin01_la",
+      "width": 64,
+      "height": 64,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "ws_boothpanel",
+      "width": 128,
+      "height": 128,
       "format": "DXT1",
       "alpha": false
     },
     {
       "name": "ws_carpark1",
+      "width": 256,
+      "height": 256,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "ws_carpark2",
       "width": 256,
       "height": 256,
       "format": "DXT1",
@@ -135,9 +79,37 @@
       "alpha": false
     },
     {
-      "name": "ws_boothpanel",
+      "name": "ws_carparkwall2",
       "width": 128,
       "height": 128,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "ws_doubledoor1",
+      "width": 256,
+      "height": 256,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "ws_fireexit",
+      "width": 128,
+      "height": 128,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "ws_fluorescent1",
+      "width": 128,
+      "height": 128,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "ws_mixedbrick",
+      "width": 256,
+      "height": 256,
       "format": "DXT1",
       "alpha": false
     }

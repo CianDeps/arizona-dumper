@@ -2,10 +2,17 @@
   "type": "txd",
   "textures": [
     {
-      "name": "Upt_Fence_Mesh",
+      "name": "des_pylon1",
       "width": 256,
-      "height": 256,
-      "format": "DXT3",
+      "height": 128,
+      "format": "DXT5",
+      "alpha": true
+    },
+    {
+      "name": "des_pylon2",
+      "width": 256,
+      "height": 128,
+      "format": "DXT5",
       "alpha": true
     },
     {
@@ -14,13 +21,6 @@
       "height": 256,
       "format": "DXT1",
       "alpha": false
-    },
-    {
-      "name": "des_pylon1",
-      "width": 256,
-      "height": 128,
-      "format": "DXT3",
-      "alpha": true
     },
     {
       "name": "Metal1_128",
@@ -33,20 +33,6 @@
       "name": "steel64",
       "width": 64,
       "height": 64,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "des_pylon2",
-      "width": 256,
-      "height": 128,
-      "format": "DXT3",
-      "alpha": true
-    },
-    {
-      "name": "sm_quarry_crusher1",
-      "width": 128,
-      "height": 128,
       "format": "DXT1",
       "alpha": false
     }

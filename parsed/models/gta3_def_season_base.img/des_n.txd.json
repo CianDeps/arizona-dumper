@@ -2,81 +2,11 @@
   "type": "txd",
   "textures": [
     {
-      "name": "des_ripplsand",
-      "width": 256,
-      "height": 256,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "motocross_256",
-      "width": 256,
-      "height": 256,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "greycrossing",
+      "name": "desbar",
       "width": 128,
       "height": 64,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "offwhitebrix",
-      "width": 128,
-      "height": 128,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "des_dirt2trackr",
-      "width": 256,
-      "height": 256,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "des_dirt2track",
-      "width": 256,
-      "height": 256,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "des_1lineend",
-      "width": 512,
-      "height": 512,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "parking2",
-      "width": 128,
-      "height": 128,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "pavebsandend",
-      "width": 128,
-      "height": 128,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "des_dirt2",
-      "width": 256,
-      "height": 256,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "pavea256",
-      "width": 256,
-      "height": 256,
-      "format": "DXT1",
-      "alpha": false
+      "format": "DXT5",
+      "alpha": true
     },
     {
       "name": "des_1line256",
@@ -86,14 +16,7 @@
       "alpha": false
     },
     {
-      "name": "des_roadedge1",
-      "width": 512,
-      "height": 512,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "Tar_1line256HV",
+      "name": "des_1lineend",
       "width": 512,
       "height": 512,
       "format": "DXT1",
@@ -107,77 +30,21 @@
       "alpha": false
     },
     {
-      "name": "des_dirttrackl",
+      "name": "des_ripplsand",
       "width": 256,
       "height": 256,
       "format": "DXT1",
       "alpha": false
     },
     {
-      "name": "des_dirttrack1r",
-      "width": 256,
-      "height": 256,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "pavebsand256",
-      "width": 128,
-      "height": 128,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "roadnew4_256",
+      "name": "des_roadedge1",
       "width": 512,
       "height": 512,
       "format": "DXT1",
       "alpha": false
     },
     {
-      "name": "parking2plain",
-      "width": 128,
-      "height": 128,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "grasstype5",
-      "width": 128,
-      "height": 128,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "des_dustconc",
-      "width": 128,
-      "height": 128,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "des_ranchwall1",
-      "width": 128,
-      "height": 128,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "des_rocky1",
-      "width": 256,
-      "height": 256,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
       "name": "des_rocky1_dirt1",
-      "width": 256,
-      "height": 256,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "des_scrub1_dirt1",
       "width": 256,
       "height": 256,
       "format": "DXT1",
@@ -198,23 +65,51 @@
       "alpha": false
     },
     {
-      "name": "rocktbrn_dirt2",
+      "name": "grasstype5",
       "width": 128,
       "height": 128,
       "format": "DXT1",
       "alpha": false
     },
     {
-      "name": "des_dirt2blend",
-      "width": 256,
+      "name": "greycrossing",
+      "width": 512,
       "height": 256,
       "format": "DXT1",
       "alpha": false
     },
     {
-      "name": "rocktbrn128",
-      "width": 256,
-      "height": 256,
+      "name": "motocross_256",
+      "width": 512,
+      "height": 512,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "parking2",
+      "width": 512,
+      "height": 512,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "parking2plain",
+      "width": 512,
+      "height": 512,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "pavebsandend",
+      "width": 128,
+      "height": 128,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "rocktbrn_dirt2",
+      "width": 128,
+      "height": 128,
       "format": "DXT1",
       "alpha": false
     },
@@ -226,44 +121,9 @@
       "alpha": false
     },
     {
-      "name": "des_dirttrack1",
-      "width": 256,
-      "height": 256,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "des_redrockmid",
+      "name": "Tar_1line256HV",
       "width": 512,
-      "height": 256,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "des_redrockbot",
-      "width": 512,
-      "height": 256,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "des_dirt1",
-      "width": 256,
-      "height": 256,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "desbar",
-      "width": 128,
-      "height": 64,
-      "format": "DXT1",
-      "alpha": true
-    },
-    {
-      "name": "vgs_shopwall01_128",
-      "width": 128,
-      "height": 128,
+      "height": 512,
       "format": "DXT1",
       "alpha": false
     }

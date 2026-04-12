@@ -2,6 +2,13 @@
   "type": "txd",
   "textures": [
     {
+      "name": "northwood3_128",
+      "width": 128,
+      "height": 128,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
       "name": "pirateskull02_128",
       "width": 128,
       "height": 128,
@@ -11,13 +18,6 @@
     {
       "name": "tislndshpillar01_128",
       "width": 64,
-      "height": 128,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "northwood3_128",
-      "width": 128,
       "height": 128,
       "format": "DXT1",
       "alpha": false

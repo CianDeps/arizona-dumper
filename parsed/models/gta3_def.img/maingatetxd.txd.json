@@ -2,18 +2,18 @@
   "type": "txd",
   "textures": [
     {
+      "name": "fence_64",
+      "width": 64,
+      "height": 64,
+      "format": "DXT5",
+      "alpha": true
+    },
+    {
       "name": "Metal1_128",
       "width": 128,
       "height": 128,
       "format": "DXT1",
       "alpha": false
-    },
-    {
-      "name": "fence_64",
-      "width": 64,
-      "height": 64,
-      "format": "DXT3",
-      "alpha": true
     }
   ]
 }

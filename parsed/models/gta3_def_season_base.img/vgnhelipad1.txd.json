@@ -2,6 +2,20 @@
   "type": "txd",
   "textures": [
     {
+      "name": "airvent_shadowT_gz",
+      "width": 32,
+      "height": 32,
+      "format": "DXT5",
+      "alpha": true
+    },
+    {
+      "name": "helipad_base",
+      "width": 128,
+      "height": 128,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
       "name": "helipad_basepanel",
       "width": 128,
       "height": 128,
@@ -9,35 +23,21 @@
       "alpha": false
     },
     {
-      "name": "airvent_shadowT_gz",
-      "width": 32,
-      "height": 32,
-      "format": "DXT3",
-      "alpha": true
-    },
-    {
-      "name": "rooftop_gz3",
+      "name": "helipad_bits",
       "width": 128,
       "height": 128,
       "format": "DXT1",
       "alpha": false
     },
     {
-      "name": "skylight_meshed",
+      "name": "helipad_grey1",
       "width": 128,
-      "height": 64,
+      "height": 128,
       "format": "DXT1",
       "alpha": false
     },
     {
-      "name": "fire_esc_fence",
-      "width": 64,
-      "height": 64,
-      "format": "DXT1",
-      "alpha": true
-    },
-    {
-      "name": "metpat64",
+      "name": "helipad_leg",
       "width": 64,
       "height": 64,
       "format": "DXT1",
@@ -47,15 +47,15 @@
       "name": "helipad_mesh_t",
       "width": 128,
       "height": 128,
-      "format": "DXT3",
+      "format": "DXT5",
       "alpha": true
     },
     {
-      "name": "helipad_base",
+      "name": "helipad_strutT",
       "width": 128,
       "height": 128,
-      "format": "DXT1",
-      "alpha": false
+      "format": "DXT5",
+      "alpha": true
     },
     {
       "name": "helipad_whitelines",
@@ -72,42 +72,28 @@
       "alpha": false
     },
     {
-      "name": "helipad_grey1",
-      "width": 128,
-      "height": 128,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
       "name": "Metalox64",
-      "width": 64,
-      "height": 64,
+      "width": 256,
+      "height": 256,
       "format": "DXT1",
       "alpha": false
     },
     {
-      "name": "helipad_leg",
-      "width": 64,
-      "height": 64,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "helipad_strutT",
+      "name": "rooftop_gz3",
       "width": 128,
       "height": 128,
-      "format": "DXT3",
-      "alpha": true
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "skylight_meshed",
+      "width": 128,
+      "height": 64,
+      "format": "DXT1",
+      "alpha": false
     },
     {
       "name": "skylight_windows",
-      "width": 128,
-      "height": 128,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "helipad_bits",
       "width": 128,
       "height": 128,
       "format": "DXT1",

@@ -1,0 +1,40 @@
+{
+  "type": "txd",
+  "textures": [
+    {
+      "name": "fporto_rim",
+      "width": 512,
+      "height": 512,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "fporto_int",
+      "width": 1024,
+      "height": 1024,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "fporto_mbadge",
+      "width": 512,
+      "height": 512,
+      "format": "DXT5",
+      "alpha": true
+    },
+    {
+      "name": "fporto_rimman",
+      "width": 512,
+      "height": 512,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "fporto_badge",
+      "width": 512,
+      "height": 512,
+      "format": "DXT5",
+      "alpha": true
+    }
+  ]
+}

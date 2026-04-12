@@ -2,6 +2,13 @@
   "type": "txd",
   "textures": [
     {
+      "name": "ADDWOOD",
+      "width": 64,
+      "height": 64,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
       "name": "banding9_64HV",
       "width": 64,
       "height": 64,
@@ -9,23 +16,16 @@
       "alpha": false
     },
     {
-      "name": "iron",
-      "width": 128,
-      "height": 128,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
       "name": "billdetaily",
       "width": 64,
       "height": 64,
-      "format": "DXT3",
+      "format": "DXT5",
       "alpha": true
     },
     {
-      "name": "ADDWOOD",
-      "width": 64,
-      "height": 64,
+      "name": "iron",
+      "width": 128,
+      "height": 128,
       "format": "DXT1",
       "alpha": false
     },

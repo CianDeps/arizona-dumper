@@ -275,13 +275,6 @@
       "alpha": true
     },
     {
-      "name": "fisland_alpha_1",
-      "width": 512,
-      "height": 512,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
       "name": "fisland_alpha_2",
       "width": 256,
       "height": 64,
@@ -411,6 +404,48 @@
       "name": "easter_25_fontain1",
       "width": 128,
       "height": 64,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "easter_25_ground1",
+      "width": 512,
+      "height": 512,
+      "format": "DXT3",
+      "alpha": true
+    },
+    {
+      "name": "easter_25_ground2",
+      "width": 512,
+      "height": 512,
+      "format": "DXT3",
+      "alpha": true
+    },
+    {
+      "name": "booth_auto_pix1",
+      "width": 512,
+      "height": 512,
+      "format": "DXT1",
+      "alpha": true
+    },
+    {
+      "name": "booth_auto_pix2",
+      "width": 512,
+      "height": 512,
+      "format": "DXT1",
+      "alpha": true
+    },
+    {
+      "name": "fisland_alpha_1",
+      "width": 512,
+      "height": 512,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "tpotato_tx",
+      "width": 512,
+      "height": 512,
       "format": "DXT1",
       "alpha": false
     }

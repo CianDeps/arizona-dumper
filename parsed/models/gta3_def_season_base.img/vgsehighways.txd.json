@@ -2,16 +2,16 @@
   "type": "txd",
   "textures": [
     {
-      "name": "des_dirt1",
+      "name": "concreteblock_256",
       "width": 256,
       "height": 256,
       "format": "DXT1",
       "alpha": false
     },
     {
-      "name": "vegasroad1_256",
+      "name": "crossing_law2",
       "width": 512,
-      "height": 512,
+      "height": 256,
       "format": "DXT1",
       "alpha": false
     },
@@ -30,14 +30,14 @@
       "alpha": false
     },
     {
-      "name": "vegaspavement2_256",
+      "name": "hiwayend_256",
       "width": 512,
       "height": 512,
       "format": "DXT1",
       "alpha": false
     },
     {
-      "name": "hiwayend_256",
+      "name": "hiwayinside2_256",
       "width": 512,
       "height": 512,
       "format": "DXT1",
@@ -51,16 +51,9 @@
       "alpha": false
     },
     {
-      "name": "hiwayinside2_256",
+      "name": "hiwayinside5_256",
       "width": 512,
       "height": 512,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "crossing_law2",
-      "width": 512,
-      "height": 256,
       "format": "DXT1",
       "alpha": false
     },
@@ -75,20 +68,6 @@
       "name": "hiwayoutside_256",
       "width": 512,
       "height": 512,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "hiwayinside5_256",
-      "width": 512,
-      "height": 512,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "concreteblock_256",
-      "width": 256,
-      "height": 256,
       "format": "DXT1",
       "alpha": false
     }

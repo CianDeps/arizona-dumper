@@ -2,14 +2,7 @@
   "type": "txd",
   "textures": [
     {
-      "name": "veg_hedge1_256",
-      "width": 256,
-      "height": 256,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "sw_stresswall1",
+      "name": "bluemetal03",
       "width": 256,
       "height": 256,
       "format": "DXT1",
@@ -23,13 +16,6 @@
       "alpha": false
     },
     {
-      "name": "yardgrass1",
-      "width": 256,
-      "height": 256,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
       "name": "hazwaste1_256",
       "width": 256,
       "height": 256,
@@ -37,37 +23,16 @@
       "alpha": false
     },
     {
-      "name": "Metal1_128",
-      "width": 128,
-      "height": 128,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "redmetal",
-      "width": 64,
-      "height": 64,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "bluemetal03",
-      "width": 64,
-      "height": 64,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
       "name": "ladder64",
       "width": 64,
       "height": 64,
-      "format": "DXT1",
+      "format": "DXT5",
       "alpha": true
     },
     {
-      "name": "Metalox64",
-      "width": 64,
-      "height": 64,
+      "name": "Metal1_128",
+      "width": 128,
+      "height": 128,
       "format": "DXT1",
       "alpha": false
     },
@@ -79,7 +44,21 @@
       "alpha": false
     },
     {
-      "name": "BLOCK",
+      "name": "Metalox64",
+      "width": 256,
+      "height": 256,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "redmetal",
+      "width": 256,
+      "height": 256,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "sw_stresswall1",
       "width": 256,
       "height": 256,
       "format": "DXT1",

@@ -2,91 +2,7 @@
   "type": "txd",
   "textures": [
     {
-      "name": "chat02_LAwNLOD",
-      "width": 64,
-      "height": 128,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "chat01_LAwNLOD",
-      "width": 64,
-      "height": 128,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "chat03_LAwNLOD",
-      "width": 64,
-      "height": 64,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "lawncapitalLOD",
-      "width": 64,
-      "height": 32,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "reardoorLOD",
-      "width": 32,
-      "height": 32,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "vgs_whitewall_128LOD",
-      "width": 32,
-      "height": 32,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "greyground_lod",
-      "width": 32,
-      "height": 32,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "capitolwin1_LAwNLOD",
-      "width": 32,
-      "height": 32,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "glasswindow3_LOD",
-      "width": 32,
-      "height": 32,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "tallLOD01_LAwN",
-      "width": 64,
-      "height": 64,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
       "name": "block2bblod",
-      "width": 32,
-      "height": 32,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "greyground256",
-      "width": 32,
-      "height": 32,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "ws_rooftarmac1LOD",
       "width": 32,
       "height": 32,
       "format": "DXT1",
@@ -114,7 +30,35 @@
       "alpha": false
     },
     {
-      "name": "lawngrnd12",
+      "name": "capitolwin1_LAwNLOD",
+      "width": 32,
+      "height": 32,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "carpark1_lod",
+      "width": 32,
+      "height": 32,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "chat01_LAwNLOD",
+      "width": 64,
+      "height": 128,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "chat02_LAwNLOD",
+      "width": 64,
+      "height": 128,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "chat03_LAwNLOD",
       "width": 64,
       "height": 64,
       "format": "DXT1",
@@ -135,28 +79,7 @@
       "alpha": false
     },
     {
-      "name": "GRASSLOD",
-      "width": 32,
-      "height": 32,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "MelroadLAWnLOD",
-      "width": 64,
-      "height": 64,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "lawnroad01LOD",
-      "width": 64,
-      "height": 64,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "carpark1_lod",
+      "name": "glasswindow3_LOD",
       "width": 32,
       "height": 32,
       "format": "DXT1",
@@ -170,7 +93,42 @@
       "alpha": false
     },
     {
-      "name": "sjmloda991",
+      "name": "GRASSLOD",
+      "width": 32,
+      "height": 32,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "greyground256",
+      "width": 32,
+      "height": 32,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "greyground_lod",
+      "width": 32,
+      "height": 32,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "lawncapitalLOD",
+      "width": 64,
+      "height": 32,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "lawngrnd12",
+      "width": 64,
+      "height": 64,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "lawnroad01LOD",
       "width": 64,
       "height": 64,
       "format": "DXT1",
@@ -185,6 +143,48 @@
     },
     {
       "name": "lawnroad03LOD",
+      "width": 64,
+      "height": 64,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "MelroadLAWnLOD",
+      "width": 64,
+      "height": 64,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "reardoorLOD",
+      "width": 32,
+      "height": 32,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "sjmloda991",
+      "width": 64,
+      "height": 64,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "tallLOD01_LAwN",
+      "width": 64,
+      "height": 64,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "vgs_whitewall_128LOD",
+      "width": 32,
+      "height": 32,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "ws_rooftarmac1LOD",
       "width": 64,
       "height": 64,
       "format": "DXT1",

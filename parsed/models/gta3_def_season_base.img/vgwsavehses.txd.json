@@ -2,7 +2,21 @@
   "type": "txd",
   "textures": [
     {
-      "name": "ws_garagedoor2_blue",
+      "name": "airconditioner02_128",
+      "width": 128,
+      "height": 128,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "badhousewallb01_256",
+      "width": 256,
+      "height": 128,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "badhousewallb02_128",
       "width": 128,
       "height": 128,
       "format": "DXT1",
@@ -16,9 +30,9 @@
       "alpha": false
     },
     {
-      "name": "villagreen128256",
+      "name": "badhousewalld02_128",
       "width": 128,
-      "height": 256,
+      "height": 128,
       "format": "DXT1",
       "alpha": false
     },
@@ -30,30 +44,30 @@
       "alpha": false
     },
     {
-      "name": "pinkwall01_64",
+      "name": "carparksignplate_64",
       "width": 64,
       "height": 64,
       "format": "DXT1",
       "alpha": false
     },
     {
+      "name": "genroof02_128",
+      "width": 128,
+      "height": 128,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
       "name": "Grass",
-      "width": 128,
-      "height": 128,
+      "width": 256,
+      "height": 256,
       "format": "DXT1",
       "alpha": false
     },
     {
-      "name": "badhousewalld02_128",
-      "width": 128,
-      "height": 128,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "ws_alley2_128_plain",
-      "width": 128,
-      "height": 128,
+      "name": "pinkwall01_64",
+      "width": 64,
+      "height": 64,
       "format": "DXT1",
       "alpha": false
     },
@@ -65,13 +79,6 @@
       "alpha": false
     },
     {
-      "name": "genroof02_128",
-      "width": 64,
-      "height": 64,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
       "name": "venbuildwh_law2",
       "width": 128,
       "height": 128,
@@ -79,23 +86,9 @@
       "alpha": false
     },
     {
-      "name": "badhousewallb02_128",
+      "name": "villagreen128256",
       "width": 128,
-      "height": 128,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "Upt_Fence_Mesh",
-      "width": 256,
       "height": 256,
-      "format": "DXT3",
-      "alpha": true
-    },
-    {
-      "name": "badhousewallb01_256",
-      "width": 256,
-      "height": 128,
       "format": "DXT1",
       "alpha": false
     },
@@ -107,14 +100,14 @@
       "alpha": false
     },
     {
-      "name": "carparksignplate_64",
-      "width": 64,
-      "height": 64,
+      "name": "ws_alley2_128_plain",
+      "width": 128,
+      "height": 128,
       "format": "DXT1",
       "alpha": false
     },
     {
-      "name": "airconditioner02_128",
+      "name": "ws_garagedoor2_blue",
       "width": 128,
       "height": 128,
       "format": "DXT1",

@@ -2,15 +2,8 @@
   "type": "txd",
   "textures": [
     {
-      "name": "miragesign2_256",
-      "width": 256,
-      "height": 128,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "miragesign1_256",
-      "width": 256,
+      "name": "floorboard256128",
+      "width": 128,
       "height": 128,
       "format": "DXT1",
       "alpha": false
@@ -23,22 +16,36 @@
       "alpha": false
     },
     {
-      "name": "vgsn_scrollsgn",
-      "width": 256,
-      "height": 16,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "vegasstripsign1_256",
+      "name": "miragesign1_256",
       "width": 256,
       "height": 128,
       "format": "DXT1",
       "alpha": false
     },
     {
-      "name": "vegasstripsign2_256",
+      "name": "miragesign2_256",
       "width": 256,
+      "height": 128,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "pirates06_64",
+      "width": 64,
+      "height": 64,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "pirates08_128",
+      "width": 128,
+      "height": 128,
+      "format": "DXT5",
+      "alpha": true
+    },
+    {
+      "name": "pirates09_128",
+      "width": 128,
       "height": 128,
       "format": "DXT1",
       "alpha": false
@@ -58,30 +65,23 @@
       "alpha": false
     },
     {
-      "name": "floorboard256128",
-      "width": 128,
+      "name": "vegasstripsign1_256",
+      "width": 256,
       "height": 128,
       "format": "DXT1",
       "alpha": false
     },
     {
-      "name": "pirates09_128",
-      "width": 128,
+      "name": "vegasstripsign2_256",
+      "width": 256,
       "height": 128,
       "format": "DXT1",
       "alpha": false
     },
     {
-      "name": "pirates08_128",
-      "width": 128,
-      "height": 128,
-      "format": "DXT3",
-      "alpha": true
-    },
-    {
-      "name": "pirates06_64",
-      "width": 64,
-      "height": 64,
+      "name": "vgsn_scrollsgn",
+      "width": 256,
+      "height": 16,
       "format": "DXT1",
       "alpha": false
     }

@@ -5,41 +5,7 @@
   "geometries": [
     {
       "index": 0,
-      "vertices": 243,
-      "triangles": 284,
-      "materials": [
-        {
-          "color": {
-            "r": 255,
-            "g": 255,
-            "b": 255,
-            "a": 255
-          },
-          "texture": null
-        },
-        {
-          "color": {
-            "r": 255,
-            "g": 255,
-            "b": 255,
-            "a": 255
-          },
-          "texture": null
-        },
-        {
-          "color": {
-            "r": 255,
-            "g": 255,
-            "b": 255,
-            "a": 255
-          },
-          "texture": null
-        }
-      ]
-    },
-    {
-      "index": 1,
-      "vertices": 996,
+      "vertices": 1196,
       "triangles": 756,
       "materials": [
         {
@@ -79,10 +45,45 @@
           "texture": null
         }
       ]
+    },
+    {
+      "index": 1,
+      "vertices": 303,
+      "triangles": 284,
+      "materials": [
+        {
+          "color": {
+            "r": 255,
+            "g": 255,
+            "b": 255,
+            "a": 255
+          },
+          "texture": null
+        },
+        {
+          "color": {
+            "r": 255,
+            "g": 255,
+            "b": 255,
+            "a": 255
+          },
+          "texture": null
+        },
+        {
+          "color": {
+            "r": 255,
+            "g": 255,
+            "b": 255,
+            "a": 255
+          },
+          "texture": null
+        }
+      ]
     }
   ],
   "frames": 3,
   "dummies": [
+    "Dummy001",
     "nt_windmill",
     "des_windfan_"
   ]

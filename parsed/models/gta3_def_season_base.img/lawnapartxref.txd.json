@@ -2,18 +2,18 @@
   "type": "txd",
   "textures": [
     {
-      "name": "roof06L256",
+      "name": "genroof03_128",
       "width": 128,
       "height": 128,
       "format": "DXT1",
       "alpha": false
     },
     {
-      "name": "fire_esc_fence",
-      "width": 64,
-      "height": 64,
+      "name": "roof06L256",
+      "width": 256,
+      "height": 256,
       "format": "DXT1",
-      "alpha": true
+      "alpha": false
     },
     {
       "name": "vgnbalcony1_256",
@@ -26,13 +26,6 @@
       "name": "vgnhsedor1_256",
       "width": 64,
       "height": 128,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "genroof03_128",
-      "width": 64,
-      "height": 64,
       "format": "DXT1",
       "alpha": false
     },

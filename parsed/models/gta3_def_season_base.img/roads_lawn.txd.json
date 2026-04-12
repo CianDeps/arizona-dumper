@@ -2,22 +2,8 @@
   "type": "txd",
   "textures": [
     {
-      "name": "desertgravelgrassroad",
+      "name": "crossing_law",
       "width": 512,
-      "height": 512,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "roadnew4_256",
-      "width": 512,
-      "height": 512,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "desgreengrass",
-      "width": 256,
       "height": 256,
       "format": "DXT1",
       "alpha": false
@@ -30,51 +16,9 @@
       "alpha": false
     },
     {
-      "name": "greyground256",
-      "width": 128,
-      "height": 128,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "LAroad_offroad1",
-      "width": 128,
-      "height": 128,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
       "name": "dt_road_stoplinea",
       "width": 512,
       "height": 512,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "LAroad_centre1",
-      "width": 128,
-      "height": 128,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "kbpavement_test",
-      "width": 256,
-      "height": 256,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "starpave_lawblend",
-      "width": 128,
-      "height": 128,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "sidelatino1_LAe",
-      "width": 256,
-      "height": 256,
       "format": "DXT1",
       "alpha": false
     },
@@ -86,7 +30,7 @@
       "alpha": false
     },
     {
-      "name": "pavemiddirt_law",
+      "name": "gm_LAcarpark1",
       "width": 256,
       "height": 256,
       "format": "DXT1",
@@ -96,34 +40,41 @@
       "name": "hedgealphad1",
       "width": 64,
       "height": 128,
+      "format": "DXT5",
+      "alpha": true
+    },
+    {
+      "name": "kbpavement_test",
+      "width": 256,
+      "height": 256,
       "format": "DXT1",
       "alpha": false
     },
     {
-      "name": "Tar_1linefreewy",
-      "width": 512,
-      "height": 512,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "starpaveb_law",
+      "name": "LAroad_centre1",
       "width": 128,
       "height": 128,
       "format": "DXT1",
       "alpha": false
     },
     {
-      "name": "starpave_law",
-      "width": 512,
-      "height": 512,
+      "name": "Newpavement",
+      "width": 256,
+      "height": 256,
       "format": "DXT1",
       "alpha": false
     },
     {
-      "name": "sjmhoodlawn41",
+      "name": "pavemiddirt_law",
       "width": 256,
       "height": 256,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "roadnew4_256",
+      "width": 512,
+      "height": 512,
       "format": "DXT1",
       "alpha": false
     },
@@ -135,37 +86,30 @@
       "alpha": false
     },
     {
-      "name": "crossing_law",
-      "width": 512,
-      "height": 256,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "gm_LAcarpark1",
-      "width": 256,
-      "height": 256,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "snpedtest1",
+      "name": "starpaveb_law",
       "width": 512,
       "height": 512,
       "format": "DXT1",
       "alpha": false
     },
     {
-      "name": "backstageceiling1_128",
+      "name": "starpave_law",
+      "width": 512,
+      "height": 512,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "starpave_lawblend",
       "width": 128,
       "height": 128,
       "format": "DXT1",
       "alpha": false
     },
     {
-      "name": "Newpavement",
-      "width": 256,
-      "height": 256,
+      "name": "Tar_1linefreewy",
+      "width": 512,
+      "height": 512,
       "format": "DXT1",
       "alpha": false
     }

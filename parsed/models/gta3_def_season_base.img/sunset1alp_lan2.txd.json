@@ -2,20 +2,6 @@
   "type": "txd",
   "textures": [
     {
-      "name": "fireescape1_sfe",
-      "width": 256,
-      "height": 256,
-      "format": "DXT3",
-      "alpha": true
-    },
-    {
-      "name": "fire_esc_fence",
-      "width": 64,
-      "height": 64,
-      "format": "DXT1",
-      "alpha": true
-    },
-    {
       "name": "des_crackeddirt1",
       "width": 256,
       "height": 256,
@@ -23,10 +9,10 @@
       "alpha": false
     },
     {
-      "name": "Upt_Fence_Mesh",
+      "name": "fireescape1_sfe",
       "width": 256,
       "height": 256,
-      "format": "DXT3",
+      "format": "DXT5",
       "alpha": true
     }
   ]

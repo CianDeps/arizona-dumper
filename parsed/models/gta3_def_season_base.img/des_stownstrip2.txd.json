@@ -2,49 +2,35 @@
   "type": "txd",
   "textures": [
     {
-      "name": "LAredwall",
+      "name": "alleydoor3",
+      "width": 256,
+      "height": 256,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "bluapartwall1_256",
       "width": 128,
       "height": 128,
       "format": "DXT1",
       "alpha": false
     },
     {
-      "name": "black32",
-      "width": 32,
-      "height": 32,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "kingothering",
+      "name": "corugwall1",
       "width": 256,
       "height": 256,
       "format": "DXT1",
       "alpha": false
     },
     {
-      "name": "yellowall_LA",
-      "width": 128,
-      "height": 128,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "des_dinerwall",
+      "name": "cw_loansign",
       "width": 256,
       "height": 256,
       "format": "DXT1",
       "alpha": false
     },
     {
-      "name": "washapartwall1_256",
-      "width": 256,
-      "height": 256,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "gravelkb_128",
+      "name": "des_brick1",
       "width": 128,
       "height": 128,
       "format": "DXT1",
@@ -58,79 +44,9 @@
       "alpha": false
     },
     {
-      "name": "cw_loansign",
-      "width": 256,
-      "height": 256,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "gymshop1_LAe",
-      "width": 128,
-      "height": 128,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "corugwall1",
-      "width": 128,
-      "height": 128,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "des_ranchwall1",
-      "width": 128,
-      "height": 128,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "des_shopsigns1",
-      "width": 256,
-      "height": 128,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "ws_rooftarmac1",
-      "width": 256,
-      "height": 256,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "des_sherrifwall1",
-      "width": 256,
-      "height": 256,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "newall4-4",
-      "width": 128,
-      "height": 128,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "des_door2",
-      "width": 64,
-      "height": 128,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
       "name": "des_creamshopdoor",
       "width": 128,
       "height": 256,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "des_dustconc",
-      "width": 128,
-      "height": 128,
       "format": "DXT1",
       "alpha": false
     },
@@ -142,7 +58,14 @@
       "alpha": false
     },
     {
-      "name": "des_brick1",
+      "name": "des_dinerwall",
+      "width": 256,
+      "height": 256,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "des_roswin2",
       "width": 128,
       "height": 128,
       "format": "DXT1",
@@ -156,21 +79,49 @@
       "alpha": false
     },
     {
-      "name": "des_roswin2",
+      "name": "des_shopsigns1",
+      "width": 256,
+      "height": 128,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "gravelkb_128",
       "width": 128,
       "height": 128,
       "format": "DXT1",
       "alpha": false
     },
     {
-      "name": "alleydoor3",
+      "name": "gymshop1_LAe",
+      "width": 128,
+      "height": 128,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "kingothering",
       "width": 256,
       "height": 256,
       "format": "DXT1",
       "alpha": false
     },
     {
-      "name": "bluapartwall1_256",
+      "name": "LAredwall",
+      "width": 128,
+      "height": 128,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "washapartwall1_256",
+      "width": 256,
+      "height": 256,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "yellowall_LA",
       "width": 128,
       "height": 128,
       "format": "DXT1",

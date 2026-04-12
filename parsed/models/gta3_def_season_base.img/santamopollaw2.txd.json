@@ -2,23 +2,9 @@
   "type": "txd",
   "textures": [
     {
-      "name": "plaintarmac1",
-      "width": 512,
-      "height": 512,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
       "name": "alleydoor6",
       "width": 128,
       "height": 128,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "shutters2",
-      "width": 64,
-      "height": 64,
       "format": "DXT1",
       "alpha": false
     },
@@ -30,16 +16,9 @@
       "alpha": false
     },
     {
-      "name": "avenpol4",
-      "width": 64,
-      "height": 32,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "avenpol3",
-      "width": 64,
-      "height": 64,
+      "name": "avenpol1",
+      "width": 128,
+      "height": 128,
       "format": "DXT1",
       "alpha": false
     },
@@ -51,9 +30,23 @@
       "alpha": false
     },
     {
-      "name": "avenpol1",
-      "width": 128,
-      "height": 128,
+      "name": "avenpol3",
+      "width": 64,
+      "height": 64,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "avenpol4",
+      "width": 64,
+      "height": 32,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "shutters2",
+      "width": 64,
+      "height": 64,
       "format": "DXT1",
       "alpha": false
     }

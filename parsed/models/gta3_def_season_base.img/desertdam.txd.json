@@ -2,13 +2,6 @@
   "type": "txd",
   "textures": [
     {
-      "name": "dam_statue",
-      "width": 128,
-      "height": 256,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
       "name": "dam_statbase",
       "width": 256,
       "height": 256,
@@ -16,9 +9,9 @@
       "alpha": false
     },
     {
-      "name": "des_dam_conc",
+      "name": "dam_statue",
       "width": 128,
-      "height": 128,
+      "height": 256,
       "format": "DXT1",
       "alpha": false
     }

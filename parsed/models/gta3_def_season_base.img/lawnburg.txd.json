@@ -2,13 +2,6 @@
   "type": "txd",
   "textures": [
     {
-      "name": "burgershotsign1_256",
-      "width": 256,
-      "height": 128,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
       "name": "burgershotmenu256",
       "width": 256,
       "height": 256,
@@ -16,28 +9,35 @@
       "alpha": false
     },
     {
-      "name": "gen_chrome",
-      "width": 128,
+      "name": "burgershotsign1_256",
+      "width": 256,
       "height": 128,
       "format": "DXT1",
       "alpha": false
     },
     {
-      "name": "vgnburgwal3_256",
+      "name": "genroof01_128",
       "width": 256,
       "height": 256,
       "format": "DXT1",
       "alpha": false
     },
     {
-      "name": "vgnburgwal5_256",
+      "name": "gen_chrome",
       "width": 256,
       "height": 256,
       "format": "DXT1",
       "alpha": false
     },
     {
-      "name": "roof06L256",
+      "name": "GEwhite1_64",
+      "width": 64,
+      "height": 64,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "vgnburger_256",
       "width": 256,
       "height": 256,
       "format": "DXT1",
@@ -51,15 +51,15 @@
       "alpha": false
     },
     {
-      "name": "vgnburgwal6_256",
-      "width": 256,
+      "name": "vgnburgwal2_128",
+      "width": 128,
       "height": 256,
       "format": "DXT1",
       "alpha": false
     },
     {
-      "name": "vgnburgwal2_128",
-      "width": 128,
+      "name": "vgnburgwal3_256",
+      "width": 256,
       "height": 256,
       "format": "DXT1",
       "alpha": false
@@ -72,21 +72,14 @@
       "alpha": false
     },
     {
-      "name": "genroof01_128",
-      "width": 128,
-      "height": 128,
+      "name": "vgnburgwal5_256",
+      "width": 256,
+      "height": 256,
       "format": "DXT1",
       "alpha": false
     },
     {
-      "name": "GEwhite1_64",
-      "width": 64,
-      "height": 64,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "vgnburger_256",
+      "name": "vgnburgwal6_256",
       "width": 256,
       "height": 256,
       "format": "DXT1",

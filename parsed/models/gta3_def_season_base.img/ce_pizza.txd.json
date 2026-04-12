@@ -2,18 +2,11 @@
   "type": "txd",
   "textures": [
     {
-      "name": "comptwall37",
-      "width": 256,
-      "height": 256,
+      "name": "brickred2",
+      "width": 128,
+      "height": 128,
       "format": "DXT1",
       "alpha": false
-    },
-    {
-      "name": "Parking1_LAe2",
-      "width": 256,
-      "height": 256,
-      "format": "DXT3",
-      "alpha": true
     },
     {
       "name": "comptwall36",
@@ -23,30 +16,9 @@
       "alpha": false
     },
     {
-      "name": "Bow_Abattoir_Conc2",
-      "width": 128,
-      "height": 128,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "ws_vic_wood1",
+      "name": "comptwall37",
       "width": 256,
       "height": 256,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "pizzasign_LAe",
-      "width": 128,
-      "height": 128,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "brickred2",
-      "width": 128,
-      "height": 128,
       "format": "DXT1",
       "alpha": false
     },
@@ -65,14 +37,28 @@
       "alpha": false
     },
     {
-      "name": "pizzasign2LA",
-      "width": 128,
-      "height": 128,
-      "format": "DXT3",
+      "name": "Parking1_LAe2",
+      "width": 256,
+      "height": 256,
+      "format": "DXT5",
       "alpha": true
     },
     {
-      "name": "ws_rooftarmac1",
+      "name": "pizzasign2LA",
+      "width": 128,
+      "height": 128,
+      "format": "DXT5",
+      "alpha": true
+    },
+    {
+      "name": "pizzasign_LAe",
+      "width": 128,
+      "height": 128,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "ws_vic_wood1",
       "width": 256,
       "height": 256,
       "format": "DXT1",

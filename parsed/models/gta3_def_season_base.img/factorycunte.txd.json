@@ -2,23 +2,9 @@
   "type": "txd",
   "textures": [
     {
-      "name": "inddoor1",
-      "width": 256,
-      "height": 256,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
       "name": "dirtgrn128",
       "width": 128,
       "height": 128,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "inwindow1shdw",
-      "width": 256,
-      "height": 256,
       "format": "DXT1",
       "alpha": false
     },
@@ -30,7 +16,14 @@
       "alpha": false
     },
     {
-      "name": "sw_corrugtile",
+      "name": "inddoor1",
+      "width": 256,
+      "height": 256,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "inwindow1shdw",
       "width": 256,
       "height": 256,
       "format": "DXT1",
@@ -45,8 +38,8 @@
     },
     {
       "name": "newgrnd1brn_128",
-      "width": 128,
-      "height": 128,
+      "width": 256,
+      "height": 256,
       "format": "DXT1",
       "alpha": false
     }

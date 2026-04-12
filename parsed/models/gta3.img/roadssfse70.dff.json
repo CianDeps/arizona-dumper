@@ -5,9 +5,18 @@
   "geometries": [
     {
       "index": 0,
-      "vertices": 205,
-      "triangles": 156,
+      "vertices": 552,
+      "triangles": 184,
       "materials": [
+        {
+          "color": {
+            "r": 255,
+            "g": 255,
+            "b": 255,
+            "a": 255
+          },
+          "texture": null
+        },
         {
           "color": {
             "r": 255,
@@ -31,6 +40,6 @@
   ],
   "frames": 1,
   "dummies": [
-    "roadsSFSE70"
+    "roadssfse70"
   ]
 }

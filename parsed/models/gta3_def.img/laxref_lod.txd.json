@@ -2,21 +2,7 @@
   "type": "txd",
   "textures": [
     {
-      "name": "ws_rooftarmac1LOD",
-      "width": 32,
-      "height": 32,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
       "name": "sjmlas2lod4",
-      "width": 64,
-      "height": 64,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "sjmlodf4",
       "width": 64,
       "height": 64,
       "format": "DXT1",
@@ -37,7 +23,7 @@
       "alpha": false
     },
     {
-      "name": "sjmlodf3",
+      "name": "sjmlodf1",
       "width": 64,
       "height": 64,
       "format": "DXT1",
@@ -51,7 +37,21 @@
       "alpha": false
     },
     {
-      "name": "sjmlodf1",
+      "name": "sjmlodf3",
+      "width": 64,
+      "height": 64,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "sjmlodf4",
+      "width": 64,
+      "height": 64,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "ws_rooftarmac1LOD",
       "width": 64,
       "height": 64,
       "format": "DXT1",

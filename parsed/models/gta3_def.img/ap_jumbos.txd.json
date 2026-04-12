@@ -2,18 +2,18 @@
   "type": "txd",
   "textures": [
     {
-      "name": "airblock3",
-      "width": 128,
-      "height": 128,
-      "format": "DXT1",
-      "alpha": false
+      "name": "blackshadow4",
+      "width": 256,
+      "height": 256,
+      "format": "DXT5",
+      "alpha": true
     },
     {
-      "name": "airblock2",
+      "name": "black64",
       "width": 128,
       "height": 128,
-      "format": "DXT1",
-      "alpha": false
+      "format": "DXT3",
+      "alpha": true
     },
     {
       "name": "airblock1",
@@ -23,18 +23,18 @@
       "alpha": false
     },
     {
-      "name": "blackshadow4",
+      "name": "airblock2",
       "width": 256,
       "height": 256,
-      "format": "DXT3",
-      "alpha": true
+      "format": "DXT1",
+      "alpha": false
     },
     {
-      "name": "black64",
-      "width": 64,
-      "height": 64,
-      "format": "DXT3",
-      "alpha": true
+      "name": "airblock3",
+      "width": 256,
+      "height": 256,
+      "format": "DXT1",
+      "alpha": false
     }
   ]
 }

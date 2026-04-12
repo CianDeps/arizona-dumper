@@ -2,9 +2,16 @@
   "type": "txd",
   "textures": [
     {
-      "name": "des_bullheid",
-      "width": 64,
-      "height": 64,
+      "name": "beachwalkway",
+      "width": 128,
+      "height": 128,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "browntin1",
+      "width": 128,
+      "height": 128,
       "format": "DXT1",
       "alpha": false
     },
@@ -16,9 +23,16 @@
       "alpha": false
     },
     {
-      "name": "beachwalkway",
+      "name": "des_bullboards",
       "width": 128,
       "height": 128,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "des_bullheid",
+      "width": 64,
+      "height": 64,
       "format": "DXT1",
       "alpha": false
     },
@@ -37,36 +51,8 @@
       "alpha": false
     },
     {
-      "name": "des_backdoor1",
-      "width": 128,
-      "height": 256,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "des_bullboards",
-      "width": 128,
-      "height": 128,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "browntin1",
-      "width": 128,
-      "height": 128,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "des_creamshopwin",
-      "width": 128,
-      "height": 256,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "des_creamshopdoor",
-      "width": 128,
+      "name": "des_ntwnwall1",
+      "width": 256,
       "height": 256,
       "format": "DXT1",
       "alpha": false
@@ -79,30 +65,16 @@
       "alpha": false
     },
     {
-      "name": "ros_thwin1",
-      "width": 64,
-      "height": 128,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
       "name": "des_thrails",
       "width": 128,
       "height": 128,
-      "format": "DXT3",
-      "alpha": true
-    },
-    {
-      "name": "pavea256",
-      "width": 256,
-      "height": 256,
       "format": "DXT1",
       "alpha": false
     },
     {
-      "name": "des_ntwnwall1",
-      "width": 256,
-      "height": 256,
+      "name": "ros_thwin1",
+      "width": 64,
+      "height": 128,
       "format": "DXT1",
       "alpha": false
     }

@@ -2,21 +2,49 @@
   "type": "txd",
   "textures": [
     {
-      "name": "eris_5",
-      "width": 128,
-      "height": 64,
+      "name": "actopblank_256",
+      "width": 256,
+      "height": 256,
       "format": "DXT1",
       "alpha": false
     },
     {
-      "name": "Upt_Fence_Mesh",
+      "name": "ahoodfence2",
+      "width": 128,
+      "height": 128,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "banditsign_256",
       "width": 256,
       "height": 256,
-      "format": "DXT3",
+      "format": "DXT5",
       "alpha": true
     },
     {
-      "name": "Heliconcrete",
+      "name": "Bow_church_dirt",
+      "width": 128,
+      "height": 128,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "brnstucco1",
+      "width": 128,
+      "height": 128,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "carparkwall1_256",
+      "width": 256,
+      "height": 256,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "concretemanky",
       "width": 256,
       "height": 256,
       "format": "DXT1",
@@ -30,29 +58,29 @@
       "alpha": false
     },
     {
-      "name": "ahoodfence2",
+      "name": "duskyred_64",
+      "width": 64,
+      "height": 64,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "eris_5",
+      "width": 128,
+      "height": 64,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "Grass_lawn_128HV",
       "width": 128,
       "height": 128,
       "format": "DXT1",
       "alpha": false
     },
     {
-      "name": "yardgrass1",
-      "width": 256,
-      "height": 256,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "Grass_128HV",
+      "name": "metaldoor01_256",
       "width": 128,
-      "height": 128,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "vgngewall2_256",
-      "width": 256,
       "height": 256,
       "format": "DXT1",
       "alpha": false
@@ -65,30 +93,9 @@
       "alpha": false
     },
     {
-      "name": "actopblank_256",
+      "name": "vgngewall2_256",
       "width": 256,
       "height": 256,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "ws_whitewall2_bottom",
-      "width": 256,
-      "height": 256,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "ws_whitewall2_top",
-      "width": 256,
-      "height": 256,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "Bow_church_dirt",
-      "width": 128,
-      "height": 128,
       "format": "DXT1",
       "alpha": false
     },
@@ -107,72 +114,16 @@
       "alpha": false
     },
     {
-      "name": "duskyred_64",
-      "width": 64,
-      "height": 64,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "marinawindow1_256",
-      "width": 128,
-      "height": 128,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "brnstucco1",
-      "width": 128,
-      "height": 128,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "metaldoor01_256",
-      "width": 64,
-      "height": 128,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "concretemanky",
+      "name": "ws_whitewall2_bottom",
       "width": 256,
       "height": 256,
       "format": "DXT1",
       "alpha": false
     },
     {
-      "name": "banditsign_256",
+      "name": "ws_whitewall2_top",
       "width": 256,
       "height": 256,
-      "format": "DXT3",
-      "alpha": true
-    },
-    {
-      "name": "carparkwall1_256",
-      "width": 128,
-      "height": 128,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "ws_rooftarmac1",
-      "width": 256,
-      "height": 256,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "sandgrnd128",
-      "width": 128,
-      "height": 128,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "Grass_lawn_128HV",
-      "width": 128,
-      "height": 128,
       "format": "DXT1",
       "alpha": false
     }

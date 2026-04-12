@@ -2,27 +2,6 @@
   "type": "txd",
   "textures": [
     {
-      "name": "ws_rollerdoor_silver",
-      "width": 128,
-      "height": 128,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "sw_sheddoor2",
-      "width": 256,
-      "height": 256,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "spraypipegz1",
-      "width": 32,
-      "height": 64,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
       "name": "airvent2_128",
       "width": 64,
       "height": 64,
@@ -30,14 +9,14 @@
       "alpha": false
     },
     {
-      "name": "sf_spray_floor2",
-      "width": 128,
+      "name": "laspryshpsig1",
+      "width": 256,
       "height": 128,
       "format": "DXT1",
       "alpha": false
     },
     {
-      "name": "sf_spray_floor1",
+      "name": "sf_spray2",
       "width": 128,
       "height": 128,
       "format": "DXT1",
@@ -51,43 +30,22 @@
       "alpha": false
     },
     {
-      "name": "sf_spray2",
+      "name": "sf_spray_floor1",
       "width": 128,
       "height": 128,
       "format": "DXT1",
       "alpha": false
     },
     {
-      "name": "sw_shedwindow1",
-      "width": 128,
-      "height": 64,
-      "format": "DXT3",
-      "alpha": true
-    },
-    {
-      "name": "newall5-2",
+      "name": "sf_spray_floor2",
       "width": 128,
       "height": 128,
       "format": "DXT1",
       "alpha": false
     },
     {
-      "name": "sw_shedwall03",
-      "width": 256,
-      "height": 256,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "sw_newcorrug",
-      "width": 256,
-      "height": 256,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "Alumox64",
-      "width": 64,
+      "name": "spraypipegz1",
+      "width": 32,
       "height": 64,
       "format": "DXT1",
       "alpha": false
@@ -100,8 +58,29 @@
       "alpha": false
     },
     {
-      "name": "laspryshpsig1",
+      "name": "sw_sheddoor2",
       "width": 256,
+      "height": 256,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "sw_shedwall03",
+      "width": 256,
+      "height": 256,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "sw_shedwindow1",
+      "width": 128,
+      "height": 64,
+      "format": "DXT5",
+      "alpha": true
+    },
+    {
+      "name": "ws_rollerdoor_silver",
+      "width": 128,
       "height": 128,
       "format": "DXT1",
       "alpha": false

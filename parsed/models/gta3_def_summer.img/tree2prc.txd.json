@@ -2,18 +2,18 @@
   "type": "txd",
   "textures": [
     {
-      "name": "weeelm",
-      "width": 128,
-      "height": 128,
-      "format": "DXT3",
-      "alpha": true
+      "name": "bgleda0",
+      "width": 64,
+      "height": 64,
+      "format": "DXT1",
+      "alpha": false
     },
     {
-      "name": "elmdead",
-      "width": 128,
-      "height": 128,
-      "format": "DXT3",
-      "alpha": true
+      "name": "bthuja1",
+      "width": 64,
+      "height": 64,
+      "format": "DXT1",
+      "alpha": false
     },
     {
       "name": "bzelka1",
@@ -23,39 +23,39 @@
       "alpha": false
     },
     {
-      "name": "Locustbra",
+      "name": "cedarbare",
       "width": 128,
-      "height": 128,
-      "format": "DXT3",
-      "alpha": true
-    },
-    {
-      "name": "bgleda0",
-      "width": 64,
       "height": 64,
-      "format": "DXT1",
-      "alpha": false
+      "format": "DXT5",
+      "alpha": true
     },
     {
       "name": "cedarwee",
       "width": 128,
       "height": 64,
-      "format": "DXT3",
+      "format": "DXT5",
       "alpha": true
     },
     {
-      "name": "cedarbare",
+      "name": "elmdead",
       "width": 128,
-      "height": 64,
-      "format": "DXT3",
+      "height": 128,
+      "format": "DXT5",
       "alpha": true
     },
     {
-      "name": "bthuja1",
-      "width": 64,
-      "height": 64,
-      "format": "DXT1",
-      "alpha": false
+      "name": "Locustbra",
+      "width": 128,
+      "height": 128,
+      "format": "DXT5",
+      "alpha": true
+    },
+    {
+      "name": "weeelm",
+      "width": 128,
+      "height": 128,
+      "format": "DXT5",
+      "alpha": true
     }
   ]
 }

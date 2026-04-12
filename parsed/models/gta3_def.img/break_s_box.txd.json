@@ -2,6 +2,13 @@
   "type": "txd",
   "textures": [
     {
+      "name": "cj_crates",
+      "width": 256,
+      "height": 256,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
       "name": "CJ_SLATEDWOOD",
       "width": 128,
       "height": 128,
@@ -10,20 +17,13 @@
     },
     {
       "name": "Gen_Bin_Bag",
-      "width": 128,
-      "height": 128,
+      "width": 256,
+      "height": 256,
       "format": "DXT1",
       "alpha": false
     },
     {
       "name": "Gen_Box",
-      "width": 64,
-      "height": 64,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "cj_crates",
       "width": 128,
       "height": 128,
       "format": "DXT1",

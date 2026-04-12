@@ -2,35 +2,7 @@
   "type": "txd",
   "textures": [
     {
-      "name": "backstageceiling1_128",
-      "width": 128,
-      "height": 128,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "hedgealphad1",
-      "width": 64,
-      "height": 128,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "GB_nastybar03",
-      "width": 256,
-      "height": 256,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
       "name": "dirt64b2",
-      "width": 128,
-      "height": 128,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "wallwashv128",
       "width": 128,
       "height": 128,
       "format": "DXT1",
@@ -40,6 +12,20 @@
       "name": "frostedglass256128",
       "width": 128,
       "height": 128,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "hedgealphad1",
+      "width": 64,
+      "height": 128,
+      "format": "DXT5",
+      "alpha": true
+    },
+    {
+      "name": "wallwashv128",
+      "width": 256,
+      "height": 256,
       "format": "DXT1",
       "alpha": false
     }

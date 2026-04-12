@@ -522,6 +522,44 @@
         ]
       },
       {
+        "name": "just_blink_red_smoothed",
+        "frames": [
+          {
+            "color": {
+              "r": 255,
+              "g": 0,
+              "b": 0,
+              "a": 255
+            },
+            "is_enabled": false,
+            "is_smoothed": true,
+            "time": 0
+          },
+          {
+            "color": {
+              "r": 255,
+              "g": 0,
+              "b": 0,
+              "a": 255
+            },
+            "is_enabled": true,
+            "is_smoothed": true,
+            "time": 1
+          },
+          {
+            "color": {
+              "r": 255,
+              "g": 0,
+              "b": 0,
+              "a": 255
+            },
+            "is_enabled": false,
+            "is_smoothed": true,
+            "time": 2
+          }
+        ]
+      },
+      {
         "name": "double_blink_red_1",
         "frames": [
           {
@@ -615,6 +653,44 @@
             },
             "is_enabled": false,
             "is_smoothed": false,
+            "time": 2
+          }
+        ]
+      },
+      {
+        "name": "just_blink_blue_smoothed",
+        "frames": [
+          {
+            "color": {
+              "r": 0,
+              "g": 0,
+              "b": 255,
+              "a": 255
+            },
+            "is_enabled": false,
+            "is_smoothed": true,
+            "time": 0
+          },
+          {
+            "color": {
+              "r": 0,
+              "g": 0,
+              "b": 255,
+              "a": 255
+            },
+            "is_enabled": true,
+            "is_smoothed": true,
+            "time": 1
+          },
+          {
+            "color": {
+              "r": 0,
+              "g": 0,
+              "b": 255,
+              "a": 255
+            },
+            "is_enabled": false,
+            "is_smoothed": true,
             "time": 2
           }
         ]
@@ -894,13 +970,13 @@
           {
             "bone_name": "evl_blue_1",
             "animation": "just_blink_blue_1",
-            "start_time": 1,
+            "start_time": 0,
             "speed": 3
           },
           {
             "bone_name": "evl_blue_2",
             "animation": "just_blink_blue_1",
-            "start_time": 1,
+            "start_time": 0,
             "speed": 3
           },
           {
@@ -930,31 +1006,25 @@
           {
             "bone_name": "evl_blue_7",
             "animation": "just_blink_blue_1",
-            "start_time": 1,
+            "start_time": 0,
             "speed": 3
           },
           {
             "bone_name": "evl_blue_8",
             "animation": "just_blink_blue_1",
-            "start_time": 1,
-            "speed": 3
-          },
-          {
-            "bone_name": "evl_blue_9",
-            "animation": "just_blink_blue_1",
-            "start_time": 1,
+            "start_time": 0,
             "speed": 3
           },
           {
             "bone_name": "evl_red_1",
             "animation": "just_blink_red_1",
-            "start_time": 0,
+            "start_time": 1,
             "speed": 3
           },
           {
             "bone_name": "evl_red_2",
             "animation": "just_blink_red_1",
-            "start_time": 0,
+            "start_time": 1,
             "speed": 3
           },
           {
@@ -984,33 +1054,39 @@
           {
             "bone_name": "evl_red_7",
             "animation": "just_blink_red_1",
-            "start_time": 0,
+            "start_time": 1,
             "speed": 3
           },
           {
             "bone_name": "evl_red_8",
             "animation": "just_blink_red_1",
-            "start_time": 0,
-            "speed": 3
-          },
-          {
-            "bone_name": "evl_red_9",
-            "animation": "just_blink_red_1",
-            "start_time": 0,
+            "start_time": 1,
             "speed": 3
           }
         ],
         "materials": [
           {
             "group": 0,
-            "animation": "just_blink_red_1",
+            "animation": "just_blink_blue_1",
             "start_time": 0,
             "speed": 3
           },
           {
             "group": 1,
+            "animation": "just_blink_red_1",
+            "start_time": 1,
+            "speed": 3
+          },
+          {
+            "group": 2,
             "animation": "just_blink_blue_1",
             "start_time": 1,
+            "speed": 3
+          },
+          {
+            "group": 3,
+            "animation": "just_blink_red_1",
+            "start_time": 0,
             "speed": 3
           }
         ]
@@ -1365,146 +1441,122 @@
         "coronas": [
           {
             "bone_name": "evl_blue_1",
-            "animation": "double_blink_blue_1",
-            "start_time": 2,
-            "speed": 1
+            "animation": "just_blink_blue_1",
+            "start_time": 0,
+            "speed": 3
           },
           {
             "bone_name": "evl_blue_2",
-            "animation": "double_blink_blue_1",
+            "animation": "just_blink_blue_1",
             "start_time": 0,
-            "speed": 1
+            "speed": 3
           },
           {
             "bone_name": "evl_blue_3",
-            "animation": "double_blink_blue_1",
-            "start_time": 2,
-            "speed": 1
+            "animation": "just_blink_blue_1",
+            "start_time": 1,
+            "speed": 3
           },
           {
             "bone_name": "evl_blue_4",
-            "animation": "double_blink_blue_1",
-            "start_time": 0,
-            "speed": 1
+            "animation": "just_blink_blue_1",
+            "start_time": 1,
+            "speed": 3
           },
           {
             "bone_name": "evl_blue_5",
-            "animation": "double_blink_blue_1",
-            "start_time": 2,
-            "speed": 1
+            "animation": "just_blink_blue_1",
+            "start_time": 1,
+            "speed": 3
           },
           {
             "bone_name": "evl_blue_6",
-            "animation": "double_blink_blue_1",
-            "start_time": 0,
-            "speed": 1
+            "animation": "just_blink_blue_1",
+            "start_time": 1,
+            "speed": 3
           },
           {
             "bone_name": "evl_blue_7",
-            "animation": "double_blink_blue_1",
-            "start_time": 2,
-            "speed": 1
+            "animation": "just_blink_blue_1",
+            "start_time": 0,
+            "speed": 3
           },
           {
             "bone_name": "evl_blue_8",
-            "animation": "double_blink_blue_1",
+            "animation": "just_blink_blue_1",
             "start_time": 0,
-            "speed": 1
-          },
-          {
-            "bone_name": "evl_blue_9",
-            "animation": "double_blink_blue_1",
-            "start_time": 0,
-            "speed": 1
-          },
-          {
-            "bone_name": "evl_blue_10",
-            "animation": "double_blink_blue_1",
-            "start_time": 0,
-            "speed": 1
+            "speed": 3
           },
           {
             "bone_name": "evl_red_1",
-            "animation": "double_blink_red_1",
-            "start_time": 2,
-            "speed": 1
+            "animation": "just_blink_red_1",
+            "start_time": 1,
+            "speed": 3
           },
           {
             "bone_name": "evl_red_2",
-            "animation": "double_blink_red_1",
-            "start_time": 0,
-            "speed": 1
+            "animation": "just_blink_red_1",
+            "start_time": 1,
+            "speed": 3
           },
           {
             "bone_name": "evl_red_3",
-            "animation": "double_blink_red_1",
-            "start_time": 2,
-            "speed": 1
+            "animation": "just_blink_red_1",
+            "start_time": 0,
+            "speed": 3
           },
           {
             "bone_name": "evl_red_4",
-            "animation": "double_blink_red_1",
+            "animation": "just_blink_red_1",
             "start_time": 0,
-            "speed": 1
+            "speed": 3
           },
           {
             "bone_name": "evl_red_5",
-            "animation": "double_blink_red_1",
-            "start_time": 2,
-            "speed": 1
+            "animation": "just_blink_red_1",
+            "start_time": 0,
+            "speed": 3
           },
           {
             "bone_name": "evl_red_6",
-            "animation": "double_blink_red_1",
+            "animation": "just_blink_red_1",
             "start_time": 0,
-            "speed": 1
+            "speed": 3
           },
           {
             "bone_name": "evl_red_7",
-            "animation": "double_blink_red_1",
-            "start_time": 2,
-            "speed": 1
+            "animation": "just_blink_red_1",
+            "start_time": 1,
+            "speed": 3
           },
           {
             "bone_name": "evl_red_8",
-            "animation": "double_blink_red_1",
-            "start_time": 0,
-            "speed": 1
-          },
-          {
-            "bone_name": "evl_red_9",
-            "animation": "double_blink_red_1",
-            "start_time": 2,
-            "speed": 1
-          },
-          {
-            "bone_name": "evl_red_10",
-            "animation": "double_blink_red_1",
-            "start_time": 2,
-            "speed": 1
+            "animation": "just_blink_red_1",
+            "start_time": 1,
+            "speed": 3
           }
         ],
         "materials": [
           {
-            "group": 0,
+            "group": 6,
             "animation": "double_blink_red_1",
             "start_time": 2,
             "speed": 1
           },
           {
-            "group": 1,
+            "group": 7,
             "animation": "double_blink_red_1",
             "start_time": 0,
             "speed": 1
           },
           {
-            "group": 2,
+            "group": 8,
             "animation": "double_blink_blue_1",
             "start_time": 2,
             "speed": 1
           },
           {
-            "group": 3,
+            "group": 9,
             "animation": "double_blink_blue_1",
             "start_time": 0,
             "speed": 1
@@ -1515,159 +1567,135 @@
         "model_id": 16864,
         "coronas": [
           {
-            "bone_name": "evl_blue_1",
-            "animation": "double_blink_blue_1",
-            "start_time": 0.05,
-            "speed": 0.5
-          },
-          {
-            "bone_name": "evl_blue_2",
-            "animation": "just_blink_blue_1",
-            "start_time": 0,
-            "speed": 6
-          },
-          {
-            "bone_name": "evl_blue_3",
-            "animation": "double_blink_blue_1",
-            "start_time": 0.05,
-            "speed": 0.5
-          },
-          {
-            "bone_name": "evl_blue_4",
-            "animation": "just_blink_blue_1",
-            "start_time": 0,
-            "speed": 6
-          },
-          {
-            "bone_name": "evl_blue_5",
-            "animation": "double_blink_blue_1",
-            "start_time": 0.05,
-            "speed": 0.5
-          },
-          {
-            "bone_name": "evl_blue_6",
-            "animation": "just_blink_blue_1",
-            "start_time": 0,
-            "speed": 6
-          },
-          {
-            "bone_name": "evl_blue_7",
-            "animation": "double_blink_blue_1",
-            "start_time": 0.05,
-            "speed": 0.5
-          },
-          {
-            "bone_name": "evl_blue_8",
-            "animation": "just_blink_blue_1",
-            "start_time": 0,
-            "speed": 6
-          },
-          {
             "bone_name": "evl_red_1",
-            "animation": "just_blink_red_1",
+            "animation": "just_blink_red_smoothed",
             "start_time": 0,
-            "speed": 6
+            "speed": 2
           },
           {
             "bone_name": "evl_red_2",
-            "animation": "double_blink_red_1",
-            "start_time": 0.05,
-            "speed": 0.5
+            "animation": "just_blink_red_smoothed",
+            "start_time": 1,
+            "speed": 2
           },
           {
             "bone_name": "evl_red_3",
-            "animation": "just_blink_red_1",
+            "animation": "just_blink_red_smoothed",
             "start_time": 0,
-            "speed": 6
+            "speed": 2
           },
           {
             "bone_name": "evl_red_4",
-            "animation": "double_blink_red_1",
-            "start_time": 0.05,
-            "speed": 0.5
+            "animation": "just_blink_red_smoothed",
+            "start_time": 1,
+            "speed": 2
           },
           {
             "bone_name": "evl_red_5",
-            "animation": "just_blink_red_1",
+            "animation": "just_blink_red_smoothed",
             "start_time": 0,
-            "speed": 6
+            "speed": 2
           },
           {
             "bone_name": "evl_red_6",
-            "animation": "double_blink_red_1",
-            "start_time": 0.05,
-            "speed": 0.5
+            "animation": "just_blink_red_smoothed",
+            "start_time": 1,
+            "speed": 2
           },
           {
             "bone_name": "evl_red_7",
-            "animation": "just_blink_red_1",
+            "animation": "just_blink_red_smoothed",
             "start_time": 0,
-            "speed": 6
+            "speed": 2
           },
           {
             "bone_name": "evl_red_8",
-            "animation": "double_blink_red_1",
-            "start_time": 0.05,
-            "speed": 0.5
+            "animation": "just_blink_red_smoothed",
+            "start_time": 1,
+            "speed": 2
           },
           {
-            "bone_name": "evl_red_9",
-            "animation": "just_blink_red_1",
+            "bone_name": "evl_blue_1",
+            "animation": "just_blink_blue_smoothed",
+            "start_time": 1,
+            "speed": 2
+          },
+          {
+            "bone_name": "evl_blue_2",
+            "animation": "just_blink_blue_smoothed",
             "start_time": 0,
-            "speed": 6
+            "speed": 2
           },
           {
-            "bone_name": "evl_red_10",
-            "animation": "double_blink_red_1",
-            "start_time": 0.05,
-            "speed": 0.5
+            "bone_name": "evl_blue_3",
+            "animation": "just_blink_blue_smoothed",
+            "start_time": 1,
+            "speed": 2
           },
           {
-            "bone_name": "evl_white_1",
-            "animation": "just_blink_white_1",
+            "bone_name": "evl_blue_4",
+            "animation": "just_blink_blue_smoothed",
             "start_time": 0,
-            "speed": 3
+            "speed": 2
           },
           {
-            "bone_name": "evl_white_2",
-            "animation": "just_blink_white_1",
-            "start_time": 3,
-            "speed": 3
+            "bone_name": "evl_blue_5",
+            "animation": "just_blink_blue_smoothed",
+            "start_time": 1,
+            "speed": 2
+          },
+          {
+            "bone_name": "evl_blue_6",
+            "animation": "just_blink_blue_smoothed",
+            "start_time": 0,
+            "speed": 2
+          },
+          {
+            "bone_name": "evl_blue_7",
+            "animation": "just_blink_blue_smoothed",
+            "start_time": 1,
+            "speed": 2
+          },
+          {
+            "bone_name": "evl_blue_8",
+            "animation": "just_blink_blue_smoothed",
+            "start_time": 0,
+            "speed": 2
           }
         ],
         "materials": [
           {
-            "group": 0,
+            "group": 6,
             "animation": "just_blink_red_1",
             "start_time": 0,
             "speed": 6
           },
           {
-            "group": 1,
+            "group": 7,
             "animation": "double_blink_red_1",
             "start_time": 0.05,
             "speed": 0.5
           },
           {
-            "group": 2,
+            "group": 8,
             "animation": "just_blink_blue_1",
             "start_time": 0,
             "speed": 6
           },
           {
-            "group": 3,
+            "group": 9,
             "animation": "double_blink_blue_1",
             "start_time": 0.05,
             "speed": 0.5
           },
           {
-            "group": 4,
+            "group": 10,
             "animation": "just_blink_white_1",
             "start_time": 0,
             "speed": 3
           },
           {
-            "group": 5,
+            "group": 11,
             "animation": "just_blink_white_1",
             "start_time": 3,
             "speed": 3
@@ -2078,27 +2106,75 @@
         "model_id": 15499,
         "coronas": [
           {
+            "bone_name": "evl_red_1",
+            "animation": "just_blink_red_smoothed",
+            "start_time": 0,
+            "speed": 2
+          },
+          {
+            "bone_name": "evl_red_2",
+            "animation": "just_blink_red_smoothed",
+            "start_time": 1,
+            "speed": 2
+          },
+          {
+            "bone_name": "evl_red_3",
+            "animation": "just_blink_red_smoothed",
+            "start_time": 0,
+            "speed": 2
+          },
+          {
+            "bone_name": "evl_red_4",
+            "animation": "just_blink_red_smoothed",
+            "start_time": 1,
+            "speed": 2
+          },
+          {
+            "bone_name": "evl_red_5",
+            "animation": "just_blink_red_smoothed",
+            "start_time": 0,
+            "speed": 2
+          },
+          {
+            "bone_name": "evl_red_6",
+            "animation": "just_blink_red_smoothed",
+            "start_time": 1,
+            "speed": 2
+          },
+          {
+            "bone_name": "evl_red_7",
+            "animation": "just_blink_red_smoothed",
+            "start_time": 0,
+            "speed": 2
+          },
+          {
+            "bone_name": "evl_red_8",
+            "animation": "just_blink_red_smoothed",
+            "start_time": 1,
+            "speed": 2
+          },
+          {
             "bone_name": "evl_blue_1",
             "animation": "just_blink_blue_smoothed",
-            "start_time": 0,
+            "start_time": 1,
             "speed": 2
           },
           {
             "bone_name": "evl_blue_2",
             "animation": "just_blink_blue_smoothed",
-            "start_time": 1,
+            "start_time": 0,
             "speed": 2
           },
           {
             "bone_name": "evl_blue_3",
             "animation": "just_blink_blue_smoothed",
-            "start_time": 0,
+            "start_time": 1,
             "speed": 2
           },
           {
             "bone_name": "evl_blue_4",
             "animation": "just_blink_blue_smoothed",
-            "start_time": 1,
+            "start_time": 0,
             "speed": 2
           },
           {
@@ -2124,101 +2200,29 @@
             "animation": "just_blink_blue_smoothed",
             "start_time": 0,
             "speed": 2
-          },
-          {
-            "bone_name": "evl_blue_9",
-            "animation": "just_blink_blue_smoothed",
-            "start_time": 0,
-            "speed": 2
-          },
-          {
-            "bone_name": "evl_blue_10",
-            "animation": "just_blink_blue_smoothed",
-            "start_time": 1,
-            "speed": 2
-          },
-          {
-            "bone_name": "evl_blue_11",
-            "animation": "just_blink_blue_smoothed",
-            "start_time": 0,
-            "speed": 2
-          },
-          {
-            "bone_name": "evl_blue_12",
-            "animation": "just_blink_blue_smoothed",
-            "start_time": 1,
-            "speed": 2
-          },
-          {
-            "bone_name": "evl_blue_13",
-            "animation": "just_blink_blue_smoothed",
-            "start_time": 1,
-            "speed": 2
-          },
-          {
-            "bone_name": "evl_blue_14",
-            "animation": "just_blink_blue_smoothed",
-            "start_time": 0,
-            "speed": 2
-          },
-          {
-            "bone_name": "evl_blue_15",
-            "animation": "just_blink_blue_smoothed",
-            "start_time": 1,
-            "speed": 2
-          },
-          {
-            "bone_name": "evl_blue_16",
-            "animation": "just_blink_blue_smoothed",
-            "start_time": 0,
-            "speed": 2
-          },
-          {
-            "bone_name": "evl_und_1",
-            "animation": "double_blink_red_1",
-            "start_time": 0,
-            "speed": 1
-          },
-          {
-            "bone_name": "evl_und_2",
-            "animation": "double_blink_red_1",
-            "start_time": 0,
-            "speed": 1
-          },
-          {
-            "bone_name": "evl_und_3",
-            "animation": "double_blink_blue_1",
-            "start_time": 2,
-            "speed": 1
-          },
-          {
-            "bone_name": "evl_und_4",
-            "animation": "double_blink_blue_1",
-            "start_time": 2,
-            "speed": 1
           }
         ],
         "materials": [
           {
-            "group": 0,
+            "group": 4,
             "animation": "just_blink_blue_smoothed",
             "start_time": 0,
             "speed": 2
           },
           {
-            "group": 1,
+            "group": 5,
             "animation": "just_blink_blue_smoothed",
             "start_time": 1,
             "speed": 2
           },
           {
-            "group": 2,
+            "group": 6,
             "animation": "double_blink_red_1",
             "start_time": 0,
             "speed": 1
           },
           {
-            "group": 3,
+            "group": 7,
             "animation": "double_blink_blue_1",
             "start_time": 2,
             "speed": 1
@@ -2380,147 +2384,123 @@
         "model_id": 16909,
         "coronas": [
           {
-            "bone_name": "evl_blue_1",
-            "animation": "just_blink_red_smoothed",
-            "start_time": 0,
-            "speed": 2
-          },
-          {
-            "bone_name": "evl_blue_2",
-            "animation": "just_blink_red_smoothed",
-            "start_time": 1,
-            "speed": 2
-          },
-          {
-            "bone_name": "evl_blue_3",
-            "animation": "just_blink_red_smoothed",
-            "start_time": 0,
-            "speed": 2
-          },
-          {
-            "bone_name": "evl_blue_4",
-            "animation": "just_blink_red_smoothed",
-            "start_time": 1,
-            "speed": 2
-          },
-          {
-            "bone_name": "evl_blue_5",
-            "animation": "just_blink_red_smoothed",
-            "start_time": 0,
-            "speed": 2
-          },
-          {
-            "bone_name": "evl_blue_6",
-            "animation": "just_blink_red_smoothed",
-            "start_time": 1,
-            "speed": 2
-          },
-          {
-            "bone_name": "evl_blue_7",
-            "animation": "just_blink_red_smoothed",
-            "start_time": 0,
-            "speed": 2
-          },
-          {
-            "bone_name": "evl_blue_8",
-            "animation": "just_blink_red_smoothed",
-            "start_time": 1,
-            "speed": 2
-          },
-          {
-            "bone_name": "evl_blue_9",
-            "animation": "just_blink_red_smoothed",
-            "start_time": 0,
-            "speed": 2
-          },
-          {
-            "bone_name": "evl_blue_10",
-            "animation": "just_blink_red_smoothed",
-            "start_time": 1,
-            "speed": 2
-          },
-          {
             "bone_name": "evl_red_1",
-            "animation": "just_blink_blue_smoothed",
+            "animation": "just_blink_red_smoothed",
             "start_time": 0,
             "speed": 2
           },
           {
             "bone_name": "evl_red_2",
-            "animation": "just_blink_blue_smoothed",
+            "animation": "just_blink_red_smoothed",
             "start_time": 1,
             "speed": 2
           },
           {
             "bone_name": "evl_red_3",
-            "animation": "just_blink_blue_smoothed",
+            "animation": "just_blink_red_smoothed",
             "start_time": 0,
             "speed": 2
           },
           {
             "bone_name": "evl_red_4",
-            "animation": "just_blink_blue_smoothed",
+            "animation": "just_blink_red_smoothed",
             "start_time": 1,
             "speed": 2
           },
           {
             "bone_name": "evl_red_5",
-            "animation": "just_blink_blue_smoothed",
+            "animation": "just_blink_red_smoothed",
             "start_time": 0,
             "speed": 2
           },
           {
             "bone_name": "evl_red_6",
-            "animation": "just_blink_blue_smoothed",
+            "animation": "just_blink_red_smoothed",
             "start_time": 1,
             "speed": 2
           },
           {
             "bone_name": "evl_red_7",
-            "animation": "just_blink_blue_smoothed",
+            "animation": "just_blink_red_smoothed",
             "start_time": 0,
             "speed": 2
           },
           {
             "bone_name": "evl_red_8",
+            "animation": "just_blink_red_smoothed",
+            "start_time": 1,
+            "speed": 2
+          },
+          {
+            "bone_name": "evl_blue_1",
             "animation": "just_blink_blue_smoothed",
             "start_time": 1,
             "speed": 2
           },
           {
-            "bone_name": "evl_red_9",
+            "bone_name": "evl_blue_2",
             "animation": "just_blink_blue_smoothed",
             "start_time": 0,
             "speed": 2
           },
           {
-            "bone_name": "evl_red_10",
+            "bone_name": "evl_blue_3",
             "animation": "just_blink_blue_smoothed",
             "start_time": 1,
+            "speed": 2
+          },
+          {
+            "bone_name": "evl_blue_4",
+            "animation": "just_blink_blue_smoothed",
+            "start_time": 0,
+            "speed": 2
+          },
+          {
+            "bone_name": "evl_blue_5",
+            "animation": "just_blink_blue_smoothed",
+            "start_time": 1,
+            "speed": 2
+          },
+          {
+            "bone_name": "evl_blue_6",
+            "animation": "just_blink_blue_smoothed",
+            "start_time": 0,
+            "speed": 2
+          },
+          {
+            "bone_name": "evl_blue_7",
+            "animation": "just_blink_blue_smoothed",
+            "start_time": 1,
+            "speed": 2
+          },
+          {
+            "bone_name": "evl_blue_8",
+            "animation": "just_blink_blue_smoothed",
+            "start_time": 0,
             "speed": 2
           }
         ],
         "materials": [
           {
-            "group": 0,
+            "group": 4,
             "animation": "just_blink_red_smoothed",
             "start_time": 0,
             "speed": 2
           },
           {
-            "group": 1,
+            "group": 5,
             "animation": "just_blink_red_smoothed",
             "start_time": 1,
             "speed": 2
           },
           {
-            "group": 2,
+            "group": 6,
             "animation": "just_blink_blue_smoothed",
             "start_time": 0,
             "speed": 2
           },
           {
-            "group": 3,
+            "group": 7,
             "animation": "just_blink_blue_smoothed",
             "start_time": 1,
             "speed": 2
@@ -3155,23 +3135,17 @@
           {
             "bone_name": "evl_orange_8",
             "animation": "just_blink_orange_1",
-            "start_time": 0,
+            "start_time": 1,
             "speed": 2
           },
           {
             "bone_name": "evl_orange_9",
             "animation": "just_blink_orange_1",
-            "start_time": 1,
-            "speed": 2
-          },
-          {
-            "bone_name": "evl_orange_10",
-            "animation": "just_blink_orange_1",
             "start_time": 0,
             "speed": 2
           },
           {
-            "bone_name": "evl_orange_11",
+            "bone_name": "evl_orange_10",
             "animation": "just_blink_orange_1",
             "start_time": 1,
             "speed": 2
@@ -3502,6 +3476,115 @@
         "materials": [
           {
             "group": 0,
+            "animation": "police_undercover_1",
+            "start_time": 0,
+            "speed": 2
+          }
+        ]
+      },
+      {
+        "model_id": 427,
+        "coronas": [
+          {
+            "bone_name": "evl_blue_1",
+            "animation": "just_blink_blue_1",
+            "start_time": 1,
+            "speed": 2
+          },
+          {
+            "bone_name": "evl_blue_2",
+            "animation": "just_blink_blue_1",
+            "start_time": 0,
+            "speed": 2
+          },
+          {
+            "bone_name": "evl_blue_3",
+            "animation": "just_blink_blue_1",
+            "start_time": 0,
+            "speed": 2
+          },
+          {
+            "bone_name": "evl_red_1",
+            "animation": "just_blink_red_1",
+            "start_time": 0,
+            "speed": 2
+          },
+          {
+            "bone_name": "evl_red_2",
+            "animation": "just_blink_red_1",
+            "start_time": 1,
+            "speed": 2
+          },
+          {
+            "bone_name": "evl_red_3",
+            "animation": "just_blink_red_1",
+            "start_time": 0,
+            "speed": 2
+          },
+          {
+            "bone_name": "evl_red_4",
+            "animation": "just_blink_red_1",
+            "start_time": 1,
+            "speed": 2
+          },
+          {
+            "bone_name": "evl_red_5",
+            "animation": "just_blink_red_1",
+            "start_time": 0,
+            "speed": 2
+          },
+          {
+            "bone_name": "evl_red_6",
+            "animation": "just_blink_red_1",
+            "start_time": 1,
+            "speed": 2
+          },
+          {
+            "bone_name": "evl_red_7",
+            "animation": "just_blink_red_1",
+            "start_time": 0,
+            "speed": 2
+          },
+          {
+            "bone_name": "evl_red_8",
+            "animation": "just_blink_red_1",
+            "start_time": 1,
+            "speed": 2
+          },
+          {
+            "bone_name": "evl_red_9",
+            "animation": "just_blink_red_1",
+            "start_time": 0,
+            "speed": 2
+          },
+          {
+            "bone_name": "evl_red_10",
+            "animation": "just_blink_red_1",
+            "start_time": 1,
+            "speed": 2
+          },
+          {
+            "bone_name": "evl_red_11",
+            "animation": "just_blink_red_1",
+            "start_time": 1,
+            "speed": 2
+          },
+          {
+            "bone_name": "evl_red_12",
+            "animation": "just_blink_red_1",
+            "start_time": 0,
+            "speed": 2
+          },
+          {
+            "bone_name": "evl_red_13",
+            "animation": "just_blink_red_1",
+            "start_time": 0,
+            "speed": 2
+          }
+        ],
+        "materials": [
+          {
+            "group": 6,
             "animation": "police_undercover_1",
             "start_time": 0,
             "speed": 2

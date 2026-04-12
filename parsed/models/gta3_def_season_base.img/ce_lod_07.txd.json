@@ -2,118 +2,6 @@
   "type": "txd",
   "textures": [
     {
-      "name": "cw2_mountdirtLOD",
-      "width": 32,
-      "height": 32,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "cw2_mountdirt2grassLOD",
-      "width": 32,
-      "height": 32,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "Tar_1linefreewyLOD",
-      "width": 32,
-      "height": 32,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "sw_grass01aLOD",
-      "width": 32,
-      "height": 32,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "des_dirt1LOD",
-      "width": 32,
-      "height": 32,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "des_dirt1GrassLOD",
-      "width": 32,
-      "height": 32,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "sw_rockgrass1LOD",
-      "width": 32,
-      "height": 32,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "grassdead1blndLOD",
-      "width": 32,
-      "height": 32,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "grassdead1LOD",
-      "width": 32,
-      "height": 32,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "sw_rock1LOD",
-      "width": 32,
-      "height": 32,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "desertgryard256grs2LOD",
-      "width": 32,
-      "height": 32,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "dirtblendlitLOD",
-      "width": 32,
-      "height": 32,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "grassbrn2rockbrnLOD",
-      "width": 32,
-      "height": 32,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "conc_wall_stripxLOD",
-      "width": 32,
-      "height": 32,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "Gen_Scrap_Wheel_RimLOD",
-      "width": 32,
-      "height": 32,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "rustyboltsLOD",
-      "width": 16,
-      "height": 16,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
       "name": "banding9_64HVLOD",
       "width": 16,
       "height": 16,
@@ -121,154 +9,14 @@
       "alpha": false
     },
     {
-      "name": "CE_SprayLOD",
-      "width": 64,
-      "height": 64,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "cuntetownroad2LOD",
-      "width": 64,
-      "height": 64,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "sw_gasgroundLOD",
+      "name": "BLOCKLOD",
       "width": 32,
       "height": 32,
       "format": "DXT1",
       "alpha": false
     },
     {
-      "name": "CE_roadverge",
-      "width": 32,
-      "height": 32,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "cuntetownroad1LOD",
-      "width": 64,
-      "height": 64,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "sw_copshop_LOD",
-      "width": 64,
-      "height": 64,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "sw_copshopR_LOD",
-      "width": 64,
-      "height": 64,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "sw_fact01_LOD",
-      "width": 64,
-      "height": 64,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "sw_fact01R_LOD",
-      "width": 64,
-      "height": 64,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "sw_block10_LOD",
-      "width": 64,
-      "height": 64,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "sw_shopflat06_LOD",
-      "width": 64,
-      "height": 64,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "sw_shopflat02_LOD",
-      "width": 64,
-      "height": 64,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "sw_gas01_LOD",
-      "width": 64,
-      "height": 64,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "sw_gas01R_LOD",
-      "width": 64,
-      "height": 64,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "sw_block03_LOD",
-      "width": 64,
-      "height": 64,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "sw_block03R_LOD",
-      "width": 64,
-      "height": 64,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "sw_block09_LOD",
-      "width": 64,
-      "height": 64,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "sw_block09R_LOD",
-      "width": 64,
-      "height": 64,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "sw_genstore02_LOD",
-      "width": 64,
-      "height": 64,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "sw_diner1_LOD",
-      "width": 64,
-      "height": 64,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "sw_diner1R_LOD",
-      "width": 64,
-      "height": 64,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "sw_rockgrassB2LOD",
+      "name": "Bow_church_dirtLOD",
       "width": 32,
       "height": 32,
       "format": "DXT1",
@@ -282,6 +30,76 @@
       "alpha": false
     },
     {
+      "name": "CE_roadverge",
+      "width": 32,
+      "height": 32,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "CE_SprayLOD",
+      "width": 64,
+      "height": 64,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "conc_wall_stripxLOD",
+      "width": 32,
+      "height": 32,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "cuntetownroad1LOD",
+      "width": 64,
+      "height": 64,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "cuntetownroad2LOD",
+      "width": 64,
+      "height": 64,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "cunte_roadwideside",
+      "width": 64,
+      "height": 64,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "cw2_mountdirt2grassLOD",
+      "width": 32,
+      "height": 32,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "cw2_mountdirtLOD",
+      "width": 32,
+      "height": 32,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "desertgravelgrass256LOD",
+      "width": 32,
+      "height": 32,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "desertgryard256grs2LOD",
+      "width": 32,
+      "height": 32,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
       "name": "desertgryard256LOD",
       "width": 32,
       "height": 32,
@@ -289,28 +107,21 @@
       "alpha": false
     },
     {
-      "name": "lostonclad1LOD",
+      "name": "desertstones256LOD",
       "width": 32,
       "height": 32,
       "format": "DXT1",
       "alpha": false
     },
     {
-      "name": "gravelkb2_128LOD",
+      "name": "desgreengrassLOD",
       "width": 32,
       "height": 32,
       "format": "DXT1",
       "alpha": false
     },
     {
-      "name": "des_ranchwall1LOD",
-      "width": 32,
-      "height": 32,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "redbrickground256LOD",
+      "name": "desgreengrassmixLOD",
       "width": 32,
       "height": 32,
       "format": "DXT1",
@@ -324,16 +135,16 @@
       "alpha": false
     },
     {
-      "name": "BLOCKLOD",
+      "name": "des_dirt1GrassLOD",
       "width": 32,
       "height": 32,
       "format": "DXT1",
       "alpha": false
     },
     {
-      "name": "cunte_roadwideside",
-      "width": 64,
-      "height": 64,
+      "name": "des_dirt1LOD",
+      "width": 32,
+      "height": 32,
       "format": "DXT1",
       "alpha": false
     },
@@ -359,35 +170,14 @@
       "alpha": false
     },
     {
-      "name": "sw_grass01LOD",
+      "name": "des_ranchwall1LOD",
       "width": 32,
       "height": 32,
       "format": "DXT1",
       "alpha": false
     },
     {
-      "name": "dirtywall_256LOD",
-      "width": 32,
-      "height": 32,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "sw_stonesgrassLOD",
-      "width": 32,
-      "height": 32,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "Bow_church_dirtLOD",
-      "width": 32,
-      "height": 32,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "grassbrn2rockbrnGLOD",
+      "name": "dirtblendlitLOD",
       "width": 32,
       "height": 32,
       "format": "DXT1",
@@ -401,56 +191,7 @@
       "alpha": false
     },
     {
-      "name": "rocktbrn128LOD",
-      "width": 32,
-      "height": 32,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "sw_sandLOD",
-      "width": 32,
-      "height": 32,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "sw_sandgrassLOD",
-      "width": 32,
-      "height": 32,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "sw_rockgrassB1LOD",
-      "width": 32,
-      "height": 32,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "desgreengrassmixLOD",
-      "width": 32,
-      "height": 32,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "desertgravelgrass256LOD",
-      "width": 32,
-      "height": 32,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "rocktbrn128blLOD",
-      "width": 32,
-      "height": 32,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "forestfloorgrassLOD",
+      "name": "dirtywall_256LOD",
       "width": 32,
       "height": 32,
       "format": "DXT1",
@@ -464,16 +205,275 @@
       "alpha": false
     },
     {
-      "name": "desgreengrassLOD",
+      "name": "forestfloorgrassLOD",
       "width": 32,
       "height": 32,
       "format": "DXT1",
       "alpha": false
     },
     {
-      "name": "desertstones256LOD",
+      "name": "Gen_Scrap_Wheel_RimLOD",
       "width": 32,
       "height": 32,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "grassbrn2rockbrnGLOD",
+      "width": 32,
+      "height": 32,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "grassbrn2rockbrnLOD",
+      "width": 32,
+      "height": 32,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "grassdead1blndLOD",
+      "width": 32,
+      "height": 32,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "grassdead1LOD",
+      "width": 32,
+      "height": 32,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "gravelkb2_128LOD",
+      "width": 32,
+      "height": 32,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "lostonclad1LOD",
+      "width": 32,
+      "height": 32,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "redbrickground256LOD",
+      "width": 32,
+      "height": 32,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "rocktbrn128blLOD",
+      "width": 32,
+      "height": 32,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "rocktbrn128LOD",
+      "width": 32,
+      "height": 32,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "rustyboltsLOD",
+      "width": 16,
+      "height": 16,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "sw_block03R_LOD",
+      "width": 64,
+      "height": 64,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "sw_block03_LOD",
+      "width": 64,
+      "height": 64,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "sw_block09R_LOD",
+      "width": 64,
+      "height": 64,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "sw_block09_LOD",
+      "width": 64,
+      "height": 64,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "sw_block10_LOD",
+      "width": 64,
+      "height": 64,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "sw_copshopR_LOD",
+      "width": 64,
+      "height": 64,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "sw_copshop_LOD",
+      "width": 64,
+      "height": 64,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "sw_diner1R_LOD",
+      "width": 64,
+      "height": 64,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "sw_diner1_LOD",
+      "width": 64,
+      "height": 64,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "sw_fact01R_LOD",
+      "width": 64,
+      "height": 64,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "sw_fact01_LOD",
+      "width": 64,
+      "height": 64,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "sw_gas01R_LOD",
+      "width": 64,
+      "height": 64,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "sw_gas01_LOD",
+      "width": 64,
+      "height": 64,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "sw_gasgroundLOD",
+      "width": 32,
+      "height": 32,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "sw_genstore02_LOD",
+      "width": 64,
+      "height": 64,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "sw_grass01aLOD",
+      "width": 32,
+      "height": 32,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "sw_grass01LOD",
+      "width": 32,
+      "height": 32,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "sw_rock1LOD",
+      "width": 32,
+      "height": 32,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "sw_rockgrass1LOD",
+      "width": 32,
+      "height": 32,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "sw_rockgrassB1LOD",
+      "width": 32,
+      "height": 32,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "sw_rockgrassB2LOD",
+      "width": 32,
+      "height": 32,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "sw_sandgrassLOD",
+      "width": 32,
+      "height": 32,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "sw_sandLOD",
+      "width": 32,
+      "height": 32,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "sw_shopflat02_LOD",
+      "width": 64,
+      "height": 64,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "sw_shopflat06_LOD",
+      "width": 64,
+      "height": 64,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "sw_stonesgrassLOD",
+      "width": 32,
+      "height": 32,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "Tar_1linefreewyLOD",
+      "width": 64,
+      "height": 64,
       "format": "DXT1",
       "alpha": false
     }

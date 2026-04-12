@@ -2,77 +2,7 @@
   "type": "txd",
   "textures": [
     {
-      "name": "des_bullboards",
-      "width": 128,
-      "height": 128,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "des_bywall2",
-      "width": 256,
-      "height": 256,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "ws_rooftarmac1",
-      "width": 256,
-      "height": 256,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "des_ghotwood1",
-      "width": 128,
-      "height": 128,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "des_adobedoor1",
-      "width": 64,
-      "height": 128,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "sw_wind10",
-      "width": 256,
-      "height": 128,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "sw_wind07",
-      "width": 128,
-      "height": 128,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "des_factower",
-      "width": 256,
-      "height": 256,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "des_bywall1",
-      "width": 256,
-      "height": 256,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
       "name": "banding3c_64HV",
-      "width": 64,
-      "height": 64,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "des_shingles",
       "width": 256,
       "height": 256,
       "format": "DXT1",
@@ -86,43 +16,36 @@
       "alpha": false
     },
     {
-      "name": "sw_barnwood5",
+      "name": "des_bullboards",
+      "width": 128,
+      "height": 128,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "des_bywall1",
       "width": 256,
       "height": 256,
       "format": "DXT1",
       "alpha": false
     },
     {
-      "name": "Upt_Fence_Mesh",
+      "name": "des_bywall2",
       "width": 256,
       "height": 256,
-      "format": "DXT3",
-      "alpha": true
+      "format": "DXT1",
+      "alpha": false
     },
     {
-      "name": "corr_roof1",
-      "width": 128,
-      "height": 128,
+      "name": "des_factower",
+      "width": 256,
+      "height": 256,
       "format": "DXT1",
       "alpha": false
     },
     {
       "name": "des_ntwnwin2",
       "width": 256,
-      "height": 256,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "des_adobedoor3",
-      "width": 128,
-      "height": 128,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "ws_corr_metal1",
-      "width": 128,
       "height": 256,
       "format": "DXT1",
       "alpha": false
@@ -135,8 +58,22 @@
       "alpha": false
     },
     {
-      "name": "des_dustconc",
+      "name": "sw_barnwood5",
+      "width": 256,
+      "height": 256,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "sw_wind07",
       "width": 128,
+      "height": 128,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "sw_wind10",
+      "width": 256,
       "height": 128,
       "format": "DXT1",
       "alpha": false

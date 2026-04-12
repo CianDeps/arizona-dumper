@@ -2,21 +2,7 @@
   "type": "txd",
   "textures": [
     {
-      "name": "des_metaldoor1",
-      "width": 256,
-      "height": 256,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "ws_controltowerwin1",
-      "width": 256,
-      "height": 128,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "roof11new",
+      "name": "bluemetal03",
       "width": 256,
       "height": 256,
       "format": "DXT1",
@@ -30,9 +16,23 @@
       "alpha": false
     },
     {
-      "name": "bluemetal03",
-      "width": 64,
-      "height": 64,
+      "name": "des_metaldoor1",
+      "width": 256,
+      "height": 256,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "newtreeleaves128",
+      "width": 256,
+      "height": 256,
+      "format": "DXT5",
+      "alpha": true
+    },
+    {
+      "name": "roof11new",
+      "width": 256,
+      "height": 256,
       "format": "DXT1",
       "alpha": false
     },
@@ -40,20 +40,13 @@
       "name": "sm_des_bush1",
       "width": 128,
       "height": 128,
-      "format": "DXT3",
+      "format": "DXT5",
       "alpha": true
     },
     {
-      "name": "newtreeleaves128",
-      "width": 128,
-      "height": 128,
-      "format": "DXT3",
-      "alpha": true
-    },
-    {
-      "name": "ws_rooftarmac1",
+      "name": "ws_controltowerwin1",
       "width": 256,
-      "height": 256,
+      "height": 128,
       "format": "DXT1",
       "alpha": false
     }

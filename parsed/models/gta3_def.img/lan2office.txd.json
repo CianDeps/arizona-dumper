@@ -2,7 +2,21 @@
   "type": "txd",
   "textures": [
     {
-      "name": "glass_office7",
+      "name": "glass_office1",
+      "width": 256,
+      "height": 256,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "glass_office2",
+      "width": 256,
+      "height": 256,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "glass_office3",
       "width": 32,
       "height": 32,
       "format": "DXT1",
@@ -16,16 +30,9 @@
       "alpha": false
     },
     {
-      "name": "glass_office3",
+      "name": "glass_office5",
       "width": 32,
       "height": 32,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "glass_office2",
-      "width": 256,
-      "height": 256,
       "format": "DXT1",
       "alpha": false
     },
@@ -37,23 +44,16 @@
       "alpha": false
     },
     {
+      "name": "glass_office7",
+      "width": 32,
+      "height": 32,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
       "name": "glass_office8",
       "width": 32,
       "height": 32,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "glass_office5",
-      "width": 32,
-      "height": 32,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "glass_office1",
-      "width": 256,
-      "height": 256,
       "format": "DXT1",
       "alpha": false
     }

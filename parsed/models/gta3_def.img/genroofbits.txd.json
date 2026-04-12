@@ -2,23 +2,9 @@
   "type": "txd",
   "textures": [
     {
-      "name": "aroofbit5",
-      "width": 64,
-      "height": 128,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "aroofbit6",
+      "name": "aroofbit1",
       "width": 128,
       "height": 128,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "aroofbit4",
-      "width": 64,
-      "height": 64,
       "format": "DXT1",
       "alpha": false
     },
@@ -37,22 +23,29 @@
       "alpha": false
     },
     {
-      "name": "aroofbit7",
+      "name": "aroofbit4",
+      "width": 64,
+      "height": 64,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "aroofbit5",
       "width": 64,
       "height": 128,
       "format": "DXT1",
       "alpha": false
     },
     {
-      "name": "aroofbit93",
+      "name": "aroofbit6",
       "width": 128,
-      "height": 32,
+      "height": 128,
       "format": "DXT1",
       "alpha": false
     },
     {
-      "name": "aroofbit1",
-      "width": 128,
+      "name": "aroofbit7",
+      "width": 64,
       "height": 128,
       "format": "DXT1",
       "alpha": false
@@ -75,8 +68,15 @@
       "name": "aroofbit91",
       "width": 64,
       "height": 128,
-      "format": "DXT3",
+      "format": "DXT5",
       "alpha": true
+    },
+    {
+      "name": "aroofbit93",
+      "width": 128,
+      "height": 32,
+      "format": "DXT1",
+      "alpha": false
     }
   ]
 }

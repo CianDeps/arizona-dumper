@@ -5,9 +5,36 @@
   "geometries": [
     {
       "index": 0,
-      "vertices": 835,
-      "triangles": 511,
+      "vertices": 859,
+      "triangles": 551,
       "materials": [
+        {
+          "color": {
+            "r": 255,
+            "g": 255,
+            "b": 255,
+            "a": 255
+          },
+          "texture": null
+        },
+        {
+          "color": {
+            "r": 255,
+            "g": 255,
+            "b": 255,
+            "a": 255
+          },
+          "texture": null
+        },
+        {
+          "color": {
+            "r": 255,
+            "g": 255,
+            "b": 255,
+            "a": 255
+          },
+          "texture": null
+        },
         {
           "color": {
             "r": 255,
@@ -139,6 +166,6 @@
   ],
   "frames": 1,
   "dummies": [
-    "spray01_LAwN"
+    "spray01_lawn"
   ]
 }

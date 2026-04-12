@@ -2,7 +2,21 @@
   "type": "txd",
   "textures": [
     {
-      "name": "corporate1",
+      "name": "des_elepylon",
+      "width": 256,
+      "height": 128,
+      "format": "DXT5",
+      "alpha": true
+    },
+    {
+      "name": "des_facmetal",
+      "width": 256,
+      "height": 256,
+      "format": "DXT5",
+      "alpha": true
+    },
+    {
+      "name": "drvin_back",
       "width": 128,
       "height": 128,
       "format": "DXT1",
@@ -16,41 +30,6 @@
       "alpha": false
     },
     {
-      "name": "des_elepylon",
-      "width": 256,
-      "height": 128,
-      "format": "DXT1",
-      "alpha": true
-    },
-    {
-      "name": "ws_corrugated1",
-      "width": 128,
-      "height": 128,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "roof06L256",
-      "width": 128,
-      "height": 128,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "des_dam_conc",
-      "width": 128,
-      "height": 128,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "ws_whitewall2_top",
-      "width": 256,
-      "height": 256,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
       "name": "newall11-1",
       "width": 128,
       "height": 128,
@@ -58,37 +37,9 @@
       "alpha": false
     },
     {
-      "name": "des_ghotwood1",
-      "width": 128,
-      "height": 128,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "drvin_back",
-      "width": 128,
-      "height": 128,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "des_facmetal",
+      "name": "roof06L256",
       "width": 256,
       "height": 256,
-      "format": "DXT3",
-      "alpha": true
-    },
-    {
-      "name": "pavea256",
-      "width": 256,
-      "height": 256,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "Tar_1line256HV",
-      "width": 512,
-      "height": 512,
       "format": "DXT1",
       "alpha": false
     },
@@ -100,9 +51,9 @@
       "alpha": false
     },
     {
-      "name": "BLOCK2",
-      "width": 128,
-      "height": 128,
+      "name": "ws_whitewall2_top",
+      "width": 256,
+      "height": 256,
       "format": "DXT1",
       "alpha": false
     }

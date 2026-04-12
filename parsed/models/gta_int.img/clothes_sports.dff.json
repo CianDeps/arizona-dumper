@@ -5,7 +5,7 @@
   "geometries": [
     {
       "index": 0,
-      "vertices": 1014,
+      "vertices": 1017,
       "triangles": 760,
       "materials": [
         {
@@ -88,6 +88,15 @@
             "a": 255
           },
           "texture": null
+        },
+        {
+          "color": {
+            "r": 149,
+            "g": 149,
+            "b": 149,
+            "a": 255
+          },
+          "texture": null
         }
       ]
     }
@@ -95,7 +104,7 @@
   "frames": 3,
   "dummies": [
     "clothes_sports",
-    "Omni307",
-    "Omni305"
+    "Omni305",
+    "2dfx1"
   ]
 }

@@ -2,21 +2,7 @@
   "type": "txd",
   "textures": [
     {
-      "name": "ventb64",
-      "width": 64,
-      "height": 64,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
       "name": "banding3_64HV",
-      "width": 64,
-      "height": 64,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "lasjmscruffwall3",
       "width": 256,
       "height": 256,
       "format": "DXT1",
@@ -26,11 +12,32 @@
       "name": "fire_esc_fence",
       "width": 64,
       "height": 64,
-      "format": "DXT1",
+      "format": "DXT5",
       "alpha": true
     },
     {
-      "name": "vnghse6_128",
+      "name": "lasjmscruffwall3",
+      "width": 256,
+      "height": 256,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "ventb64",
+      "width": 64,
+      "height": 64,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "vgnwrehse2_256",
+      "width": 128,
+      "height": 128,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "vgnwrehse3_256",
       "width": 128,
       "height": 128,
       "format": "DXT1",
@@ -44,14 +51,7 @@
       "alpha": false
     },
     {
-      "name": "vgnwrehse2_256",
-      "width": 128,
-      "height": 128,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "vgnwrehse3_256",
+      "name": "vnghse6_128",
       "width": 128,
       "height": 128,
       "format": "DXT1",

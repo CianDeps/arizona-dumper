@@ -2,20 +2,6 @@
   "type": "txd",
   "textures": [
     {
-      "name": "paveslab1",
-      "width": 64,
-      "height": 64,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "sw_door07",
-      "width": 64,
-      "height": 128,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
       "name": "asanwall1",
       "width": 128,
       "height": 128,
@@ -23,7 +9,7 @@
       "alpha": false
     },
     {
-      "name": "studwalltop_law",
+      "name": "beachwalk_law",
       "width": 128,
       "height": 128,
       "format": "DXT1",
@@ -33,20 +19,6 @@
       "name": "boardwalk2_la",
       "width": 128,
       "height": 128,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "pierplanks_128",
-      "width": 64,
-      "height": 64,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "sjmcargr",
-      "width": 256,
-      "height": 256,
       "format": "DXT1",
       "alpha": false
     },
@@ -65,28 +37,14 @@
       "alpha": false
     },
     {
-      "name": "banding9_64HV",
-      "width": 64,
-      "height": 64,
+      "name": "paveslab1",
+      "width": 256,
+      "height": 256,
       "format": "DXT1",
       "alpha": false
     },
     {
-      "name": "steel64",
-      "width": 64,
-      "height": 64,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "beachwalk_law",
-      "width": 128,
-      "height": 128,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "concretebigb256128",
+      "name": "pierplanks_128",
       "width": 64,
       "height": 64,
       "format": "DXT1",
@@ -100,8 +58,15 @@
       "alpha": false
     },
     {
-      "name": "Grass_128HV",
-      "width": 128,
+      "name": "steel64",
+      "width": 64,
+      "height": 64,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "sw_door07",
+      "width": 64,
       "height": 128,
       "format": "DXT1",
       "alpha": false

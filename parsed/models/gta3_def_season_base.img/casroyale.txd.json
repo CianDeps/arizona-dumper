@@ -2,13 +2,6 @@
   "type": "txd",
   "textures": [
     {
-      "name": "royaleledge01",
-      "width": 128,
-      "height": 128,
-      "format": "DXT3",
-      "alpha": true
-    },
-    {
       "name": "carfx1",
       "width": 128,
       "height": 128,
@@ -16,28 +9,14 @@
       "alpha": false
     },
     {
-      "name": "vgncorpdoor1_512",
-      "width": 512,
-      "height": 256,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "royalesign02_256",
-      "width": 256,
-      "height": 256,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "greyground256128",
+      "name": "genroof02_128",
       "width": 128,
       "height": 128,
       "format": "DXT1",
       "alpha": false
     },
     {
-      "name": "royalewall03_128",
+      "name": "royale02_128",
       "width": 128,
       "height": 128,
       "format": "DXT1",
@@ -51,21 +30,28 @@
       "alpha": false
     },
     {
-      "name": "genroof02_128",
+      "name": "royaleledge01",
+      "width": 128,
+      "height": 128,
+      "format": "DXT5",
+      "alpha": true
+    },
+    {
+      "name": "royaleroof01_64",
       "width": 64,
       "height": 64,
       "format": "DXT1",
       "alpha": false
     },
     {
-      "name": "royale02_128",
-      "width": 128,
-      "height": 128,
+      "name": "royalesign02_256",
+      "width": 256,
+      "height": 256,
       "format": "DXT1",
       "alpha": false
     },
     {
-      "name": "royalewindow01_128",
+      "name": "royalewall01_128",
       "width": 128,
       "height": 128,
       "format": "DXT1",
@@ -79,16 +65,23 @@
       "alpha": false
     },
     {
-      "name": "royalewall01_128",
+      "name": "royalewall03_128",
       "width": 128,
       "height": 128,
       "format": "DXT1",
       "alpha": false
     },
     {
-      "name": "royaleroof01_64",
-      "width": 64,
-      "height": 64,
+      "name": "royalewindow01_128",
+      "width": 128,
+      "height": 128,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "vgncorpdoor1_512",
+      "width": 512,
+      "height": 256,
       "format": "DXT1",
       "alpha": false
     }

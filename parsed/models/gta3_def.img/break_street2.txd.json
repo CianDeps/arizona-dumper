@@ -2,28 +2,35 @@
   "type": "txd",
   "textures": [
     {
-      "name": "CJ_W_wood",
+      "name": "CJ_CORRIGATED",
+      "width": 256,
+      "height": 256,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "CJ_DarkWood",
       "width": 128,
       "height": 128,
       "format": "DXT1",
       "alpha": false
     },
     {
-      "name": "cj_sheetmetal",
-      "width": 64,
-      "height": 64,
+      "name": "CJ_LAMPPOST1",
+      "width": 128,
+      "height": 128,
       "format": "DXT1",
       "alpha": false
     },
     {
       "name": "cj_plating3",
-      "width": 128,
-      "height": 128,
+      "width": 256,
+      "height": 256,
       "format": "DXT1",
       "alpha": false
     },
     {
-      "name": "CJ_CORRIGATED",
+      "name": "cj_sheetmetal",
       "width": 128,
       "height": 128,
       "format": "DXT1",
@@ -37,16 +44,9 @@
       "alpha": false
     },
     {
-      "name": "CJ_DarkWood",
-      "width": 64,
-      "height": 64,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "CJ_LAMPPOST1",
-      "width": 64,
-      "height": 64,
+      "name": "CJ_W_wood",
+      "width": 128,
+      "height": 128,
       "format": "DXT1",
       "alpha": false
     }

@@ -2,16 +2,9 @@
   "type": "txd",
   "textures": [
     {
-      "name": "CJ_SLATEDWOOD",
-      "width": 128,
-      "height": 128,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
       "name": "Bucket_bump",
-      "width": 128,
-      "height": 128,
+      "width": 256,
+      "height": 256,
       "format": "DXT1",
       "alpha": false
     },
@@ -19,8 +12,15 @@
       "name": "CJ_PLANT",
       "width": 128,
       "height": 256,
-      "format": "DXT3",
+      "format": "DXT5",
       "alpha": true
+    },
+    {
+      "name": "CJ_SLATEDWOOD",
+      "width": 128,
+      "height": 128,
+      "format": "DXT1",
+      "alpha": false
     },
     {
       "name": "dirt64b",

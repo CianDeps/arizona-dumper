@@ -2,58 +2,44 @@
   "type": "txd",
   "textures": [
     {
-      "name": "pillarstone_law",
-      "width": 64,
-      "height": 32,
+      "name": "BigS01_law",
+      "width": 256,
+      "height": 128,
       "format": "DXT1",
       "alpha": false
     },
     {
-      "name": "motpic_law",
-      "width": 128,
+      "name": "cinboard_law",
+      "width": 64,
       "height": 64,
       "format": "DXT1",
       "alpha": false
     },
     {
-      "name": "bluapartwall1_256",
+      "name": "conc_wall_stripd128H",
+      "width": 256,
+      "height": 256,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "cornice02_la",
+      "width": 64,
+      "height": 64,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "corporate3",
       "width": 128,
       "height": 128,
       "format": "DXT1",
       "alpha": false
     },
     {
-      "name": "windblind_law",
+      "name": "giftsign01_law",
       "width": 128,
       "height": 64,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "hwtopwin01_law",
-      "width": 128,
-      "height": 128,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "hwbig01c_law",
-      "width": 64,
-      "height": 64,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "hwbig01b_law",
-      "width": 64,
-      "height": 256,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "hwbig01_law",
-      "width": 128,
-      "height": 256,
       "format": "DXT1",
       "alpha": false
     },
@@ -79,16 +65,44 @@
       "alpha": false
     },
     {
-      "name": "patio1",
-      "width": 128,
+      "name": "holpac01_law",
+      "width": 256,
       "height": 128,
       "format": "DXT1",
       "alpha": false
     },
     {
-      "name": "concretebigb256128",
+      "name": "holpac02_law",
+      "width": 256,
+      "height": 128,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "hwbig01b_law",
+      "width": 64,
+      "height": 256,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "hwbig01c_law",
       "width": 64,
       "height": 64,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "hwbig01_law",
+      "width": 128,
+      "height": 256,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "hwtopwin01_law",
+      "width": 128,
+      "height": 128,
       "format": "DXT1",
       "alpha": false
     },
@@ -100,15 +114,15 @@
       "alpha": false
     },
     {
-      "name": "corporate3",
-      "width": 128,
-      "height": 128,
+      "name": "pillarstone_law",
+      "width": 64,
+      "height": 32,
       "format": "DXT1",
       "alpha": false
     },
     {
-      "name": "tikboxwin_law",
-      "width": 128,
+      "name": "sodom_law",
+      "width": 256,
       "height": 64,
       "format": "DXT1",
       "alpha": false
@@ -121,71 +135,8 @@
       "alpha": false
     },
     {
-      "name": "sodom_law",
-      "width": 256,
-      "height": 64,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "windowbot01_law",
-      "width": 256,
-      "height": 64,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "snpdwingrat1",
-      "width": 256,
-      "height": 256,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "BigS01_law",
-      "width": 256,
-      "height": 128,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "conc_wall_stripd128H",
+      "name": "tikboxwin_law",
       "width": 128,
-      "height": 128,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "smoothie",
-      "width": 128,
-      "height": 128,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "weeregal",
-      "width": 128,
-      "height": 512,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "cinboard_law",
-      "width": 64,
-      "height": 64,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "giftsign01_law",
-      "width": 128,
-      "height": 64,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "cornice02_la",
-      "width": 64,
       "height": 64,
       "format": "DXT1",
       "alpha": false
@@ -198,15 +149,29 @@
       "alpha": false
     },
     {
-      "name": "holpac02_law",
-      "width": 256,
-      "height": 128,
+      "name": "weeregal",
+      "width": 128,
+      "height": 512,
       "format": "DXT1",
       "alpha": false
     },
     {
-      "name": "holpac01_law",
+      "name": "windblind_law",
+      "width": 128,
+      "height": 64,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "windowbot01_law",
       "width": 256,
+      "height": 64,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "motpic_law",
+      "width": 128,
       "height": 128,
       "format": "DXT1",
       "alpha": false

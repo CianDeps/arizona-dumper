@@ -5,14 +5,32 @@
   "geometries": [
     {
       "index": 0,
-      "vertices": 203,
-      "triangles": 133,
+      "vertices": 566,
+      "triangles": 378,
       "materials": [
+        {
+          "color": {
+            "r": 149,
+            "g": 149,
+            "b": 149,
+            "a": 255
+          },
+          "texture": null
+        },
         {
           "color": {
             "r": 255,
             "g": 255,
             "b": 255,
+            "a": 255
+          },
+          "texture": null
+        },
+        {
+          "color": {
+            "r": 149,
+            "g": 149,
+            "b": 149,
             "a": 255
           },
           "texture": null
@@ -27,10 +45,46 @@
           "texture": null
         }
       ]
+    },
+    {
+      "index": 1,
+      "vertices": 486,
+      "triangles": 336,
+      "materials": [
+        {
+          "color": {
+            "r": 149,
+            "g": 149,
+            "b": 149,
+            "a": 255
+          },
+          "texture": null
+        },
+        {
+          "color": {
+            "r": 255,
+            "g": 255,
+            "b": 255,
+            "a": 255
+          },
+          "texture": null
+        },
+        {
+          "color": {
+            "r": 149,
+            "g": 149,
+            "b": 149,
+            "a": 255
+          },
+          "texture": null
+        }
+      ]
     }
   ],
-  "frames": 1,
+  "frames": 3,
   "dummies": [
-    "CJ_EXT_SPRUNK"
+    "Group01",
+    "CJ_EXT_SPRUNK_dam",
+    "CJ_EXT_SPRUNK_l0"
   ]
 }

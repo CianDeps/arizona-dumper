@@ -2,28 +2,14 @@
   "type": "txd",
   "textures": [
     {
-      "name": "dirt64b",
-      "width": 64,
-      "height": 64,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "Gen_Log_End",
-      "width": 128,
-      "height": 128,
+      "name": "CJ_bark",
+      "width": 256,
+      "height": 256,
       "format": "DXT1",
       "alpha": false
     },
     {
       "name": "CJ_DarkWood",
-      "width": 64,
-      "height": 64,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "TREE_STUB1",
       "width": 128,
       "height": 128,
       "format": "DXT1",
@@ -33,11 +19,25 @@
       "name": "CJ_PLANT",
       "width": 128,
       "height": 256,
-      "format": "DXT3",
+      "format": "DXT5",
       "alpha": true
     },
     {
-      "name": "CJ_bark",
+      "name": "dirt64b",
+      "width": 64,
+      "height": 64,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "Gen_Log",
+      "width": 128,
+      "height": 256,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "Gen_Log_End",
       "width": 256,
       "height": 256,
       "format": "DXT1",
@@ -45,9 +45,9 @@
     },
     {
       "name": "kb_ivy2_256",
-      "width": 128,
-      "height": 128,
-      "format": "DXT3",
+      "width": 256,
+      "height": 256,
+      "format": "DXT5",
       "alpha": true
     },
     {
@@ -58,8 +58,8 @@
       "alpha": false
     },
     {
-      "name": "Gen_Log",
-      "width": 64,
+      "name": "TREE_STUB1",
+      "width": 128,
       "height": 128,
       "format": "DXT1",
       "alpha": false

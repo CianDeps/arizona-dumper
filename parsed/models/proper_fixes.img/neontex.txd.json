@@ -1,0 +1,26 @@
+{
+  "type": "txd",
+  "textures": [
+    {
+      "name": "neon",
+      "width": 128,
+      "height": 32,
+      "format": "DXT5",
+      "alpha": true
+    },
+    {
+      "name": "jlneon",
+      "width": 256,
+      "height": 256,
+      "format": "DXT5",
+      "alpha": true
+    },
+    {
+      "name": "jlneon_animation_G",
+      "width": 128,
+      "height": 128,
+      "format": "DXT1",
+      "alpha": false
+    }
+  ]
+}

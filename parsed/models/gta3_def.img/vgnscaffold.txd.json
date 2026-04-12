@@ -2,13 +2,6 @@
   "type": "txd",
   "textures": [
     {
-      "name": "ws_chipboard",
-      "width": 256,
-      "height": 256,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
       "name": "Gen_Scaffold_Wood",
       "width": 128,
       "height": 128,
@@ -16,23 +9,30 @@
       "alpha": false
     },
     {
-      "name": "vgsnscfldclr_256",
-      "width": 256,
-      "height": 256,
+      "name": "Gen_Scaffold_Wood_Under",
+      "width": 128,
+      "height": 128,
       "format": "DXT1",
-      "alpha": true
+      "alpha": false
     },
     {
       "name": "vgsnscafold_256",
       "width": 256,
       "height": 256,
-      "format": "DXT3",
+      "format": "DXT5",
       "alpha": true
     },
     {
-      "name": "Gen_Scaffold_Wood_Under",
-      "width": 128,
-      "height": 128,
+      "name": "vgsnscfldclr_256",
+      "width": 256,
+      "height": 256,
+      "format": "DXT5",
+      "alpha": true
+    },
+    {
+      "name": "ws_chipboard",
+      "width": 256,
+      "height": 256,
       "format": "DXT1",
       "alpha": false
     }

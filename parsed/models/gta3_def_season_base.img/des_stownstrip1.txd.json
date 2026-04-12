@@ -2,9 +2,30 @@
   "type": "txd",
   "textures": [
     {
+      "name": "des_garagedoor1",
+      "width": 256,
+      "height": 256,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "des_motelsigns1",
+      "width": 128,
+      "height": 128,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
       "name": "des_motelsigns2",
       "width": 256,
       "height": 128,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "des_motelsigns3",
+      "width": 128,
+      "height": 256,
       "format": "DXT1",
       "alpha": false
     },
@@ -14,13 +35,6 @@
       "height": 128,
       "format": "DXT1",
       "alpha": false
-    },
-    {
-      "name": "des_rails1",
-      "width": 256,
-      "height": 256,
-      "format": "DXT1",
-      "alpha": true
     },
     {
       "name": "des_motelwall2",
@@ -37,42 +51,21 @@
       "alpha": false
     },
     {
-      "name": "des_ranchwall1",
-      "width": 128,
-      "height": 128,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "stormdrain6",
-      "width": 64,
-      "height": 64,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "cabin5",
-      "width": 64,
-      "height": 64,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "sw_metalgate1",
+      "name": "des_motelwall4",
       "width": 256,
       "height": 128,
-      "format": "DXT3",
-      "alpha": true
+      "format": "DXT1",
+      "alpha": false
     },
     {
-      "name": "weewall256",
-      "width": 128,
+      "name": "des_motelwall5",
+      "width": 256,
       "height": 128,
       "format": "DXT1",
       "alpha": false
     },
     {
-      "name": "stormdrain2_nt",
+      "name": "des_radiomast",
       "width": 256,
       "height": 256,
       "format": "DXT1",
@@ -86,55 +79,6 @@
       "alpha": false
     },
     {
-      "name": "des_garagedoor1",
-      "width": 256,
-      "height": 256,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "ws_rooftarmac1",
-      "width": 256,
-      "height": 256,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "newall4-4",
-      "width": 128,
-      "height": 128,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "des_radiomast",
-      "width": 256,
-      "height": 256,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "corr_roof1",
-      "width": 128,
-      "height": 128,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "woodenpanels256",
-      "width": 128,
-      "height": 128,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "stormdrain5_nt",
-      "width": 256,
-      "height": 256,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
       "name": "drvin_wind2",
       "width": 64,
       "height": 64,
@@ -142,23 +86,9 @@
       "alpha": false
     },
     {
-      "name": "des_door2",
-      "width": 64,
-      "height": 128,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "des_motelsigns1",
+      "name": "gnhotelwall02_128",
       "width": 128,
       "height": 128,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "des_motelsigns3",
-      "width": 128,
-      "height": 256,
       "format": "DXT1",
       "alpha": false
     },
@@ -170,21 +100,28 @@
       "alpha": false
     },
     {
-      "name": "des_motelwall5",
+      "name": "stormdrain6",
       "width": 256,
-      "height": 128,
+      "height": 256,
       "format": "DXT1",
       "alpha": false
     },
     {
-      "name": "des_motelwall4",
+      "name": "sw_metalgate1",
       "width": 256,
       "height": 128,
+      "format": "DXT5",
+      "alpha": true
+    },
+    {
+      "name": "weewall256",
+      "width": 256,
+      "height": 256,
       "format": "DXT1",
       "alpha": false
     },
     {
-      "name": "gnhotelwall02_128",
+      "name": "woodenpanels256",
       "width": 128,
       "height": 128,
       "format": "DXT1",

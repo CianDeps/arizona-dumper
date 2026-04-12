@@ -1,7 +1,7 @@
 {
   "type": "img",
   "version": "v2",
-  "totalEntries": 832,
+  "totalEntries": 883,
   "entries": [
     {
       "name": "carwash_brush.dff",
@@ -173,7 +173,7 @@
     },
     {
       "name": "gamemods.ifp",
-      "size": 157696
+      "size": 32768
     },
     {
       "name": "garage_obj_1.dff",
@@ -2405,7 +2405,7 @@
     },
     {
       "name": "obj85_evac.dff",
-      "size": 49152
+      "size": 77824
     },
     {
       "name": "obj85_fangsbmp.dff",
@@ -2537,7 +2537,7 @@
     },
     {
       "name": "obj87_home3.dff",
-      "size": 18432
+      "size": 4096
     },
     {
       "name": "obj87_home3_x2.dff",
@@ -2549,11 +2549,11 @@
     },
     {
       "name": "obj87_home_1.dff",
-      "size": 6144
+      "size": 4096
     },
     {
       "name": "obj87_home_2.dff",
-      "size": 6144
+      "size": 4096
     },
     {
       "name": "obj87_home_x2.dff",
@@ -2953,7 +2953,7 @@
     },
     {
       "name": "obj91.txd",
-      "size": 6469632
+      "size": 13461504
     },
     {
       "name": "obj91a_chiken1.dff",
@@ -3192,6 +3192,190 @@
       "size": 2048
     },
     {
+      "name": "obj93.txd",
+      "size": 6819840
+    },
+    {
+      "name": "obj93a_vprznak.dff",
+      "size": 24576
+    },
+    {
+      "name": "obj93_barracks_f.dff",
+      "size": 43008
+    },
+    {
+      "name": "obj93_barracks_r.dff",
+      "size": 47104
+    },
+    {
+      "name": "obj93_carsmoke.dff",
+      "size": 2048
+    },
+    {
+      "name": "obj93_charsrt_otb1f.dff",
+      "size": 47104
+    },
+    {
+      "name": "obj93_charsrt_otb1r.dff",
+      "size": 57344
+    },
+    {
+      "name": "obj93_charsrt_otb2f.dff",
+      "size": 67584
+    },
+    {
+      "name": "obj93_charsrt_otb2r.dff",
+      "size": 61440
+    },
+    {
+      "name": "obj93_charsrt_otb3f.dff",
+      "size": 67584
+    },
+    {
+      "name": "obj93_charsrt_otb3r.dff",
+      "size": 86016
+    },
+    {
+      "name": "obj93_colshot2.dff",
+      "size": 2048
+    },
+    {
+      "name": "obj93_copbike.dff",
+      "size": 36864
+    },
+    {
+      "name": "obj93_crvnvic_f.dff",
+      "size": 73728
+    },
+    {
+      "name": "obj93_crvnvic_r.dff",
+      "size": 59392
+    },
+    {
+      "name": "obj93_effblood.dff",
+      "size": 2048
+    },
+    {
+      "name": "obj93_effcolsht.dff",
+      "size": 2048
+    },
+    {
+      "name": "obj93_effgroundsht.dff",
+      "size": 2048
+    },
+    {
+      "name": "obj93_effwoodsht.dff",
+      "size": 2048
+    },
+    {
+      "name": "obj93_enforcer.dff",
+      "size": 59392
+    },
+    {
+      "name": "obj93_f12c.dff",
+      "size": 83968
+    },
+    {
+      "name": "obj93_fporto.dff",
+      "size": 106496
+    },
+    {
+      "name": "obj93_froman.dff",
+      "size": 102400
+    },
+    {
+      "name": "obj93_gznkos.dff",
+      "size": 159744
+    },
+    {
+      "name": "obj93_mash.dff",
+      "size": 55296
+    },
+    {
+      "name": "obj93_mc720stc_f.dff",
+      "size": 108544
+    },
+    {
+      "name": "obj93_mc720stc_r.dff",
+      "size": 77824
+    },
+    {
+      "name": "obj93_mesa_f.dff",
+      "size": 104448
+    },
+    {
+      "name": "obj93_mesa_otb2_f.dff",
+      "size": 36864
+    },
+    {
+      "name": "obj93_mesa_otb2_r.dff",
+      "size": 36864
+    },
+    {
+      "name": "obj93_mesa_r.dff",
+      "size": 10240
+    },
+    {
+      "name": "obj93_patrio_otb1_f.dff",
+      "size": 198656
+    },
+    {
+      "name": "obj93_patrio_otb1_r.dff",
+      "size": 77824
+    },
+    {
+      "name": "obj93_patrio_otb2_f.dff",
+      "size": 149504
+    },
+    {
+      "name": "obj93_patrio_otb2_r.dff",
+      "size": 40960
+    },
+    {
+      "name": "obj93_swatvan_f.dff",
+      "size": 51200
+    },
+    {
+      "name": "obj93_swatvan_r.dff",
+      "size": 36864
+    },
+    {
+      "name": "obj93_tahoest_otb1f.dff",
+      "size": 28672
+    },
+    {
+      "name": "obj93_tahoest_otb1r.dff",
+      "size": 34816
+    },
+    {
+      "name": "obj93_tahoest_otb2f.dff",
+      "size": 61440
+    },
+    {
+      "name": "obj93_tahoest_otb2r.dff",
+      "size": 51200
+    },
+    {
+      "name": "obj93_tahoest_otb3f.dff",
+      "size": 153600
+    },
+    {
+      "name": "obj93_tahoest_otb3r.dff",
+      "size": 73728
+    },
+    {
+      "name": "obj93_tourbillion_f.dff",
+      "size": 176128
+    },
+    {
+      "name": "obj93_tourbillion_r.dff",
+      "size": 86016
+    },
+    {
+      "name": "obj93_wmst150.dff",
+      "size": 10240
+    },
+    {
       "name": "of34bmp.txd",
       "size": 561152
     },
@@ -3284,10 +3468,6 @@
       "size": 28672
     },
     {
-      "name": "skeleton.dff",
-      "size": 806912
-    },
-    {
       "name": "snow_man.dff",
       "size": 57344
     },
@@ -3298,6 +3478,30 @@
     {
       "name": "treester.dff",
       "size": 190464
+    },
+    {
+      "name": "Tree_Birch_1.dff",
+      "size": 137216
+    },
+    {
+      "name": "Tree_Birch_2.dff",
+      "size": 137216
+    },
+    {
+      "name": "Tree_Birch_3.dff",
+      "size": 137216
+    },
+    {
+      "name": "Tree_Birch_4.dff",
+      "size": 137216
+    },
+    {
+      "name": "Tree_Birch_5.dff",
+      "size": 137216
+    },
+    {
+      "name": "Tree_Birch_6.dff",
+      "size": 137216
     },
     {
       "name": "tune_b.txd",

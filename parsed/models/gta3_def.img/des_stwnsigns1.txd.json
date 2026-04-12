@@ -5,7 +5,14 @@
       "name": "des_banksign",
       "width": 256,
       "height": 64,
-      "format": "DXT3",
+      "format": "DXT5",
+      "alpha": true
+    },
+    {
+      "name": "des_signframe",
+      "width": 256,
+      "height": 256,
+      "format": "DXT5",
       "alpha": true
     },
     {
@@ -16,31 +23,17 @@
       "alpha": false
     },
     {
-      "name": "drvin_stuct2",
-      "width": 128,
-      "height": 64,
-      "format": "DXT3",
-      "alpha": true
-    },
-    {
       "name": "drvin_stuct",
       "width": 128,
       "height": 128,
-      "format": "DXT3",
+      "format": "DXT5",
       "alpha": true
     },
     {
-      "name": "corr_roof1",
+      "name": "drvin_stuct2",
       "width": 128,
-      "height": 128,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "telewireslong",
-      "width": 256,
-      "height": 32,
-      "format": "DXT3",
+      "height": 64,
+      "format": "DXT5",
       "alpha": true
     },
     {
@@ -51,17 +44,17 @@
       "alpha": false
     },
     {
-      "name": "des_signframe",
-      "width": 256,
-      "height": 256,
-      "format": "DXT3",
+      "name": "telewireslong",
+      "width": 512,
+      "height": 128,
+      "format": "DXT5",
       "alpha": true
     },
     {
       "name": "telewireslong2",
-      "width": 256,
-      "height": 32,
-      "format": "DXT3",
+      "width": 512,
+      "height": 128,
+      "format": "DXT5",
       "alpha": true
     }
   ]

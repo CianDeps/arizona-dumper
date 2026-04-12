@@ -2,63 +2,28 @@
   "type": "txd",
   "textures": [
     {
-      "name": "boatside2_256",
-      "width": 128,
-      "height": 128,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "Diamondp64",
+      "name": "alarm_64",
       "width": 64,
       "height": 64,
       "format": "DXT1",
       "alpha": false
     },
     {
-      "name": "metpat64",
+      "name": "alleywin5",
       "width": 64,
       "height": 64,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "green_64",
-      "width": 64,
-      "height": 64,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "redmetal",
-      "width": 64,
-      "height": 64,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "bandingblue_64",
-      "width": 64,
-      "height": 64,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "lampost_16clr",
-      "width": 128,
-      "height": 128,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "rustb256128",
-      "width": 128,
-      "height": 128,
       "format": "DXT1",
       "alpha": false
     },
     {
       "name": "banding3_64HV",
+      "width": 256,
+      "height": 256,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "bandingblue_64",
       "width": 64,
       "height": 64,
       "format": "DXT1",
@@ -72,16 +37,9 @@
       "alpha": false
     },
     {
-      "name": "cargodoor_128",
+      "name": "boatfunnel1_128",
       "width": 128,
       "height": 128,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "alarm_64",
-      "width": 64,
-      "height": 64,
       "format": "DXT1",
       "alpha": false
     },
@@ -93,35 +51,49 @@
       "alpha": false
     },
     {
-      "name": "steel256128",
+      "name": "boatrailing_128",
+      "width": 128,
+      "height": 128,
+      "format": "DXT5",
+      "alpha": true
+    },
+    {
+      "name": "boatside2_256",
+      "width": 256,
+      "height": 256,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "cargodoor_128",
       "width": 128,
       "height": 128,
       "format": "DXT1",
       "alpha": false
     },
     {
-      "name": "alleywin5",
-      "width": 64,
-      "height": 64,
+      "name": "Diamondp64",
+      "width": 256,
+      "height": 256,
       "format": "DXT1",
       "alpha": false
     },
     {
-      "name": "wallbluetinge256",
-      "width": 128,
-      "height": 128,
+      "name": "green_64",
+      "width": 256,
+      "height": 256,
       "format": "DXT1",
       "alpha": false
     },
     {
       "name": "jettyfloor02",
-      "width": 64,
-      "height": 64,
+      "width": 256,
+      "height": 256,
       "format": "DXT1",
       "alpha": false
     },
     {
-      "name": "boatfunnel1_128",
+      "name": "lampost_16clr",
       "width": 128,
       "height": 128,
       "format": "DXT1",
@@ -142,11 +114,32 @@
       "alpha": false
     },
     {
-      "name": "boatrailing_128",
+      "name": "redmetal",
+      "width": 256,
+      "height": 256,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "rustb256128",
+      "width": 256,
+      "height": 256,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "steel256128",
       "width": 128,
       "height": 128,
       "format": "DXT1",
-      "alpha": true
+      "alpha": false
+    },
+    {
+      "name": "wallbluetinge256",
+      "width": 256,
+      "height": 256,
+      "format": "DXT1",
+      "alpha": false
     }
   ]
 }

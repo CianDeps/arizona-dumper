@@ -2,8 +2,183 @@
   "type": "txd",
   "textures": [
     {
+      "name": "a51_labwall1LOD",
+      "width": 32,
+      "height": 32,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "asjm9qa",
+      "width": 64,
+      "height": 64,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "asjm9qb",
+      "width": 64,
+      "height": 64,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "BLOCK2",
+      "width": 64,
+      "height": 64,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "concretemankyLOD",
+      "width": 32,
+      "height": 32,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "cuntbrncliffbtmbmp",
+      "width": 128,
+      "height": 64,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "cuntbrnclifftop",
+      "width": 128,
+      "height": 64,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "cunt_botrock",
+      "width": 128,
+      "height": 64,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
       "name": "cunt_toprock",
       "width": 128,
+      "height": 64,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "cw2_mountdirt",
+      "width": 64,
+      "height": 64,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "cw2_mountdirt2forest",
+      "width": 64,
+      "height": 64,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "cw2_mountdirt2grass",
+      "width": 64,
+      "height": 64,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "cw2_mountdirtscree",
+      "width": 64,
+      "height": 64,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "cw2_mountroad",
+      "width": 32,
+      "height": 32,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "cw2_mountrock",
+      "width": 64,
+      "height": 64,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "cw2_mounttrail",
+      "width": 64,
+      "height": 64,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "desertgravelgrass256",
+      "width": 64,
+      "height": 64,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "desertstones256",
+      "width": 32,
+      "height": 32,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "desgreengrass",
+      "width": 32,
+      "height": 32,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "desmud",
+      "width": 64,
+      "height": 64,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "desmud2forstfloor",
+      "width": 64,
+      "height": 64,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "desn_fuelpay_LOD",
+      "width": 64,
+      "height": 64,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "desn_tsblockR_LOD",
+      "width": 64,
+      "height": 64,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "desn_tsblock_LOD",
+      "width": 64,
+      "height": 64,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "des_dam_conc",
+      "width": 64,
+      "height": 64,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "des_dirt1",
+      "width": 64,
       "height": 64,
       "format": "DXT1",
       "alpha": false
@@ -16,14 +191,14 @@
       "alpha": false
     },
     {
-      "name": "des_dirt2blend",
-      "width": 32,
-      "height": 32,
+      "name": "des_dirt2",
+      "width": 64,
+      "height": 64,
       "format": "DXT1",
       "alpha": false
     },
     {
-      "name": "grassbrn2rockbrnGLOD",
+      "name": "des_dirt2blend",
       "width": 32,
       "height": 32,
       "format": "DXT1",
@@ -37,35 +212,14 @@
       "alpha": false
     },
     {
-      "name": "des_tunnellight",
-      "width": 64,
+      "name": "des_dirt2track",
+      "width": 32,
       "height": 32,
       "format": "DXT1",
       "alpha": false
     },
     {
-      "name": "desmud2forstfloor",
-      "width": 64,
-      "height": 64,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "forestfloorblend",
-      "width": 64,
-      "height": 64,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "forestfloorbranch256",
-      "width": 64,
-      "height": 64,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "des_factower",
+      "name": "des_dirt2trackr",
       "width": 32,
       "height": 32,
       "format": "DXT1",
@@ -79,7 +233,154 @@
       "alpha": false
     },
     {
-      "name": "pavea256_LOD",
+      "name": "des_facmetalsoildLOD",
+      "width": 32,
+      "height": 32,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "des_factower",
+      "width": 32,
+      "height": 32,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "des_tunnellight",
+      "width": 64,
+      "height": 32,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "dirttracksgrass256",
+      "width": 64,
+      "height": 64,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "fence1LOD",
+      "width": 32,
+      "height": 32,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "forestfloor256",
+      "width": 64,
+      "height": 64,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "forestfloor256mudblend",
+      "width": 64,
+      "height": 64,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "forestfloor256_blenddirt",
+      "width": 64,
+      "height": 64,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "forestfloorblend",
+      "width": 64,
+      "height": 64,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "forestfloorblendb",
+      "width": 64,
+      "height": 64,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "forestfloorblendded",
+      "width": 64,
+      "height": 64,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "forestfloorbranch256",
+      "width": 64,
+      "height": 64,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "GB_sandstwall01",
+      "width": 64,
+      "height": 64,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "grass4_des_dirt2",
+      "width": 32,
+      "height": 32,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "grassbrn2rockbrnGLOD",
+      "width": 32,
+      "height": 32,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "grassdeadbrn256",
+      "width": 64,
+      "height": 64,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "grasstype10",
+      "width": 32,
+      "height": 32,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "grasstype4",
+      "width": 32,
+      "height": 32,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "grasstype4blndtomud",
+      "width": 32,
+      "height": 32,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "grasstype4_10",
+      "width": 32,
+      "height": 32,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "grasstype4_forestblend",
+      "width": 32,
+      "height": 32,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "grasstype4_mudblend",
       "width": 32,
       "height": 32,
       "format": "DXT1",
@@ -93,15 +394,15 @@
       "alpha": false
     },
     {
-      "name": "fence1LOD",
-      "width": 32,
+      "name": "LOD_scrpyd_fence_wd_stain",
+      "width": 16,
       "height": 32,
       "format": "DXT1",
       "alpha": false
     },
     {
-      "name": "LOD_scrpyd_fence_wd_stain",
-      "width": 16,
+      "name": "LOD_scrpyd_floor_hangar",
+      "width": 32,
       "height": 32,
       "format": "DXT1",
       "alpha": false
@@ -121,20 +422,6 @@
       "alpha": false
     },
     {
-      "name": "Was_graffiti_LOD",
-      "width": 32,
-      "height": 32,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "LOD_scrpyd_floor_hangar",
-      "width": 32,
-      "height": 32,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
       "name": "LOD_scrpyd_wall_crgated",
       "width": 32,
       "height": 32,
@@ -142,65 +429,23 @@
       "alpha": false
     },
     {
-      "name": "concretemankyLOD",
-      "width": 32,
-      "height": 32,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "des_facmetalsoildLOD",
-      "width": 32,
-      "height": 32,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "ws_rooftarmac1LOD",
-      "width": 32,
-      "height": 32,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "a51_labwall1LOD",
-      "width": 32,
-      "height": 32,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "desn_fuelpay_LOD",
+      "name": "parking2plain",
       "width": 64,
       "height": 64,
       "format": "DXT1",
       "alpha": false
     },
     {
-      "name": "desn_tsblock_LOD",
-      "width": 64,
-      "height": 64,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "desn_tsblockR_LOD",
-      "width": 64,
-      "height": 64,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "Tar_freewyleft",
+      "name": "pavea256_LOD",
       "width": 32,
       "height": 32,
       "format": "DXT1",
       "alpha": false
     },
     {
-      "name": "Tar_1line256HV_LOD",
-      "width": 64,
-      "height": 64,
+      "name": "pavebsand256",
+      "width": 32,
+      "height": 32,
       "format": "DXT1",
       "alpha": false
     },
@@ -212,7 +457,7 @@
       "alpha": false
     },
     {
-      "name": "pavebsand256",
+      "name": "plaintarmac1",
       "width": 64,
       "height": 64,
       "format": "DXT1",
@@ -226,224 +471,7 @@
       "alpha": false
     },
     {
-      "name": "stormdrain4_nt_LOD",
-      "width": 32,
-      "height": 32,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "BLOCK2",
-      "width": 64,
-      "height": 64,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "Tar_1line256HVblenddrt",
-      "width": 64,
-      "height": 64,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "forestfloorblendded",
-      "width": 64,
-      "height": 64,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "forestfloor256mudblend",
-      "width": 64,
-      "height": 64,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "forestfloorblendb",
-      "width": 64,
-      "height": 64,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "grassdeadbrn256",
-      "width": 64,
-      "height": 64,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "asjm9qa",
-      "width": 64,
-      "height": 64,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "asjm9qb",
-      "width": 64,
-      "height": 64,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "cw2_mountroad",
-      "width": 32,
-      "height": 32,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "desertgravelgrass256",
-      "width": 64,
-      "height": 64,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "ws_carpark2",
-      "width": 32,
-      "height": 32,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "grasstype4_10",
-      "width": 32,
-      "height": 32,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "grasstype10",
-      "width": 32,
-      "height": 32,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "grasstype4blndtomud",
-      "width": 32,
-      "height": 32,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "grass4_des_dirt2",
-      "width": 32,
-      "height": 32,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "des_dirt2trackr",
-      "width": 32,
-      "height": 32,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "des_dirt2track",
-      "width": 32,
-      "height": 32,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "des_dirt2",
-      "width": 64,
-      "height": 64,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "dirttracksgrass256",
-      "width": 64,
-      "height": 64,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "desmud",
-      "width": 64,
-      "height": 64,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "ws_sandstone1",
-      "width": 32,
-      "height": 32,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "Was_scrpyd_floor_hangar",
-      "width": 64,
-      "height": 64,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "des_dam_conc",
-      "width": 64,
-      "height": 64,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "plaintarmac1",
-      "width": 64,
-      "height": 64,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "GB_sandstwall01",
-      "width": 64,
-      "height": 64,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "cunt_botrock",
-      "width": 128,
-      "height": 64,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "parking2plain",
-      "width": 64,
-      "height": 64,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "cuntbrncliffbtmbmp",
-      "width": 128,
-      "height": 64,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "cuntbrnclifftop",
-      "width": 128,
-      "height": 64,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "des_dirt1",
-      "width": 64,
-      "height": 64,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "rocktq128_grass4blend",
+      "name": "rocktbrn128blnd",
       "width": 64,
       "height": 64,
       "format": "DXT1",
@@ -457,48 +485,6 @@
       "alpha": false
     },
     {
-      "name": "Tar_1lineblenddrt_LOD",
-      "width": 64,
-      "height": 64,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "cw2_mountdirt2grass",
-      "width": 64,
-      "height": 64,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "rocktbrn128blnd",
-      "width": 64,
-      "height": 64,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "grasstype4_forestblend",
-      "width": 32,
-      "height": 32,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "grasstype4",
-      "width": 32,
-      "height": 32,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "grasstype4_mudblend",
-      "width": 32,
-      "height": 32,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
       "name": "rocktq128_forestblend",
       "width": 64,
       "height": 64,
@@ -506,56 +492,70 @@
       "alpha": false
     },
     {
-      "name": "forestfloor256_blenddirt",
+      "name": "rocktq128_grass4blend",
       "width": 64,
       "height": 64,
       "format": "DXT1",
       "alpha": false
     },
     {
-      "name": "desertstones256",
+      "name": "stormdrain4_nt_LOD",
       "width": 32,
       "height": 32,
       "format": "DXT1",
       "alpha": false
     },
     {
-      "name": "ws_rottenwall",
+      "name": "Tar_1line256HVblenddrt",
       "width": 64,
       "height": 64,
       "format": "DXT1",
       "alpha": false
     },
     {
-      "name": "Was_scrpyd_ground_mud_edge",
-      "width": 128,
-      "height": 128,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "Was_scrpyd_ground_mud_cnr",
-      "width": 128,
-      "height": 128,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "Was_scrpyd_ground_muddier",
+      "name": "Tar_1line256HV_LOD",
       "width": 64,
       "height": 64,
       "format": "DXT1",
       "alpha": false
     },
     {
-      "name": "Was_scrpyd_ground_muddark",
-      "width": 128,
-      "height": 128,
+      "name": "Tar_1lineblenddrt_LOD",
+      "width": 64,
+      "height": 64,
       "format": "DXT1",
       "alpha": false
     },
     {
-      "name": "Was_scrpyd_ground_mudedge",
+      "name": "Tar_freewyleft",
+      "width": 64,
+      "height": 64,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "Tar_LeftRight_LOD",
+      "width": 64,
+      "height": 64,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "Was_graffiti_LOD",
+      "width": 32,
+      "height": 32,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "Was_scrpyd_floor_hangar",
+      "width": 64,
+      "height": 64,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "Was_scrpyd_ground_engblox",
       "width": 128,
       "height": 128,
       "format": "DXT1",
@@ -569,7 +569,35 @@
       "alpha": false
     },
     {
-      "name": "Was_scrpyd_ground_engblox",
+      "name": "Was_scrpyd_ground_muddark",
+      "width": 128,
+      "height": 128,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "Was_scrpyd_ground_muddier",
+      "width": 64,
+      "height": 64,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "Was_scrpyd_ground_mudedge",
+      "width": 128,
+      "height": 128,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "Was_scrpyd_ground_mud_cnr",
+      "width": 128,
+      "height": 128,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "Was_scrpyd_ground_mud_edge",
       "width": 128,
       "height": 128,
       "format": "DXT1",
@@ -583,58 +611,30 @@
       "alpha": false
     },
     {
-      "name": "desgreengrass",
+      "name": "ws_carpark2",
       "width": 32,
       "height": 32,
       "format": "DXT1",
       "alpha": false
     },
     {
-      "name": "cw2_mountdirt2forest",
+      "name": "ws_rooftarmac1LOD",
       "width": 64,
       "height": 64,
       "format": "DXT1",
       "alpha": false
     },
     {
-      "name": "forestfloor256",
+      "name": "ws_rottenwall",
       "width": 64,
       "height": 64,
       "format": "DXT1",
       "alpha": false
     },
     {
-      "name": "cw2_mounttrail",
-      "width": 64,
-      "height": 64,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "cw2_mountdirtscree",
-      "width": 64,
-      "height": 64,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "cw2_mountrock",
-      "width": 64,
-      "height": 64,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "cw2_mountdirt",
-      "width": 64,
-      "height": 64,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "Tar_LeftRight_LOD",
-      "width": 64,
-      "height": 64,
+      "name": "ws_sandstone1",
+      "width": 32,
+      "height": 32,
       "format": "DXT1",
       "alpha": false
     }

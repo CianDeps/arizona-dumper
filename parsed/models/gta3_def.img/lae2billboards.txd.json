@@ -2,16 +2,9 @@
   "type": "txd",
   "textures": [
     {
-      "name": "semi3Dirty",
+      "name": "ads003 copy",
       "width": 128,
       "height": 64,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "planks01",
-      "width": 128,
-      "height": 128,
       "format": "DXT1",
       "alpha": false
     },
@@ -19,6 +12,20 @@
       "name": "billbd1_LAe",
       "width": 256,
       "height": 256,
+      "format": "DXT5",
+      "alpha": true
+    },
+    {
+      "name": "planks01",
+      "width": 256,
+      "height": 256,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "semi3Dirty",
+      "width": 128,
+      "height": 64,
       "format": "DXT1",
       "alpha": false
     },
@@ -26,13 +33,6 @@
       "name": "SunBillB03",
       "width": 256,
       "height": 256,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "ads003 copy",
-      "width": 128,
-      "height": 64,
       "format": "DXT1",
       "alpha": false
     }

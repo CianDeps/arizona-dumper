@@ -3,52 +3,31 @@
   "textures": [
     {
       "name": "banding3c_64HV",
-      "width": 64,
-      "height": 64,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "telewireslong",
-      "width": 256,
-      "height": 32,
-      "format": "DXT3",
-      "alpha": true
-    },
-    {
-      "name": "telewires_law",
-      "width": 32,
-      "height": 32,
-      "format": "DXT1",
-      "alpha": true
-    },
-    {
-      "name": "pierfenc_LAw2",
       "width": 256,
       "height": 256,
-      "format": "DXT3",
-      "alpha": true
-    },
-    {
-      "name": "sancorn7",
-      "width": 64,
-      "height": 64,
-      "format": "DXT3",
-      "alpha": true
-    },
-    {
-      "name": "sanwel7",
-      "width": 128,
-      "height": 64,
       "format": "DXT1",
       "alpha": false
     },
     {
-      "name": "sanwel6",
+      "name": "brdwalkwater_la",
       "width": 128,
       "height": 128,
       "format": "DXT1",
       "alpha": false
+    },
+    {
+      "name": "brownstar_law",
+      "width": 128,
+      "height": 128,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "des_bunting",
+      "width": 256,
+      "height": 128,
+      "format": "DXT5",
+      "alpha": true
     },
     {
       "name": "dogcart02",
@@ -58,58 +37,107 @@
       "alpha": false
     },
     {
-      "name": "steel64",
-      "width": 64,
-      "height": 64,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "vgsclubdoor01_128",
+      "name": "Metal1_128",
       "width": 128,
       "height": 128,
       "format": "DXT1",
       "alpha": false
     },
     {
-      "name": "sanice5",
+      "name": "pierbild01_law",
+      "width": 128,
+      "height": 128,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "pierbild02_law",
+      "width": 128,
+      "height": 128,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "pierbild03_law",
+      "width": 128,
+      "height": 128,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "pierbild05_law",
+      "width": 128,
+      "height": 128,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "pierbild06_law",
+      "width": 128,
+      "height": 128,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "pierbild07_law",
+      "width": 128,
+      "height": 128,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "pierbild08_law",
       "width": 128,
       "height": 64,
       "format": "DXT1",
       "alpha": false
     },
     {
-      "name": "sanice4",
+      "name": "pierends_law",
+      "width": 64,
+      "height": 32,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "pierfenc_LAw2",
+      "width": 256,
+      "height": 256,
+      "format": "DXT5",
+      "alpha": true
+    },
+    {
+      "name": "pierlegbot_law",
+      "width": 64,
+      "height": 128,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "pierlegtop_law",
+      "width": 64,
+      "height": 64,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "pierplanks_128",
+      "width": 64,
+      "height": 64,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "pierwin01_law",
       "width": 128,
-      "height": 64,
+      "height": 128,
       "format": "DXT1",
       "alpha": false
     },
     {
-      "name": "sanice3",
-      "width": 128,
-      "height": 64,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "sanice2",
-      "width": 64,
-      "height": 64,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "sanice1",
-      "width": 64,
-      "height": 64,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "sanpiz4",
-      "width": 64,
-      "height": 16,
+      "name": "rooftiles2",
+      "width": 256,
+      "height": 256,
       "format": "DXT1",
       "alpha": false
     },
@@ -128,72 +156,51 @@
       "alpha": false
     },
     {
-      "name": "steel256128",
-      "width": 128,
-      "height": 128,
-      "format": "DXT3",
-      "alpha": true
-    },
-    {
-      "name": "des_bunting",
-      "width": 256,
-      "height": 128,
-      "format": "DXT3",
-      "alpha": true
-    },
-    {
-      "name": "sjmdockral1",
-      "width": 128,
-      "height": 128,
-      "format": "DXT3",
-      "alpha": true
-    },
-    {
-      "name": "cuntroad01_law",
-      "width": 512,
-      "height": 512,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "pierlegbot_law",
+      "name": "sancorn7",
       "width": 64,
-      "height": 128,
-      "format": "DXT1",
-      "alpha": false
+      "height": 64,
+      "format": "DXT5",
+      "alpha": true
     },
     {
-      "name": "pierlegtop_law",
+      "name": "sanice1",
       "width": 64,
       "height": 64,
       "format": "DXT1",
       "alpha": false
     },
     {
-      "name": "pierends_law",
-      "width": 64,
-      "height": 32,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "sanwel5",
+      "name": "sanice2",
       "width": 64,
       "height": 64,
       "format": "DXT1",
       "alpha": false
     },
     {
-      "name": "metpat64",
-      "width": 64,
-      "height": 64,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "Metal1_128",
+      "name": "sanice3",
       "width": 128,
-      "height": 128,
+      "height": 64,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "sanice4",
+      "width": 128,
+      "height": 64,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "sanice5",
+      "width": 128,
+      "height": 64,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "sanpiz4",
+      "width": 64,
+      "height": 16,
       "format": "DXT1",
       "alpha": false
     },
@@ -205,78 +212,22 @@
       "alpha": false
     },
     {
-      "name": "rooftiles2",
-      "width": 256,
-      "height": 256,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "brownstar_law",
-      "width": 128,
-      "height": 128,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "pierwin01_law",
-      "width": 128,
-      "height": 128,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "pierbild08_law",
-      "width": 128,
-      "height": 64,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "pierbild07_law",
-      "width": 128,
-      "height": 128,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "pierbild06_law",
-      "width": 128,
-      "height": 128,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "pierbild05_law",
-      "width": 128,
-      "height": 128,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "pierbild04_law",
+      "name": "sanwel5",
       "width": 64,
       "height": 64,
       "format": "DXT1",
       "alpha": false
     },
     {
-      "name": "pierbild03_law",
+      "name": "sanwel6",
       "width": 128,
       "height": 128,
       "format": "DXT1",
       "alpha": false
     },
     {
-      "name": "pierbild02_law",
-      "width": 128,
-      "height": 128,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "pierbild01_law",
-      "width": 128,
+      "name": "sanwel7",
+      "width": 256,
       "height": 128,
       "format": "DXT1",
       "alpha": false
@@ -289,21 +240,42 @@
       "alpha": false
     },
     {
-      "name": "wilsd_02_la",
+      "name": "sjmdockral1",
+      "width": 128,
+      "height": 128,
+      "format": "DXT5",
+      "alpha": true
+    },
+    {
+      "name": "steel256128",
+      "width": 128,
+      "height": 128,
+      "format": "DXT5",
+      "alpha": true
+    },
+    {
+      "name": "steel64",
       "width": 64,
       "height": 64,
       "format": "DXT1",
       "alpha": false
     },
     {
-      "name": "brdwalkwater_la",
+      "name": "telewireslong",
+      "width": 512,
+      "height": 128,
+      "format": "DXT5",
+      "alpha": true
+    },
+    {
+      "name": "vgsclubdoor01_128",
       "width": 128,
       "height": 128,
       "format": "DXT1",
       "alpha": false
     },
     {
-      "name": "pierplanks_128",
+      "name": "wilsd_02_la",
       "width": 64,
       "height": 64,
       "format": "DXT1",

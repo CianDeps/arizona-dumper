@@ -2,6 +2,20 @@
   "type": "txd",
   "textures": [
     {
+      "name": "frate64_blue",
+      "width": 128,
+      "height": 128,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "frate64_red",
+      "width": 128,
+      "height": 128,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
       "name": "frate64_yellow",
       "width": 128,
       "height": 128,
@@ -9,30 +23,9 @@
       "alpha": false
     },
     {
-      "name": "frate_doors64yellow",
-      "width": 64,
-      "height": 64,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "frate64_red",
-      "width": 64,
-      "height": 64,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
       "name": "frate_doors128red",
-      "width": 128,
-      "height": 128,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "frate64_blue",
-      "width": 64,
-      "height": 64,
+      "width": 256,
+      "height": 256,
       "format": "DXT1",
       "alpha": false
     },
@@ -40,6 +33,13 @@
       "name": "frate_doors64128",
       "width": 128,
       "height": 128,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "frate_doors64yellow",
+      "width": 256,
+      "height": 256,
       "format": "DXT1",
       "alpha": false
     }

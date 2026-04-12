@@ -2,14 +2,28 @@
   "type": "txd",
   "textures": [
     {
-      "name": "pavebsandend",
+      "name": "Bow_sub_walltiles",
+      "width": 256,
+      "height": 256,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "des_dirt2stones",
+      "width": 256,
+      "height": 256,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "des_dirtgrassmixbmp",
       "width": 128,
       "height": 128,
       "format": "DXT1",
       "alpha": false
     },
     {
-      "name": "grassdeadbrn256",
+      "name": "des_pave_trackstart",
       "width": 256,
       "height": 256,
       "format": "DXT1",
@@ -30,41 +44,6 @@
       "alpha": false
     },
     {
-      "name": "Tar_lineslipway",
-      "width": 128,
-      "height": 128,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "Tar_1linefreewy",
-      "width": 512,
-      "height": 512,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "des_dirttrack1",
-      "width": 256,
-      "height": 256,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "des_pave_trackstart",
-      "width": 256,
-      "height": 256,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "des_dirttrackl",
-      "width": 256,
-      "height": 256,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
       "name": "drvin_ground1",
       "width": 256,
       "height": 256,
@@ -72,9 +51,9 @@
       "alpha": false
     },
     {
-      "name": "taxi_256",
-      "width": 128,
-      "height": 128,
+      "name": "grassdeadbrn256",
+      "width": 256,
+      "height": 256,
       "format": "DXT1",
       "alpha": false
     },
@@ -86,49 +65,28 @@
       "alpha": false
     },
     {
-      "name": "des_dirt2track",
-      "width": 256,
-      "height": 256,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "des_dirt2trackr",
-      "width": 256,
-      "height": 256,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "des_dirtgrassmixbmp",
+      "name": "grasstype5_dirt",
       "width": 128,
       "height": 128,
       "format": "DXT1",
       "alpha": false
     },
     {
-      "name": "des_dirt2blend",
-      "width": 256,
-      "height": 256,
+      "name": "parking2",
+      "width": 512,
+      "height": 512,
       "format": "DXT1",
       "alpha": false
     },
     {
-      "name": "des_dirt2",
-      "width": 256,
-      "height": 256,
+      "name": "parking2plain",
+      "width": 512,
+      "height": 512,
       "format": "DXT1",
       "alpha": false
     },
     {
-      "name": "des_dirt2stones",
-      "width": 256,
-      "height": 256,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "grasstype5_dirt",
+      "name": "pavebsandend",
       "width": 128,
       "height": 128,
       "format": "DXT1",
@@ -142,100 +100,23 @@
       "alpha": false
     },
     {
-      "name": "Bow_sub_walltiles",
-      "width": 128,
-      "height": 128,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "des_dustconc",
-      "width": 128,
-      "height": 128,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "concretenewb256",
-      "width": 128,
-      "height": 128,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "parking2plain",
-      "width": 128,
-      "height": 128,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "parking2",
-      "width": 128,
-      "height": 128,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "stormdrain5_nt",
-      "width": 256,
-      "height": 256,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "pavebsand256",
-      "width": 128,
-      "height": 128,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "roadnew4_256",
+      "name": "Tar_1linefreewy",
       "width": 512,
       "height": 512,
       "format": "DXT1",
       "alpha": false
     },
     {
-      "name": "des_dirt1",
-      "width": 256,
-      "height": 256,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "desertstones256",
-      "width": 256,
-      "height": 256,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "desstones_dirt1",
-      "width": 256,
-      "height": 256,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "des_ranchwall1",
-      "width": 128,
-      "height": 128,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "concretemanky",
-      "width": 256,
-      "height": 256,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "Tar_1line256HV",
+      "name": "Tar_lineslipway",
       "width": 512,
       "height": 512,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "taxi_256",
+      "width": 256,
+      "height": 256,
       "format": "DXT1",
       "alpha": false
     }

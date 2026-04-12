@@ -2,14 +2,21 @@
   "type": "txd",
   "textures": [
     {
-      "name": "CJ_GREENMETAL",
+      "name": "bus shelter",
       "width": 128,
       "height": 128,
       "format": "DXT1",
       "alpha": false
     },
     {
-      "name": "bus shelter",
+      "name": "CJ_BS_MENU5",
+      "width": 256,
+      "height": 256,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "CJ_GREENMETAL",
       "width": 128,
       "height": 128,
       "format": "DXT1",
@@ -19,15 +26,8 @@
       "name": "CJ_FRAME_Glass",
       "width": 256,
       "height": 256,
-      "format": "DXT3",
+      "format": "DXT5",
       "alpha": true
-    },
-    {
-      "name": "CJ_BS_MENU5",
-      "width": 256,
-      "height": 256,
-      "format": "DXT1",
-      "alpha": false
     }
   ]
 }

@@ -3,6 +3,13 @@
   "textures": [
     {
       "name": "Gen_Log_End",
+      "width": 256,
+      "height": 256,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "northwood3_128",
       "width": 128,
       "height": 128,
       "format": "DXT1",
@@ -11,13 +18,6 @@
     {
       "name": "tislndshpillar01_128",
       "width": 64,
-      "height": 128,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "northwood3_128",
-      "width": 128,
       "height": 128,
       "format": "DXT1",
       "alpha": false

@@ -2,196 +2,21 @@
   "type": "txd",
   "textures": [
     {
-      "name": "wslod_hangar2d",
-      "width": 64,
-      "height": 32,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "GB_truckdepot_lod",
-      "width": 64,
-      "height": 64,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "yellow_64",
-      "width": 64,
-      "height": 64,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "roof05L_lod",
-      "width": 64,
-      "height": 64,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "corporate3greenb_lod",
-      "width": 64,
-      "height": 64,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "vgscityhwal1_lod",
-      "width": 64,
-      "height": 64,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "swimpoolbtm1_lod",
-      "width": 64,
-      "height": 64,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "sumo_lod",
-      "width": 64,
-      "height": 64,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "vgsSpinkshop01_lod",
-      "width": 128,
-      "height": 128,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "vgsSland34_lod",
-      "width": 128,
-      "height": 128,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "vgsSnewshop04",
-      "width": 128,
-      "height": 128,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "concretemanky_lod",
+      "name": "airportmetalwalllod",
       "width": 32,
       "height": 32,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "GB_nastybar03_lod",
-      "width": 64,
-      "height": 64,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "roof11L_lod",
-      "width": 64,
-      "height": 64,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "vgsSnewarehse01",
-      "width": 128,
-      "height": 128,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "monobloc_256128_lod",
-      "width": 32,
-      "height": 32,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "carpark1_lod",
-      "width": 32,
-      "height": 32,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "vgsSshopnew01_lod",
-      "width": 128,
-      "height": 128,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "wslod_hangar2c",
-      "width": 32,
-      "height": 32,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "wslod_hangar2b",
-      "width": 32,
-      "height": 32,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "wslod_hangar2",
-      "width": 32,
-      "height": 32,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "ws_rooftarmac1LOD",
-      "width": 32,
-      "height": 32,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "vgstjunction06_lod",
-      "width": 64,
-      "height": 64,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "vegdirtyroad2_lod",
-      "width": 64,
-      "height": 64,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "vegroadjunc1_lod",
-      "width": 64,
-      "height": 64,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "ws_rooftarmaclod",
-      "width": 32,
-      "height": 32,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "bikeschlod2",
-      "width": 128,
-      "height": 64,
       "format": "DXT1",
       "alpha": false
     },
     {
       "name": "bikeschlod1",
+      "width": 128,
+      "height": 64,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "bikeschlod2",
       "width": 128,
       "height": 64,
       "format": "DXT1",
@@ -205,16 +30,9 @@
       "alpha": false
     },
     {
-      "name": "dustyconcrete_lod",
-      "width": 64,
-      "height": 64,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "ws_sandstone1_lod",
-      "width": 64,
-      "height": 64,
+      "name": "block_lod",
+      "width": 32,
+      "height": 32,
       "format": "DXT1",
       "alpha": false
     },
@@ -226,9 +44,51 @@
       "alpha": false
     },
     {
-      "name": "ws_carparknew2_lod",
+      "name": "browntinlod",
       "width": 32,
       "height": 32,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "carpark1_lod",
+      "width": 32,
+      "height": 32,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "carprkgrd01_lod",
+      "width": 64,
+      "height": 64,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "churchdoor1_lod",
+      "width": 64,
+      "height": 64,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "concretemanky_lod",
+      "width": 32,
+      "height": 32,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "concretenewb256_lod",
+      "width": 32,
+      "height": 32,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "corporate3greenb_lod",
+      "width": 64,
+      "height": 64,
       "format": "DXT1",
       "alpha": false
     },
@@ -247,35 +107,119 @@
       "alpha": false
     },
     {
-      "name": "ws_neatwoodfence_lod",
-      "width": 64,
-      "height": 64,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "newall10_lod",
-      "width": 64,
-      "height": 64,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "sw_stresswall1_lod",
-      "width": 64,
-      "height": 64,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "lodfrateyellow1_32",
+      "name": "des_dirt1_lod",
       "width": 32,
       "height": 32,
       "format": "DXT1",
       "alpha": false
     },
     {
-      "name": "lodfrateyellow2_32",
+      "name": "dirt64b2_lod",
+      "width": 64,
+      "height": 64,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "duskyred_64",
+      "width": 64,
+      "height": 64,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "dustyconcrete_lod",
+      "width": 64,
+      "height": 64,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "electrics01_lod",
+      "width": 64,
+      "height": 64,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "flightschl01_lod",
+      "width": 64,
+      "height": 64,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "GB_nastybar03_lod",
+      "width": 64,
+      "height": 64,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "GB_truckdepot_lod",
+      "width": 64,
+      "height": 64,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "grassgrn256",
+      "width": 32,
+      "height": 32,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "grassgrn_lod",
+      "width": 64,
+      "height": 64,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "greyground_lod",
+      "width": 32,
+      "height": 32,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "Heliconcrete_lod",
+      "width": 32,
+      "height": 32,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "hiwaygravel1_LOD",
+      "width": 32,
+      "height": 32,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "hseing01_lod",
+      "width": 64,
+      "height": 64,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "hseing04_lod",
+      "width": 128,
+      "height": 128,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "lodfrateblue1_32",
+      "width": 32,
+      "height": 32,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "lodfrateblue2_32",
       "width": 32,
       "height": 32,
       "format": "DXT1",
@@ -296,14 +240,14 @@
       "alpha": false
     },
     {
-      "name": "lodfrateblue1_32",
+      "name": "lodfrateyellow1_32",
       "width": 32,
       "height": 32,
       "format": "DXT1",
       "alpha": false
     },
     {
-      "name": "lodfrateblue2_32",
+      "name": "lodfrateyellow2_32",
       "width": 32,
       "height": 32,
       "format": "DXT1",
@@ -317,14 +261,7 @@
       "alpha": false
     },
     {
-      "name": "lodwrehse8_256",
-      "width": 32,
-      "height": 32,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "lodwrehse7_256",
+      "name": "lodwrehse5_256",
       "width": 32,
       "height": 32,
       "format": "DXT1",
@@ -338,42 +275,105 @@
       "alpha": false
     },
     {
-      "name": "lodwrehse5_256",
+      "name": "lodwrehse7_256",
       "width": 32,
       "height": 32,
       "format": "DXT1",
       "alpha": false
     },
     {
-      "name": "browntinlod",
+      "name": "lodwrehse8_256",
       "width": 32,
       "height": 32,
       "format": "DXT1",
       "alpha": false
     },
     {
-      "name": "airportmetalwalllod",
+      "name": "lod_sub_walltiles",
       "width": 32,
       "height": 32,
       "format": "DXT1",
       "alpha": false
     },
     {
-      "name": "vgnwrehselod7",
-      "width": 128,
-      "height": 64,
+      "name": "monobloc_256128_lod",
+      "width": 32,
+      "height": 32,
       "format": "DXT1",
       "alpha": false
     },
     {
-      "name": "vgnwrehselod3",
+      "name": "newall10_lod",
       "width": 64,
       "height": 64,
       "format": "DXT1",
       "alpha": false
     },
     {
-      "name": "vgnwrehselod2",
+      "name": "roof05L_lod",
+      "width": 64,
+      "height": 64,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "roof11L_lod",
+      "width": 64,
+      "height": 64,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "stonesandkb2_lod",
+      "width": 64,
+      "height": 64,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "sumo_lod",
+      "width": 64,
+      "height": 64,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "swimpoolbtm1_lod",
+      "width": 64,
+      "height": 64,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "sw_stresswall1_lod",
+      "width": 64,
+      "height": 64,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "vegascollege01",
+      "width": 64,
+      "height": 64,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "vegdirtyroad2_lod",
+      "width": 64,
+      "height": 64,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "vegroadjunc1_lod",
+      "width": 64,
+      "height": 64,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "vgnburgwal3_lod",
       "width": 64,
       "height": 64,
       "format": "DXT1",
@@ -387,7 +387,119 @@
       "alpha": false
     },
     {
+      "name": "vgnwrehselod2",
+      "width": 64,
+      "height": 64,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "vgnwrehselod3",
+      "width": 64,
+      "height": 64,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "vgnwrehselod7",
+      "width": 128,
+      "height": 64,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
       "name": "vgsbikesch01_lod",
+      "width": 128,
+      "height": 128,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "vgscityhwal1_lod",
+      "width": 64,
+      "height": 64,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "vgscrates08_lod",
+      "width": 128,
+      "height": 128,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "vgscrates10_lod",
+      "width": 128,
+      "height": 128,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "vgscrates11_lod",
+      "width": 128,
+      "height": 128,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "vgsEwrehse02_lod",
+      "width": 64,
+      "height": 64,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "vgsroad01_lod",
+      "width": 64,
+      "height": 64,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "vgsroad02_lod",
+      "width": 64,
+      "height": 64,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "vgsroad03_lod",
+      "width": 64,
+      "height": 64,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "vgsroad05_lod",
+      "width": 64,
+      "height": 64,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "vgsSland34_lod",
+      "width": 128,
+      "height": 128,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "vgsSnewarehse01",
+      "width": 128,
+      "height": 128,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "vgsSnewshop04",
+      "width": 128,
+      "height": 128,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "vgsSpinkshop01_lod",
       "width": 128,
       "height": 128,
       "format": "DXT1",
@@ -408,142 +520,9 @@
       "alpha": false
     },
     {
-      "name": "flightschl01_lod",
-      "width": 64,
-      "height": 64,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "ws_chipboard_lod",
-      "width": 32,
-      "height": 32,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "block_lod",
-      "width": 32,
-      "height": 32,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "ws_mixedbricklod",
-      "width": 32,
-      "height": 32,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "lod_sub_walltiles",
-      "width": 32,
-      "height": 32,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "vgscrates10_lod",
+      "name": "vgsSshopnew01_lod",
       "width": 128,
       "height": 128,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "vgsEwrehse02_lod",
-      "width": 64,
-      "height": 64,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "vgswrhse19b_lod",
-      "width": 128,
-      "height": 128,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "vgscrates08_lod",
-      "width": 128,
-      "height": 128,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "hseing04_lod",
-      "width": 128,
-      "height": 128,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "vgscrates11_lod",
-      "width": 128,
-      "height": 128,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "vgswrhse19_lod",
-      "width": 128,
-      "height": 128,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "electrics01_lod",
-      "width": 64,
-      "height": 64,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "vgswrhsign01",
-      "width": 64,
-      "height": 16,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "duskyred_64",
-      "width": 64,
-      "height": 64,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "hseing01_lod",
-      "width": 64,
-      "height": 64,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "stonesandkb2_lod",
-      "width": 64,
-      "height": 64,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "churchdoor1_lod",
-      "width": 64,
-      "height": 64,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "vgnburgwal3_lod",
-      "width": 64,
-      "height": 64,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "vegascollege01",
-      "width": 64,
-      "height": 64,
       "format": "DXT1",
       "alpha": false
     },
@@ -555,72 +534,9 @@
       "alpha": false
     },
     {
-      "name": "carprkgrd01_lod",
+      "name": "vgstjunction01_lod",
       "width": 64,
       "height": 64,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "hiwaygravel1_LOD",
-      "width": 32,
-      "height": 32,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "greyground_lod",
-      "width": 32,
-      "height": 32,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "grassgrn_lod",
-      "width": 64,
-      "height": 64,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "dirt64b2_lod",
-      "width": 64,
-      "height": 64,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "grassgrn256",
-      "width": 32,
-      "height": 32,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "concretenewb256_lod",
-      "width": 32,
-      "height": 32,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "des_dirt1_lod",
-      "width": 32,
-      "height": 32,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "vgsroad03_lod",
-      "width": 64,
-      "height": 64,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "Heliconcrete_lod",
-      "width": 32,
-      "height": 32,
       "format": "DXT1",
       "alpha": false
     },
@@ -639,29 +555,127 @@
       "alpha": false
     },
     {
-      "name": "vgstjunction01_lod",
+      "name": "vgstjunction06_lod",
       "width": 64,
       "height": 64,
       "format": "DXT1",
       "alpha": false
     },
     {
-      "name": "vgsroad05_lod",
+      "name": "vgswrhse19b_lod",
+      "width": 128,
+      "height": 128,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "vgswrhse19_lod",
+      "width": 128,
+      "height": 128,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "vgswrhsign01",
+      "width": 64,
+      "height": 16,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "wslod_hangar2",
+      "width": 32,
+      "height": 32,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "wslod_hangar2b",
+      "width": 32,
+      "height": 32,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "wslod_hangar2c",
+      "width": 32,
+      "height": 32,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "wslod_hangar2d",
+      "width": 64,
+      "height": 32,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "ws_carparknew2_lod",
+      "width": 32,
+      "height": 32,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "ws_chipboard_lod",
+      "width": 32,
+      "height": 32,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "ws_mixedbricklod",
+      "width": 32,
+      "height": 32,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "ws_neatwoodfence_lod",
       "width": 64,
       "height": 64,
       "format": "DXT1",
       "alpha": false
     },
     {
-      "name": "vgsroad01_lod",
+      "name": "ws_rooftarmac1LOD",
       "width": 64,
       "height": 64,
       "format": "DXT1",
       "alpha": false
     },
     {
-      "name": "vgsroad02_lod",
+      "name": "ws_rooftarmaclod",
+      "width": 32,
+      "height": 32,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "ws_sandstone1_lod",
       "width": 64,
+      "height": 64,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "yellow_64",
+      "width": 64,
+      "height": 64,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "lodtruckdepot18",
+      "width": 64,
+      "height": 64,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "LoDprtcrprk02_lvS",
+      "width": 128,
       "height": 64,
       "format": "DXT1",
       "alpha": false

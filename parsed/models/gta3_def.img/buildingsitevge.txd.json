@@ -2,8 +2,43 @@
   "type": "txd",
   "textures": [
     {
+      "name": "banding9_64HV",
+      "width": 64,
+      "height": 64,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "boardgate_law",
+      "width": 64,
+      "height": 128,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "Metal3_128",
+      "width": 128,
+      "height": 128,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "telepole2128",
+      "width": 128,
+      "height": 128,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
       "name": "white",
       "width": 64,
+      "height": 64,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "ws_floodlight",
+      "width": 128,
       "height": 64,
       "format": "DXT1",
       "alpha": false
@@ -26,43 +61,8 @@
       "name": "ws_oldpaintedyello",
       "width": 256,
       "height": 256,
-      "format": "DXT3",
+      "format": "DXT5",
       "alpha": true
-    },
-    {
-      "name": "ws_floodlight",
-      "width": 128,
-      "height": 64,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "Metal3_128",
-      "width": 128,
-      "height": 128,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "banding9_64HV",
-      "width": 64,
-      "height": 64,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "telepole2128",
-      "width": 128,
-      "height": 128,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "boardgate_law",
-      "width": 64,
-      "height": 128,
-      "format": "DXT1",
-      "alpha": false
     },
     {
       "name": "ws_woodenscreen1",

@@ -2,51 +2,9 @@
   "type": "txd",
   "textures": [
     {
-      "name": "venetian15_128",
+      "name": "alleywall1",
       "width": 128,
       "height": 128,
-      "format": "DXT3",
-      "alpha": true
-    },
-    {
-      "name": "fence_iron_256",
-      "width": 128,
-      "height": 128,
-      "format": "DXT3",
-      "alpha": true
-    },
-    {
-      "name": "metaliron1_128",
-      "width": 256,
-      "height": 128,
-      "format": "DXT3",
-      "alpha": true
-    },
-    {
-      "name": "awning4256",
-      "width": 128,
-      "height": 128,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "roof01L256",
-      "width": 256,
-      "height": 256,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "highshopwall1256",
-      "width": 64,
-      "height": 128,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "genroof03_128",
-      "width": 64,
-      "height": 64,
       "format": "DXT1",
       "alpha": false
     },
@@ -58,16 +16,9 @@
       "alpha": false
     },
     {
-      "name": "alleywall1",
-      "width": 128,
-      "height": 128,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "alleywall3",
-      "width": 128,
-      "height": 128,
+      "name": "awning4256",
+      "width": 256,
+      "height": 256,
       "format": "DXT1",
       "alpha": false
     },
@@ -79,14 +30,42 @@
       "alpha": false
     },
     {
-      "name": "concretenewb256",
+      "name": "CJ_BS_MENU5",
+      "width": 256,
+      "height": 256,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "fence_iron_256",
+      "width": 128,
+      "height": 128,
+      "format": "DXT5",
+      "alpha": true
+    },
+    {
+      "name": "genroof03_128",
       "width": 128,
       "height": 128,
       "format": "DXT1",
       "alpha": false
     },
     {
-      "name": "CJ_BS_MENU5",
+      "name": "metalic128",
+      "width": 128,
+      "height": 128,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "metaliron1_128",
+      "width": 256,
+      "height": 128,
+      "format": "DXT5",
+      "alpha": true
+    },
+    {
+      "name": "mp_bluemetaldoor_256",
       "width": 256,
       "height": 256,
       "format": "DXT1",
@@ -100,25 +79,18 @@
       "alpha": false
     },
     {
-      "name": "metalic128",
-      "width": 128,
-      "height": 128,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "mp_bluemetaldoor_256",
-      "width": 256,
-      "height": 256,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
       "name": "sw_wind12",
       "width": 256,
       "height": 128,
       "format": "DXT1",
       "alpha": false
+    },
+    {
+      "name": "venetian15_128",
+      "width": 128,
+      "height": 128,
+      "format": "DXT5",
+      "alpha": true
     }
   ]
 }

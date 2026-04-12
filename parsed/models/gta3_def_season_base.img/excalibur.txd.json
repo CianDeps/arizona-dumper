@@ -2,14 +2,35 @@
   "type": "txd",
   "textures": [
     {
-      "name": "excalibur08_64",
+      "name": "excalibur01",
+      "width": 128,
+      "height": 128,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "excalibur02_64",
       "width": 64,
       "height": 64,
       "format": "DXT1",
       "alpha": false
     },
     {
-      "name": "excalibur07_64",
+      "name": "excalibur03_64",
+      "width": 64,
+      "height": 64,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "excalibur04_64",
+      "width": 128,
+      "height": 128,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "excalibur05_64",
       "width": 64,
       "height": 64,
       "format": "DXT1",
@@ -23,18 +44,25 @@
       "alpha": false
     },
     {
-      "name": "excalibur01",
-      "width": 128,
-      "height": 128,
+      "name": "excalibur07_64",
+      "width": 64,
+      "height": 64,
       "format": "DXT1",
       "alpha": false
     },
     {
-      "name": "vegasroad1_256",
-      "width": 512,
-      "height": 512,
+      "name": "excalibur08_64",
+      "width": 64,
+      "height": 64,
       "format": "DXT1",
       "alpha": false
+    },
+    {
+      "name": "excaliburledge01",
+      "width": 128,
+      "height": 128,
+      "format": "DXT5",
+      "alpha": true
     },
     {
       "name": "excaliburwall01_128",
@@ -44,16 +72,37 @@
       "alpha": false
     },
     {
-      "name": "greyground256128",
+      "name": "excaliburwall02_128",
       "width": 128,
       "height": 128,
       "format": "DXT1",
       "alpha": false
     },
     {
-      "name": "vegaspavement2_256",
-      "width": 512,
-      "height": 512,
+      "name": "excaliburwall03_128",
+      "width": 128,
+      "height": 128,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "excaliburwall04_64",
+      "width": 64,
+      "height": 64,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "excaliburwall05_128",
+      "width": 128,
+      "height": 128,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "excaliburwall06_64",
+      "width": 64,
+      "height": 64,
       "format": "DXT1",
       "alpha": false
     },
@@ -65,7 +114,21 @@
       "alpha": false
     },
     {
+      "name": "excaliburwall08",
+      "width": 256,
+      "height": 256,
+      "format": "DXT5",
+      "alpha": true
+    },
+    {
       "name": "excaliburwall09",
+      "width": 128,
+      "height": 128,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "excaliburwndw01_128",
       "width": 128,
       "height": 128,
       "format": "DXT1",
@@ -82,90 +145,6 @@
       "name": "ws_sandstone2",
       "width": 256,
       "height": 256,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "excaliburwall08",
-      "width": 256,
-      "height": 256,
-      "format": "DXT3",
-      "alpha": true
-    },
-    {
-      "name": "excaliburwall06_64",
-      "width": 64,
-      "height": 64,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "excaliburwndw01_128",
-      "width": 128,
-      "height": 128,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "excaliburwall05_128",
-      "width": 128,
-      "height": 128,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "excaliburwall04_64",
-      "width": 64,
-      "height": 64,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "excaliburledge01",
-      "width": 128,
-      "height": 128,
-      "format": "DXT3",
-      "alpha": true
-    },
-    {
-      "name": "excaliburwall03_128",
-      "width": 128,
-      "height": 128,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "excaliburwall02_128",
-      "width": 128,
-      "height": 128,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "excalibur05_64",
-      "width": 64,
-      "height": 64,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "excalibur04_64",
-      "width": 64,
-      "height": 64,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "excalibur03_64",
-      "width": 64,
-      "height": 64,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "excalibur02_64",
-      "width": 64,
-      "height": 64,
       "format": "DXT1",
       "alpha": false
     }

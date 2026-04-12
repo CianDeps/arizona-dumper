@@ -2,18 +2,18 @@
   "type": "txd",
   "textures": [
     {
-      "name": "oakbark64",
-      "width": 64,
-      "height": 64,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
       "name": "cedar1",
       "width": 128,
       "height": 64,
       "format": "DXT5",
       "alpha": true
+    },
+    {
+      "name": "oakbark64",
+      "width": 64,
+      "height": 64,
+      "format": "DXT1",
+      "alpha": false
     }
   ]
 }

@@ -2,7 +2,14 @@
   "type": "txd",
   "textures": [
     {
-      "name": "metpat64chev_128",
+      "name": "block2_high",
+      "width": 256,
+      "height": 256,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "bluemetal",
       "width": 64,
       "height": 64,
       "format": "DXT1",
@@ -16,28 +23,7 @@
       "alpha": false
     },
     {
-      "name": "metpat64",
-      "width": 64,
-      "height": 64,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "bluemetal",
-      "width": 64,
-      "height": 64,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "metalwheel4_128",
-      "width": 128,
-      "height": 128,
-      "format": "DXT3",
-      "alpha": true
-    },
-    {
-      "name": "metalwheel5",
+      "name": "metalwheel1_128",
       "width": 128,
       "height": 128,
       "format": "DXT1",
@@ -51,13 +37,6 @@
       "alpha": false
     },
     {
-      "name": "metalwheel5_128",
-      "width": 128,
-      "height": 128,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
       "name": "metalwheel3_128",
       "width": 128,
       "height": 128,
@@ -65,16 +44,30 @@
       "alpha": false
     },
     {
-      "name": "BLOCK",
-      "width": 256,
-      "height": 256,
+      "name": "metalwheel4_128",
+      "width": 128,
+      "height": 128,
+      "format": "DXT5",
+      "alpha": true
+    },
+    {
+      "name": "metalwheel5",
+      "width": 128,
+      "height": 128,
       "format": "DXT1",
       "alpha": false
     },
     {
-      "name": "metalwheel1_128",
+      "name": "metalwheel5_128",
       "width": 128,
       "height": 128,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "metpat64chev_128",
+      "width": 64,
+      "height": 64,
       "format": "DXT1",
       "alpha": false
     },
@@ -86,23 +79,16 @@
       "alpha": false
     },
     {
-      "name": "vegaselecbloc_256",
-      "width": 256,
-      "height": 256,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "block2_high",
-      "width": 256,
-      "height": 256,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
       "name": "striplight1",
       "width": 128,
       "height": 128,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "vegaselecbloc_256",
+      "width": 256,
+      "height": 256,
       "format": "DXT1",
       "alpha": false
     }

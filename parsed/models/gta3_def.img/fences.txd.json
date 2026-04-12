@@ -2,30 +2,9 @@
   "type": "txd",
   "textures": [
     {
-      "name": "slab256",
-      "width": 64,
-      "height": 64,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "NoParking_64",
-      "width": 64,
-      "height": 64,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "wirefence",
-      "width": 64,
-      "height": 64,
-      "format": "DXT3",
-      "alpha": true
-    },
-    {
       "name": "Alumox64",
-      "width": 64,
-      "height": 64,
+      "width": 256,
+      "height": 256,
       "format": "DXT1",
       "alpha": false
     },
@@ -40,7 +19,35 @@
       "name": "fencekb_64h",
       "width": 64,
       "height": 64,
-      "format": "DXT3",
+      "format": "DXT5",
+      "alpha": true
+    },
+    {
+      "name": "NoParking_64",
+      "width": 64,
+      "height": 64,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "slab256",
+      "width": 64,
+      "height": 64,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "wirefence",
+      "width": 64,
+      "height": 64,
+      "format": "DXT5",
+      "alpha": true
+    },
+    {
+      "name": "black",
+      "width": 64,
+      "height": 64,
+      "format": "DXT5",
       "alpha": true
     }
   ]

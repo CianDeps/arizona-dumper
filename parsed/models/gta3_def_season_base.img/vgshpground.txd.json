@@ -2,13 +2,6 @@
   "type": "txd",
   "textures": [
     {
-      "name": "carparksign03_128",
-      "width": 128,
-      "height": 128,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
       "name": "carparksign02_128",
       "width": 128,
       "height": 128,
@@ -16,49 +9,7 @@
       "alpha": false
     },
     {
-      "name": "parkinghutdoor_128",
-      "width": 64,
-      "height": 128,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "parkinghut02_128",
-      "width": 128,
-      "height": 128,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "parkingsign01_128",
-      "width": 256,
-      "height": 64,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "parkinghut01_128",
-      "width": 64,
-      "height": 64,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "weewall256",
-      "width": 128,
-      "height": 128,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "dirtywhite",
-      "width": 64,
-      "height": 64,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "Pave02_128",
+      "name": "carparksign03_128",
       "width": 128,
       "height": 128,
       "format": "DXT1",
@@ -72,30 +23,51 @@
       "alpha": false
     },
     {
-      "name": "newgrnd1_128",
-      "width": 128,
-      "height": 128,
+      "name": "dirtywhite",
+      "width": 64,
+      "height": 64,
       "format": "DXT1",
       "alpha": false
     },
     {
-      "name": "ap_tarmac",
+      "name": "newgrnd1_128",
       "width": 256,
       "height": 256,
       "format": "DXT1",
       "alpha": false
     },
     {
-      "name": "vegaspawnwall02_128",
+      "name": "parkinghut01_128",
+      "width": 64,
+      "height": 64,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "parkinghut02_128",
       "width": 128,
       "height": 128,
       "format": "DXT1",
       "alpha": false
     },
     {
-      "name": "vgs_shpfrnt03_128",
-      "width": 256,
+      "name": "parkinghutdoor_128",
+      "width": 64,
       "height": 128,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "parkingsign01_128",
+      "width": 256,
+      "height": 64,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "Pave02_128",
+      "width": 256,
+      "height": 256,
       "format": "DXT1",
       "alpha": false
     },
@@ -108,27 +80,20 @@
     },
     {
       "name": "pawn_door01",
-      "width": 64,
-      "height": 128,
+      "width": 128,
+      "height": 256,
       "format": "DXT1",
       "alpha": false
     },
     {
-      "name": "greenwall2",
+      "name": "vegaspawn01_128",
       "width": 128,
       "height": 128,
       "format": "DXT1",
       "alpha": false
     },
     {
-      "name": "vgspawnroof02_128",
-      "width": 128,
-      "height": 128,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "vgspawnroof01_128",
+      "name": "vegaspawnwall02_128",
       "width": 128,
       "height": 128,
       "format": "DXT1",
@@ -142,9 +107,23 @@
       "alpha": false
     },
     {
-      "name": "vegaspawn01_128",
+      "name": "vgspawnroof01_128",
       "width": 128,
       "height": 128,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "vgs_shpfrnt03_128",
+      "width": 256,
+      "height": 128,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "weewall256",
+      "width": 256,
+      "height": 256,
       "format": "DXT1",
       "alpha": false
     }

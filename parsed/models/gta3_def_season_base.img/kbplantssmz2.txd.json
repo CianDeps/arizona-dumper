@@ -2,9 +2,16 @@
   "type": "txd",
   "textures": [
     {
-      "name": "kb_teracota_pot2_64",
-      "width": 64,
-      "height": 64,
+      "name": "dirtgaz64b",
+      "width": 128,
+      "height": 128,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "kbtree3_test",
+      "width": 128,
+      "height": 128,
       "format": "DXT1",
       "alpha": false
     },
@@ -16,14 +23,7 @@
       "alpha": true
     },
     {
-      "name": "kbtree3_test",
-      "width": 64,
-      "height": 64,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "dirtgaz64b",
+      "name": "kb_teracota_pot2_64",
       "width": 64,
       "height": 64,
       "format": "DXT1",

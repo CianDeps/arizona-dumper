@@ -2,10 +2,10 @@
   "type": "txd",
   "textures": [
     {
-      "name": "mp_carter_cage",
-      "width": 128,
-      "height": 128,
-      "format": "DXT1",
+      "name": "cw2_mountboards1",
+      "width": 256,
+      "height": 256,
+      "format": "DXT5",
       "alpha": true
     },
     {
@@ -16,6 +16,20 @@
       "alpha": false
     },
     {
+      "name": "Gen_Log_End",
+      "width": 256,
+      "height": 256,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "mp_carter_cage",
+      "width": 128,
+      "height": 128,
+      "format": "DXT5",
+      "alpha": true
+    },
+    {
       "name": "palmbark128",
       "width": 128,
       "height": 128,
@@ -23,39 +37,25 @@
       "alpha": false
     },
     {
-      "name": "Gen_Log_End",
+      "name": "sm_redwood_bark",
       "width": 128,
-      "height": 128,
+      "height": 256,
       "format": "DXT1",
       "alpha": false
     },
     {
-      "name": "cw2_mountboards1",
-      "width": 256,
-      "height": 256,
-      "format": "DXT3",
-      "alpha": true
-    },
-    {
       "name": "sm_redwood_branch",
-      "width": 256,
-      "height": 256,
-      "format": "DXT3",
+      "width": 128,
+      "height": 128,
+      "format": "DXT5",
       "alpha": true
     },
     {
       "name": "tree19Mi",
       "width": 256,
       "height": 256,
-      "format": "DXT3",
+      "format": "DXT5",
       "alpha": true
-    },
-    {
-      "name": "sm_redwood_bark",
-      "width": 128,
-      "height": 256,
-      "format": "DXT1",
-      "alpha": false
     }
   ]
 }

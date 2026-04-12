@@ -2,14 +2,7 @@
   "type": "txd",
   "textures": [
     {
-      "name": "glass_64a",
-      "width": 64,
-      "height": 64,
-      "format": "DXT3",
-      "alpha": true
-    },
-    {
-      "name": "chevron_red_64HVa",
+      "name": "banding8_64HV",
       "width": 64,
       "height": 64,
       "format": "DXT1",
@@ -23,20 +16,6 @@
       "alpha": false
     },
     {
-      "name": "Stop2_64",
-      "width": 64,
-      "height": 64,
-      "format": "DXT1",
-      "alpha": true
-    },
-    {
-      "name": "cratetop128",
-      "width": 128,
-      "height": 128,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
       "name": "bareboards_64a",
       "width": 64,
       "height": 64,
@@ -44,11 +23,25 @@
       "alpha": false
     },
     {
-      "name": "banding8_64HV",
+      "name": "chevron_red_64HVa",
       "width": 64,
       "height": 64,
       "format": "DXT1",
       "alpha": false
+    },
+    {
+      "name": "cratetop128",
+      "width": 256,
+      "height": 256,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "glass_64a",
+      "width": 64,
+      "height": 64,
+      "format": "DXT5",
+      "alpha": true
     },
     {
       "name": "redband_64Ha",
@@ -56,6 +49,13 @@
       "height": 64,
       "format": "DXT1",
       "alpha": false
+    },
+    {
+      "name": "Stop2_64",
+      "width": 256,
+      "height": 256,
+      "format": "DXT5",
+      "alpha": true
     }
   ]
 }

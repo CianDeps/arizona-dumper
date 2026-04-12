@@ -2,7 +2,28 @@
   "type": "txd",
   "textures": [
     {
-      "name": "ws_tunnelwall2",
+      "name": "conchev_64HV",
+      "width": 64,
+      "height": 64,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "concreteyellow256 copy",
+      "width": 128,
+      "height": 128,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "concrete_64HV",
+      "width": 256,
+      "height": 256,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "metpat64shadow",
       "width": 128,
       "height": 128,
       "format": "DXT1",
@@ -16,51 +37,9 @@
       "alpha": false
     },
     {
-      "name": "concreteyellow256 copy",
-      "width": 128,
-      "height": 128,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "concretenewb256",
-      "width": 128,
-      "height": 128,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
       "name": "railwy_tun",
       "width": 256,
       "height": 256,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "metpat64",
-      "width": 64,
-      "height": 64,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "concrete_64HV",
-      "width": 64,
-      "height": 64,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "conchev_64HV",
-      "width": 64,
-      "height": 64,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "metpat64shadow",
-      "width": 128,
-      "height": 128,
       "format": "DXT1",
       "alpha": false
     },
@@ -75,6 +54,13 @@
       "name": "ws_traintrax1",
       "width": 256,
       "height": 256,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "ws_tunnelwall2",
+      "width": 128,
+      "height": 128,
       "format": "DXT1",
       "alpha": false
     }

@@ -5,9 +5,18 @@
   "geometries": [
     {
       "index": 0,
-      "vertices": 6724,
+      "vertices": 6712,
       "triangles": 5144,
       "materials": [
+        {
+          "color": {
+            "r": 255,
+            "g": 255,
+            "b": 255,
+            "a": 255
+          },
+          "texture": null
+        },
         {
           "color": {
             "r": 255,
@@ -166,6 +175,6 @@
   ],
   "frames": 1,
   "dummies": [
-    "int_clothingA01"
+    "int_clothinga01"
   ]
 }

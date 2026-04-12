@@ -2,7 +2,35 @@
   "type": "txd",
   "textures": [
     {
+      "name": "beachtowels",
+      "width": 256,
+      "height": 128,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
       "name": "beachwood",
+      "width": 64,
+      "height": 64,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "beach_hut_128",
+      "width": 128,
+      "height": 128,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "lotion",
+      "width": 64,
+      "height": 64,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "loungertubes",
       "width": 64,
       "height": 64,
       "format": "DXT1",
@@ -16,39 +44,11 @@
       "alpha": false
     },
     {
-      "name": "wood02",
-      "width": 64,
-      "height": 64,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "lotion",
-      "width": 64,
-      "height": 64,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "beachtowels",
-      "width": 256,
-      "height": 128,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "loungertubes",
-      "width": 64,
-      "height": 64,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "vbnet",
+      "name": "mbhutdr3",
       "width": 128,
-      "height": 128,
-      "format": "DXT3",
-      "alpha": true
+      "height": 256,
+      "format": "DXT1",
+      "alpha": false
     },
     {
       "name": "mbhutdr4",
@@ -58,23 +58,9 @@
       "alpha": false
     },
     {
-      "name": "beach_hut_128",
-      "width": 128,
-      "height": 128,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "mbhutdr3",
-      "width": 64,
-      "height": 128,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "mbhutwin",
-      "width": 32,
-      "height": 64,
+      "name": "mbhutgre",
+      "width": 256,
+      "height": 256,
       "format": "DXT1",
       "alpha": false
     },
@@ -86,14 +72,28 @@
       "alpha": false
     },
     {
-      "name": "mbhutgre",
-      "width": 64,
+      "name": "mbhutwin",
+      "width": 32,
       "height": 64,
       "format": "DXT1",
       "alpha": false
     },
     {
       "name": "mbhutyel",
+      "width": 256,
+      "height": 256,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "vbnet",
+      "width": 128,
+      "height": 128,
+      "format": "DXT5",
+      "alpha": true
+    },
+    {
+      "name": "wood02",
       "width": 64,
       "height": 64,
       "format": "DXT1",

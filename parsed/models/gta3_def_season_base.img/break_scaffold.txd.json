@@ -2,14 +2,14 @@
   "type": "txd",
   "textures": [
     {
-      "name": "CJ_avery",
+      "name": "cheerybox03",
       "width": 128,
       "height": 128,
       "format": "DXT1",
       "alpha": false
     },
     {
-      "name": "CJ_W_wood",
+      "name": "CJ_avery",
       "width": 128,
       "height": 128,
       "format": "DXT1",
@@ -23,25 +23,18 @@
       "alpha": false
     },
     {
+      "name": "CJ_LAMPPOST1",
+      "width": 128,
+      "height": 128,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
       "name": "CJ_NET",
       "width": 128,
       "height": 128,
-      "format": "DXT3",
+      "format": "DXT5",
       "alpha": true
-    },
-    {
-      "name": "cj_S_POLE",
-      "width": 64,
-      "height": 64,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "cheerybox03",
-      "width": 128,
-      "height": 128,
-      "format": "DXT1",
-      "alpha": false
     },
     {
       "name": "CJ_SLATEDWOOD",
@@ -51,9 +44,16 @@
       "alpha": false
     },
     {
-      "name": "CJ_LAMPPOST1",
+      "name": "cj_S_POLE",
       "width": 64,
       "height": 64,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "CJ_W_wood",
+      "width": 128,
+      "height": 128,
       "format": "DXT1",
       "alpha": false
     }

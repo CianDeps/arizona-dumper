@@ -2,35 +2,7 @@
   "type": "txd",
   "textures": [
     {
-      "name": "desbarlas",
-      "width": 128,
-      "height": 64,
-      "format": "DXT1",
-      "alpha": true
-    },
-    {
       "name": "cos_hiwaymid_256",
-      "width": 512,
-      "height": 512,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "retainwall1",
-      "width": 128,
-      "height": 128,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "BLOCK",
-      "width": 256,
-      "height": 256,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "dirttracksgrass256",
       "width": 512,
       "height": 512,
       "format": "DXT1",
@@ -44,7 +16,14 @@
       "alpha": false
     },
     {
-      "name": "pavebsand256",
+      "name": "desbarlas",
+      "width": 128,
+      "height": 64,
+      "format": "DXT5",
+      "alpha": true
+    },
+    {
+      "name": "retainwall1",
       "width": 128,
       "height": 128,
       "format": "DXT1",
@@ -52,13 +31,6 @@
     },
     {
       "name": "roadnew4_512",
-      "width": 512,
-      "height": 512,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "desertgravelgrassroad",
       "width": 512,
       "height": 512,
       "format": "DXT1",

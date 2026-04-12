@@ -2,6 +2,13 @@
   "type": "txd",
   "textures": [
     {
+      "name": "cw2_mountboards1",
+      "width": 256,
+      "height": 256,
+      "format": "DXT5",
+      "alpha": true
+    },
+    {
       "name": "des_redrock2",
       "width": 256,
       "height": 256,
@@ -9,11 +16,18 @@
       "alpha": false
     },
     {
-      "name": "des_ranchwall1",
+      "name": "des_woodfence1",
       "width": 128,
       "height": 128,
-      "format": "DXT1",
-      "alpha": false
+      "format": "DXT5",
+      "alpha": true
+    },
+    {
+      "name": "sm_des_bush1",
+      "width": 128,
+      "height": 128,
+      "format": "DXT5",
+      "alpha": true
     },
     {
       "name": "sw_cabinroof",
@@ -21,41 +35,6 @@
       "height": 256,
       "format": "DXT1",
       "alpha": false
-    },
-    {
-      "name": "des_adobedoor3",
-      "width": 128,
-      "height": 128,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "des_woodfence1",
-      "width": 128,
-      "height": 128,
-      "format": "DXT3",
-      "alpha": true
-    },
-    {
-      "name": "sm_des_bush1",
-      "width": 128,
-      "height": 128,
-      "format": "DXT3",
-      "alpha": true
-    },
-    {
-      "name": "des_ghotwood1",
-      "width": 128,
-      "height": 128,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "cw2_mountboards1",
-      "width": 256,
-      "height": 256,
-      "format": "DXT3",
-      "alpha": true
     }
   ]
 }

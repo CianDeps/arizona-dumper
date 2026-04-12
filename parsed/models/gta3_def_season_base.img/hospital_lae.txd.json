@@ -2,23 +2,9 @@
   "type": "txd",
   "textures": [
     {
-      "name": "gymshop1_LAe",
-      "width": 128,
-      "height": 128,
-      "format": "DXT3",
-      "alpha": true
-    },
-    {
-      "name": "des_radiomast",
+      "name": "carparkwall1_256",
       "width": 256,
       "height": 256,
-      "format": "DXT3",
-      "alpha": true
-    },
-    {
-      "name": "carparkwall1_256",
-      "width": 128,
-      "height": 128,
       "format": "DXT1",
       "alpha": false
     },
@@ -30,21 +16,42 @@
       "alpha": false
     },
     {
-      "name": "ws_rooftarmac1",
+      "name": "des_radiomast",
+      "width": 256,
+      "height": 256,
+      "format": "DXT5",
+      "alpha": true
+    },
+    {
+      "name": "eris_3",
+      "width": 256,
+      "height": 128,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "Grass",
+      "width": 256,
+      "height": 256,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "homies_2",
+      "width": 256,
+      "height": 128,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "hospwall1",
       "width": 128,
       "height": 128,
       "format": "DXT1",
       "alpha": false
     },
     {
-      "name": "marinadoor1_256",
-      "width": 128,
-      "height": 128,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "hospwin3_LAe",
+      "name": "hospwin1_LAe",
       "width": 256,
       "height": 256,
       "format": "DXT1",
@@ -58,7 +65,28 @@
       "alpha": false
     },
     {
-      "name": "hospwin1_LAe",
+      "name": "hospwin3_LAe",
+      "width": 256,
+      "height": 256,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "man_cellarfloor128",
+      "width": 128,
+      "height": 128,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "marinadoor1_256",
+      "width": 256,
+      "height": 256,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "ws_carpark2",
       "width": 256,
       "height": 256,
       "format": "DXT1",
@@ -72,46 +100,18 @@
       "alpha": false
     },
     {
-      "name": "ws_carpark2",
-      "width": 128,
-      "height": 128,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "Grass",
-      "width": 128,
-      "height": 128,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "man_cellarfloor128",
-      "width": 128,
-      "height": 128,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "hospwall1",
-      "width": 128,
-      "height": 128,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "eris_3",
+      "name": "ws_rooftarmac1",
       "width": 256,
-      "height": 128,
+      "height": 256,
       "format": "DXT1",
       "alpha": false
     },
     {
-      "name": "homies_2",
-      "width": 256,
+      "name": "gymshop1_LAe",
+      "width": 128,
       "height": 128,
-      "format": "DXT1",
-      "alpha": false
+      "format": "DXT5",
+      "alpha": true
     }
   ]
 }

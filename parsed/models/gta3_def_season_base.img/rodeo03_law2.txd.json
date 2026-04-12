@@ -2,9 +2,30 @@
   "type": "txd",
   "textures": [
     {
-      "name": "poundwall1_sfe",
+      "name": "block2_high",
       "width": 256,
       "height": 256,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "century01_LA",
+      "width": 128,
+      "height": 128,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "century02_LA",
+      "width": 128,
+      "height": 128,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "concretebigblu4256128",
+      "width": 128,
+      "height": 128,
       "format": "DXT1",
       "alpha": false
     },
@@ -23,28 +44,14 @@
       "alpha": false
     },
     {
-      "name": "block2_high",
+      "name": "poundwall1_sfe",
       "width": 256,
       "height": 256,
       "format": "DXT1",
       "alpha": false
     },
     {
-      "name": "ws_fluorescent1",
-      "width": 128,
-      "height": 128,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "ws_carparkwall2",
-      "width": 128,
-      "height": 128,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "ws_carpark2",
+      "name": "sl_hirisergrnconc",
       "width": 256,
       "height": 256,
       "format": "DXT1",
@@ -58,35 +65,7 @@
       "alpha": false
     },
     {
-      "name": "ws_rooftarmac1",
-      "width": 256,
-      "height": 256,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "century02_LA",
-      "width": 128,
-      "height": 128,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "century01_LA",
-      "width": 128,
-      "height": 128,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "sl_hirisergrnconc",
-      "width": 256,
-      "height": 256,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "concretebigblu4256128",
+      "name": "ws_fluorescent1",
       "width": 128,
       "height": 128,
       "format": "DXT1",
@@ -100,21 +79,7 @@
       "alpha": false
     },
     {
-      "name": "Grass_128HV",
-      "width": 128,
-      "height": 128,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
       "name": "ws_palebrickwall1",
-      "width": 128,
-      "height": 128,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "yelloconc_LA",
       "width": 128,
       "height": 128,
       "format": "DXT1",

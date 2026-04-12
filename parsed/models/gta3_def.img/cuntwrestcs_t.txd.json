@@ -2,20 +2,6 @@
   "type": "txd",
   "textures": [
     {
-      "name": "gen_chrome",
-      "width": 128,
-      "height": 128,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "ws_greymetal",
-      "width": 256,
-      "height": 256,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
       "name": "compcouwall1",
       "width": 128,
       "height": 128,
@@ -30,14 +16,14 @@
       "alpha": false
     },
     {
-      "name": "shopdoor02_law",
-      "width": 128,
-      "height": 256,
+      "name": "duskyred_64",
+      "width": 64,
+      "height": 64,
       "format": "DXT1",
       "alpha": false
     },
     {
-      "name": "ws_rooftarmac1",
+      "name": "gen_chrome",
       "width": 256,
       "height": 256,
       "format": "DXT1",
@@ -51,9 +37,16 @@
       "alpha": false
     },
     {
-      "name": "duskyred_64",
-      "width": 64,
-      "height": 64,
+      "name": "shopdoor02_law",
+      "width": 128,
+      "height": 256,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "ws_greymetal",
+      "width": 256,
+      "height": 256,
       "format": "DXT1",
       "alpha": false
     }

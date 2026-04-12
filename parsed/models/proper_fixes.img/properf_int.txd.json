@@ -1,0 +1,488 @@
+{
+  "type": "txd",
+  "textures": [
+    {
+      "name": "cj_para",
+      "width": 128,
+      "height": 256,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "cj_bag",
+      "width": 128,
+      "height": 32,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "Gen_Till",
+      "width": 256,
+      "height": 256,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "mp_cloth_pwall",
+      "width": 256,
+      "height": 256,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "CJ_Black_metal",
+      "width": 128,
+      "height": 128,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "cj_locker1",
+      "width": 256,
+      "height": 256,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "Est_LockUp_Lite",
+      "width": 128,
+      "height": 128,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "Est_vent_plate",
+      "width": 4,
+      "height": 4,
+      "format": "DXT1",
+      "alpha": true
+    },
+    {
+      "name": "interior_void",
+      "width": 4,
+      "height": 4,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "if5008bit64",
+      "width": 64,
+      "height": 64,
+      "format": "DXT5",
+      "alpha": true
+    },
+    {
+      "name": "if50092decal8bit64",
+      "width": 128,
+      "height": 64,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "if500928bit64x128",
+      "width": 128,
+      "height": 64,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "remapif500body128",
+      "width": 128,
+      "height": 128,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "sadler92extra64",
+      "width": 256,
+      "height": 256,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "4display_arcade",
+      "width": 256,
+      "height": 256,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "ab_circles",
+      "width": 512,
+      "height": 512,
+      "format": "DXT5",
+      "alpha": true
+    },
+    {
+      "name": "ab_volumelight",
+      "width": 128,
+      "height": 128,
+      "format": "DXT1",
+      "alpha": true
+    },
+    {
+      "name": "basket_1",
+      "width": 128,
+      "height": 128,
+      "format": "DXT1",
+      "alpha": true
+    },
+    {
+      "name": "skylightkb",
+      "width": 128,
+      "height": 128,
+      "format": "DXT1",
+      "alpha": true
+    },
+    {
+      "name": "cjs_intshadows",
+      "width": 256,
+      "height": 512,
+      "format": "DXT5",
+      "alpha": true
+    },
+    {
+      "name": "fan_1blade",
+      "width": 64,
+      "height": 64,
+      "format": "DXT5",
+      "alpha": true
+    },
+    {
+      "name": "fan_1guard",
+      "width": 128,
+      "height": 128,
+      "format": "DXT5",
+      "alpha": true
+    },
+    {
+      "name": "fan_1plastic",
+      "width": 128,
+      "height": 128,
+      "format": "DXT1",
+      "alpha": true
+    },
+    {
+      "name": "micro1",
+      "width": 256,
+      "height": 128,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "3burger",
+      "width": 128,
+      "height": 128,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "CJ_LIGHT_FITTING",
+      "width": 128,
+      "height": 128,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "CJ_Light",
+      "width": 128,
+      "height": 128,
+      "format": "DXT3",
+      "alpha": true
+    },
+    {
+      "name": "CJ_WOOD5",
+      "width": 128,
+      "height": 128,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "cooker2",
+      "width": 256,
+      "height": 256,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "cooker3",
+      "width": 256,
+      "height": 256,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "washertop",
+      "width": 256,
+      "height": 64,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "CJ_CHROME2",
+      "width": 128,
+      "height": 128,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "cooker1",
+      "width": 256,
+      "height": 256,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "CJ_DS_DOOR_256_",
+      "width": 128,
+      "height": 256,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "CJ_WOOD1(EDGE)",
+      "width": 128,
+      "height": 128,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "cj_chromepipe",
+      "width": 128,
+      "height": 128,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "ws_guardhousedoor",
+      "width": 128,
+      "height": 256,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "carparkdoor3_256",
+      "width": 256,
+      "height": 256,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "CJ_ZIP_3",
+      "width": 256,
+      "height": 256,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "cj_metalplate2",
+      "width": 128,
+      "height": 128,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "ab_leather_strips",
+      "width": 64,
+      "height": 64,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "cj_sheetmetal",
+      "width": 64,
+      "height": 64,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "red_table",
+      "width": 128,
+      "height": 128,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "restroomsign",
+      "width": 128,
+      "height": 64,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "allcolor",
+      "width": 64,
+      "height": 64,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "blackdrum128",
+      "width": 128,
+      "height": 128,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "blackleather64",
+      "width": 64,
+      "height": 64,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "carlitesb64a",
+      "width": 64,
+      "height": 64,
+      "format": "DXT3",
+      "alpha": true
+    },
+    {
+      "name": "knot_woodpaint128",
+      "width": 128,
+      "height": 128,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "lo_fucked_car_litefr",
+      "width": 64,
+      "height": 64,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "platesa64",
+      "width": 64,
+      "height": 64,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "glas_env_refl",
+      "width": 128,
+      "height": 128,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "glas_env_refl2",
+      "width": 128,
+      "height": 128,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "glass_broken",
+      "width": 256,
+      "height": 256,
+      "format": "DXT5",
+      "alpha": true
+    },
+    {
+      "name": "cj_sheetmetal2",
+      "width": 128,
+      "height": 128,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "cj_radiatorOLD",
+      "width": 64,
+      "height": 128,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "porcelain",
+      "width": 256,
+      "height": 256,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "CJ_SHELF_WHITE",
+      "width": 128,
+      "height": 256,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "Gen_Meshfencing",
+      "width": 128,
+      "height": 128,
+      "format": "DXT5",
+      "alpha": true
+    },
+    {
+      "name": "CJ_JukeBox",
+      "width": 256,
+      "height": 256,
+      "format": "DXT1",
+      "alpha": true
+    },
+    {
+      "name": "pills",
+      "width": 128,
+      "height": 128,
+      "format": "DXT1",
+      "alpha": true
+    },
+    {
+      "name": "basketboard",
+      "width": 128,
+      "height": 128,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "chainnet",
+      "width": 64,
+      "height": 64,
+      "format": "DXT3",
+      "alpha": true
+    },
+    {
+      "name": "CJ_FRAME_Glass",
+      "width": 256,
+      "height": 256,
+      "format": "DXT5",
+      "alpha": true
+    },
+    {
+      "name": "coffeetop_rb",
+      "width": 128,
+      "height": 128,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "cupside_rb",
+      "width": 32,
+      "height": 128,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "muffbot_rb",
+      "width": 64,
+      "height": 64,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "mufftop_rb",
+      "width": 128,
+      "height": 128,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "vehiclescratch64",
+      "width": 128,
+      "height": 128,
+      "format": "DXT5",
+      "alpha": true
+    }
+  ]
+}

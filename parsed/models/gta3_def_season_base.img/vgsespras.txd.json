@@ -2,9 +2,9 @@
   "type": "txd",
   "textures": [
     {
-      "name": "laspryshpsig1",
+      "name": "comptsign8_LAe",
       "width": 256,
-      "height": 128,
+      "height": 256,
       "format": "DXT1",
       "alpha": false
     },
@@ -19,20 +19,6 @@
       "name": "gangsign4_LAe",
       "width": 256,
       "height": 256,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "ws_altz_wall10",
-      "width": 256,
-      "height": 256,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "toll_SFw4",
-      "width": 256,
-      "height": 128,
       "format": "DXT1",
       "alpha": false
     },
@@ -58,14 +44,28 @@
       "alpha": false
     },
     {
-      "name": "metaldoor01_256",
-      "width": 64,
+      "name": "garargeb2",
+      "width": 256,
+      "height": 256,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "laspryshpsig1",
+      "width": 256,
       "height": 128,
       "format": "DXT1",
       "alpha": false
     },
     {
-      "name": "sf_spray_floor2",
+      "name": "metaldoor01_256",
+      "width": 128,
+      "height": 256,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "sf_spray1",
       "width": 128,
       "height": 128,
       "format": "DXT1",
@@ -79,28 +79,28 @@
       "alpha": false
     },
     {
-      "name": "sf_spray1",
+      "name": "sf_spray_floor2",
       "width": 128,
       "height": 128,
       "format": "DXT1",
       "alpha": false
     },
     {
-      "name": "corr_roof1",
-      "width": 128,
+      "name": "toll_SFw4",
+      "width": 256,
       "height": 128,
       "format": "DXT1",
       "alpha": false
     },
     {
       "name": "wallgreyred128",
-      "width": 128,
-      "height": 128,
+      "width": 256,
+      "height": 256,
       "format": "DXT1",
       "alpha": false
     },
     {
-      "name": "garargeb2",
+      "name": "ws_altz_wall10",
       "width": 256,
       "height": 256,
       "format": "DXT1",
@@ -108,13 +108,6 @@
     },
     {
       "name": "ws_carpark2",
-      "width": 256,
-      "height": 256,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "comptsign8_LAe",
       "width": 256,
       "height": 256,
       "format": "DXT1",

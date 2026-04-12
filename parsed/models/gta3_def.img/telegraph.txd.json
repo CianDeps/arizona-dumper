@@ -2,18 +2,25 @@
   "type": "txd",
   "textures": [
     {
-      "name": "teleconect2",
+      "name": "board64_law",
       "width": 64,
       "height": 64,
       "format": "DXT1",
       "alpha": false
     },
     {
-      "name": "steel64",
-      "width": 64,
-      "height": 64,
-      "format": "DXT3",
+      "name": "hangingwires2",
+      "width": 256,
+      "height": 128,
+      "format": "DXT5",
       "alpha": true
+    },
+    {
+      "name": "Metal1_128",
+      "width": 128,
+      "height": 128,
+      "format": "DXT1",
+      "alpha": false
     },
     {
       "name": "metatelepole1",
@@ -23,16 +30,16 @@
       "alpha": false
     },
     {
-      "name": "hangingwires2",
-      "width": 256,
-      "height": 128,
-      "format": "DXT3",
+      "name": "steel64",
+      "width": 64,
+      "height": 64,
+      "format": "DXT5",
       "alpha": true
     },
     {
-      "name": "ws_crashbarrier2",
-      "width": 128,
-      "height": 128,
+      "name": "teleconect2",
+      "width": 64,
+      "height": 64,
       "format": "DXT1",
       "alpha": false
     },
@@ -44,14 +51,7 @@
       "alpha": false
     },
     {
-      "name": "board64_law",
-      "width": 64,
-      "height": 64,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "Metal1_128",
+      "name": "ws_crashbarrier2",
       "width": 128,
       "height": 128,
       "format": "DXT1",

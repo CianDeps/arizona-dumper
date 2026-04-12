@@ -1,0 +1,33 @@
+{
+  "type": "txd",
+  "textures": [
+    {
+      "name": "cabin_lot_decal",
+      "width": 512,
+      "height": 512,
+      "format": "DXT5",
+      "alpha": true
+    },
+    {
+      "name": "cabin_lot_door",
+      "width": 512,
+      "height": 512,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "cabin_lot_other",
+      "width": 512,
+      "height": 512,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "cabin_lot_wall1",
+      "width": 512,
+      "height": 512,
+      "format": "DXT1",
+      "alpha": false
+    }
+  ]
+}

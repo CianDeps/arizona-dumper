@@ -5,9 +5,18 @@
   "geometries": [
     {
       "index": 0,
-      "vertices": 1785,
-      "triangles": 1734,
+      "vertices": 1854,
+      "triangles": 1805,
       "materials": [
+        {
+          "color": {
+            "r": 255,
+            "g": 255,
+            "b": 255,
+            "a": 255
+          },
+          "texture": null
+        },
         {
           "color": {
             "r": 255,
@@ -104,10 +113,10 @@
   "frames": 6,
   "dummies": [
     "int_chick_main",
-    "Omni520",
-    "Omni521",
-    "Omni522",
-    "Omni523",
-    "Omni524"
+    "2dfx1",
+    "2dfx2",
+    "2dfx3",
+    "2dfx4",
+    "2dfx5"
   ]
 }

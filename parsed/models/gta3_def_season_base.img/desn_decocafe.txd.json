@@ -2,20 +2,6 @@
   "type": "txd",
   "textures": [
     {
-      "name": "pavea256",
-      "width": 256,
-      "height": 256,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "des_dirt1",
-      "width": 256,
-      "height": 256,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
       "name": "corporate2",
       "width": 128,
       "height": 128,
@@ -23,25 +9,11 @@
       "alpha": false
     },
     {
-      "name": "des_dinerwall",
-      "width": 256,
+      "name": "mp_Jdiner",
+      "width": 128,
       "height": 256,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "wallwindblank_256",
-      "width": 128,
-      "height": 128,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "wallwind256",
-      "width": 128,
-      "height": 128,
-      "format": "DXT1",
-      "alpha": false
+      "format": "DXT5",
+      "alpha": true
     },
     {
       "name": "wallwhtwind256",
@@ -51,7 +23,14 @@
       "alpha": false
     },
     {
-      "name": "sw_flatroof01",
+      "name": "wallwind256",
+      "width": 256,
+      "height": 256,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "wallwindblank_256",
       "width": 256,
       "height": 256,
       "format": "DXT1",
@@ -63,27 +42,6 @@
       "height": 256,
       "format": "DXT1",
       "alpha": false
-    },
-    {
-      "name": "parking2",
-      "width": 512,
-      "height": 512,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "parking2plain",
-      "width": 512,
-      "height": 512,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "mp_Jdiner",
-      "width": 128,
-      "height": 256,
-      "format": "DXT3",
-      "alpha": true
     }
   ]
 }

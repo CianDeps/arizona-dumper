@@ -2,22 +2,15 @@
   "type": "txd",
   "textures": [
     {
-      "name": "drvin_sign2",
+      "name": "Desrtmetal",
       "width": 128,
       "height": 128,
       "format": "DXT1",
       "alpha": false
     },
     {
-      "name": "drvin_sign1",
+      "name": "drvin_back",
       "width": 128,
-      "height": 128,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "drvin_door2",
-      "width": 64,
       "height": 128,
       "format": "DXT1",
       "alpha": false
@@ -30,29 +23,22 @@
       "alpha": false
     },
     {
-      "name": "drvin_panel",
-      "width": 128,
-      "height": 64,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "drvin_wind1",
+      "name": "drvin_door2",
       "width": 64,
-      "height": 64,
+      "height": 128,
       "format": "DXT1",
       "alpha": false
     },
     {
-      "name": "Desrtmetal",
+      "name": "drvin_front",
       "width": 128,
       "height": 128,
       "format": "DXT1",
       "alpha": false
     },
     {
-      "name": "drvin_wind2",
-      "width": 64,
+      "name": "drvin_panel",
+      "width": 128,
       "height": 64,
       "format": "DXT1",
       "alpha": false
@@ -65,21 +51,14 @@
       "alpha": false
     },
     {
-      "name": "drvin_front",
+      "name": "drvin_sign1",
       "width": 128,
       "height": 128,
       "format": "DXT1",
       "alpha": false
     },
     {
-      "name": "drvin_stuct2",
-      "width": 128,
-      "height": 64,
-      "format": "DXT3",
-      "alpha": true
-    },
-    {
-      "name": "drvin_back",
+      "name": "drvin_sign2",
       "width": 128,
       "height": 128,
       "format": "DXT1",
@@ -89,8 +68,29 @@
       "name": "drvin_stuct",
       "width": 128,
       "height": 128,
-      "format": "DXT3",
+      "format": "DXT5",
       "alpha": true
+    },
+    {
+      "name": "drvin_stuct2",
+      "width": 128,
+      "height": 64,
+      "format": "DXT5",
+      "alpha": true
+    },
+    {
+      "name": "drvin_wind1",
+      "width": 64,
+      "height": 64,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "drvin_wind2",
+      "width": 64,
+      "height": 64,
+      "format": "DXT1",
+      "alpha": false
     }
   ]
 }

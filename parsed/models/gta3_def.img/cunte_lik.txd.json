@@ -2,30 +2,16 @@
   "type": "txd",
   "textures": [
     {
-      "name": "LAstripmall1",
+      "name": "crencouwall1",
       "width": 128,
       "height": 128,
-      "format": "DXT3",
-      "alpha": true
+      "format": "DXT1",
+      "alpha": false
     },
     {
       "name": "des_rosigns1",
       "width": 128,
       "height": 128,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "ws_corrugated2",
-      "width": 128,
-      "height": 128,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "sw_flatroof01",
-      "width": 256,
-      "height": 256,
       "format": "DXT1",
       "alpha": false
     },
@@ -37,9 +23,23 @@
       "alpha": false
     },
     {
-      "name": "crencouwall1",
+      "name": "LAstripmall1",
       "width": 128,
       "height": 128,
+      "format": "DXT5",
+      "alpha": true
+    },
+    {
+      "name": "ws_corrugated2",
+      "width": 128,
+      "height": 128,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "ws_rooftarmac1",
+      "width": 256,
+      "height": 256,
       "format": "DXT1",
       "alpha": false
     }

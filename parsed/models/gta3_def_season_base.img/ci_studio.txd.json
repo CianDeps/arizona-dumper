@@ -2,9 +2,23 @@
   "type": "txd",
   "textures": [
     {
+      "name": "aircon",
+      "width": 256,
+      "height": 256,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
       "name": "bdoor",
-      "width": 128,
-      "height": 128,
+      "width": 256,
+      "height": 256,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "cdoor",
+      "width": 256,
+      "height": 256,
       "format": "DXT1",
       "alpha": false
     },
@@ -17,29 +31,15 @@
     },
     {
       "name": "studioroof",
-      "width": 64,
-      "height": 64,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "aircon",
-      "width": 64,
-      "height": 64,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "cdoor",
       "width": 256,
-      "height": 128,
+      "height": 256,
       "format": "DXT1",
       "alpha": false
     },
     {
       "name": "Upt_Conc floorClean",
-      "width": 128,
-      "height": 128,
+      "width": 256,
+      "height": 256,
       "format": "DXT1",
       "alpha": false
     }

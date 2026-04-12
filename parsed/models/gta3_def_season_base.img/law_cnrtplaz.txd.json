@@ -2,7 +2,21 @@
   "type": "txd",
   "textures": [
     {
+      "name": "creamshop1_LAe",
+      "width": 128,
+      "height": 128,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
       "name": "flatdoor01_law",
+      "width": 128,
+      "height": 128,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "garagedoor4_law",
       "width": 128,
       "height": 128,
       "format": "DXT1",
@@ -30,30 +44,9 @@
       "alpha": false
     },
     {
-      "name": "creamshop1_LAe",
-      "width": 128,
-      "height": 128,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
       "name": "shoptop01_law",
       "width": 64,
       "height": 64,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "concretebigb256128",
-      "width": 64,
-      "height": 64,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "garagedoor4_law",
-      "width": 128,
-      "height": 128,
       "format": "DXT1",
       "alpha": false
     }

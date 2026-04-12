@@ -2,16 +2,16 @@
   "type": "txd",
   "textures": [
     {
-      "name": "vgnhsepsh7_128",
+      "name": "black128",
       "width": 128,
       "height": 128,
-      "format": "DXT1",
-      "alpha": false
+      "format": "DXT5",
+      "alpha": true
     },
     {
-      "name": "ws_garagedoor2_white",
-      "width": 128,
-      "height": 128,
+      "name": "garagedoor5_law",
+      "width": 256,
+      "height": 256,
       "format": "DXT1",
       "alpha": false
     },
@@ -23,9 +23,9 @@
       "alpha": false
     },
     {
-      "name": "shingles1",
-      "width": 128,
-      "height": 128,
+      "name": "genroof01_128",
+      "width": 256,
+      "height": 256,
       "format": "DXT1",
       "alpha": false
     },
@@ -37,79 +37,58 @@
       "alpha": false
     },
     {
-      "name": "Alumox64",
-      "width": 64,
-      "height": 64,
+      "name": "shingles1",
+      "width": 128,
+      "height": 128,
       "format": "DXT1",
       "alpha": false
     },
     {
-      "name": "black128",
-      "width": 128,
+      "name": "sm_Agave_1",
+      "width": 256,
       "height": 128,
-      "format": "DXT3",
+      "format": "DXT5",
       "alpha": true
     },
     {
-      "name": "vgnhseledgw1_64",
-      "width": 64,
-      "height": 64,
-      "format": "DXT1",
-      "alpha": false
+      "name": "starflower1",
+      "width": 512,
+      "height": 512,
+      "format": "DXT5",
+      "alpha": true
     },
     {
-      "name": "ws_sandstone2",
+      "name": "starflower2",
       "width": 256,
       "height": 256,
-      "format": "DXT1",
-      "alpha": false
+      "format": "DXT5",
+      "alpha": true
     },
     {
-      "name": "grassdry_128HV",
+      "name": "starflower3",
+      "width": 256,
+      "height": 256,
+      "format": "DXT5",
+      "alpha": true
+    },
+    {
+      "name": "starflower4",
+      "width": 512,
+      "height": 512,
+      "format": "DXT5",
+      "alpha": true
+    },
+    {
+      "name": "sw_patiodoors",
       "width": 128,
       "height": 128,
       "format": "DXT1",
       "alpha": false
     },
     {
-      "name": "Heliconcrete",
+      "name": "sw_wind10",
       "width": 256,
-      "height": 256,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "vgnhsedor1_256",
-      "width": 64,
       "height": 128,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "genroof01_128",
-      "width": 128,
-      "height": 128,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "vgnhsepsh4_256",
-      "width": 256,
-      "height": 256,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "hseconcblend1_256",
-      "width": 256,
-      "height": 256,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "garagedoor5_law",
-      "width": 256,
-      "height": 256,
       "format": "DXT1",
       "alpha": false
     },
@@ -128,64 +107,29 @@
       "alpha": false
     },
     {
-      "name": "starhedge2",
-      "width": 128,
-      "height": 128,
-      "format": "DXT3",
-      "alpha": true
+      "name": "vgnhsepsh4_256",
+      "width": 256,
+      "height": 256,
+      "format": "DXT1",
+      "alpha": false
     },
     {
-      "name": "starflower4",
-      "width": 128,
-      "height": 128,
-      "format": "DXT3",
-      "alpha": true
-    },
-    {
-      "name": "starflower3",
-      "width": 128,
-      "height": 128,
-      "format": "DXT3",
-      "alpha": true
-    },
-    {
-      "name": "starflower2",
-      "width": 128,
-      "height": 128,
-      "format": "DXT3",
-      "alpha": true
-    },
-    {
-      "name": "starflower1",
-      "width": 128,
-      "height": 128,
-      "format": "DXT3",
-      "alpha": true
-    },
-    {
-      "name": "sm_Agave_1",
-      "width": 128,
-      "height": 64,
-      "format": "DXT3",
-      "alpha": true
-    },
-    {
-      "name": "sw_patiodoors",
+      "name": "vgnhsepsh7_128",
       "width": 128,
       "height": 128,
       "format": "DXT1",
       "alpha": false
     },
     {
-      "name": "sw_wind10",
+      "name": "ws_garagedoor2_white",
       "width": 128,
-      "height": 64,
+      "height": 128,
       "format": "DXT1",
       "alpha": false
     },
     {
-      "name": "ws_guardhousedoor",
-      "width": 128,
+      "name": "ws_sandstone2",
+      "width": 256,
       "height": 256,
       "format": "DXT1",
       "alpha": false

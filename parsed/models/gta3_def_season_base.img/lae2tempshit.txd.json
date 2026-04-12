@@ -5,7 +5,7 @@
       "name": "wattsstax1_LAe",
       "width": 128,
       "height": 128,
-      "format": "DXT3",
+      "format": "DXT5",
       "alpha": true
     },
     {
@@ -16,13 +16,6 @@
       "alpha": false
     },
     {
-      "name": "wattsstax4_LAe",
-      "width": 128,
-      "height": 128,
-      "format": "DXT3",
-      "alpha": true
-    },
-    {
       "name": "wattsstax3_LAe",
       "width": 128,
       "height": 128,
@@ -30,11 +23,11 @@
       "alpha": false
     },
     {
-      "name": "BLOCK2",
+      "name": "wattsstax4_LAe",
       "width": 128,
       "height": 128,
-      "format": "DXT1",
-      "alpha": false
+      "format": "DXT5",
+      "alpha": true
     }
   ]
 }

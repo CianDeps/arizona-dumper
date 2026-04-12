@@ -2,28 +2,14 @@
   "type": "txd",
   "textures": [
     {
-      "name": "pinebrnch1",
+      "name": "ashbrnch",
       "width": 128,
       "height": 64,
       "format": "DXT5",
       "alpha": true
     },
     {
-      "name": "hazelbrnch",
-      "width": 128,
-      "height": 128,
-      "format": "DXT5",
-      "alpha": true
-    },
-    {
-      "name": "hazelbranch",
-      "width": 128,
-      "height": 64,
-      "format": "DXT5",
-      "alpha": true
-    },
-    {
-      "name": "bpinud2",
+      "name": "bcorya0",
       "width": 64,
       "height": 64,
       "format": "DXT1",
@@ -37,14 +23,28 @@
       "alpha": false
     },
     {
-      "name": "bcorya0",
+      "name": "bpinud2",
       "width": 64,
       "height": 64,
       "format": "DXT1",
       "alpha": false
     },
     {
-      "name": "ashbrnch",
+      "name": "hazelbranch",
+      "width": 128,
+      "height": 64,
+      "format": "DXT5",
+      "alpha": true
+    },
+    {
+      "name": "hazelbrnch",
+      "width": 128,
+      "height": 128,
+      "format": "DXT5",
+      "alpha": true
+    },
+    {
+      "name": "pinebrnch1",
       "width": 128,
       "height": 64,
       "format": "DXT5",

@@ -2,91 +2,7 @@
   "type": "txd",
   "textures": [
     {
-      "name": "melrsign05_LA",
-      "width": 256,
-      "height": 256,
-      "format": "DXT3",
-      "alpha": true
-    },
-    {
-      "name": "gymshops1_LAe",
-      "width": 128,
-      "height": 128,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "stormdrain2_nt",
-      "width": 256,
-      "height": 256,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "gymshop2_LAe",
-      "width": 128,
-      "height": 128,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "LAredwall",
-      "width": 128,
-      "height": 128,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "LAgreenwall",
-      "width": 64,
-      "height": 64,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "LAbluewall",
-      "width": 128,
-      "height": 128,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "shopint1_LAe",
-      "width": 128,
-      "height": 128,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "melroran3_law",
-      "width": 256,
-      "height": 256,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "melrgren2_law",
-      "width": 256,
-      "height": 256,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "gymshop1_LAe",
-      "width": 128,
-      "height": 128,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
       "name": "comptwall15",
-      "width": 256,
-      "height": 256,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "downtshop4_LAn",
       "width": 256,
       "height": 256,
       "format": "DXT1",
@@ -100,21 +16,49 @@
       "alpha": false
     },
     {
-      "name": "downtshop2_LAn",
+      "name": "downtshop4_LAn",
       "width": 256,
       "height": 256,
       "format": "DXT1",
       "alpha": false
     },
     {
-      "name": "ws_rooftarmac1",
-      "width": 256,
-      "height": 256,
+      "name": "forlease_law",
+      "width": 128,
+      "height": 128,
       "format": "DXT1",
       "alpha": false
     },
     {
-      "name": "snpdwingrat1",
+      "name": "gymshops1_LAe",
+      "width": 128,
+      "height": 128,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "LAbluewall",
+      "width": 128,
+      "height": 128,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "LAgreenwall",
+      "width": 64,
+      "height": 64,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "LAredwall",
+      "width": 128,
+      "height": 128,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "melrblu_law",
       "width": 256,
       "height": 256,
       "format": "DXT1",
@@ -128,14 +72,14 @@
       "alpha": false
     },
     {
-      "name": "melrblu_law",
+      "name": "melrgren2_law",
       "width": 256,
       "height": 256,
       "format": "DXT1",
       "alpha": false
     },
     {
-      "name": "stormdrain5_nt",
+      "name": "melroran3_law",
       "width": 256,
       "height": 256,
       "format": "DXT1",
@@ -149,18 +93,18 @@
       "alpha": false
     },
     {
-      "name": "smoothie",
-      "width": 128,
-      "height": 128,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
       "name": "melrpurp2_law",
       "width": 256,
       "height": 256,
       "format": "DXT1",
       "alpha": false
+    },
+    {
+      "name": "melrsign05_LA",
+      "width": 256,
+      "height": 256,
+      "format": "DXT5",
+      "alpha": true
     },
     {
       "name": "pawnsigns01_128",
@@ -170,21 +114,14 @@
       "alpha": false
     },
     {
-      "name": "ws_carparknew2",
-      "width": 256,
-      "height": 256,
+      "name": "shopint1_LAe",
+      "width": 128,
+      "height": 128,
       "format": "DXT1",
       "alpha": false
     },
     {
-      "name": "ws_carparknew1",
-      "width": 256,
-      "height": 256,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "tarmacplain2_bank",
+      "name": "vegasmotelsign02_128",
       "width": 128,
       "height": 128,
       "format": "DXT1",
@@ -198,30 +135,16 @@
       "alpha": false
     },
     {
-      "name": "vegasmotelsign02_128",
-      "width": 128,
-      "height": 128,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "forlease_law",
-      "width": 128,
-      "height": 128,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "desgreengrass",
+      "name": "ws_carparknew1",
       "width": 256,
       "height": 256,
       "format": "DXT1",
       "alpha": false
     },
     {
-      "name": "backstageceiling1_128",
-      "width": 128,
-      "height": 128,
+      "name": "ws_carparknew2",
+      "width": 256,
+      "height": 256,
       "format": "DXT1",
       "alpha": false
     }

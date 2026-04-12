@@ -2,69 +2,6 @@
   "type": "txd",
   "textures": [
     {
-      "name": "block2_low",
-      "width": 256,
-      "height": 256,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "sw_hardware",
-      "width": 256,
-      "height": 64,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "GB_nastybar20",
-      "width": 256,
-      "height": 256,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "shutter03LA",
-      "width": 256,
-      "height": 256,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "sw_furnisign",
-      "width": 256,
-      "height": 64,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "Heliconcrete",
-      "width": 256,
-      "height": 256,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "vgnwstshop4_256",
-      "width": 128,
-      "height": 128,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "yellowall_LA",
-      "width": 128,
-      "height": 128,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "yellow_64",
-      "width": 64,
-      "height": 64,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
       "name": "bincoLogo",
       "width": 128,
       "height": 128,
@@ -73,13 +10,34 @@
     },
     {
       "name": "black32",
-      "width": 32,
-      "height": 32,
+      "width": 4,
+      "height": 4,
       "format": "DXT1",
       "alpha": false
     },
     {
-      "name": "wok&roll1_2256",
+      "name": "block2_low",
+      "width": 256,
+      "height": 256,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "chr_flags_256",
+      "width": 128,
+      "height": 128,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "concpanel_la",
+      "width": 128,
+      "height": 128,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "Corner1_128",
       "width": 128,
       "height": 128,
       "format": "DXT1",
@@ -93,16 +51,30 @@
       "alpha": false
     },
     {
-      "name": "hosp_sign01b",
+      "name": "desgrassbrn",
       "width": 256,
       "height": 256,
       "format": "DXT1",
       "alpha": false
     },
     {
-      "name": "marinadoor1_256",
-      "width": 128,
-      "height": 128,
+      "name": "desgrassbrnsnd",
+      "width": 256,
+      "height": 256,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "dirtywhite",
+      "width": 64,
+      "height": 64,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "GB_nastybar20",
+      "width": 256,
+      "height": 256,
       "format": "DXT1",
       "alpha": false
     },
@@ -128,13 +100,6 @@
       "alpha": false
     },
     {
-      "name": "concpanel_la",
-      "width": 128,
-      "height": 128,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
       "name": "hosp_sign01a",
       "width": 128,
       "height": 128,
@@ -142,7 +107,7 @@
       "alpha": false
     },
     {
-      "name": "vgsShospsign01",
+      "name": "hosp_sign01b",
       "width": 256,
       "height": 256,
       "format": "DXT1",
@@ -156,23 +121,16 @@
       "alpha": false
     },
     {
-      "name": "chr_flags_256",
-      "width": 128,
-      "height": 128,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "vgs_whitewall_128",
+      "name": "marinadoor1_256",
       "width": 256,
       "height": 256,
       "format": "DXT1",
       "alpha": false
     },
     {
-      "name": "greyground256128",
-      "width": 128,
-      "height": 128,
+      "name": "Pave02_128",
+      "width": 256,
+      "height": 256,
       "format": "DXT1",
       "alpha": false
     },
@@ -184,44 +142,65 @@
       "alpha": false
     },
     {
-      "name": "greyground256",
-      "width": 128,
-      "height": 128,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "desgrassbrnsnd",
+      "name": "shutter03LA",
       "width": 256,
       "height": 256,
       "format": "DXT1",
       "alpha": false
     },
     {
-      "name": "desgrassbrn",
+      "name": "sw_furnisign",
       "width": 256,
-      "height": 256,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "dirtywhite",
-      "width": 64,
       "height": 64,
       "format": "DXT1",
       "alpha": false
     },
     {
-      "name": "Pave02_128",
+      "name": "sw_hardware",
+      "width": 256,
+      "height": 64,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "vgnwstshop4_256",
       "width": 128,
       "height": 128,
       "format": "DXT1",
       "alpha": false
     },
     {
-      "name": "Corner1_128",
+      "name": "vgsShospsign01",
+      "width": 256,
+      "height": 256,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "vgs_whitewall_128",
+      "width": 256,
+      "height": 256,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "wok&roll1_2256",
+      "width": 256,
+      "height": 256,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "yellowall_LA",
       "width": 128,
       "height": 128,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "yellow_64",
+      "width": 64,
+      "height": 64,
       "format": "DXT1",
       "alpha": false
     }

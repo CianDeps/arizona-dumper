@@ -2,23 +2,9 @@
   "type": "txd",
   "textures": [
     {
-      "name": "sphinxface01_256",
+      "name": "casinodoor1_128",
       "width": 256,
       "height": 256,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "slidingdoor01_128",
-      "width": 128,
-      "height": 128,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "luxorledge02_128",
-      "width": 128,
-      "height": 128,
       "format": "DXT1",
       "alpha": false
     },
@@ -31,6 +17,13 @@
     },
     {
       "name": "luxorceiling02_128",
+      "width": 128,
+      "height": 128,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "luxorledge02_128",
       "width": 128,
       "height": 128,
       "format": "DXT1",
@@ -51,6 +44,13 @@
       "alpha": false
     },
     {
+      "name": "slidingdoor01_128",
+      "width": 128,
+      "height": 128,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
       "name": "sphinxbody01_128",
       "width": 128,
       "height": 128,
@@ -58,16 +58,9 @@
       "alpha": false
     },
     {
-      "name": "casinodoor1_128",
+      "name": "sphinxface01_256",
       "width": 256,
       "height": 256,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "black32",
-      "width": 32,
-      "height": 32,
       "format": "DXT1",
       "alpha": false
     }

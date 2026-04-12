@@ -1,0 +1,72 @@
+{
+  "type": "ifp",
+  "name": "FLAME",
+  "version": 0,
+  "animations": [
+    {
+      "name": "FLAME_fire",
+      "bones": [
+        {
+          "name": " Spine1",
+          "keyframes": 6
+        },
+        {
+          "name": " Neck",
+          "keyframes": 6
+        },
+        {
+          "name": " Head",
+          "keyframes": 6
+        },
+        {
+          "name": "Bip01 L Clavicle",
+          "keyframes": 8
+        },
+        {
+          "name": " L UpperArm",
+          "keyframes": 8
+        },
+        {
+          "name": " L ForeArm",
+          "keyframes": 8
+        },
+        {
+          "name": " L Hand",
+          "keyframes": 8
+        },
+        {
+          "name": " L Finger",
+          "keyframes": 8
+        },
+        {
+          "name": "Root L Finger01",
+          "keyframes": 8
+        },
+        {
+          "name": "Bip01 R Clavicle",
+          "keyframes": 8
+        },
+        {
+          "name": " R UpperArm",
+          "keyframes": 8
+        },
+        {
+          "name": " R ForeArm",
+          "keyframes": 8
+        },
+        {
+          "name": " R Hand",
+          "keyframes": 8
+        },
+        {
+          "name": " R Finger",
+          "keyframes": 8
+        },
+        {
+          "name": "Root R Finger01",
+          "keyframes": 8
+        }
+      ]
+    }
+  ]
+}

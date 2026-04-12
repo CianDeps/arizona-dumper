@@ -2,10 +2,10 @@
   "type": "txd",
   "textures": [
     {
-      "name": "hazelbrnch",
+      "name": "ashbrnch",
       "width": 128,
-      "height": 128,
-      "format": "DXT3",
+      "height": 64,
+      "format": "DXT5",
       "alpha": true
     },
     {
@@ -16,11 +16,11 @@
       "alpha": false
     },
     {
-      "name": "pinebrnch1",
-      "width": 128,
+      "name": "bfraxa1",
+      "width": 64,
       "height": 64,
-      "format": "DXT3",
-      "alpha": true
+      "format": "DXT1",
+      "alpha": false
     },
     {
       "name": "bpinud2",
@@ -30,18 +30,18 @@
       "alpha": false
     },
     {
-      "name": "ashbrnch",
+      "name": "hazelbrnch",
       "width": 128,
-      "height": 64,
-      "format": "DXT3",
+      "height": 128,
+      "format": "DXT5",
       "alpha": true
     },
     {
-      "name": "bfraxa1",
-      "width": 64,
+      "name": "pinebrnch1",
+      "width": 128,
       "height": 64,
-      "format": "DXT1",
-      "alpha": false
+      "format": "DXT5",
+      "alpha": true
     }
   ]
 }

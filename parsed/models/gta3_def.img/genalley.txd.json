@@ -2,30 +2,30 @@
   "type": "txd",
   "textures": [
     {
-      "name": "ventgen128",
-      "width": 128,
-      "height": 64,
+      "name": "gensecuritycam",
+      "width": 64,
+      "height": 32,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "hoteldetails2",
+      "width": 256,
+      "height": 256,
       "format": "DXT1",
       "alpha": false
     },
     {
       "name": "stuffdirtcol",
-      "width": 64,
-      "height": 64,
-      "format": "DXT3",
+      "width": 128,
+      "height": 128,
+      "format": "DXT5",
       "alpha": true
     },
     {
-      "name": "hoteldetails2",
+      "name": "ventgen128",
       "width": 128,
-      "height": 128,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "gensecuritycam",
-      "width": 64,
-      "height": 32,
+      "height": 64,
       "format": "DXT1",
       "alpha": false
     }

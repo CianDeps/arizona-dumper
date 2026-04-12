@@ -2,23 +2,30 @@
   "type": "txd",
   "textures": [
     {
-      "name": "CJ_DUMP3",
+      "name": "CJ_BIN_LID",
       "width": 128,
       "height": 128,
       "format": "DXT1",
       "alpha": false
     },
     {
-      "name": "ornatefence",
-      "width": 128,
-      "height": 128,
-      "format": "DXT3",
-      "alpha": true
+      "name": "CJ_DUMP",
+      "width": 256,
+      "height": 256,
+      "format": "DXT1",
+      "alpha": false
     },
     {
-      "name": "CJ_DUMP",
-      "width": 128,
+      "name": "CJ_DUMP2",
+      "width": 256,
       "height": 128,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "CJ_DUMP3",
+      "width": 256,
+      "height": 256,
       "format": "DXT1",
       "alpha": false
     },
@@ -30,25 +37,18 @@
       "alpha": false
     },
     {
-      "name": "CJ_FRAME_Glass",
-      "width": 256,
-      "height": 256,
-      "format": "DXT3",
+      "name": "ornatefence",
+      "width": 128,
+      "height": 128,
+      "format": "DXT5",
       "alpha": true
     },
     {
-      "name": "CJ_DUMP2",
+      "name": "CJ_FRAME_Glass",
       "width": 256,
-      "height": 128,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "CJ_BIN_LID",
-      "width": 128,
-      "height": 128,
-      "format": "DXT1",
-      "alpha": false
+      "height": 256,
+      "format": "DXT5",
+      "alpha": true
     }
   ]
 }

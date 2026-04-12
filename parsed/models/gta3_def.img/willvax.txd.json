@@ -2,11 +2,11 @@
   "type": "txd",
   "textures": [
     {
-      "name": "metalwheel4_128",
+      "name": "metalwheel1_128",
       "width": 128,
       "height": 128,
-      "format": "DXT3",
-      "alpha": true
+      "format": "DXT1",
+      "alpha": false
     },
     {
       "name": "metalwheel2_128",
@@ -16,11 +16,11 @@
       "alpha": false
     },
     {
-      "name": "metalwheel1_128",
+      "name": "metalwheel4_128",
       "width": 128,
       "height": 128,
-      "format": "DXT1",
-      "alpha": false
+      "format": "DXT5",
+      "alpha": true
     }
   ]
 }

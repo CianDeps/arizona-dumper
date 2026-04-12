@@ -2,23 +2,9 @@
   "type": "txd",
   "textures": [
     {
-      "name": "jumptop1_64",
-      "width": 64,
-      "height": 64,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "rustyboltpanel",
-      "width": 64,
-      "height": 64,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
       "name": "gen_chrome",
-      "width": 128,
-      "height": 128,
+      "width": 256,
+      "height": 256,
       "format": "DXT1",
       "alpha": false
     },
@@ -30,7 +16,21 @@
       "alpha": false
     },
     {
+      "name": "jumptop1_64",
+      "width": 64,
+      "height": 64,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
       "name": "planks64",
+      "width": 64,
+      "height": 64,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "rustyboltpanel",
       "width": 64,
       "height": 64,
       "format": "DXT1",

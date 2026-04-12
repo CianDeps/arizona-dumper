@@ -2,24 +2,52 @@
   "type": "txd",
   "textures": [
     {
-      "name": "kbtree4_test",
-      "width": 256,
-      "height": 128,
-      "format": "DXT3",
-      "alpha": true
-    },
-    {
-      "name": "hedge2_128",
+      "name": "blueash",
       "width": 128,
       "height": 128,
       "format": "DXT1",
       "alpha": false
     },
     {
+      "name": "fuzzyplant256",
+      "width": 256,
+      "height": 256,
+      "format": "DXT5",
+      "alpha": true
+    },
+    {
+      "name": "hedge2_128",
+      "width": 256,
+      "height": 256,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "kbbark_test1",
+      "width": 256,
+      "height": 256,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
       "name": "kbplanter_plants1",
+      "width": 256,
+      "height": 256,
+      "format": "DXT5",
+      "alpha": true
+    },
+    {
+      "name": "kbtree3_test",
       "width": 128,
       "height": 128,
-      "format": "DXT3",
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "kbtree4_test",
+      "width": 256,
+      "height": 128,
+      "format": "DXT5",
       "alpha": true
     },
     {
@@ -28,34 +56,6 @@
       "height": 128,
       "format": "DXT1",
       "alpha": false
-    },
-    {
-      "name": "blueash",
-      "width": 128,
-      "height": 128,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "kbtree3_test",
-      "width": 64,
-      "height": 64,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "kbbark_test1",
-      "width": 128,
-      "height": 128,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "fuzzyplant256",
-      "width": 128,
-      "height": 128,
-      "format": "DXT3",
-      "alpha": true
     }
   ]
 }

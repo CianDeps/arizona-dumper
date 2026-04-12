@@ -2,16 +2,9 @@
   "type": "txd",
   "textures": [
     {
-      "name": "shopdeco03c_law",
-      "width": 64,
-      "height": 64,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "crazypave",
-      "width": 64,
-      "height": 64,
+      "name": "comptwindo4",
+      "width": 128,
+      "height": 128,
       "format": "DXT1",
       "alpha": false
     },
@@ -23,6 +16,13 @@
       "alpha": false
     },
     {
+      "name": "dryhedge_128",
+      "width": 256,
+      "height": 256,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
       "name": "hotdoor01_law",
       "width": 128,
       "height": 128,
@@ -30,16 +30,44 @@
       "alpha": false
     },
     {
-      "name": "ws_conc_step1",
+      "name": "shopdeco01b_law",
+      "width": 256,
+      "height": 128,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "shopdeco01_law",
+      "width": 256,
+      "height": 128,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "shopdeco02_law",
+      "width": 64,
+      "height": 32,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "shopdeco03b_law",
+      "width": 256,
+      "height": 128,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "shopdeco03c_law",
       "width": 64,
       "height": 64,
       "format": "DXT1",
       "alpha": false
     },
     {
-      "name": "shopdeco01b_law",
+      "name": "shopdeco03_law",
       "width": 256,
-      "height": 128,
+      "height": 256,
       "format": "DXT1",
       "alpha": false
     },
@@ -58,58 +86,9 @@
       "alpha": false
     },
     {
-      "name": "dryhedge_128",
-      "width": 128,
-      "height": 128,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "shopdeco03b_law",
-      "width": 256,
-      "height": 128,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "studwalltop_law",
-      "width": 128,
-      "height": 128,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "shopdeco03_law",
-      "width": 256,
-      "height": 256,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "shopdeco02_law",
+      "name": "ws_conc_step1",
       "width": 64,
-      "height": 32,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "shopdeco01_law",
-      "width": 256,
-      "height": 128,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "comptwindo4",
-      "width": 128,
-      "height": 128,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "Grass_128HV",
-      "width": 128,
-      "height": 128,
+      "height": 64,
       "format": "DXT1",
       "alpha": false
     }

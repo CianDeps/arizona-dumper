@@ -2,42 +2,14 @@
   "type": "txd",
   "textures": [
     {
-      "name": "dynobox",
-      "width": 64,
-      "height": 64,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "shutterclosed_law",
-      "width": 64,
-      "height": 256,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "lightcover1",
-      "width": 64,
-      "height": 64,
-      "format": "DXT3",
-      "alpha": true
-    },
-    {
-      "name": "BLOCK",
+      "name": "Bow_Grimebrick",
       "width": 256,
       "height": 256,
       "format": "DXT1",
       "alpha": false
     },
     {
-      "name": "kb_spray_light1",
-      "width": 64,
-      "height": 32,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "Metalox64",
+      "name": "dynobox",
       "width": 64,
       "height": 64,
       "format": "DXT1",
@@ -51,9 +23,23 @@
       "alpha": false
     },
     {
-      "name": "Bow_Grimebrick",
-      "width": 128,
-      "height": 128,
+      "name": "kb_spray_light1",
+      "width": 64,
+      "height": 32,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "lightcover1",
+      "width": 64,
+      "height": 64,
+      "format": "DXT5",
+      "alpha": true
+    },
+    {
+      "name": "shutterclosed_law",
+      "width": 64,
+      "height": 256,
       "format": "DXT1",
       "alpha": false
     }

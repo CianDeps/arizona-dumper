@@ -2,6 +2,13 @@
   "type": "txd",
   "textures": [
     {
+      "name": "CJ_SUBURBlw_WIN",
+      "width": 128,
+      "height": 128,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
       "name": "comptwall33",
       "width": 256,
       "height": 256,
@@ -9,28 +16,14 @@
       "alpha": false
     },
     {
-      "name": "discwa1_LAe2",
-      "width": 256,
-      "height": 256,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "bluapartwall1_256",
+      "name": "dirty256",
       "width": 128,
       "height": 128,
       "format": "DXT1",
       "alpha": false
     },
     {
-      "name": "gangsign4_LAe",
-      "width": 256,
-      "height": 256,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "gangshop13_LAe",
+      "name": "discwa1_LAe2",
       "width": 256,
       "height": 256,
       "format": "DXT1",
@@ -44,7 +37,21 @@
       "alpha": false
     },
     {
+      "name": "gangshop13_LAe",
+      "width": 256,
+      "height": 256,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
       "name": "gangsign1_LAe",
+      "width": 256,
+      "height": 256,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "gangsign4_LAe",
       "width": 256,
       "height": 256,
       "format": "DXT1",
@@ -58,35 +65,28 @@
       "alpha": false
     },
     {
-      "name": "stormdrain2_nt",
+      "name": "heat_01",
       "width": 256,
-      "height": 256,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "sw_door16",
-      "width": 128,
       "height": 128,
       "format": "DXT1",
       "alpha": false
     },
     {
-      "name": "vgshopwall05_64",
-      "width": 64,
-      "height": 64,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "vgnshopwal1_256",
+      "name": "lasuburbansgn1",
       "width": 256,
       "height": 256,
       "format": "DXT1",
       "alpha": false
     },
     {
-      "name": "lasuburbansgn1",
+      "name": "poshentrance1_256",
+      "width": 256,
+      "height": 256,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "poshentrance2_256",
       "width": 256,
       "height": 256,
       "format": "DXT1",
@@ -100,44 +100,23 @@
       "alpha": false
     },
     {
-      "name": "heat_01",
-      "width": 256,
-      "height": 128,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "CJ_SUBURBlw_WIN",
+      "name": "sw_door16",
       "width": 128,
       "height": 128,
       "format": "DXT1",
       "alpha": false
     },
     {
-      "name": "poshentrance1_256",
-      "width": 128,
-      "height": 128,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "poshentrance2_256",
-      "width": 128,
-      "height": 128,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "Bow_Abpave_Gen",
+      "name": "vgnshopwal1_256",
       "width": 256,
       "height": 256,
       "format": "DXT1",
       "alpha": false
     },
     {
-      "name": "dirty256",
-      "width": 128,
-      "height": 128,
+      "name": "vgshopwall05_64",
+      "width": 64,
+      "height": 64,
       "format": "DXT1",
       "alpha": false
     }

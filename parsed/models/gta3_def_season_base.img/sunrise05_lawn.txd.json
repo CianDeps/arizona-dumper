@@ -2,56 +2,56 @@
   "type": "txd",
   "textures": [
     {
-      "name": "hedge1",
-      "width": 128,
-      "height": 128,
+      "name": "Alumox64",
+      "width": 256,
+      "height": 256,
       "format": "DXT1",
       "alpha": false
     },
     {
-      "name": "vinesign1_LAw",
+      "name": "bank_sfe1",
       "width": 256,
       "height": 256,
-      "format": "DXT3",
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "dead_agave",
+      "width": 128,
+      "height": 64,
+      "format": "DXT5",
       "alpha": true
     },
     {
       "name": "dead_fuzzy",
       "width": 256,
       "height": 256,
-      "format": "DXT3",
+      "format": "DXT5",
       "alpha": true
     },
     {
-      "name": "dead_agave",
-      "width": 128,
-      "height": 64,
-      "format": "DXT3",
-      "alpha": true
+      "name": "hedge1",
+      "width": 256,
+      "height": 256,
+      "format": "DXT1",
+      "alpha": false
     },
     {
-      "name": "kbplanter_plants1",
+      "name": "hilcouwall2",
       "width": 128,
       "height": 128,
-      "format": "DXT3",
-      "alpha": true
+      "format": "DXT1",
+      "alpha": false
     },
     {
-      "name": "sunsfire1b_LAw",
+      "name": "hollyshop01_LAwn",
       "width": 256,
       "height": 256,
-      "format": "DXT3",
-      "alpha": true
+      "format": "DXT1",
+      "alpha": false
     },
     {
-      "name": "sunsfire1_LAw",
-      "width": 256,
-      "height": 256,
-      "format": "DXT3",
-      "alpha": true
-    },
-    {
-      "name": "hollywin03_LAw",
+      "name": "hollyshop02_LAwn",
       "width": 256,
       "height": 256,
       "format": "DXT1",
@@ -72,21 +72,14 @@
       "alpha": false
     },
     {
-      "name": "hollyshop02_LAwn",
+      "name": "hollysign01_LAw",
       "width": 256,
       "height": 256,
       "format": "DXT1",
       "alpha": false
     },
     {
-      "name": "ws_rooftarmac1",
-      "width": 256,
-      "height": 256,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "hollyshop01_LAwn",
+      "name": "hollysign02_LAw",
       "width": 256,
       "height": 256,
       "format": "DXT1",
@@ -100,49 +93,14 @@
       "alpha": false
     },
     {
-      "name": "hilcouwall2",
-      "width": 128,
-      "height": 128,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "hollysign02_LAw",
+      "name": "hollywin02_LAw",
       "width": 256,
       "height": 256,
       "format": "DXT1",
       "alpha": false
     },
     {
-      "name": "Alumox64",
-      "width": 64,
-      "height": 64,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "hollysign01_LAw",
-      "width": 256,
-      "height": 256,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "gymshop1_LAe",
-      "width": 128,
-      "height": 128,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "concretebigb256128",
-      "width": 64,
-      "height": 64,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "bank_sfe1",
+      "name": "hollywin03_LAw",
       "width": 256,
       "height": 256,
       "format": "DXT1",
@@ -156,18 +114,39 @@
       "alpha": false
     },
     {
-      "name": "hollywin02_LAw",
-      "width": 256,
-      "height": 256,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
       "name": "homies_2",
       "width": 256,
       "height": 128,
       "format": "DXT1",
       "alpha": false
+    },
+    {
+      "name": "kbplanter_plants1",
+      "width": 256,
+      "height": 256,
+      "format": "DXT5",
+      "alpha": true
+    },
+    {
+      "name": "sunsfire1b_LAw",
+      "width": 256,
+      "height": 256,
+      "format": "DXT5",
+      "alpha": true
+    },
+    {
+      "name": "sunsfire1_LAw",
+      "width": 256,
+      "height": 256,
+      "format": "DXT5",
+      "alpha": true
+    },
+    {
+      "name": "vinesign1_LAw",
+      "width": 256,
+      "height": 256,
+      "format": "DXT5",
+      "alpha": true
     }
   ]
 }

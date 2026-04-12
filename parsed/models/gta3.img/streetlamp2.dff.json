@@ -5,9 +5,27 @@
   "geometries": [
     {
       "index": 0,
-      "vertices": 108,
-      "triangles": 83,
+      "vertices": 267,
+      "triangles": 245,
       "materials": [
+        {
+          "color": {
+            "r": 255,
+            "g": 255,
+            "b": 255,
+            "a": 255
+          },
+          "texture": null
+        },
+        {
+          "color": {
+            "r": 255,
+            "g": 255,
+            "b": 255,
+            "a": 255
+          },
+          "texture": null
+        },
         {
           "color": {
             "r": 255,
@@ -20,10 +38,8 @@
       ]
     }
   ],
-  "frames": 3,
+  "frames": 1,
   "dummies": [
-    "Streetlamp2_l0",
-    "Omni08",
-    "Omni09"
+    "Streetlamp2_l0"
   ]
 }

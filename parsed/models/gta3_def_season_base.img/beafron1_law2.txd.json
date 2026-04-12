@@ -5,60 +5,11 @@
       "name": "beachsig01_LAw2",
       "width": 128,
       "height": 128,
-      "format": "DXT3",
+      "format": "DXT5",
       "alpha": true
     },
     {
-      "name": "rippost01_LA",
-      "width": 256,
-      "height": 256,
-      "format": "DXT3",
-      "alpha": true
-    },
-    {
-      "name": "shutter02LA",
-      "width": 256,
-      "height": 256,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "ws_rooftarmac1",
-      "width": 256,
-      "height": 256,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "woodroof01_128",
-      "width": 128,
-      "height": 128,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "banding9_64HV",
-      "width": 64,
-      "height": 64,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "steel64",
-      "width": 64,
-      "height": 64,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "venshops02_law",
-      "width": 256,
-      "height": 128,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "icecream_law",
+      "name": "bluemetal",
       "width": 64,
       "height": 64,
       "format": "DXT1",
@@ -68,18 +19,18 @@
       "name": "blueshade2_64",
       "width": 64,
       "height": 64,
-      "format": "DXT3",
+      "format": "DXT5",
       "alpha": true
     },
     {
-      "name": "pierroof01_law",
-      "width": 64,
-      "height": 64,
+      "name": "cafe01_law",
+      "width": 256,
+      "height": 128,
       "format": "DXT1",
       "alpha": false
     },
     {
-      "name": "stormdrain2_nt",
+      "name": "compfence7_LAe",
       "width": 256,
       "height": 256,
       "format": "DXT1",
@@ -93,48 +44,6 @@
       "alpha": false
     },
     {
-      "name": "bluemetal",
-      "width": 64,
-      "height": 64,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "compfence7_LAe",
-      "width": 256,
-      "height": 256,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "comptwall30",
-      "width": 256,
-      "height": 256,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "shutter04LA",
-      "width": 256,
-      "height": 256,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "Heliconcrete",
-      "width": 256,
-      "height": 256,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "pierwin03_law",
-      "width": 128,
-      "height": 64,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
       "name": "comptwall37",
       "width": 256,
       "height": 256,
@@ -142,23 +51,9 @@
       "alpha": false
     },
     {
-      "name": "cafe01_law",
+      "name": "gangwin4_LAe",
       "width": 256,
-      "height": 128,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "vencounter01_law",
-      "width": 256,
-      "height": 128,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "shingledblue_la",
-      "width": 128,
-      "height": 128,
+      "height": 256,
       "format": "DXT1",
       "alpha": false
     },
@@ -170,7 +65,14 @@
       "alpha": false
     },
     {
-      "name": "gangwin4_LAe",
+      "name": "icecream_law",
+      "width": 64,
+      "height": 64,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "melroran3_law",
       "width": 256,
       "height": 256,
       "format": "DXT1",
@@ -184,9 +86,72 @@
       "alpha": false
     },
     {
-      "name": "melroran3_law",
+      "name": "pierroof01_law",
+      "width": 64,
+      "height": 64,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "pierwin03_law",
+      "width": 128,
+      "height": 64,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "rippost01_LA",
       "width": 256,
       "height": 256,
+      "format": "DXT5",
+      "alpha": true
+    },
+    {
+      "name": "shingledblue_la",
+      "width": 128,
+      "height": 128,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "shutter02LA",
+      "width": 256,
+      "height": 256,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "shutter04LA",
+      "width": 256,
+      "height": 256,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "steel64",
+      "width": 64,
+      "height": 64,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "vencounter01_law",
+      "width": 256,
+      "height": 128,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "venshops02_law",
+      "width": 256,
+      "height": 128,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "woodroof01_128",
+      "width": 128,
+      "height": 128,
       "format": "DXT1",
       "alpha": false
     }

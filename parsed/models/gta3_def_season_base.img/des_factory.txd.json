@@ -2,22 +2,15 @@
   "type": "txd",
   "textures": [
     {
-      "name": "ws_corrugated1",
-      "width": 128,
-      "height": 128,
+      "name": "banding3_64HV",
+      "width": 256,
+      "height": 256,
       "format": "DXT1",
       "alpha": false
     },
     {
-      "name": "ws_stationgirder1",
-      "width": 256,
-      "height": 256,
-      "format": "DXT3",
-      "alpha": true
-    },
-    {
-      "name": "ppinkwallb512",
-      "width": 64,
+      "name": "corr_2_plaintiledblue",
+      "width": 128,
       "height": 128,
       "format": "DXT1",
       "alpha": false
@@ -26,15 +19,8 @@
       "name": "des_facmetal",
       "width": 256,
       "height": 256,
-      "format": "DXT3",
+      "format": "DXT5",
       "alpha": true
-    },
-    {
-      "name": "des_factower",
-      "width": 256,
-      "height": 256,
-      "format": "DXT1",
-      "alpha": false
     },
     {
       "name": "des_facmetalsoild",
@@ -44,28 +30,7 @@
       "alpha": false
     },
     {
-      "name": "sm_quarry_conv_belt_empty",
-      "width": 128,
-      "height": 128,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "sm_quarry_crusher1",
-      "width": 128,
-      "height": 128,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "des_backdoor1",
-      "width": 128,
-      "height": 256,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "stormdrain2_nt",
+      "name": "des_factower",
       "width": 256,
       "height": 256,
       "format": "DXT1",
@@ -86,13 +51,6 @@
       "alpha": false
     },
     {
-      "name": "corr_2_plaintiledblue",
-      "width": 128,
-      "height": 128,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
       "name": "LoadingDoorClean",
       "width": 128,
       "height": 128,
@@ -100,25 +58,25 @@
       "alpha": false
     },
     {
-      "name": "Alumox64",
-      "width": 64,
-      "height": 64,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "banding3_64HV",
-      "width": 64,
-      "height": 64,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "des_sherrifwall1",
+      "name": "ppinkwallb512",
       "width": 256,
       "height": 256,
       "format": "DXT1",
       "alpha": false
+    },
+    {
+      "name": "sm_quarry_conv_belt_empty",
+      "width": 128,
+      "height": 128,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "ws_stationgirder1",
+      "width": 256,
+      "height": 256,
+      "format": "DXT5",
+      "alpha": true
     }
   ]
 }

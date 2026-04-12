@@ -2,16 +2,9 @@
   "type": "txd",
   "textures": [
     {
-      "name": "yellow_64",
-      "width": 64,
-      "height": 64,
-      "format": "DXT5",
-      "alpha": true
-    },
-    {
-      "name": "warnsigns2",
-      "width": 128,
-      "height": 128,
+      "name": "BLOCK",
+      "width": 256,
+      "height": 256,
       "format": "DXT1",
       "alpha": false
     },
@@ -23,11 +16,18 @@
       "alpha": false
     },
     {
-      "name": "BLOCK",
+      "name": "warnsigns2",
       "width": 128,
-      "height": 64,
+      "height": 128,
       "format": "DXT1",
       "alpha": false
+    },
+    {
+      "name": "yellow_64",
+      "width": 64,
+      "height": 64,
+      "format": "DXT5",
+      "alpha": true
     }
   ]
 }

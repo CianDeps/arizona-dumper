@@ -2,15 +2,36 @@
   "type": "txd",
   "textures": [
     {
-      "name": "CJ_SHEET2",
+      "name": "Box_Texturepage",
       "width": 128,
       "height": 128,
       "format": "DXT1",
       "alpha": false
     },
     {
-      "name": "CJ_TV_SCREEN",
-      "width": 128,
+      "name": "CJ_CORRIGATED",
+      "width": 256,
+      "height": 256,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "cj_crates",
+      "width": 256,
+      "height": 256,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "CJ_DUMP",
+      "width": 256,
+      "height": 256,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "CJ_DUMP2",
+      "width": 256,
       "height": 128,
       "format": "DXT1",
       "alpha": false
@@ -23,14 +44,7 @@
       "alpha": false
     },
     {
-      "name": "cj_crates",
-      "width": 128,
-      "height": 128,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "Box_Texturepage",
+      "name": "CJ_SHEET2",
       "width": 128,
       "height": 128,
       "format": "DXT1",
@@ -44,15 +58,8 @@
       "alpha": false
     },
     {
-      "name": "CJ_DUMP",
+      "name": "CJ_TV_SCREEN",
       "width": 128,
-      "height": 128,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "CJ_DUMP2",
-      "width": 256,
       "height": 128,
       "format": "DXT1",
       "alpha": false
@@ -61,13 +68,6 @@
       "name": "CJ_WOOD1",
       "width": 256,
       "height": 256,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "CJ_CORRIGATED",
-      "width": 128,
-      "height": 128,
       "format": "DXT1",
       "alpha": false
     }

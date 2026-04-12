@@ -128,13 +128,6 @@
       "alpha": true
     },
     {
-      "name": "collisionsmoke",
-      "width": 64,
-      "height": 64,
-      "format": "\u0015",
-      "alpha": true
-    },
-    {
       "name": "splash_up",
       "width": 32,
       "height": 32,
@@ -245,13 +238,6 @@
       "height": 32,
       "format": "\u0016",
       "alpha": false
-    },
-    {
-      "name": "gunshell",
-      "width": 32,
-      "height": 32,
-      "format": "\u0015",
-      "alpha": true
     },
     {
       "name": "flake1",
@@ -475,6 +461,97 @@
       "width": 256,
       "height": 256,
       "format": "DXT3",
+      "alpha": true
+    },
+    {
+      "name": "pixelated_smoke",
+      "width": 128,
+      "height": 128,
+      "format": "DXT3",
+      "alpha": true
+    },
+    {
+      "name": "pixel",
+      "width": 16,
+      "height": 16,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "cartoonsplash1",
+      "width": 256,
+      "height": 256,
+      "format": "DXT1",
+      "alpha": true
+    },
+    {
+      "name": "cartoonblood1",
+      "width": 128,
+      "height": 128,
+      "format": "DXT1",
+      "alpha": true
+    },
+    {
+      "name": "cartoonboom1",
+      "width": 256,
+      "height": 256,
+      "format": "DXT1",
+      "alpha": true
+    },
+    {
+      "name": "cartoonsprk1",
+      "width": 128,
+      "height": 128,
+      "format": "DXT1",
+      "alpha": true
+    },
+    {
+      "name": "shepka2",
+      "width": 256,
+      "height": 256,
+      "format": "DXT5",
+      "alpha": true
+    },
+    {
+      "name": "stone1",
+      "width": 256,
+      "height": 256,
+      "format": "DXT3",
+      "alpha": true
+    },
+    {
+      "name": "gunshell",
+      "width": 64,
+      "height": 64,
+      "format": "DXT3",
+      "alpha": true
+    },
+    {
+      "name": "collisionsmoke",
+      "width": 256,
+      "height": 256,
+      "format": "DXT5",
+      "alpha": true
+    },
+    {
+      "name": "cartoonsmk1",
+      "width": 256,
+      "height": 256,
+      "format": "DXT1",
+      "alpha": true
+    },
+    {
+      "name": "cartoonsmk2",
+      "width": 256,
+      "height": 256,
+      "format": "DXT1",
+      "alpha": true
+    },
+    {
+      "name": "cartoonsmk3",
+      "width": 256,
+      "height": 256,
+      "format": "DXT1",
       "alpha": true
     }
   ]

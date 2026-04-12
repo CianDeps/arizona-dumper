@@ -2,6 +2,13 @@
   "type": "txd",
   "textures": [
     {
+      "name": "stormdrain3_nt",
+      "width": 256,
+      "height": 256,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
       "name": "sw_barberpole",
       "width": 64,
       "height": 128,
@@ -17,20 +24,6 @@
     },
     {
       "name": "sw_roadsign",
-      "width": 128,
-      "height": 128,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "fence1",
-      "width": 128,
-      "height": 128,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "stormdrain3_nt",
       "width": 128,
       "height": 128,
       "format": "DXT1",

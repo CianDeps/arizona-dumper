@@ -2,13 +2,6 @@
   "type": "txd",
   "textures": [
     {
-      "name": "Was_scrpyd_shack_wall",
-      "width": 64,
-      "height": 128,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
       "name": "Was_scrpyd_shack_win",
       "width": 128,
       "height": 128,
@@ -19,27 +12,6 @@
       "name": "Was_scrpyd_door_dbl_grey",
       "width": 256,
       "height": 256,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "Was_scrpyd_shack",
-      "width": 128,
-      "height": 128,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "Was_scrpyd_fence_wd_stain",
-      "width": 64,
-      "height": 128,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "Was_scrpyd_wall_crgated",
-      "width": 128,
-      "height": 128,
       "format": "DXT1",
       "alpha": false
     },
@@ -93,51 +65,79 @@
       "alpha": false
     },
     {
+      "name": "Was_scrpyd_shack_wall",
+      "width": 128,
+      "height": 256,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "Was_scrpyd_shack",
+      "width": 256,
+      "height": 256,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "Was_scrpyd_fence_wd_stain",
+      "width": 128,
+      "height": 256,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "Was_scrpyd_wall_crgated",
+      "width": 256,
+      "height": 256,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
       "name": "Was_scrpyd_trailer_door",
       "width": 128,
-      "height": 128,
+      "height": 256,
       "format": "DXT1",
       "alpha": false
     },
     {
       "name": "Was_scrpyd_tires",
-      "width": 64,
-      "height": 64,
+      "width": 128,
+      "height": 128,
       "format": "DXT1",
       "alpha": false
     },
     {
       "name": "Was_scrpyd_ground_engblox",
-      "width": 128,
-      "height": 128,
+      "width": 256,
+      "height": 256,
       "format": "DXT1",
       "alpha": false
     },
     {
       "name": "Was_scrpyd_cyl_head",
-      "width": 128,
-      "height": 64,
+      "width": 256,
+      "height": 128,
       "format": "DXT1",
       "alpha": false
     },
     {
       "name": "Was_scrpyd_carhood",
-      "width": 128,
-      "height": 64,
+      "width": 256,
+      "height": 128,
       "format": "DXT1",
       "alpha": false
     },
     {
       "name": "Was_scrpyd_carbits",
-      "width": 128,
-      "height": 128,
+      "width": 256,
+      "height": 256,
       "format": "DXT1",
       "alpha": false
     },
     {
       "name": "Was_scrpyd_engine",
-      "width": 128,
-      "height": 128,
+      "width": 256,
+      "height": 256,
       "format": "DXT1",
       "alpha": false
     }

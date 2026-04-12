@@ -2,13 +2,6 @@
   "type": "txd",
   "textures": [
     {
-      "name": "lvswelvomesign02",
-      "width": 128,
-      "height": 128,
-      "format": "DXT3",
-      "alpha": true
-    },
-    {
       "name": "casinolightsyel_128",
       "width": 128,
       "height": 128,
@@ -16,9 +9,23 @@
       "alpha": false
     },
     {
+      "name": "lvswelcomesign01_512",
+      "width": 256,
+      "height": 256,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "lvswelvomesign02",
+      "width": 128,
+      "height": 128,
+      "format": "DXT5",
+      "alpha": true
+    },
+    {
       "name": "Metalox64",
-      "width": 64,
-      "height": 64,
+      "width": 256,
+      "height": 256,
       "format": "DXT1",
       "alpha": false
     },
@@ -26,13 +33,6 @@
       "name": "ws_coppersheet2",
       "width": 64,
       "height": 64,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "lvswelcomesign01_512",
-      "width": 256,
-      "height": 256,
       "format": "DXT1",
       "alpha": false
     }

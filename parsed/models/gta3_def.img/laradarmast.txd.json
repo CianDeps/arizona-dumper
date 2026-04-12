@@ -2,23 +2,23 @@
   "type": "txd",
   "textures": [
     {
-      "name": "des_radiomast",
-      "width": 256,
-      "height": 256,
-      "format": "DXT3",
-      "alpha": true
-    },
-    {
-      "name": "forumstand1_LAe",
+      "name": "carparkwall1_256",
       "width": 256,
       "height": 256,
       "format": "DXT1",
       "alpha": false
     },
     {
-      "name": "carparkwall1_256",
-      "width": 128,
-      "height": 128,
+      "name": "des_radiomast",
+      "width": 256,
+      "height": 256,
+      "format": "DXT5",
+      "alpha": true
+    },
+    {
+      "name": "forumstand1_LAe",
+      "width": 256,
+      "height": 256,
       "format": "DXT1",
       "alpha": false
     }

@@ -2,9 +2,9 @@
   "type": "txd",
   "textures": [
     {
-      "name": "bluemetal",
-      "width": 64,
-      "height": 64,
+      "name": "Alumox64",
+      "width": 256,
+      "height": 256,
       "format": "DXT1",
       "alpha": false
     },
@@ -16,18 +16,18 @@
       "alpha": false
     },
     {
-      "name": "CJ_FRAME_Glass",
-      "width": 256,
-      "height": 256,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "Alumox64",
+      "name": "bluemetal",
       "width": 64,
       "height": 64,
       "format": "DXT1",
       "alpha": false
+    },
+    {
+      "name": "CJ_FRAME_Glass",
+      "width": 256,
+      "height": 256,
+      "format": "DXT5",
+      "alpha": true
     }
   ]
 }

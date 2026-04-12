@@ -2,9 +2,37 @@
   "type": "txd",
   "textures": [
     {
-      "name": "hedgealphad1",
-      "width": 64,
-      "height": 128,
+      "name": "citywall1",
+      "width": 256,
+      "height": 256,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "comptwall37",
+      "width": 256,
+      "height": 256,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "discware1_LAe2",
+      "width": 256,
+      "height": 256,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "downtshop6_LAn",
+      "width": 256,
+      "height": 256,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "downtshop9_LAn",
+      "width": 256,
+      "height": 256,
       "format": "DXT1",
       "alpha": false
     },
@@ -16,23 +44,23 @@
       "alpha": false
     },
     {
-      "name": "gymtop1_LAe",
-      "width": 128,
-      "height": 128,
+      "name": "downtwin27",
+      "width": 256,
+      "height": 256,
       "format": "DXT1",
       "alpha": false
     },
     {
-      "name": "LAbluewall",
-      "width": 128,
-      "height": 128,
+      "name": "downtwin6",
+      "width": 256,
+      "height": 256,
       "format": "DXT1",
       "alpha": false
     },
     {
-      "name": "whiteconc01",
-      "width": 64,
-      "height": 128,
+      "name": "downtwin6det",
+      "width": 256,
+      "height": 256,
       "format": "DXT1",
       "alpha": false
     },
@@ -44,16 +72,44 @@
       "alpha": false
     },
     {
-      "name": "citywall1",
+      "name": "grasstype4",
+      "width": 128,
+      "height": 128,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "gymtop1_LAe",
+      "width": 128,
+      "height": 128,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "hedgealphad1",
+      "width": 64,
+      "height": 128,
+      "format": "DXT5",
+      "alpha": true
+    },
+    {
+      "name": "hillshop1_LA",
       "width": 256,
       "height": 256,
       "format": "DXT1",
       "alpha": false
     },
     {
-      "name": "discware1_LAe2",
+      "name": "hollyshop04_LAwn",
       "width": 256,
       "height": 256,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "LAbluewall",
+      "width": 128,
+      "height": 128,
       "format": "DXT1",
       "alpha": false
     },
@@ -72,58 +128,9 @@
       "alpha": false
     },
     {
-      "name": "downtshop6_LAn",
-      "width": 256,
-      "height": 256,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "ws_ed_shop5",
-      "width": 512,
-      "height": 256,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "downtwin6det",
-      "width": 256,
-      "height": 256,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "downtwin6",
-      "width": 256,
-      "height": 256,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "stormdrain5_nt",
-      "width": 256,
-      "height": 256,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "downtwin27",
-      "width": 256,
-      "height": 256,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "hollyshop04_LAwn",
-      "width": 256,
-      "height": 256,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "comptwall30",
-      "width": 256,
-      "height": 256,
+      "name": "ShopWall1_LAn",
+      "width": 64,
+      "height": 64,
       "format": "DXT1",
       "alpha": false
     },
@@ -135,13 +142,6 @@
       "alpha": false
     },
     {
-      "name": "comptwall37",
-      "width": 256,
-      "height": 256,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
       "name": "ShopWindo1_LAn",
       "width": 256,
       "height": 256,
@@ -149,50 +149,15 @@
       "alpha": false
     },
     {
-      "name": "ShopWall1_LAn",
+      "name": "whiteconc01",
       "width": 64,
-      "height": 64,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "tarmacplain2_bank",
-      "width": 128,
       "height": 128,
       "format": "DXT1",
       "alpha": false
     },
     {
-      "name": "downtshop9_LAn",
-      "width": 256,
-      "height": 256,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "ws_rooftarmac1",
-      "width": 256,
-      "height": 256,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "grasstype4",
-      "width": 128,
-      "height": 128,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "backstageceiling1_128",
-      "width": 128,
-      "height": 128,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "hillshop1_LA",
-      "width": 256,
+      "name": "ws_ed_shop5",
+      "width": 512,
       "height": 256,
       "format": "DXT1",
       "alpha": false

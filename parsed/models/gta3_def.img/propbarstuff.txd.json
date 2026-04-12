@@ -2,30 +2,16 @@
   "type": "txd",
   "textures": [
     {
-      "name": "cl_winebtl2",
-      "width": 32,
-      "height": 64,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "kb_vodka_64_256",
+      "name": "cl_ashtray",
       "width": 64,
-      "height": 128,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "cl_redwine_gls",
-      "width": 32,
       "height": 64,
       "format": "DXT1",
       "alpha": false
     },
     {
-      "name": "cl_hiball2",
-      "width": 32,
-      "height": 64,
+      "name": "cl_cig",
+      "width": 64,
+      "height": 32,
       "format": "DXT1",
       "alpha": false
     },
@@ -37,21 +23,35 @@
       "alpha": false
     },
     {
-      "name": "cl_cig",
-      "width": 32,
-      "height": 16,
+      "name": "cl_hiball2",
+      "width": 64,
+      "height": 128,
       "format": "DXT1",
       "alpha": false
     },
     {
-      "name": "cl_ashtray",
-      "width": 32,
-      "height": 32,
+      "name": "cl_redwine_gls",
+      "width": 64,
+      "height": 128,
       "format": "DXT1",
       "alpha": false
     },
     {
       "name": "cl_winebtl1",
+      "width": 64,
+      "height": 128,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "cl_winebtl2",
+      "width": 64,
+      "height": 128,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "kb_vodka_64_256",
       "width": 64,
       "height": 128,
       "format": "DXT1",

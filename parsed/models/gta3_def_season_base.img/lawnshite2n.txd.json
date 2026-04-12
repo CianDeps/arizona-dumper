@@ -2,6 +2,13 @@
   "type": "txd",
   "textures": [
     {
+      "name": "Bow_Abattoir_Floor_Clean",
+      "width": 128,
+      "height": 128,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
       "name": "burgershotmenu256",
       "width": 256,
       "height": 256,
@@ -16,9 +23,9 @@
       "alpha": false
     },
     {
-      "name": "Bow_Abattoir_Floor_Clean",
-      "width": 128,
-      "height": 128,
+      "name": "conc_slabgrey_256128",
+      "width": 256,
+      "height": 256,
       "format": "DXT1",
       "alpha": false
     },
@@ -30,18 +37,11 @@
       "alpha": false
     },
     {
-      "name": "conc_slabgrey_256128",
-      "width": 128,
-      "height": 128,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
       "name": "hedgealphad1",
       "width": 64,
       "height": 128,
-      "format": "DXT1",
-      "alpha": false
+      "format": "DXT5",
+      "alpha": true
     }
   ]
 }

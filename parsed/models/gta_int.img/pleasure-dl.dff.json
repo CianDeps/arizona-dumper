@@ -5,8 +5,8 @@
   "geometries": [
     {
       "index": 0,
-      "vertices": 4899,
-      "triangles": 3446,
+      "vertices": 3520,
+      "triangles": 3810,
       "materials": [
         {
           "color": {
@@ -70,11 +70,29 @@
             "a": 255
           },
           "texture": null
+        },
+        {
+          "color": {
+            "r": 255,
+            "g": 255,
+            "b": 255,
+            "a": 255
+          },
+          "texture": null
+        },
+        {
+          "color": {
+            "r": 255,
+            "g": 255,
+            "b": 255,
+            "a": 46
+          },
+          "texture": null
         }
       ]
     }
   ],
-  "frames": 64,
+  "frames": 65,
   "dummies": [
     "pleasure-DL",
     "Omni152",
@@ -120,6 +138,7 @@
     "Omni106",
     "Omni105",
     "Omni92",
+    "Omni91",
     "Omni87",
     "Omni86",
     "Omni85",

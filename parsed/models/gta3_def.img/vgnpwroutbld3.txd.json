@@ -2,25 +2,11 @@
   "type": "txd",
   "textures": [
     {
-      "name": "ladder64",
-      "width": 64,
-      "height": 64,
+      "name": "frate64_blue",
+      "width": 128,
+      "height": 128,
       "format": "DXT1",
-      "alpha": true
-    },
-    {
-      "name": "fire_esc_fence",
-      "width": 64,
-      "height": 64,
-      "format": "DXT1",
-      "alpha": true
-    },
-    {
-      "name": "fence_64",
-      "width": 64,
-      "height": 64,
-      "format": "DXT3",
-      "alpha": true
+      "alpha": false
     },
     {
       "name": "frate64_yellow",
@@ -30,25 +16,25 @@
       "alpha": false
     },
     {
-      "name": "frate_doors64yellow",
-      "width": 64,
-      "height": 64,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "frate64_blue",
-      "width": 64,
-      "height": 64,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
       "name": "frate_doors64128",
       "width": 128,
       "height": 128,
       "format": "DXT1",
       "alpha": false
+    },
+    {
+      "name": "frate_doors64yellow",
+      "width": 256,
+      "height": 256,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "ladder64",
+      "width": 64,
+      "height": 64,
+      "format": "DXT5",
+      "alpha": true
     },
     {
       "name": "plant_tank",

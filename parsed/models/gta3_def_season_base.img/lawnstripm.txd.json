@@ -2,51 +2,30 @@
   "type": "txd",
   "textures": [
     {
-      "name": "fire_esc_fence",
-      "width": 64,
-      "height": 64,
+      "name": "aluminiumbands256",
+      "width": 256,
+      "height": 256,
       "format": "DXT1",
-      "alpha": true
+      "alpha": false
     },
     {
-      "name": "concretenewb256",
+      "name": "Bow_Loadingbay_Door",
       "width": 128,
       "height": 128,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "forumstand1_LAe",
+      "width": 256,
+      "height": 256,
       "format": "DXT1",
       "alpha": false
     },
     {
       "name": "gen_chrome",
-      "width": 128,
-      "height": 128,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "aluminiumbands256",
-      "width": 128,
-      "height": 128,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "sodom_law",
       "width": 256,
-      "height": 64,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "savsig4",
-      "width": 128,
-      "height": 32,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "savsig1",
-      "width": 64,
-      "height": 32,
+      "height": 256,
       "format": "DXT1",
       "alpha": false
     },
@@ -65,51 +44,16 @@
       "alpha": false
     },
     {
-      "name": "ws_patio1",
-      "width": 256,
-      "height": 256,
+      "name": "savsig1",
+      "width": 64,
+      "height": 32,
       "format": "DXT1",
       "alpha": false
     },
     {
-      "name": "stormdrain5_nt",
-      "width": 256,
-      "height": 256,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "Grass_128HV",
+      "name": "savsig4",
       "width": 128,
-      "height": 128,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "forumstand1_LAe",
-      "width": 256,
-      "height": 256,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "Bow_Loadingbay_Door",
-      "width": 128,
-      "height": 128,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "BLOCK2",
-      "width": 128,
-      "height": 128,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "gymshop2_LAe",
-      "width": 128,
-      "height": 128,
+      "height": 32,
       "format": "DXT1",
       "alpha": false
     },
@@ -121,9 +65,16 @@
       "alpha": false
     },
     {
-      "name": "tarmacplain2_bank",
-      "width": 128,
-      "height": 128,
+      "name": "sodom_law",
+      "width": 256,
+      "height": 64,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "ws_patio1",
+      "width": 256,
+      "height": 256,
       "format": "DXT1",
       "alpha": false
     }

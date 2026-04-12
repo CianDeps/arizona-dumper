@@ -2,27 +2,6 @@
   "type": "txd",
   "textures": [
     {
-      "name": "des_rockyfill",
-      "width": 256,
-      "height": 256,
-      "format": "DXT3",
-      "alpha": true
-    },
-    {
-      "name": "Upt_Fence_Mesh",
-      "width": 256,
-      "height": 256,
-      "format": "DXT3",
-      "alpha": true
-    },
-    {
-      "name": "block2_high",
-      "width": 256,
-      "height": 256,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
       "name": "a51_vent1",
       "width": 256,
       "height": 128,
@@ -30,42 +9,7 @@
       "alpha": false
     },
     {
-      "name": "lasdkcrtgr1111",
-      "width": 256,
-      "height": 256,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "lasdkcrtgr1ssss",
-      "width": 128,
-      "height": 256,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
       "name": "desertgravel256",
-      "width": 256,
-      "height": 256,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "des_dirt2track",
-      "width": 256,
-      "height": 256,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "des_quarryrdl",
-      "width": 256,
-      "height": 256,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "desertstones256",
       "width": 256,
       "height": 256,
       "format": "DXT1",
@@ -79,13 +23,6 @@
       "alpha": false
     },
     {
-      "name": "des_quarryrd",
-      "width": 256,
-      "height": 256,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
       "name": "des_dirt2stones",
       "width": 256,
       "height": 256,
@@ -93,7 +30,14 @@
       "alpha": false
     },
     {
-      "name": "des_dirt2",
+      "name": "des_quarryrd",
+      "width": 256,
+      "height": 256,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "des_quarryrdl",
       "width": 256,
       "height": 256,
       "format": "DXT1",
@@ -102,6 +46,27 @@
     {
       "name": "des_quarryrdr",
       "width": 256,
+      "height": 256,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "des_rockyfill",
+      "width": 256,
+      "height": 256,
+      "format": "DXT5",
+      "alpha": true
+    },
+    {
+      "name": "lasdkcrtgr1111",
+      "width": 256,
+      "height": 256,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "lasdkcrtgr1ssss",
+      "width": 128,
       "height": 256,
       "format": "DXT1",
       "alpha": false

@@ -2,13 +2,6 @@
   "type": "txd",
   "textures": [
     {
-      "name": "roof04L256",
-      "width": 128,
-      "height": 128,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
       "name": "decodoor5256",
       "width": 256,
       "height": 256,
@@ -23,9 +16,9 @@
       "alpha": false
     },
     {
-      "name": "washdecowall3256",
-      "width": 256,
-      "height": 256,
+      "name": "greygreensubuild_128",
+      "width": 128,
+      "height": 128,
       "format": "DXT1",
       "alpha": false
     },
@@ -37,9 +30,16 @@
       "alpha": false
     },
     {
-      "name": "greygreensubuild_128",
-      "width": 128,
-      "height": 128,
+      "name": "roof04L256",
+      "width": 256,
+      "height": 256,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "washdecowall3256",
+      "width": 256,
+      "height": 256,
       "format": "DXT1",
       "alpha": false
     }

@@ -2,6 +2,20 @@
   "type": "txd",
   "textures": [
     {
+      "name": "alleydoor4",
+      "width": 128,
+      "height": 256,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "alleydoorb256",
+      "width": 256,
+      "height": 256,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
       "name": "amity_law",
       "width": 256,
       "height": 64,
@@ -10,34 +24,6 @@
     },
     {
       "name": "bbar_stuff2",
-      "width": 128,
-      "height": 128,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "black16",
-      "width": 16,
-      "height": 16,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "ws_rooftarmac1",
-      "width": 256,
-      "height": 256,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "sw_wind23",
-      "width": 256,
-      "height": 128,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "sw_wall_05",
       "width": 256,
       "height": 256,
       "format": "DXT1",
@@ -51,21 +37,7 @@
       "alpha": false
     },
     {
-      "name": "alleydoorb256",
-      "width": 256,
-      "height": 256,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
       "name": "browntin1",
-      "width": 128,
-      "height": 128,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "airportmetalwall256",
       "width": 128,
       "height": 128,
       "format": "DXT1",
@@ -79,9 +51,16 @@
       "alpha": false
     },
     {
-      "name": "alleydoor4",
-      "width": 128,
+      "name": "sw_wall_05",
+      "width": 256,
       "height": 256,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "sw_wind23",
+      "width": 256,
+      "height": 128,
       "format": "DXT1",
       "alpha": false
     }

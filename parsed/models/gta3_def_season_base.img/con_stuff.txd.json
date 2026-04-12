@@ -2,6 +2,13 @@
   "type": "txd",
   "textures": [
     {
+      "name": "quarry_ground1",
+      "width": 128,
+      "height": 128,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
       "name": "steel64",
       "width": 64,
       "height": 64,
@@ -10,13 +17,6 @@
     },
     {
       "name": "trail_wall1",
-      "width": 128,
-      "height": 128,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "quarry_ground1",
       "width": 128,
       "height": 128,
       "format": "DXT1",

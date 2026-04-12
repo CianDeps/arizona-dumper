@@ -2,10 +2,17 @@
   "type": "txd",
   "textures": [
     {
+      "name": "Bumpplat64",
+      "width": 64,
+      "height": 64,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
       "name": "railmesh_64",
       "width": 64,
       "height": 64,
-      "format": "DXT3",
+      "format": "DXT5",
       "alpha": true
     }
   ]

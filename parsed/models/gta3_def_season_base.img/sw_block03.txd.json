@@ -2,70 +2,7 @@
   "type": "txd",
   "textures": [
     {
-      "name": "sw_wind02",
-      "width": 256,
-      "height": 256,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "sw_watson",
-      "width": 256,
-      "height": 128,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "sw_wall02",
-      "width": 256,
-      "height": 256,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "sw_roofbit1",
-      "width": 128,
-      "height": 128,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
       "name": "desgrns256",
-      "width": 256,
-      "height": 256,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "sw_garwind",
-      "width": 256,
-      "height": 128,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "sw_garagedoor",
-      "width": 256,
-      "height": 256,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "sw_bigmike",
-      "width": 256,
-      "height": 128,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "sw_barberpole",
-      "width": 64,
-      "height": 128,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "sw_gasground",
       "width": 256,
       "height": 256,
       "format": "DXT1",
@@ -79,22 +16,15 @@
       "alpha": false
     },
     {
-      "name": "sw_woodslat01",
-      "width": 256,
-      "height": 256,
+      "name": "sw_barberpole",
+      "width": 64,
+      "height": 128,
       "format": "DXT1",
       "alpha": false
     },
     {
-      "name": "sw_wallbrick_04",
+      "name": "sw_bigmike",
       "width": 256,
-      "height": 256,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "sw_wind04",
-      "width": 128,
       "height": 128,
       "format": "DXT1",
       "alpha": false
@@ -107,21 +37,7 @@
       "alpha": false
     },
     {
-      "name": "sw_lintl01",
-      "width": 128,
-      "height": 32,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "sw_stairs1",
-      "width": 256,
-      "height": 256,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "sw_door05",
+      "name": "sw_door03",
       "width": 128,
       "height": 128,
       "format": "DXT1",
@@ -135,21 +51,42 @@
       "alpha": false
     },
     {
-      "name": "sw_door03",
+      "name": "sw_door05",
       "width": 128,
       "height": 128,
       "format": "DXT1",
       "alpha": false
     },
     {
-      "name": "sw_woodwall2",
+      "name": "sw_garagedoor",
       "width": 256,
       "height": 256,
       "format": "DXT1",
       "alpha": false
     },
     {
-      "name": "sw_woodwall1",
+      "name": "sw_gasground",
+      "width": 256,
+      "height": 256,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "sw_lintl01",
+      "width": 128,
+      "height": 32,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "sw_roofbit1",
+      "width": 128,
+      "height": 128,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "sw_wall02",
       "width": 256,
       "height": 256,
       "format": "DXT1",
@@ -163,9 +100,51 @@
       "alpha": false
     },
     {
-      "name": "black16",
-      "width": 16,
-      "height": 16,
+      "name": "sw_wallbrick_04",
+      "width": 256,
+      "height": 256,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "sw_watson",
+      "width": 256,
+      "height": 128,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "sw_wind02",
+      "width": 256,
+      "height": 256,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "sw_wind04",
+      "width": 128,
+      "height": 128,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "sw_woodslat01",
+      "width": 256,
+      "height": 256,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "sw_woodwall1",
+      "width": 256,
+      "height": 256,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "sw_woodwall2",
+      "width": 256,
+      "height": 256,
       "format": "DXT1",
       "alpha": false
     }

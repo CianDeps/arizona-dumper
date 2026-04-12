@@ -2,13 +2,6 @@
   "type": "txd",
   "textures": [
     {
-      "name": "sw_flag01",
-      "width": 64,
-      "height": 128,
-      "format": "DXT3",
-      "alpha": true
-    },
-    {
       "name": "dam_statbase",
       "width": 256,
       "height": 256,
@@ -26,7 +19,14 @@
       "name": "des_woodrails",
       "width": 128,
       "height": 128,
-      "format": "DXT1",
+      "format": "DXT5",
+      "alpha": true
+    },
+    {
+      "name": "sw_flag01",
+      "width": 64,
+      "height": 128,
+      "format": "DXT5",
       "alpha": true
     }
   ]

@@ -2,6 +2,20 @@
   "type": "txd",
   "textures": [
     {
+      "name": "discharger",
+      "width": 128,
+      "height": 256,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "exploder1",
+      "width": 128,
+      "height": 128,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
       "name": "Ind_PKabin",
       "width": 128,
       "height": 128,
@@ -9,29 +23,15 @@
       "alpha": false
     },
     {
-      "name": "Bow_Abattoir_Conc2",
+      "name": "lasviper6",
       "width": 128,
-      "height": 128,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "ws_rooftarmac1",
-      "width": 256,
-      "height": 256,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "whisk5",
-      "width": 64,
       "height": 64,
       "format": "DXT1",
       "alpha": false
     },
     {
-      "name": "whisk4",
-      "width": 64,
+      "name": "lasviper7",
+      "width": 128,
       "height": 128,
       "format": "DXT1",
       "alpha": false
@@ -58,29 +58,15 @@
       "alpha": false
     },
     {
-      "name": "exploder1",
-      "width": 128,
+      "name": "whisk4",
+      "width": 64,
       "height": 128,
       "format": "DXT1",
       "alpha": false
     },
     {
-      "name": "discharger",
-      "width": 128,
-      "height": 256,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "lasviper6",
+      "name": "whisk5",
       "width": 256,
-      "height": 256,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "lasviper7",
-      "width": 128,
       "height": 128,
       "format": "DXT1",
       "alpha": false

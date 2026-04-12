@@ -2,6 +2,27 @@
   "type": "txd",
   "textures": [
     {
+      "name": "CJ_CHROME2",
+      "width": 128,
+      "height": 128,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "CJ_SCOR_DOOR",
+      "width": 128,
+      "height": 256,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "CJ_WOODDOOR4",
+      "width": 128,
+      "height": 256,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
       "name": "clubdoor1_256",
       "width": 128,
       "height": 256,
@@ -16,32 +37,11 @@
       "alpha": false
     },
     {
-      "name": "CJ_WOODDOOR4",
-      "width": 128,
-      "height": 256,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "CJ_SCOR_DOOR",
-      "width": 64,
-      "height": 128,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
       "name": "Gen_Meshfencing",
       "width": 128,
       "height": 128,
-      "format": "DXT3",
+      "format": "DXT5",
       "alpha": true
-    },
-    {
-      "name": "CJ_CHROME2",
-      "width": 128,
-      "height": 128,
-      "format": "DXT1",
-      "alpha": false
     }
   ]
 }

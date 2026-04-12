@@ -2,10 +2,17 @@
   "type": "txd",
   "textures": [
     {
+      "name": "des_brick1",
+      "width": 128,
+      "height": 128,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
       "name": "des_bunting",
       "width": 256,
       "height": 128,
-      "format": "DXT3",
+      "format": "DXT5",
       "alpha": true
     },
     {
@@ -16,39 +23,32 @@
       "alpha": false
     },
     {
-      "name": "des_backdoor1",
+      "name": "des_creamshopwin",
       "width": 128,
       "height": 256,
       "format": "DXT1",
       "alpha": false
     },
     {
-      "name": "des_brick1",
+      "name": "des_dam_wins",
       "width": 128,
       "height": 128,
       "format": "DXT1",
       "alpha": false
     },
     {
-      "name": "roof06L256",
-      "width": 128,
+      "name": "des_door1",
+      "width": 64,
       "height": 128,
       "format": "DXT1",
       "alpha": false
     },
     {
-      "name": "telepole128",
-      "width": 128,
-      "height": 128,
+      "name": "des_greyboards",
+      "width": 256,
+      "height": 256,
       "format": "DXT1",
       "alpha": false
-    },
-    {
-      "name": "drvin_stuct2",
-      "width": 128,
-      "height": 64,
-      "format": "DXT3",
-      "alpha": true
     },
     {
       "name": "des_metaldoor1",
@@ -65,105 +65,7 @@
       "alpha": false
     },
     {
-      "name": "des_dam_wins",
-      "width": 128,
-      "height": 128,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "gravelkb_128",
-      "width": 128,
-      "height": 128,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "des_dustconc",
-      "width": 128,
-      "height": 128,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "des_dam_conc",
-      "width": 128,
-      "height": 128,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "sjmbigold1",
-      "width": 128,
-      "height": 128,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "des_door1",
-      "width": 64,
-      "height": 128,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "des_adobedoor1",
-      "width": 64,
-      "height": 128,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "corr_roof1",
-      "width": 128,
-      "height": 128,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "des_creamshopwin",
-      "width": 128,
-      "height": 256,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "ws_rooftarmac1",
-      "width": 256,
-      "height": 256,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "des_ntwnwin6",
-      "width": 128,
-      "height": 256,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "des_ntwnwin5",
-      "width": 256,
-      "height": 256,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "des_ntwnwin4",
-      "width": 128,
-      "height": 256,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "des_ntwnwin3",
-      "width": 128,
-      "height": 256,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "des_ntwndoor3",
+      "name": "des_ntwndoor1",
       "width": 128,
       "height": 256,
       "format": "DXT1",
@@ -177,29 +79,8 @@
       "alpha": false
     },
     {
-      "name": "des_ntwndoor1",
+      "name": "des_ntwndoor3",
       "width": 128,
-      "height": 256,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "des_shingles",
-      "width": 256,
-      "height": 256,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "des_greyboards",
-      "width": 256,
-      "height": 256,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "des_greyslats",
-      "width": 256,
       "height": 256,
       "format": "DXT1",
       "alpha": false
@@ -215,6 +96,69 @@
       "name": "des_ntwnwall1",
       "width": 256,
       "height": 256,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "des_ntwnwin3",
+      "width": 128,
+      "height": 256,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "des_ntwnwin4",
+      "width": 128,
+      "height": 256,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "des_ntwnwin5",
+      "width": 256,
+      "height": 256,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "des_ntwnwin6",
+      "width": 128,
+      "height": 256,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "drvin_stuct2",
+      "width": 128,
+      "height": 64,
+      "format": "DXT5",
+      "alpha": true
+    },
+    {
+      "name": "gravelkb_128",
+      "width": 128,
+      "height": 128,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "roof06L256",
+      "width": 256,
+      "height": 256,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "sjmbigold1",
+      "width": 128,
+      "height": 128,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "telepole128",
+      "width": 128,
+      "height": 128,
       "format": "DXT1",
       "alpha": false
     }

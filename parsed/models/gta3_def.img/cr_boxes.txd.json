@@ -2,6 +2,13 @@
   "type": "txd",
   "textures": [
     {
+      "name": "ammo_bx",
+      "width": 64,
+      "height": 64,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
       "name": "CJ_SLATEDWOOD",
       "width": 128,
       "height": 128,
@@ -10,13 +17,6 @@
     },
     {
       "name": "guns_wood",
-      "width": 64,
-      "height": 64,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "ammo_bx",
       "width": 64,
       "height": 64,
       "format": "DXT1",

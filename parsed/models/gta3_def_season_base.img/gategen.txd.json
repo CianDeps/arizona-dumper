@@ -2,11 +2,18 @@
   "type": "txd",
   "textures": [
     {
-      "name": "trespasign1_256",
+      "name": "banding3c_64HV",
       "width": 256,
       "height": 256,
       "format": "DXT1",
       "alpha": false
+    },
+    {
+      "name": "Gen_Meshfencing",
+      "width": 128,
+      "height": 128,
+      "format": "DXT5",
+      "alpha": true
     },
     {
       "name": "steel64",
@@ -16,24 +23,17 @@
       "alpha": false
     },
     {
-      "name": "banding3c_64HV",
-      "width": 64,
-      "height": 64,
+      "name": "trespasign1_256",
+      "width": 256,
+      "height": 256,
       "format": "DXT1",
       "alpha": false
-    },
-    {
-      "name": "Gen_Meshfencing",
-      "width": 128,
-      "height": 128,
-      "format": "DXT3",
-      "alpha": true
     },
     {
       "name": "ws_leccyfncetop",
       "width": 256,
       "height": 64,
-      "format": "DXT3",
+      "format": "DXT5",
       "alpha": true
     }
   ]

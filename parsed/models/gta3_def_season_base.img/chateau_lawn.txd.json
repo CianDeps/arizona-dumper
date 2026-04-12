@@ -2,63 +2,7 @@
   "type": "txd",
   "textures": [
     {
-      "name": "stormdrain5_nt",
-      "width": 256,
-      "height": 256,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "ppinkwallb512",
-      "width": 64,
-      "height": 128,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "crazypave",
-      "width": 64,
-      "height": 64,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "dirtyredwall512",
-      "width": 128,
-      "height": 128,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
       "name": "backstagefloor1_256",
-      "width": 128,
-      "height": 128,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "Grass_128HV",
-      "width": 128,
-      "height": 128,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "doorkb_1_256",
-      "width": 256,
-      "height": 256,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "chatwin02_law",
-      "width": 64,
-      "height": 128,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "chatwall03_law",
       "width": 256,
       "height": 256,
       "format": "DXT1",
@@ -79,9 +23,16 @@
       "alpha": false
     },
     {
-      "name": "shingles2",
-      "width": 64,
+      "name": "chatbalc01_law",
+      "width": 256,
       "height": 64,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "chatbalc02_law",
+      "width": 32,
+      "height": 32,
       "format": "DXT1",
       "alpha": false
     },
@@ -100,23 +51,16 @@
       "alpha": false
     },
     {
-      "name": "concretebigb256128",
-      "width": 64,
-      "height": 64,
+      "name": "chatwall01_law",
+      "width": 128,
+      "height": 128,
       "format": "DXT1",
       "alpha": false
     },
     {
-      "name": "chatbalc02_law",
-      "width": 32,
-      "height": 32,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "chatbalc01_law",
+      "name": "chatwall03_law",
       "width": 256,
-      "height": 64,
+      "height": 256,
       "format": "DXT1",
       "alpha": false
     },
@@ -128,9 +72,37 @@
       "alpha": false
     },
     {
-      "name": "chatwall01_law",
+      "name": "chatwin02_law",
+      "width": 64,
+      "height": 128,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "dirtyredwall512",
       "width": 128,
       "height": 128,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "doorkb_1_256",
+      "width": 256,
+      "height": 256,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "ppinkwallb512",
+      "width": 256,
+      "height": 256,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "shingles2",
+      "width": 64,
+      "height": 64,
       "format": "DXT1",
       "alpha": false
     }

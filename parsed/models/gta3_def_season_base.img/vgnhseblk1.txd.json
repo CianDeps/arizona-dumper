@@ -2,9 +2,16 @@
   "type": "txd",
   "textures": [
     {
-      "name": "roof11L256",
+      "name": "genroof02_128",
       "width": 128,
       "height": 128,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "roof11L256",
+      "width": 256,
+      "height": 256,
       "format": "DXT1",
       "alpha": false
     },
@@ -12,22 +19,8 @@
       "name": "steel256128",
       "width": 128,
       "height": 128,
-      "format": "DXT3",
+      "format": "DXT5",
       "alpha": true
-    },
-    {
-      "name": "vnghse3_128",
-      "width": 128,
-      "height": 128,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "genroof02_128",
-      "width": 64,
-      "height": 64,
-      "format": "DXT1",
-      "alpha": false
     },
     {
       "name": "vnghse1_256",
@@ -38,6 +31,13 @@
     },
     {
       "name": "vnghse2_256",
+      "width": 128,
+      "height": 128,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "vnghse3_128",
       "width": 128,
       "height": 128,
       "format": "DXT1",

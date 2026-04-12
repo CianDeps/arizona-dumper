@@ -2,49 +2,42 @@
   "type": "txd",
   "textures": [
     {
-      "name": "desertstones256",
+      "name": "forestfloorbranch256",
       "width": 256,
       "height": 256,
       "format": "DXT1",
       "alpha": false
     },
     {
-      "name": "forestfloor256",
+      "name": "sw_barndoor1",
       "width": 256,
       "height": 256,
       "format": "DXT1",
       "alpha": false
     },
     {
-      "name": "sw_woodflloorsplat",
-      "width": 256,
-      "height": 256,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "sw_barnwood1",
-      "width": 256,
-      "height": 256,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "sw_brick04",
-      "width": 256,
-      "height": 256,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "sw_slate01",
-      "width": 256,
+      "name": "sw_barndoor2",
+      "width": 128,
       "height": 256,
       "format": "DXT1",
       "alpha": false
     },
     {
       "name": "sw_barnfloor1",
+      "width": 256,
+      "height": 256,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "sw_barnwind01",
+      "width": 128,
+      "height": 64,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "sw_barnwood1",
       "width": 256,
       "height": 256,
       "format": "DXT1",
@@ -65,41 +58,6 @@
       "alpha": false
     },
     {
-      "name": "ws_white_wall1",
-      "width": 128,
-      "height": 128,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "sw_corrugtile",
-      "width": 256,
-      "height": 256,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "sw_barnwind01",
-      "width": 128,
-      "height": 64,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "sw_barndoor2",
-      "width": 128,
-      "height": 256,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "sw_barndoor1",
-      "width": 256,
-      "height": 256,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
       "name": "sw_barnwood5",
       "width": 256,
       "height": 256,
@@ -107,9 +65,30 @@
       "alpha": false
     },
     {
-      "name": "forestfloorbranch256",
+      "name": "sw_brick04",
       "width": 256,
       "height": 256,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "sw_slate01",
+      "width": 256,
+      "height": 256,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "sw_woodflloorsplat",
+      "width": 256,
+      "height": 256,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "ws_white_wall1",
+      "width": 128,
+      "height": 128,
       "format": "DXT1",
       "alpha": false
     }

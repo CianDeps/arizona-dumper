@@ -2,21 +2,21 @@
   "type": "txd",
   "textures": [
     {
-      "name": "homies_2",
+      "name": "cokopops_1",
       "width": 256,
       "height": 128,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "diderSachs01",
+      "width": 128,
+      "height": 64,
       "format": "DXT1",
       "alpha": false
     },
     {
       "name": "eris_2",
-      "width": 256,
-      "height": 128,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "cokopops_1",
       "width": 256,
       "height": 128,
       "format": "DXT1",
@@ -30,9 +30,9 @@
       "alpha": false
     },
     {
-      "name": "diderSachs01",
-      "width": 128,
-      "height": 64,
+      "name": "homies_2",
+      "width": 256,
+      "height": 128,
       "format": "DXT1",
       "alpha": false
     }

@@ -5,13 +5,20 @@
       "name": "coral",
       "width": 128,
       "height": 128,
-      "format": "DXT3",
+      "format": "DXT5",
       "alpha": true
     },
     {
-      "name": "starfish64",
-      "width": 64,
-      "height": 64,
+      "name": "greyrockbig",
+      "width": 256,
+      "height": 256,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "rocktb128",
+      "width": 128,
+      "height": 128,
       "format": "DXT1",
       "alpha": false
     },
@@ -23,23 +30,16 @@
       "alpha": false
     },
     {
-      "name": "greyrockbig",
+      "name": "rock_country128",
       "width": 256,
       "height": 256,
       "format": "DXT1",
       "alpha": false
     },
     {
-      "name": "rock_country128",
-      "width": 128,
-      "height": 128,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "rocktb128",
-      "width": 128,
-      "height": 128,
+      "name": "starfish64",
+      "width": 64,
+      "height": 64,
       "format": "DXT1",
       "alpha": false
     }

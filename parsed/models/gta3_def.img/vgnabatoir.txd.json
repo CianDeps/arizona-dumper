@@ -2,23 +2,16 @@
   "type": "txd",
   "textures": [
     {
-      "name": "BLOCK2",
-      "width": 128,
-      "height": 128,
+      "name": "conc_wall2_128H",
+      "width": 256,
+      "height": 256,
       "format": "DXT1",
       "alpha": false
     },
     {
-      "name": "metpat64",
-      "width": 64,
-      "height": 64,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "steel64",
-      "width": 64,
-      "height": 64,
+      "name": "corugwall1",
+      "width": 256,
+      "height": 256,
       "format": "DXT1",
       "alpha": false
     },
@@ -30,44 +23,16 @@
       "alpha": false
     },
     {
-      "name": "washapartwall1_256",
-      "width": 256,
-      "height": 256,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "conc_wall2_128H",
-      "width": 256,
-      "height": 256,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "corugwall1",
-      "width": 128,
-      "height": 128,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "roof05L256",
-      "width": 256,
-      "height": 256,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "yellowscum64",
+      "name": "gridchev_64HV",
       "width": 64,
       "height": 64,
-      "format": "DXT3",
+      "format": "DXT5",
       "alpha": true
     },
     {
-      "name": "ws_chipboard",
-      "width": 256,
-      "height": 256,
+      "name": "steel64",
+      "width": 64,
+      "height": 64,
       "format": "DXT1",
       "alpha": false
     },
@@ -79,17 +44,24 @@
       "alpha": false
     },
     {
-      "name": "fire_esc_fence",
-      "width": 64,
-      "height": 64,
+      "name": "washapartwall1_256",
+      "width": 256,
+      "height": 256,
       "format": "DXT1",
-      "alpha": true
+      "alpha": false
     },
     {
-      "name": "gridchev_64HV",
+      "name": "ws_chipboard",
+      "width": 256,
+      "height": 256,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "yellowscum64",
       "width": 64,
       "height": 64,
-      "format": "DXT1",
+      "format": "DXT5",
       "alpha": true
     }
   ]

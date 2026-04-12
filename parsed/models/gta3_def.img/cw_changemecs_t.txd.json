@@ -2,10 +2,17 @@
   "type": "txd",
   "textures": [
     {
+      "name": "plasfence1_256",
+      "width": 256,
+      "height": 256,
+      "format": "DXT5",
+      "alpha": true
+    },
+    {
       "name": "plasfence2_256",
       "width": 256,
       "height": 256,
-      "format": "DXT3",
+      "format": "DXT5",
       "alpha": true
     },
     {
@@ -14,13 +21,6 @@
       "height": 128,
       "format": "DXT1",
       "alpha": false
-    },
-    {
-      "name": "plasfence1_256",
-      "width": 256,
-      "height": 256,
-      "format": "DXT3",
-      "alpha": true
     }
   ]
 }

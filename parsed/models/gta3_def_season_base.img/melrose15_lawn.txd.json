@@ -2,28 +2,28 @@
   "type": "txd",
   "textures": [
     {
-      "name": "melrsign05_LA",
-      "width": 256,
-      "height": 256,
-      "format": "DXT3",
-      "alpha": true
-    },
-    {
-      "name": "melrsign03_LA",
-      "width": 256,
-      "height": 256,
-      "format": "DXT3",
-      "alpha": true
-    },
-    {
-      "name": "conc_wall_stripd128H",
+      "name": "2winsmel_law",
       "width": 128,
       "height": 128,
       "format": "DXT1",
       "alpha": false
     },
     {
-      "name": "snpdwingrat1",
+      "name": "conc_wall_stripd128H",
+      "width": 256,
+      "height": 256,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "forlease_law",
+      "width": 128,
+      "height": 128,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "melrblu_law",
       "width": 256,
       "height": 256,
       "format": "DXT1",
@@ -37,35 +37,7 @@
       "alpha": false
     },
     {
-      "name": "yoyojos_law",
-      "width": 128,
-      "height": 128,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "2winsmel_law",
-      "width": 128,
-      "height": 128,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "melryel02_law",
-      "width": 128,
-      "height": 128,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "melrshut03_law",
-      "width": 64,
-      "height": 64,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "forlease_law",
+      "name": "melrshut01_law",
       "width": 128,
       "height": 128,
       "format": "DXT1",
@@ -79,53 +51,39 @@
       "alpha": false
     },
     {
-      "name": "melrshut01_law",
-      "width": 128,
-      "height": 128,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "lawshopwall1b",
-      "width": 256,
-      "height": 256,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "melrgr01_law",
+      "name": "melrshut03_law",
       "width": 64,
       "height": 64,
       "format": "DXT1",
       "alpha": false
     },
     {
-      "name": "melrblu_law",
+      "name": "melrsign03_LA",
       "width": 256,
       "height": 256,
-      "format": "DXT1",
-      "alpha": false
+      "format": "DXT5",
+      "alpha": true
     },
     {
-      "name": "stormdrain5_nt",
+      "name": "melrsign05_LA",
       "width": 256,
       "height": 256,
-      "format": "DXT1",
-      "alpha": false
+      "format": "DXT5",
+      "alpha": true
     },
     {
-      "name": "lawshopwall1",
-      "width": 256,
-      "height": 256,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "smoothie",
+      "name": "melryel02_law",
       "width": 128,
       "height": 128,
       "format": "DXT1",
       "alpha": false
+    },
+    {
+      "name": "yoyojos_law",
+      "width": 128,
+      "height": 128,
+      "format": "DXT5",
+      "alpha": true
     }
   ]
 }

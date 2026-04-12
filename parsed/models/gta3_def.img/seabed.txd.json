@@ -2,16 +2,30 @@
   "type": "txd",
   "textures": [
     {
-      "name": "sw_sand",
+      "name": "cw2_mounttrailblank",
       "width": 128,
       "height": 128,
       "format": "DXT1",
       "alpha": false
     },
     {
-      "name": "sandnew_law",
-      "width": 64,
-      "height": 64,
+      "name": "desertstones256",
+      "width": 256,
+      "height": 256,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "des_dirt1",
+      "width": 256,
+      "height": 256,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "rocktbrn128",
+      "width": 256,
+      "height": 256,
       "format": "DXT1",
       "alpha": false
     },
@@ -23,28 +37,14 @@
       "alpha": false
     },
     {
-      "name": "rocktbrn128",
+      "name": "sandnew_law",
       "width": 128,
       "height": 128,
       "format": "DXT1",
       "alpha": false
     },
     {
-      "name": "des_dirt1",
-      "width": 128,
-      "height": 128,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "desertstones256",
-      "width": 128,
-      "height": 128,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "cw2_mounttrailblank",
+      "name": "sw_sand",
       "width": 128,
       "height": 128,
       "format": "DXT1",

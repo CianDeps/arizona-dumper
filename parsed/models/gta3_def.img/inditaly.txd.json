@@ -2,35 +2,14 @@
   "type": "txd",
   "textures": [
     {
-      "name": "vent_64",
-      "width": 64,
-      "height": 64,
+      "name": "Alumox64",
+      "width": 256,
+      "height": 256,
       "format": "DXT1",
       "alpha": false
     },
     {
-      "name": "tenwhitebrick64",
-      "width": 64,
-      "height": 64,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "tenwhite128",
-      "width": 128,
-      "height": 128,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "stepflat_64HV",
-      "width": 64,
-      "height": 64,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "Plaindoor_64V",
+      "name": "mottled_grey_64HV",
       "width": 64,
       "height": 64,
       "format": "DXT1",
@@ -44,14 +23,35 @@
       "alpha": false
     },
     {
-      "name": "mottled_grey_64HV",
+      "name": "Plaindoor_64V",
       "width": 64,
       "height": 64,
       "format": "DXT1",
       "alpha": false
     },
     {
-      "name": "Alumox64",
+      "name": "stepflat_64HV",
+      "width": 64,
+      "height": 64,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "tenwhite128",
+      "width": 256,
+      "height": 256,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "tenwhitebrick64",
+      "width": 256,
+      "height": 256,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "vent_64",
       "width": 64,
       "height": 64,
       "format": "DXT1",

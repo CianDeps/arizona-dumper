@@ -2,10 +2,10 @@
   "type": "txd",
   "textures": [
     {
-      "name": "des_radiomast",
+      "name": "des_byframe1",
       "width": 256,
       "height": 256,
-      "format": "DXT3",
+      "format": "DXT5",
       "alpha": true
     },
     {
@@ -16,32 +16,11 @@
       "alpha": false
     },
     {
-      "name": "redmetal",
-      "width": 64,
-      "height": 64,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "des_byframe1",
-      "width": 256,
-      "height": 256,
-      "format": "DXT3",
-      "alpha": true
-    },
-    {
       "name": "des_facmetal",
       "width": 256,
       "height": 256,
-      "format": "DXT3",
+      "format": "DXT5",
       "alpha": true
-    },
-    {
-      "name": "des_factower",
-      "width": 256,
-      "height": 256,
-      "format": "DXT1",
-      "alpha": false
     },
     {
       "name": "des_facmetalsoild",
@@ -51,14 +30,21 @@
       "alpha": false
     },
     {
-      "name": "block2_high",
+      "name": "des_factower",
       "width": 256,
       "height": 256,
       "format": "DXT1",
       "alpha": false
     },
     {
-      "name": "BLOCK",
+      "name": "des_radiomast",
+      "width": 256,
+      "height": 256,
+      "format": "DXT5",
+      "alpha": true
+    },
+    {
+      "name": "redmetal",
       "width": 256,
       "height": 256,
       "format": "DXT1",

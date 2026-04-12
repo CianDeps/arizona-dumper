@@ -2,6 +2,13 @@
   "type": "txd",
   "textures": [
     {
+      "name": "aluminiumbands256",
+      "width": 256,
+      "height": 256,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
       "name": "des_factower",
       "width": 256,
       "height": 256,
@@ -9,23 +16,16 @@
       "alpha": false
     },
     {
-      "name": "steel256128",
-      "width": 128,
+      "name": "des_pylon1",
+      "width": 256,
       "height": 128,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "sl_rustyrailing",
-      "width": 128,
-      "height": 64,
-      "format": "DXT1",
+      "format": "DXT5",
       "alpha": true
     },
     {
-      "name": "aluminiumbands256",
-      "width": 128,
-      "height": 128,
+      "name": "meetwalv2",
+      "width": 256,
+      "height": 256,
       "format": "DXT1",
       "alpha": false
     },
@@ -37,9 +37,16 @@
       "alpha": false
     },
     {
-      "name": "meetwalv2",
-      "width": 256,
-      "height": 256,
+      "name": "Metal1_128",
+      "width": 128,
+      "height": 128,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "Metal3_128",
+      "width": 128,
+      "height": 128,
       "format": "DXT1",
       "alpha": false
     },
@@ -51,21 +58,14 @@
       "alpha": false
     },
     {
-      "name": "des_pylon1",
-      "width": 256,
-      "height": 128,
-      "format": "DXT3",
+      "name": "sl_rustyrailing",
+      "width": 128,
+      "height": 64,
+      "format": "DXT5",
       "alpha": true
     },
     {
-      "name": "Metal3_128",
-      "width": 128,
-      "height": 128,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "Metal1_128",
+      "name": "steel256128",
       "width": 128,
       "height": 128,
       "format": "DXT1",

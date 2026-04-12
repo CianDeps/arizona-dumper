@@ -2,31 +2,31 @@
   "type": "txd",
   "textures": [
     {
-      "name": "vgncasign32_256",
-      "width": 256,
-      "height": 256,
-      "format": "DXT3",
-      "alpha": true
-    },
-    {
       "name": "vgncasign12_256",
       "width": 256,
       "height": 256,
-      "format": "DXT3",
-      "alpha": true
-    },
-    {
-      "name": "vgncasign42_256",
-      "width": 256,
-      "height": 256,
-      "format": "DXT3",
+      "format": "DXT5",
       "alpha": true
     },
     {
       "name": "vgncasign22_256",
       "width": 256,
       "height": 256,
-      "format": "DXT3",
+      "format": "DXT5",
+      "alpha": true
+    },
+    {
+      "name": "vgncasign32_256",
+      "width": 256,
+      "height": 256,
+      "format": "DXT5",
+      "alpha": true
+    },
+    {
+      "name": "vgncasign42_256",
+      "width": 256,
+      "height": 256,
+      "format": "DXT5",
       "alpha": true
     }
   ]

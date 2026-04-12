@@ -2,17 +2,17 @@
   "type": "txd",
   "textures": [
     {
+      "name": "sfnitewindows",
+      "width": 64,
+      "height": 64,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
       "name": "VgsN_NL_strip",
       "width": 256,
       "height": 32,
-      "format": "DXT1",
-      "alpha": true
-    },
-    {
-      "name": "sfnitewindows",
-      "width": 32,
-      "height": 32,
-      "format": "DXT3",
+      "format": "DXT5",
       "alpha": true
     }
   ]

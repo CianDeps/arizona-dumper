@@ -2,25 +2,25 @@
   "type": "txd",
   "textures": [
     {
-      "name": "ws_greymetal",
-      "width": 256,
-      "height": 256,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
       "name": "Metal1_128",
       "width": 128,
       "height": 128,
-      "format": "DXT3",
+      "format": "DXT5",
       "alpha": true
     },
     {
       "name": "railxing3",
       "width": 128,
       "height": 128,
-      "format": "DXT3",
+      "format": "DXT5",
       "alpha": true
+    },
+    {
+      "name": "ws_greymetal",
+      "width": 256,
+      "height": 256,
+      "format": "DXT1",
+      "alpha": false
     }
   ]
 }

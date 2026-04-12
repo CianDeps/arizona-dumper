@@ -2,23 +2,16 @@
   "type": "txd",
   "textures": [
     {
+      "name": "alleygroundb256",
+      "width": 256,
+      "height": 256,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
       "name": "ap_tarmac",
       "width": 256,
       "height": 256,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "ws_carparknew2b",
-      "width": 256,
-      "height": 256,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "alleygroundb256",
-      "width": 128,
-      "height": 64,
       "format": "DXT1",
       "alpha": false
     },
@@ -30,42 +23,21 @@
       "alpha": false
     },
     {
-      "name": "desertstones256",
-      "width": 256,
-      "height": 256,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "ws_sandstone2b",
-      "width": 256,
-      "height": 256,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "brickred",
+      "name": "badhousewallc01_128",
       "width": 128,
+      "height": 64,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "badhousewallc02_128",
+      "width": 64,
       "height": 128,
       "format": "DXT1",
       "alpha": false
     },
     {
       "name": "badhousewalld06_128",
-      "width": 128,
-      "height": 128,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "gravelkb_128b",
-      "width": 128,
-      "height": 128,
-      "format": "DXT3",
-      "alpha": true
-    },
-    {
-      "name": "gravelkb_128",
       "width": 128,
       "height": 128,
       "format": "DXT1",
@@ -79,30 +51,23 @@
       "alpha": false
     },
     {
-      "name": "greyground256128",
+      "name": "brickred",
       "width": 128,
       "height": 128,
       "format": "DXT1",
       "alpha": false
     },
     {
-      "name": "badhousewallc02_128",
-      "width": 64,
-      "height": 128,
+      "name": "desertstones256",
+      "width": 256,
+      "height": 256,
       "format": "DXT1",
       "alpha": false
     },
     {
-      "name": "badhousewallc01_128",
-      "width": 128,
-      "height": 64,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "badhousewall01_128",
-      "width": 128,
-      "height": 128,
+      "name": "des_dirt1_glfhvy",
+      "width": 256,
+      "height": 256,
       "format": "DXT1",
       "alpha": false
     },
@@ -121,49 +86,7 @@
       "alpha": false
     },
     {
-      "name": "veg_hedge1_256",
-      "width": 256,
-      "height": 256,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "ws_mixedbrick",
-      "width": 256,
-      "height": 256,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "alleywall3",
-      "width": 128,
-      "height": 128,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "curbyell_64H",
-      "width": 64,
-      "height": 64,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "ws_carparknew2a",
-      "width": 256,
-      "height": 256,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "ws_carparknew1",
-      "width": 256,
-      "height": 256,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "yardgrass1",
+      "name": "GB_nastybar03",
       "width": 256,
       "height": 256,
       "format": "DXT1",
@@ -177,27 +100,6 @@
       "alpha": false
     },
     {
-      "name": "des_dirt1_glfhvy",
-      "width": 256,
-      "height": 256,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "GB_nastybar03",
-      "width": 256,
-      "height": 256,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "sandgrnd128",
-      "width": 128,
-      "height": 128,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
       "name": "grassgrnbrn256",
       "width": 256,
       "height": 256,
@@ -205,25 +107,18 @@
       "alpha": false
     },
     {
-      "name": "Bow_church_grass_gen",
+      "name": "gravelkb_128",
       "width": 128,
       "height": 128,
       "format": "DXT1",
       "alpha": false
     },
     {
-      "name": "concretedust2_256128",
+      "name": "gravelkb_128b",
       "width": 128,
       "height": 128,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "des_dirt1",
-      "width": 256,
-      "height": 256,
-      "format": "DXT1",
-      "alpha": false
+      "format": "DXT5",
+      "alpha": true
     },
     {
       "name": "hiway2sand1a",
@@ -233,14 +128,28 @@
       "alpha": false
     },
     {
-      "name": "ws_carparknew2",
+      "name": "hiwaygravel1_256",
       "width": 256,
       "height": 256,
       "format": "DXT1",
       "alpha": false
     },
     {
-      "name": "hiwaygravel1_256",
+      "name": "ws_carparknew2b",
+      "width": 256,
+      "height": 256,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "ws_mixedbrick",
+      "width": 256,
+      "height": 256,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "ws_sandstone2b",
       "width": 256,
       "height": 256,
       "format": "DXT1",

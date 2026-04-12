@@ -2,17 +2,17 @@
   "type": "txd",
   "textures": [
     {
-      "name": "kb_lug1",
-      "width": 64,
-      "height": 64,
-      "format": "DXT3",
-      "alpha": true
-    },
-    {
       "name": "chute_coords",
       "width": 64,
       "height": 16,
-      "format": "DXT3",
+      "format": "DXT5",
+      "alpha": true
+    },
+    {
+      "name": "kb_lug1",
+      "width": 64,
+      "height": 64,
+      "format": "DXT5",
       "alpha": true
     },
     {

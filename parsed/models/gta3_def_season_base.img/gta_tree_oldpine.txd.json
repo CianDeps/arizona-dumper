@@ -2,11 +2,11 @@
   "type": "txd",
   "textures": [
     {
-      "name": "tree19Mi",
+      "name": "Gen_Log",
       "width": 128,
-      "height": 128,
-      "format": "DXT5",
-      "alpha": true
+      "height": 256,
+      "format": "DXT1",
+      "alpha": false
     },
     {
       "name": "pinelo128",
@@ -16,11 +16,11 @@
       "alpha": true
     },
     {
-      "name": "Gen_Log",
-      "width": 64,
-      "height": 128,
-      "format": "DXT1",
-      "alpha": false
+      "name": "tree19Mi",
+      "width": 256,
+      "height": 256,
+      "format": "DXT5",
+      "alpha": true
     }
   ]
 }

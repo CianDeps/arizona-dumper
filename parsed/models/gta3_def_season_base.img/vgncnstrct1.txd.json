@@ -2,11 +2,11 @@
   "type": "txd",
   "textures": [
     {
-      "name": "ws_finalbuild",
-      "width": 256,
+      "name": "aascaff",
+      "width": 128,
       "height": 128,
-      "format": "DXT1",
-      "alpha": false
+      "format": "DXT5",
+      "alpha": true
     },
     {
       "name": "boardgate_law",
@@ -16,7 +16,56 @@
       "alpha": false
     },
     {
-      "name": "desmudtrail3",
+      "name": "carfx1",
+      "width": 128,
+      "height": 128,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "Circus_gls_01",
+      "width": 256,
+      "height": 256,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "Circus_gls_02",
+      "width": 256,
+      "height": 256,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "Circus_gls_03",
+      "width": 256,
+      "height": 256,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "Circus_gls_04",
+      "width": 256,
+      "height": 256,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "Circus_gls_05",
+      "width": 256,
+      "height": 256,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "concretegroundl1b",
+      "width": 256,
+      "height": 256,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "concretegroundl1_256",
       "width": 256,
       "height": 256,
       "format": "DXT1",
@@ -37,58 +86,16 @@
       "alpha": false
     },
     {
-      "name": "fence_64",
-      "width": 64,
-      "height": 64,
-      "format": "DXT3",
-      "alpha": true
+      "name": "desmudtrail3",
+      "width": 256,
+      "height": 256,
+      "format": "DXT1",
+      "alpha": false
     },
     {
       "name": "girder2_grey_64HV",
       "width": 64,
       "height": 64,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "Circus_gls_04",
-      "width": 256,
-      "height": 256,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "Circus_gls_03",
-      "width": 256,
-      "height": 256,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "Circus_gls_02",
-      "width": 256,
-      "height": 256,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "Circus_gls_01",
-      "width": 256,
-      "height": 256,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "carfx1",
-      "width": 128,
-      "height": 128,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "Circus_gls_05",
-      "width": 256,
-      "height": 256,
       "format": "DXT1",
       "alpha": false
     },
@@ -100,23 +107,9 @@
       "alpha": false
     },
     {
-      "name": "concretegroundl1_256",
+      "name": "ws_finalbuild",
       "width": 256,
-      "height": 256,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "aascaff",
-      "width": 128,
       "height": 128,
-      "format": "DXT3",
-      "alpha": true
-    },
-    {
-      "name": "concretegroundl1b",
-      "width": 256,
-      "height": 256,
       "format": "DXT1",
       "alpha": false
     }

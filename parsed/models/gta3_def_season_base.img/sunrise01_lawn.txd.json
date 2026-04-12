@@ -2,44 +2,30 @@
   "type": "txd",
   "textures": [
     {
-      "name": "pave_dirty",
-      "width": 128,
-      "height": 128,
+      "name": "alleydoor3",
+      "width": 256,
+      "height": 256,
       "format": "DXT1",
       "alpha": false
     },
     {
-      "name": "lalightledge",
-      "width": 256,
+      "name": "blueshade3_64",
+      "width": 64,
+      "height": 64,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "fakestone1_LA",
+      "width": 128,
       "height": 128,
       "format": "DXT1",
       "alpha": false
     },
     {
       "name": "golf_hedge1",
-      "width": 64,
-      "height": 64,
-      "format": "DXT3",
-      "alpha": true
-    },
-    {
-      "name": "newall7",
-      "width": 128,
-      "height": 128,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "backstageceiling1_128",
-      "width": 128,
-      "height": 128,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "tarmacplain2_bank",
-      "width": 128,
-      "height": 128,
+      "width": 256,
+      "height": 256,
       "format": "DXT1",
       "alpha": false
     },
@@ -49,41 +35,6 @@
       "height": 128,
       "format": "DXT1",
       "alpha": false
-    },
-    {
-      "name": "sunsetmall03b_law",
-      "width": 64,
-      "height": 64,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "hosdoor01_law",
-      "width": 256,
-      "height": 256,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "ws_boxhouse_wins1",
-      "width": 256,
-      "height": 256,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "LAShad1",
-      "width": 64,
-      "height": 64,
-      "format": "DXT3",
-      "alpha": true
-    },
-    {
-      "name": "plainglass",
-      "width": 64,
-      "height": 64,
-      "format": "DXT3",
-      "alpha": true
     },
     {
       "name": "gymtop1_LAe",
@@ -100,72 +51,9 @@
       "alpha": false
     },
     {
-      "name": "skategrnd2",
+      "name": "highshopwall1256",
       "width": 256,
       "height": 256,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "alleydoor3",
-      "width": 256,
-      "height": 256,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "tileshoptop1_law",
-      "width": 256,
-      "height": 256,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "metpull_law",
-      "width": 128,
-      "height": 256,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "venshade02_law",
-      "width": 64,
-      "height": 64,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "blueshade3_64",
-      "width": 64,
-      "height": 64,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "comptwall3",
-      "width": 256,
-      "height": 256,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "villagreen128256",
-      "width": 128,
-      "height": 256,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "starpave_law",
-      "width": 512,
-      "height": 512,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "concretebigb256128",
-      "width": 64,
-      "height": 64,
       "format": "DXT1",
       "alpha": false
     },
@@ -177,23 +65,9 @@
       "alpha": false
     },
     {
-      "name": "snpdwhit3",
-      "width": 128,
-      "height": 128,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "ws_garagedoor2_green",
-      "width": 128,
-      "height": 128,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "fakestone1_LA",
-      "width": 128,
-      "height": 128,
+      "name": "hosdoor01_law",
+      "width": 256,
+      "height": 256,
       "format": "DXT1",
       "alpha": false
     },
@@ -205,14 +79,28 @@
       "alpha": false
     },
     {
-      "name": "vent01_64",
-      "width": 64,
-      "height": 64,
+      "name": "lalightledge",
+      "width": 256,
+      "height": 128,
       "format": "DXT1",
       "alpha": false
     },
     {
-      "name": "shopdoor01_law",
+      "name": "LAShad1",
+      "width": 64,
+      "height": 64,
+      "format": "DXT5",
+      "alpha": true
+    },
+    {
+      "name": "metpull_law",
+      "width": 128,
+      "height": 256,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "newall7",
       "width": 128,
       "height": 128,
       "format": "DXT1",
@@ -220,6 +108,27 @@
     },
     {
       "name": "otb_floor1",
+      "width": 128,
+      "height": 128,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "pave_dirty",
+      "width": 128,
+      "height": 128,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "plainglass",
+      "width": 64,
+      "height": 64,
+      "format": "DXT5",
+      "alpha": true
+    },
+    {
+      "name": "shopdoor01_law",
       "width": 128,
       "height": 128,
       "format": "DXT1",
@@ -240,8 +149,71 @@
       "alpha": false
     },
     {
-      "name": "highshopwall1256",
+      "name": "skategrnd2",
+      "width": 256,
+      "height": 256,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "snpdwhit3",
+      "width": 128,
+      "height": 128,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "starpave_law",
+      "width": 512,
+      "height": 512,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "sunsetmall03b_law",
       "width": 64,
+      "height": 64,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "tileshoptop1_law",
+      "width": 256,
+      "height": 256,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "venshade02_law",
+      "width": 64,
+      "height": 64,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "vent01_64",
+      "width": 64,
+      "height": 64,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "villagreen128256",
+      "width": 128,
+      "height": 256,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "ws_boxhouse_wins1",
+      "width": 256,
+      "height": 256,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "ws_garagedoor2_green",
+      "width": 128,
       "height": 128,
       "format": "DXT1",
       "alpha": false

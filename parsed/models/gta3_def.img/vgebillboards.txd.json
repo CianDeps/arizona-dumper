@@ -2,7 +2,21 @@
   "type": "txd",
   "textures": [
     {
-      "name": "prolaps02",
+      "name": "base5_1",
+      "width": 512,
+      "height": 256,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "bobobillboard1",
+      "width": 256,
+      "height": 128,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "bobo_3",
       "width": 256,
       "height": 128,
       "format": "DXT1",
@@ -16,28 +30,7 @@
       "alpha": false
     },
     {
-      "name": "eris_5",
-      "width": 128,
-      "height": 64,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "bobobillboard1",
-      "width": 128,
-      "height": 64,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
       "name": "diderSachs01",
-      "width": 128,
-      "height": 64,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "semi3Dirty",
       "width": 128,
       "height": 64,
       "format": "DXT1",
@@ -51,9 +44,9 @@
       "alpha": false
     },
     {
-      "name": "base5_1",
-      "width": 256,
-      "height": 256,
+      "name": "eris_5",
+      "width": 128,
+      "height": 64,
       "format": "DXT1",
       "alpha": false
     },
@@ -65,16 +58,16 @@
       "alpha": false
     },
     {
-      "name": "banding3_64HV",
-      "width": 64,
-      "height": 64,
+      "name": "prolaps02",
+      "width": 256,
+      "height": 128,
       "format": "DXT1",
       "alpha": false
     },
     {
-      "name": "bobo_3",
-      "width": 256,
-      "height": 128,
+      "name": "semi3Dirty",
+      "width": 128,
+      "height": 64,
       "format": "DXT1",
       "alpha": false
     }

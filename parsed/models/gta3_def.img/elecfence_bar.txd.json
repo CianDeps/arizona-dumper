@@ -2,6 +2,13 @@
   "type": "txd",
   "textures": [
     {
+      "name": "ws_griddyfence",
+      "width": 256,
+      "height": 256,
+      "format": "DXT5",
+      "alpha": true
+    },
+    {
       "name": "ws_leccyfncesign",
       "width": 128,
       "height": 64,
@@ -9,17 +16,10 @@
       "alpha": false
     },
     {
-      "name": "ws_griddyfence",
-      "width": 256,
-      "height": 256,
-      "format": "DXT1",
-      "alpha": true
-    },
-    {
       "name": "ws_leccyfncetop",
       "width": 256,
       "height": 64,
-      "format": "DXT3",
+      "format": "DXT5",
       "alpha": true
     },
     {

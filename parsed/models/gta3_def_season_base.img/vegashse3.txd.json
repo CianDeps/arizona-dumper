@@ -2,63 +2,14 @@
   "type": "txd",
   "textures": [
     {
-      "name": "vgnhseledgw1_64",
-      "width": 64,
-      "height": 64,
+      "name": "concretewall1_256",
+      "width": 256,
+      "height": 256,
       "format": "DXT1",
       "alpha": false
     },
     {
       "name": "genroof03_128",
-      "width": 64,
-      "height": 64,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "concretewall1_256",
-      "width": 128,
-      "height": 128,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "grassdry_128HV",
-      "width": 128,
-      "height": 128,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "Heliconcrete",
-      "width": 256,
-      "height": 256,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "hseconcblend1_256",
-      "width": 256,
-      "height": 256,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "ws_guardhousedoor",
-      "width": 128,
-      "height": 256,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "newindow10",
-      "width": 128,
-      "height": 128,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "ws_garagedoor2_white",
       "width": 128,
       "height": 128,
       "format": "DXT1",
@@ -72,6 +23,20 @@
       "alpha": false
     },
     {
+      "name": "newindow10",
+      "width": 256,
+      "height": 256,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "starflower3",
+      "width": 256,
+      "height": 256,
+      "format": "DXT5",
+      "alpha": true
+    },
+    {
       "name": "studiowall4_law",
       "width": 128,
       "height": 128,
@@ -79,18 +44,11 @@
       "alpha": false
     },
     {
-      "name": "starhedge2",
+      "name": "ws_garagedoor2_white",
       "width": 128,
       "height": 128,
-      "format": "DXT3",
-      "alpha": true
-    },
-    {
-      "name": "starflower3",
-      "width": 128,
-      "height": 128,
-      "format": "DXT3",
-      "alpha": true
+      "format": "DXT1",
+      "alpha": false
     }
   ]
 }

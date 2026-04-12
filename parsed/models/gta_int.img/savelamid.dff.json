@@ -5,18 +5,9 @@
   "geometries": [
     {
       "index": 0,
-      "vertices": 2550,
+      "vertices": 2471,
       "triangles": 2054,
       "materials": [
-        {
-          "color": {
-            "r": 255,
-            "g": 255,
-            "b": 255,
-            "a": 255
-          },
-          "texture": null
-        },
         {
           "color": {
             "r": 255,
@@ -94,15 +85,6 @@
             "r": 255,
             "g": 255,
             "b": 255,
-            "a": 128
-          },
-          "texture": null
-        },
-        {
-          "color": {
-            "r": 255,
-            "g": 255,
-            "b": 255,
             "a": 255
           },
           "texture": null
@@ -130,7 +112,7 @@
             "r": 255,
             "g": 255,
             "b": 255,
-            "a": 128
+            "a": 255
           },
           "texture": null
         },
@@ -139,6 +121,15 @@
             "r": 255,
             "g": 255,
             "b": 255,
+            "a": 255
+          },
+          "texture": null
+        },
+        {
+          "color": {
+            "r": 149,
+            "g": 149,
+            "b": 149,
             "a": 255
           },
           "texture": null
@@ -302,18 +293,18 @@
   "frames": 14,
   "dummies": [
     "savelamid",
-    "FPoint548",
-    "FPoint547",
-    "FPoint549",
-    "FPoint545",
-    "FPoint15",
-    "FPoint546",
-    "FPoint14",
-    "FPoint544",
-    "FPoint543",
-    "FPoint542",
-    "FPoint541",
+    "FPoint550",
     "FPoint540",
-    "FPoint550"
+    "FPoint541",
+    "FPoint542",
+    "FPoint543",
+    "FPoint544",
+    "FPoint14",
+    "FPoint546",
+    "FPoint15",
+    "FPoint545",
+    "FPoint549",
+    "FPoint547",
+    "FPoint548"
   ]
 }

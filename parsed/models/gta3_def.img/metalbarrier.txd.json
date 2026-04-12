@@ -2,6 +2,13 @@
   "type": "txd",
   "textures": [
     {
+      "name": "Alumox64b",
+      "width": 256,
+      "height": 256,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
       "name": "chevron_red_64HVa",
       "width": 64,
       "height": 64,
@@ -9,16 +16,9 @@
       "alpha": false
     },
     {
-      "name": "Alumox64b",
-      "width": 64,
-      "height": 64,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
       "name": "corrRoof_64HV",
-      "width": 128,
-      "height": 128,
+      "width": 256,
+      "height": 256,
       "format": "DXT1",
       "alpha": false
     }

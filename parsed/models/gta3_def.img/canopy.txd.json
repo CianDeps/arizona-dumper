@@ -2,7 +2,14 @@
   "type": "txd",
   "textures": [
     {
-      "name": "wood02",
+      "name": "kb_canopy128",
+      "width": 64,
+      "height": 64,
+      "format": "DXT5",
+      "alpha": true
+    },
+    {
+      "name": "kb_canopybse64",
       "width": 64,
       "height": 64,
       "format": "DXT1",
@@ -16,7 +23,7 @@
       "alpha": false
     },
     {
-      "name": "kb_canopybse64",
+      "name": "wood02",
       "width": 64,
       "height": 64,
       "format": "DXT1",

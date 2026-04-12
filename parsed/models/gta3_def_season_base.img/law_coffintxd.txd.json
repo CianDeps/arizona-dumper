@@ -9,30 +9,9 @@
       "alpha": false
     },
     {
-      "name": "metleg_32_law",
-      "width": 32,
-      "height": 32,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "starflower1",
-      "width": 128,
-      "height": 128,
-      "format": "DXT3",
-      "alpha": true
-    },
-    {
-      "name": "starflower2",
-      "width": 128,
-      "height": 128,
-      "format": "DXT3",
-      "alpha": true
-    },
-    {
-      "name": "casktop_law",
+      "name": "caskhandle_law",
       "width": 256,
-      "height": 64,
+      "height": 16,
       "format": "DXT1",
       "alpha": false
     },
@@ -44,11 +23,32 @@
       "alpha": false
     },
     {
-      "name": "caskhandle_law",
+      "name": "casktop_law",
       "width": 256,
-      "height": 16,
+      "height": 64,
       "format": "DXT1",
       "alpha": false
+    },
+    {
+      "name": "metleg_32_law",
+      "width": 32,
+      "height": 32,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "starflower1",
+      "width": 256,
+      "height": 256,
+      "format": "DXT5",
+      "alpha": true
+    },
+    {
+      "name": "starflower2",
+      "width": 256,
+      "height": 256,
+      "format": "DXT5",
+      "alpha": true
     }
   ]
 }

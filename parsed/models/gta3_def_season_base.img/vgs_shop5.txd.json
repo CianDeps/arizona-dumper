@@ -2,42 +2,21 @@
   "type": "txd",
   "textures": [
     {
-      "name": "vegaspawnwall02_128",
-      "width": 128,
-      "height": 128,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "vgs_shpfrnt03_128",
-      "width": 256,
-      "height": 128,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
       "name": "pawn_door01",
-      "width": 64,
-      "height": 128,
+      "width": 128,
+      "height": 256,
       "format": "DXT1",
       "alpha": false
     },
     {
-      "name": "greenwall2",
+      "name": "vegaspawn01_128",
       "width": 128,
       "height": 128,
       "format": "DXT1",
       "alpha": false
     },
     {
-      "name": "vgspawnroof02_128",
-      "width": 128,
-      "height": 128,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "vgspawnroof01_128",
+      "name": "vegaspawnwall02_128",
       "width": 128,
       "height": 128,
       "format": "DXT1",
@@ -51,8 +30,15 @@
       "alpha": false
     },
     {
-      "name": "vegaspawn01_128",
+      "name": "vgspawnroof01_128",
       "width": 128,
+      "height": 128,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "vgs_shpfrnt03_128",
+      "width": 256,
       "height": 128,
       "format": "DXT1",
       "alpha": false

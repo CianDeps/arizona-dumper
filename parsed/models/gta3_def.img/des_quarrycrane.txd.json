@@ -2,6 +2,27 @@
   "type": "txd",
   "textures": [
     {
+      "name": "des_factower",
+      "width": 256,
+      "height": 256,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "quar_cranerail",
+      "width": 256,
+      "height": 128,
+      "format": "DXT5",
+      "alpha": true
+    },
+    {
+      "name": "sm_quarry_crusher2",
+      "width": 128,
+      "height": 128,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
       "name": "sw_backdoor02",
       "width": 64,
       "height": 128,
@@ -9,18 +30,11 @@
       "alpha": false
     },
     {
-      "name": "ws_oldpainted2",
-      "width": 256,
-      "height": 256,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "sw_corrugtile",
-      "width": 256,
-      "height": 256,
-      "format": "DXT1",
-      "alpha": false
+      "name": "telewires_law",
+      "width": 32,
+      "height": 32,
+      "format": "DXT5",
+      "alpha": true
     },
     {
       "name": "ws_controltowerwin1",
@@ -37,28 +51,14 @@
       "alpha": false
     },
     {
-      "name": "des_factower",
-      "width": 256,
-      "height": 256,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
       "name": "ws_cranehook",
       "width": 64,
       "height": 128,
-      "format": "DXT3",
+      "format": "DXT5",
       "alpha": true
     },
     {
-      "name": "telewires_law",
-      "width": 32,
-      "height": 32,
-      "format": "DXT1",
-      "alpha": true
-    },
-    {
-      "name": "BLOCK",
+      "name": "ws_oldpaintedyello",
       "width": 256,
       "height": 256,
       "format": "DXT1",
@@ -68,29 +68,8 @@
       "name": "ws_oldpaintedyello_b",
       "width": 256,
       "height": 256,
-      "format": "DXT3",
+      "format": "DXT5",
       "alpha": true
-    },
-    {
-      "name": "quar_cranerail",
-      "width": 256,
-      "height": 128,
-      "format": "DXT1",
-      "alpha": true
-    },
-    {
-      "name": "sm_quarry_crusher2",
-      "width": 128,
-      "height": 128,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "ws_oldpaintedyello",
-      "width": 256,
-      "height": 256,
-      "format": "DXT1",
-      "alpha": false
     }
   ]
 }

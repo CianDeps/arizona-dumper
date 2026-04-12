@@ -2,34 +2,6 @@
   "type": "txd",
   "textures": [
     {
-      "name": "ws_rooftarmac1",
-      "width": 256,
-      "height": 256,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "psychic_law",
-      "width": 32,
-      "height": 64,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "venblock01c",
-      "width": 128,
-      "height": 128,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "patiodr_law",
-      "width": 128,
-      "height": 128,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
       "name": "concretebig3_256128",
       "width": 128,
       "height": 128,
@@ -44,9 +16,16 @@
       "alpha": false
     },
     {
-      "name": "venblock01b",
+      "name": "luxorwall02_128",
       "width": 128,
       "height": 128,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "psychic_law",
+      "width": 32,
+      "height": 64,
       "format": "DXT1",
       "alpha": false
     },
@@ -58,14 +37,21 @@
       "alpha": false
     },
     {
-      "name": "venwalkway_law",
+      "name": "venblock01b",
       "width": 128,
       "height": 128,
       "format": "DXT1",
       "alpha": false
     },
     {
-      "name": "luxorwall02_128",
+      "name": "venblock01c",
+      "width": 128,
+      "height": 128,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "venwalkway_law",
       "width": 128,
       "height": 128,
       "format": "DXT1",

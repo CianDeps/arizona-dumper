@@ -2,11 +2,11 @@
   "type": "txd",
   "textures": [
     {
-      "name": "oakbark64",
-      "width": 64,
-      "height": 64,
-      "format": "DXT1",
-      "alpha": false
+      "name": "oak2b",
+      "width": 128,
+      "height": 128,
+      "format": "DXT5",
+      "alpha": true
     },
     {
       "name": "oakb",
@@ -16,11 +16,11 @@
       "alpha": true
     },
     {
-      "name": "oak2b",
-      "width": 128,
-      "height": 128,
-      "format": "DXT5",
-      "alpha": true
+      "name": "oakbark64",
+      "width": 64,
+      "height": 64,
+      "format": "DXT1",
+      "alpha": false
     }
   ]
 }

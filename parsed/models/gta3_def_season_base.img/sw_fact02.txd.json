@@ -2,9 +2,16 @@
   "type": "txd",
   "textures": [
     {
-      "name": "sw_bioeng",
+      "name": "carpark_256128",
+      "width": 128,
+      "height": 128,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "GB_truckdepot19",
       "width": 256,
-      "height": 64,
+      "height": 256,
       "format": "DXT1",
       "alpha": false
     },
@@ -16,34 +23,6 @@
       "alpha": false
     },
     {
-      "name": "carpark_256128",
-      "width": 128,
-      "height": 128,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "sw_newcorrug",
-      "width": 256,
-      "height": 256,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "sw_wind22",
-      "width": 128,
-      "height": 128,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "sw_door16",
-      "width": 128,
-      "height": 128,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
       "name": "LoadingDoorClean",
       "width": 128,
       "height": 128,
@@ -51,9 +30,16 @@
       "alpha": false
     },
     {
-      "name": "GB_truckdepot19",
+      "name": "sw_bioeng",
       "width": 256,
-      "height": 256,
+      "height": 64,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "sw_wind22",
+      "width": 128,
+      "height": 128,
       "format": "DXT1",
       "alpha": false
     },

@@ -2,6 +2,13 @@
   "type": "txd",
   "textures": [
     {
+      "name": "bluemetal",
+      "width": 64,
+      "height": 64,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
       "name": "Bow_Loadingbay_Door",
       "width": 128,
       "height": 128,
@@ -16,28 +23,14 @@
       "alpha": false
     },
     {
-      "name": "bluemetal",
-      "width": 64,
-      "height": 64,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "vgnmetalwall5_256",
+      "name": "vgnmetalwall1_256",
       "width": 256,
       "height": 256,
       "format": "DXT1",
       "alpha": false
     },
     {
-      "name": "vgnmetalwall6_256",
-      "width": 256,
-      "height": 256,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "vgnmetalwall4_256",
+      "name": "vgnmetalwall2_256",
       "width": 256,
       "height": 256,
       "format": "DXT1",
@@ -51,14 +44,21 @@
       "alpha": false
     },
     {
-      "name": "vgnmetalwall1_256",
+      "name": "vgnmetalwall4_256",
       "width": 256,
       "height": 256,
       "format": "DXT1",
       "alpha": false
     },
     {
-      "name": "vgnmetalwall2_256",
+      "name": "vgnmetalwall5_256",
+      "width": 256,
+      "height": 256,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "vgnmetalwall6_256",
       "width": 256,
       "height": 256,
       "format": "DXT1",

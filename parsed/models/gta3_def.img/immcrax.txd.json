@@ -2,30 +2,30 @@
   "type": "txd",
   "textures": [
     {
-      "name": "Metalox64",
+      "name": "banding8_64",
       "width": 64,
       "height": 64,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "Metalox64",
+      "width": 256,
+      "height": 256,
       "format": "DXT1",
       "alpha": false
     },
     {
       "name": "redmetal",
-      "width": 64,
-      "height": 64,
+      "width": 256,
+      "height": 256,
       "format": "DXT1",
       "alpha": false
     },
     {
       "name": "snpedtest1",
-      "width": 128,
-      "height": 128,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "banding8_64",
-      "width": 64,
-      "height": 64,
+      "width": 512,
+      "height": 512,
       "format": "DXT1",
       "alpha": false
     }

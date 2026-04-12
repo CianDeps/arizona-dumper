@@ -2,63 +2,35 @@
   "type": "txd",
   "textures": [
     {
-      "name": "concretegroundl1_256",
+      "name": "a51_boffstuff3",
       "width": 256,
       "height": 256,
       "format": "DXT1",
       "alpha": false
-    },
-    {
-      "name": "metpat64",
-      "width": 64,
-      "height": 64,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "ws_carparkwall2",
-      "width": 128,
-      "height": 128,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "girder2_grey_64HV",
-      "width": 64,
-      "height": 64,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "aluminiumbands256",
-      "width": 128,
-      "height": 128,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "banding9_64HV",
-      "width": 64,
-      "height": 64,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "ws_metalpanel1",
-      "width": 256,
-      "height": 256,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "roucghstonebrtb",
-      "width": 128,
-      "height": 128,
-      "format": "DXT3",
-      "alpha": true
     },
     {
       "name": "a51_floorpanel1",
+      "width": 256,
+      "height": 256,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "a51_map",
+      "width": 512,
+      "height": 512,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "a51_monitors",
+      "width": 128,
+      "height": 128,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "a51_panels1",
       "width": 256,
       "height": 256,
       "format": "DXT1",
@@ -75,13 +47,27 @@
       "name": "a51_radarscan_m",
       "width": 256,
       "height": 256,
-      "format": "DXT3",
+      "format": "DXT5",
       "alpha": true
     },
     {
-      "name": "Gen_Monitor",
-      "width": 128,
-      "height": 128,
+      "name": "a51_secdesk",
+      "width": 64,
+      "height": 64,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "aluminiumbands256",
+      "width": 256,
+      "height": 256,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "concretegroundl1_256",
+      "width": 256,
+      "height": 256,
       "format": "DXT1",
       "alpha": false
     },
@@ -93,39 +79,25 @@
       "alpha": false
     },
     {
-      "name": "a51_map",
-      "width": 256,
-      "height": 256,
+      "name": "Gen_Monitor",
+      "width": 128,
+      "height": 128,
       "format": "DXT1",
       "alpha": false
     },
     {
-      "name": "a51_secdesk",
+      "name": "girder2_grey_64HV",
       "width": 64,
       "height": 64,
       "format": "DXT1",
       "alpha": false
     },
     {
-      "name": "a51_panels1",
-      "width": 256,
-      "height": 256,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "a51_boffstuff3",
-      "width": 256,
-      "height": 256,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "a51_monitors",
+      "name": "roucghstonebrtb",
       "width": 128,
       "height": 128,
-      "format": "DXT1",
-      "alpha": false
+      "format": "DXT5",
+      "alpha": true
     },
     {
       "name": "steel256128",
@@ -135,11 +107,11 @@
       "alpha": false
     },
     {
-      "name": "Upt_Fence_Mesh",
-      "width": 256,
-      "height": 256,
-      "format": "DXT3",
-      "alpha": true
+      "name": "ws_carparkwall2",
+      "width": 128,
+      "height": 128,
+      "format": "DXT1",
+      "alpha": false
     }
   ]
 }

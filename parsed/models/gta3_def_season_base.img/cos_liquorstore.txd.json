@@ -3,8 +3,8 @@
   "textures": [
     {
       "name": "banding3c_64HV",
-      "width": 64,
-      "height": 64,
+      "width": 256,
+      "height": 256,
       "format": "DXT1",
       "alpha": false
     },
@@ -16,15 +16,15 @@
       "alpha": false
     },
     {
-      "name": "ham_radio",
-      "width": 128,
+      "name": "b_wtilesreflect",
+      "width": 64,
       "height": 64,
       "format": "DXT1",
       "alpha": false
     },
     {
-      "name": "cos_liqcounter",
-      "width": 256,
+      "name": "cos_beercab",
+      "width": 128,
       "height": 256,
       "format": "DXT1",
       "alpha": false
@@ -40,20 +40,20 @@
       "name": "cos_liqbots",
       "width": 128,
       "height": 256,
-      "format": "DXT3",
+      "format": "DXT5",
       "alpha": true
     },
     {
-      "name": "wtmetal3",
-      "width": 128,
-      "height": 128,
+      "name": "cos_liqcounter",
+      "width": 256,
+      "height": 256,
       "format": "DXT1",
       "alpha": false
     },
     {
-      "name": "cos_beercab",
-      "width": 128,
-      "height": 256,
+      "name": "ham_radio",
+      "width": 256,
+      "height": 128,
       "format": "DXT1",
       "alpha": false
     },
@@ -65,16 +65,9 @@
       "alpha": false
     },
     {
-      "name": "vgs_whitewall_128",
-      "width": 256,
-      "height": 256,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "b_wtilesreflect",
-      "width": 64,
-      "height": 64,
+      "name": "wtmetal3",
+      "width": 128,
+      "height": 128,
       "format": "DXT1",
       "alpha": false
     }

@@ -2,11 +2,11 @@
   "type": "txd",
   "textures": [
     {
-      "name": "cypress2",
-      "width": 128,
+      "name": "bchamae",
+      "width": 64,
       "height": 64,
-      "format": "DXT5",
-      "alpha": true
+      "format": "DXT1",
+      "alpha": false
     },
     {
       "name": "cypress1",
@@ -16,11 +16,11 @@
       "alpha": true
     },
     {
-      "name": "bchamae",
-      "width": 64,
+      "name": "cypress2",
+      "width": 128,
       "height": 64,
-      "format": "DXT1",
-      "alpha": false
+      "format": "DXT5",
+      "alpha": true
     }
   ]
 }

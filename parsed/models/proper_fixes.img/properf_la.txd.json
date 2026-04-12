@@ -1,0 +1,733 @@
+{
+  "type": "txd",
+  "textures": [
+    {
+      "name": "clukmenu1_LAe2",
+      "width": 256,
+      "height": 256,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "enginetopb4bit64",
+      "width": 64,
+      "height": 64,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "fuk_bak1",
+      "width": 128,
+      "height": 128,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "fuk_bod1",
+      "width": 512,
+      "height": 512,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "fuk_cap",
+      "width": 128,
+      "height": 128,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "fuk_door",
+      "width": 128,
+      "height": 128,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "fuk_floor",
+      "width": 256,
+      "height": 256,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "fuk_lites",
+      "width": 64,
+      "height": 64,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "fuk_panel",
+      "width": 128,
+      "height": 128,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "fuk_rad",
+      "width": 256,
+      "height": 256,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "idaho86body8bit64",
+      "width": 64,
+      "height": 64,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "idaho868bit128",
+      "width": 256,
+      "height": 256,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "shad_car",
+      "width": 64,
+      "height": 64,
+      "format": "DXT5",
+      "alpha": true
+    },
+    {
+      "name": "interior_void",
+      "width": 4,
+      "height": 4,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "weelecbox",
+      "width": 256,
+      "height": 256,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "hedgealphad1_sunrise01_lawn",
+      "width": 64,
+      "height": 128,
+      "format": "DXT5",
+      "alpha": true
+    },
+    {
+      "name": "compcourtrail2",
+      "width": 128,
+      "height": 128,
+      "format": "DXT5",
+      "alpha": true
+    },
+    {
+      "name": "newhedgea",
+      "width": 128,
+      "height": 128,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "swimpoolbtm1_128",
+      "width": 128,
+      "height": 128,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "swimpoolside1_128",
+      "width": 128,
+      "height": 128,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "wodktcj",
+      "width": 256,
+      "height": 256,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "dirtywhite",
+      "width": 64,
+      "height": 64,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "cuntroad01_law",
+      "width": 512,
+      "height": 512,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "tancolum1_sunrise",
+      "width": 128,
+      "height": 128,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "desbarlas",
+      "width": 128,
+      "height": 64,
+      "format": "DXT5",
+      "alpha": true
+    },
+    {
+      "name": "CJ_CHROME2",
+      "width": 128,
+      "height": 128,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "sfn_crashbar",
+      "width": 256,
+      "height": 128,
+      "format": "DXT1",
+      "alpha": true
+    },
+    {
+      "name": "melrsign05_LA",
+      "width": 256,
+      "height": 256,
+      "format": "DXT5",
+      "alpha": true
+    },
+    {
+      "name": "melrsign03_LA",
+      "width": 256,
+      "height": 256,
+      "format": "DXT5",
+      "alpha": true
+    },
+    {
+      "name": "greenroof01",
+      "width": 256,
+      "height": 256,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "pf_ws_fluorescent1",
+      "width": 64,
+      "height": 128,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "pf_red_sw_brick05",
+      "width": 256,
+      "height": 256,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "pf_examwall1_LAe",
+      "width": 256,
+      "height": 256,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "pf_malawn01_LAwN",
+      "width": 256,
+      "height": 128,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "pf_yell_sw_brick05",
+      "width": 256,
+      "height": 256,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "cunte_house1",
+      "width": 256,
+      "height": 256,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "pf_ws_redbrickold",
+      "width": 256,
+      "height": 256,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "asanmonbhut2b",
+      "width": 128,
+      "height": 128,
+      "format": "DXT1",
+      "alpha": true
+    },
+    {
+      "name": "comptdoor4",
+      "width": 256,
+      "height": 256,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "mc_flags1",
+      "width": 128,
+      "height": 128,
+      "format": "DXT5",
+      "alpha": true
+    },
+    {
+      "name": "wallbluetinge256",
+      "width": 128,
+      "height": 128,
+      "format": "DXT1",
+      "alpha": true
+    },
+    {
+      "name": "ws_boxhouse_wins2",
+      "width": 256,
+      "height": 256,
+      "format": "DXT1",
+      "alpha": true
+    },
+    {
+      "name": "downtwin17_b",
+      "width": 256,
+      "height": 256,
+      "format": "DXT1",
+      "alpha": true
+    },
+    {
+      "name": "downtwin21b",
+      "width": 256,
+      "height": 256,
+      "format": "DXT1",
+      "alpha": true
+    },
+    {
+      "name": "aarprt3LAS_new2b",
+      "width": 256,
+      "height": 256,
+      "format": "DXT5",
+      "alpha": true
+    },
+    {
+      "name": "new_glass_fence_64hv",
+      "width": 64,
+      "height": 64,
+      "format": "DXT5",
+      "alpha": true
+    },
+    {
+      "name": "pf_cj_sheetmeta",
+      "width": 128,
+      "height": 128,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "pf_black_Metalox64",
+      "width": 64,
+      "height": 64,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "3be56d7b",
+      "width": 128,
+      "height": 32,
+      "format": "DXT1",
+      "alpha": true
+    },
+    {
+      "name": "4b4fa190",
+      "width": 128,
+      "height": 32,
+      "format": "DXT1",
+      "alpha": true
+    },
+    {
+      "name": "665ctoll",
+      "width": 256,
+      "height": 256,
+      "format": "DXT1",
+      "alpha": true
+    },
+    {
+      "name": "838541d5",
+      "width": 128,
+      "height": 128,
+      "format": "DXT1",
+      "alpha": true
+    },
+    {
+      "name": "ca8ce9fc",
+      "width": 128,
+      "height": 128,
+      "format": "DXT1",
+      "alpha": true
+    },
+    {
+      "name": "f6fec21e",
+      "width": 128,
+      "height": 128,
+      "format": "DXT1",
+      "alpha": true
+    },
+    {
+      "name": "whitetile_plain_hi_b",
+      "width": 256,
+      "height": 256,
+      "format": "DXT1",
+      "alpha": true
+    },
+    {
+      "name": "ws_fluorescent2",
+      "width": 128,
+      "height": 32,
+      "format": "DXT1",
+      "alpha": true
+    },
+    {
+      "name": "ws_tunnelwall2",
+      "width": 256,
+      "height": 256,
+      "format": "DXT1",
+      "alpha": true
+    },
+    {
+      "name": "CJ_SPRUNK_FRONT2",
+      "width": 256,
+      "height": 128,
+      "format": "DXT1",
+      "alpha": true
+    },
+    {
+      "name": "cokopops_1",
+      "width": 256,
+      "height": 128,
+      "format": "DXT1",
+      "alpha": true
+    },
+    {
+      "name": "d1279063",
+      "width": 32,
+      "height": 256,
+      "format": "DXT1",
+      "alpha": true
+    },
+    {
+      "name": "eris_3",
+      "width": 256,
+      "height": 128,
+      "format": "DXT1",
+      "alpha": true
+    },
+    {
+      "name": "heat_01",
+      "width": 256,
+      "height": 128,
+      "format": "DXT1",
+      "alpha": true
+    },
+    {
+      "name": "man_cellarfloor128",
+      "width": 128,
+      "height": 128,
+      "format": "DXT1",
+      "alpha": true
+    },
+    {
+      "name": "prolaps02",
+      "width": 256,
+      "height": 128,
+      "format": "DXT1",
+      "alpha": true
+    },
+    {
+      "name": "subwsign454",
+      "width": 512,
+      "height": 64,
+      "format": "DXT1",
+      "alpha": true
+    },
+    {
+      "name": "Metal1_128",
+      "width": 128,
+      "height": 128,
+      "format": "DXT1",
+      "alpha": true
+    },
+    {
+      "name": "ladukfeen1",
+      "width": 256,
+      "height": 256,
+      "format": "DXT1",
+      "alpha": true
+    },
+    {
+      "name": "pierfenc_LAw2b",
+      "width": 256,
+      "height": 256,
+      "format": "DXT1",
+      "alpha": true
+    },
+    {
+      "name": "pierfenc_LAw2c",
+      "width": 256,
+      "height": 256,
+      "format": "DXT1",
+      "alpha": true
+    },
+    {
+      "name": "dirt64b2",
+      "width": 128,
+      "height": 128,
+      "format": "DXT1",
+      "alpha": true
+    },
+    {
+      "name": "newlawdoor",
+      "width": 128,
+      "height": 256,
+      "format": "DXT1",
+      "alpha": true
+    },
+    {
+      "name": "banding3_64HV",
+      "width": 256,
+      "height": 256,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "Bow_church_dirt",
+      "width": 128,
+      "height": 128,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "sanwel4",
+      "width": 32,
+      "height": 64,
+      "format": "DXT5",
+      "alpha": true
+    },
+    {
+      "name": "grave04_law_PF",
+      "width": 128,
+      "height": 128,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "lasunion994",
+      "width": 256,
+      "height": 256,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "dt_road_stoplinea",
+      "width": 512,
+      "height": 512,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "crossing_law2",
+      "width": 512,
+      "height": 256,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "ws_wetsand",
+      "width": 512,
+      "height": 512,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "sandnew_lawdry2wet",
+      "width": 512,
+      "height": 512,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "pf_gymshop1_LAe",
+      "width": 128,
+      "height": 128,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "unityrff",
+      "width": 128,
+      "height": 128,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "ntywall2",
+      "width": 256,
+      "height": 128,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "pannel",
+      "width": 128,
+      "height": 256,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "metaldopainel",
+      "width": 128,
+      "height": 128,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "atticgangwindow",
+      "width": 128,
+      "height": 128,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "CJ_WOOD6",
+      "width": 128,
+      "height": 128,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "sw_door16",
+      "width": 128,
+      "height": 128,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "lghths_wind_a",
+      "width": 128,
+      "height": 128,
+      "format": "DXT5",
+      "alpha": true
+    },
+    {
+      "name": "ss_ashit_glass",
+      "width": 128,
+      "height": 128,
+      "format": "DXT5",
+      "alpha": true
+    },
+    {
+      "name": "lghths_cntrt_01",
+      "width": 256,
+      "height": 256,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "lghths_cntrt_02",
+      "width": 256,
+      "height": 256,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "lghths_cntrt_03",
+      "width": 256,
+      "height": 256,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "lghths_cntrt_04",
+      "width": 256,
+      "height": 256,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "lghths_door",
+      "width": 64,
+      "height": 128,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "lghths_metal04_a",
+      "width": 128,
+      "height": 128,
+      "format": "DXT5",
+      "alpha": true
+    },
+    {
+      "name": "lghths_steps",
+      "width": 256,
+      "height": 256,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "ws_glass_balustrade_better",
+      "width": 256,
+      "height": 256,
+      "format": "DXT5",
+      "alpha": true
+    },
+    {
+      "name": "bevdoor02_law",
+      "width": 128,
+      "height": 128,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "gina_dome_pf",
+      "width": 256,
+      "height": 256,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "gina_door_pf",
+      "width": 256,
+      "height": 256,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "sanwel6_alpha_pf",
+      "width": 256,
+      "height": 256,
+      "format": "DXT5",
+      "alpha": true
+    },
+    {
+      "name": "Grass",
+      "width": 256,
+      "height": 256,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "concretedust2_256128",
+      "width": 128,
+      "height": 128,
+      "format": "DXT1",
+      "alpha": false
+    }
+  ]
+}

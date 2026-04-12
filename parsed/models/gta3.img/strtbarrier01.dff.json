@@ -5,8 +5,8 @@
   "geometries": [
     {
       "index": 0,
-      "vertices": 226,
-      "triangles": 148,
+      "vertices": 384,
+      "triangles": 348,
       "materials": [
         {
           "color": {
@@ -20,8 +20,12 @@
       ]
     }
   ],
-  "frames": 1,
+  "frames": 5,
   "dummies": [
-    "strtbarrier01_L0"
+    "strtbarrier01_L0",
+    "Collision_Sphere560",
+    "Collision_Sphere559",
+    "Collision_Sphere558",
+    "Collision_Sphere557"
   ]
 }

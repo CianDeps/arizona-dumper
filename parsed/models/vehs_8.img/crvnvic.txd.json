@@ -1,0 +1,40 @@
+{
+  "type": "txd",
+  "textures": [
+    {
+      "name": "crvnvic_bage",
+      "width": 512,
+      "height": 512,
+      "format": "DXT5",
+      "alpha": true
+    },
+    {
+      "name": "crvnvic_int",
+      "width": 1024,
+      "height": 1024,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "crvnvic_wheel2",
+      "width": 512,
+      "height": 512,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "crvnvic_wheel",
+      "width": 512,
+      "height": 512,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "crvnvic_intpol",
+      "width": 512,
+      "height": 512,
+      "format": "DXT1",
+      "alpha": false
+    }
+  ]
+}

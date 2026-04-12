@@ -2,14 +2,49 @@
   "type": "txd",
   "textures": [
     {
-      "name": "neon",
+      "name": "ampback_256",
+      "width": 256,
+      "height": 256,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "ampfront_256",
+      "width": 256,
+      "height": 256,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "brickred",
       "width": 128,
-      "height": 32,
-      "format": "DXT3",
-      "alpha": true
+      "height": 128,
+      "format": "DXT1",
+      "alpha": false
     },
     {
       "name": "casinolights2_128",
+      "width": 128,
+      "height": 128,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "flyingv_256",
+      "width": 256,
+      "height": 512,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "girder2_grey_64HV",
+      "width": 64,
+      "height": 64,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "grasstype10",
       "width": 128,
       "height": 128,
       "format": "DXT1",
@@ -30,62 +65,6 @@
       "alpha": false
     },
     {
-      "name": "ampback_256",
-      "width": 256,
-      "height": 256,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "ampfront_256",
-      "width": 256,
-      "height": 256,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "VRockwins_256",
-      "width": 256,
-      "height": 256,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "flyingv_256",
-      "width": 128,
-      "height": 128,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "neon_centrala",
-      "width": 128,
-      "height": 32,
-      "format": "DXT3",
-      "alpha": true
-    },
-    {
-      "name": "girder2_grey_64HV",
-      "width": 64,
-      "height": 64,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "metpat64",
-      "width": 64,
-      "height": 64,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "gen_chrome",
-      "width": 128,
-      "height": 128,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
       "name": "metalic128",
       "width": 128,
       "height": 128,
@@ -93,56 +72,21 @@
       "alpha": false
     },
     {
-      "name": "vrocksign1_256",
-      "width": 256,
-      "height": 256,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "fire_esc_fence",
-      "width": 64,
-      "height": 64,
-      "format": "DXT1",
+      "name": "neon",
+      "width": 128,
+      "height": 32,
+      "format": "DXT5",
       "alpha": true
     },
     {
-      "name": "brickred",
+      "name": "neon_centrala",
       "width": 128,
-      "height": 128,
-      "format": "DXT1",
-      "alpha": false
+      "height": 32,
+      "format": "DXT5",
+      "alpha": true
     },
     {
-      "name": "yardgrass2",
-      "width": 256,
-      "height": 256,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "yardgrass1",
-      "width": 256,
-      "height": 256,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "veg_hedge1_256",
-      "width": 256,
-      "height": 256,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "grasstype10",
-      "width": 128,
-      "height": 128,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "fancy_slab128",
+      "name": "swimpoolbtm1_128",
       "width": 128,
       "height": 128,
       "format": "DXT1",
@@ -156,14 +100,14 @@
       "alpha": false
     },
     {
-      "name": "swimpoolbtm1_128",
-      "width": 128,
+      "name": "vgsndivebrd",
+      "width": 256,
       "height": 128,
       "format": "DXT1",
       "alpha": false
     },
     {
-      "name": "ws_rooftarmac1",
+      "name": "vrocksign1_256",
       "width": 256,
       "height": 256,
       "format": "DXT1",
@@ -177,16 +121,16 @@
       "alpha": false
     },
     {
-      "name": "gnhotelwall02_128",
-      "width": 128,
-      "height": 128,
+      "name": "VRockwins_256",
+      "width": 256,
+      "height": 256,
       "format": "DXT1",
       "alpha": false
     },
     {
-      "name": "vgsndivebrd",
+      "name": "yardgrass2",
       "width": 256,
-      "height": 128,
+      "height": 256,
       "format": "DXT1",
       "alpha": false
     }

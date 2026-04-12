@@ -2,6 +2,20 @@
   "type": "txd",
   "textures": [
     {
+      "name": "metpat64",
+      "width": 128,
+      "height": 128,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "skipY",
+      "width": 64,
+      "height": 64,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
       "name": "skip_peeling1",
       "width": 64,
       "height": 64,
@@ -16,23 +30,9 @@
       "alpha": false
     },
     {
-      "name": "metpat64",
-      "width": 64,
-      "height": 64,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
       "name": "walldirtynewa256",
       "width": 128,
       "height": 128,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "skipY",
-      "width": 64,
-      "height": 64,
       "format": "DXT1",
       "alpha": false
     }

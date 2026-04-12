@@ -2,7 +2,7 @@
   "type": "txd",
   "textures": [
     {
-      "name": "rooftop_pipes",
+      "name": "beachwalk_law",
       "width": 128,
       "height": 128,
       "format": "DXT1",
@@ -12,28 +12,14 @@
       "name": "des_bunting",
       "width": 256,
       "height": 128,
-      "format": "DXT3",
+      "format": "DXT5",
       "alpha": true
-    },
-    {
-      "name": "beachwalk_law",
-      "width": 128,
-      "height": 128,
-      "format": "DXT1",
-      "alpha": false
     },
     {
       "name": "dt_overwire_t",
       "width": 128,
       "height": 64,
-      "format": "DXT3",
-      "alpha": true
-    },
-    {
-      "name": "piermetalt_LAW",
-      "width": 256,
-      "height": 256,
-      "format": "DXT1",
+      "format": "DXT5",
       "alpha": true
     },
     {
@@ -44,6 +30,20 @@
       "alpha": false
     },
     {
+      "name": "pierlegTEST",
+      "width": 64,
+      "height": 128,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "piermetalt_LAW",
+      "width": 256,
+      "height": 256,
+      "format": "DXT5",
+      "alpha": true
+    },
+    {
       "name": "pierside_LAW",
       "width": 256,
       "height": 64,
@@ -51,8 +51,8 @@
       "alpha": false
     },
     {
-      "name": "pierlegTEST",
-      "width": 64,
+      "name": "rooftop_pipes",
+      "width": 128,
       "height": 128,
       "format": "DXT1",
       "alpha": false

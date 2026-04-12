@@ -2,20 +2,6 @@
   "type": "txd",
   "textures": [
     {
-      "name": "steelgirder_64V",
-      "width": 64,
-      "height": 64,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "Diamondp64",
-      "width": 64,
-      "height": 64,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
       "name": "bluemetal",
       "width": 64,
       "height": 64,
@@ -23,14 +9,28 @@
       "alpha": false
     },
     {
-      "name": "newall1-1",
-      "width": 128,
-      "height": 128,
+      "name": "Diamondp64",
+      "width": 256,
+      "height": 256,
       "format": "DXT1",
       "alpha": false
     },
     {
-      "name": "lastrk7",
+      "name": "lastrk1",
+      "width": 256,
+      "height": 256,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "lastrk2",
+      "width": 128,
+      "height": 128,
+      "format": "DXT5",
+      "alpha": true
+    },
+    {
+      "name": "lastrk3",
       "width": 128,
       "height": 128,
       "format": "DXT1",
@@ -51,23 +51,16 @@
       "alpha": false
     },
     {
-      "name": "lastrk3",
+      "name": "lastrk7",
       "width": 128,
       "height": 128,
       "format": "DXT1",
       "alpha": false
     },
     {
-      "name": "lastrk2",
-      "width": 128,
-      "height": 128,
-      "format": "DXT3",
-      "alpha": true
-    },
-    {
-      "name": "lastrk1",
-      "width": 256,
-      "height": 256,
+      "name": "steelgirder_64V",
+      "width": 64,
+      "height": 64,
       "format": "DXT1",
       "alpha": false
     }

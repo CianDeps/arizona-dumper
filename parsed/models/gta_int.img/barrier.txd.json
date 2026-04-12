@@ -2,6 +2,20 @@
   "type": "txd",
   "textures": [
     {
+      "name": "barrier_stripe",
+      "width": 64,
+      "height": 64,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "chevron_red_64HVa",
+      "width": 64,
+      "height": 64,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
       "name": "pierlegs",
       "width": 128,
       "height": 128,
@@ -9,7 +23,7 @@
       "alpha": false
     },
     {
-      "name": "barrier_stripe",
+      "name": "plainboards64HV",
       "width": 64,
       "height": 64,
       "format": "DXT1",

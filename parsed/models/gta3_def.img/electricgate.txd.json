@@ -2,13 +2,6 @@
   "type": "txd",
   "textures": [
     {
-      "name": "airport2_64",
-      "width": 64,
-      "height": 64,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
       "name": "airport1_64",
       "width": 64,
       "height": 64,
@@ -16,25 +9,18 @@
       "alpha": false
     },
     {
-      "name": "binwheel64",
+      "name": "airport2_64",
       "width": 64,
       "height": 64,
-      "format": "DXT3",
-      "alpha": true
-    },
-    {
-      "name": "notice02",
-      "width": 128,
-      "height": 128,
       "format": "DXT1",
       "alpha": false
     },
     {
-      "name": "wheel02_64",
-      "width": 64,
-      "height": 64,
-      "format": "DXT3",
-      "alpha": true
+      "name": "Alumox64b",
+      "width": 256,
+      "height": 256,
+      "format": "DXT1",
+      "alpha": false
     },
     {
       "name": "banding6_64HV",
@@ -44,17 +30,17 @@
       "alpha": false
     },
     {
-      "name": "notice01",
+      "name": "binwheel64",
       "width": 64,
       "height": 64,
-      "format": "DXT1",
-      "alpha": false
+      "format": "DXT5",
+      "alpha": true
     },
     {
       "name": "fencekb_64h",
       "width": 64,
       "height": 64,
-      "format": "DXT3",
+      "format": "DXT5",
       "alpha": true
     },
     {
@@ -65,11 +51,25 @@
       "alpha": false
     },
     {
-      "name": "Alumox64b",
-      "width": 64,
-      "height": 64,
+      "name": "notice01",
+      "width": 256,
+      "height": 256,
       "format": "DXT1",
       "alpha": false
+    },
+    {
+      "name": "notice02",
+      "width": 256,
+      "height": 256,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "wheel02_64",
+      "width": 64,
+      "height": 64,
+      "format": "DXT3",
+      "alpha": true
     }
   ]
 }

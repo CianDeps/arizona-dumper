@@ -2,14 +2,14 @@
   "type": "txd",
   "textures": [
     {
-      "name": "walltiles_128",
-      "width": 64,
+      "name": "Grass_128HV",
+      "width": 128,
       "height": 128,
       "format": "DXT1",
       "alpha": false
     },
     {
-      "name": "greyground256128",
+      "name": "Grass_concpath_128HV",
       "width": 128,
       "height": 128,
       "format": "DXT1",
@@ -23,22 +23,8 @@
       "alpha": false
     },
     {
-      "name": "des_dirt1",
-      "width": 256,
-      "height": 256,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "Grass_concpath_128HV",
-      "width": 128,
-      "height": 128,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "Grass_128HV",
-      "width": 128,
+      "name": "walltiles_128",
+      "width": 64,
       "height": 128,
       "format": "DXT1",
       "alpha": false

@@ -2,23 +2,9 @@
   "type": "txd",
   "textures": [
     {
-      "name": "sjmornfnce",
+      "name": "airportwind01",
       "width": 128,
       "height": 128,
-      "format": "DXT3",
-      "alpha": true
-    },
-    {
-      "name": "sw_library",
-      "width": 256,
-      "height": 64,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "sw_stairs1",
-      "width": 256,
-      "height": 256,
       "format": "DXT1",
       "alpha": false
     },
@@ -30,23 +16,9 @@
       "alpha": false
     },
     {
-      "name": "airportwind01",
-      "width": 128,
-      "height": 128,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "sw_door12",
-      "width": 64,
-      "height": 128,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "sw_libwin",
+      "name": "golf_heavygrass",
       "width": 256,
-      "height": 128,
+      "height": 256,
       "format": "DXT1",
       "alpha": false
     },
@@ -58,18 +30,11 @@
       "alpha": false
     },
     {
-      "name": "golf_heavygrass",
-      "width": 256,
-      "height": 256,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "ws_rooftarmac1",
-      "width": 256,
-      "height": 256,
-      "format": "DXT1",
-      "alpha": false
+      "name": "sjmornfnce",
+      "width": 128,
+      "height": 128,
+      "format": "DXT5",
+      "alpha": true
     },
     {
       "name": "studwalltop_law",
@@ -82,6 +47,20 @@
       "name": "sw_brick05",
       "width": 256,
       "height": 256,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "sw_library",
+      "width": 256,
+      "height": 64,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "sw_libwin",
+      "width": 256,
+      "height": 128,
       "format": "DXT1",
       "alpha": false
     }

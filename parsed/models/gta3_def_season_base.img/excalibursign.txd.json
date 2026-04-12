@@ -2,11 +2,32 @@
   "type": "txd",
   "textures": [
     {
+      "name": "excalibur05_64",
+      "width": 64,
+      "height": 64,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "excalibursign01_64",
+      "width": 64,
+      "height": 64,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
       "name": "excalibursign02",
       "width": 256,
       "height": 256,
-      "format": "DXT3",
+      "format": "DXT5",
       "alpha": true
+    },
+    {
+      "name": "excaliburwall10_128",
+      "width": 128,
+      "height": 128,
+      "format": "DXT1",
+      "alpha": false
     },
     {
       "name": "exclbrsword",
@@ -26,34 +47,6 @@
       "name": "vgsclubwall05_128",
       "width": 128,
       "height": 128,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "excaliburwall10_128",
-      "width": 128,
-      "height": 128,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "excalibursign01_64",
-      "width": 64,
-      "height": 64,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "greyground256128",
-      "width": 128,
-      "height": 128,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "excalibur05_64",
-      "width": 64,
-      "height": 64,
       "format": "DXT1",
       "alpha": false
     }

@@ -5,9 +5,18 @@
   "geometries": [
     {
       "index": 0,
-      "vertices": 1066,
-      "triangles": 848,
+      "vertices": 1200,
+      "triangles": 916,
       "materials": [
+        {
+          "color": {
+            "r": 255,
+            "g": 255,
+            "b": 255,
+            "a": 255
+          },
+          "texture": null
+        },
         {
           "color": {
             "r": 255,

@@ -2,63 +2,7 @@
   "type": "txd",
   "textures": [
     {
-      "name": "sl_forlease1",
-      "width": 256,
-      "height": 64,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "sl_laspirewin2",
-      "width": 256,
-      "height": 128,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "sl_laspirewin1",
-      "width": 256,
-      "height": 256,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "sl_laspirewall1",
-      "width": 256,
-      "height": 256,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "sl_laspiredecor1",
-      "width": 256,
-      "height": 256,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "downtwin7",
-      "width": 256,
-      "height": 256,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "downtwin4",
-      "width": 256,
-      "height": 256,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "downtshop2_LAn",
-      "width": 256,
-      "height": 256,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "snpdwingrat1",
+      "name": "downtshop3_LAn",
       "width": 256,
       "height": 256,
       "format": "DXT1",
@@ -72,23 +16,9 @@
       "alpha": false
     },
     {
-      "name": "downtshop3_LAn",
+      "name": "downtwin4",
       "width": 256,
       "height": 256,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "sl_dwntwndecor1",
-      "width": 256,
-      "height": 128,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "newall4-1",
-      "width": 128,
-      "height": 128,
       "format": "DXT1",
       "alpha": false
     },
@@ -100,29 +30,43 @@
       "alpha": false
     },
     {
-      "name": "gymshop1_LAe",
-      "width": 128,
-      "height": 128,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "gymshop2_LAe",
-      "width": 128,
-      "height": 128,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "sl_laoffblokwall1",
+      "name": "downtwin7",
       "width": 256,
       "height": 256,
       "format": "DXT1",
       "alpha": false
     },
     {
+      "name": "newall4-1",
+      "width": 128,
+      "height": 128,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "sl_dwntwndecor1",
+      "width": 256,
+      "height": 128,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "sl_forlease1",
+      "width": 256,
+      "height": 64,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
       "name": "sl_laoffblokedg1",
       "width": 128,
+      "height": 256,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "sl_laoffblokwall1",
+      "width": 256,
       "height": 256,
       "format": "DXT1",
       "alpha": false
@@ -135,8 +79,29 @@
       "alpha": false
     },
     {
-      "name": "greyground256",
-      "width": 128,
+      "name": "sl_laspiredecor1",
+      "width": 256,
+      "height": 256,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "sl_laspirewall1",
+      "width": 256,
+      "height": 256,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "sl_laspirewin1",
+      "width": 256,
+      "height": 256,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "sl_laspirewin2",
+      "width": 256,
       "height": 128,
       "format": "DXT1",
       "alpha": false

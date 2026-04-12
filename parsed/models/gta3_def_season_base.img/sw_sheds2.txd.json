@@ -2,7 +2,14 @@
   "type": "txd",
   "textures": [
     {
-      "name": "sanpedock96",
+      "name": "des_hooswin2",
+      "width": 128,
+      "height": 256,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "sanpedock1",
       "width": 128,
       "height": 128,
       "format": "DXT1",
@@ -16,27 +23,6 @@
       "alpha": false
     },
     {
-      "name": "des_hooswin2",
-      "width": 128,
-      "height": 256,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "ws_oldpainted2",
-      "width": 256,
-      "height": 256,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "airportmetalwall256",
-      "width": 128,
-      "height": 128,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
       "name": "sanpedock5",
       "width": 128,
       "height": 128,
@@ -44,9 +30,16 @@
       "alpha": false
     },
     {
-      "name": "sanpedock1",
+      "name": "sanpedock96",
       "width": 128,
       "height": 128,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "ws_oldpainted2",
+      "width": 256,
+      "height": 256,
       "format": "DXT1",
       "alpha": false
     }

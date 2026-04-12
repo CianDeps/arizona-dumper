@@ -5,9 +5,27 @@
   "geometries": [
     {
       "index": 0,
-      "vertices": 255,
-      "triangles": 154,
+      "vertices": 303,
+      "triangles": 179,
       "materials": [
+        {
+          "color": {
+            "r": 149,
+            "g": 149,
+            "b": 149,
+            "a": 255
+          },
+          "texture": null
+        },
+        {
+          "color": {
+            "r": 255,
+            "g": 255,
+            "b": 255,
+            "a": 255
+          },
+          "texture": null
+        },
         {
           "color": {
             "r": 255,
@@ -36,10 +54,55 @@
           "texture": null
         }
       ]
+    },
+    {
+      "index": 1,
+      "vertices": 287,
+      "triangles": 170,
+      "materials": [
+        {
+          "color": {
+            "r": 149,
+            "g": 149,
+            "b": 149,
+            "a": 255
+          },
+          "texture": null
+        },
+        {
+          "color": {
+            "r": 255,
+            "g": 255,
+            "b": 255,
+            "a": 255
+          },
+          "texture": null
+        },
+        {
+          "color": {
+            "r": 255,
+            "g": 255,
+            "b": 255,
+            "a": 255
+          },
+          "texture": null
+        },
+        {
+          "color": {
+            "r": 149,
+            "g": 149,
+            "b": 149,
+            "a": 255
+          },
+          "texture": null
+        }
+      ]
     }
   ],
-  "frames": 1,
+  "frames": 3,
   "dummies": [
-    "vendin3"
+    "Group01",
+    "vendin3_dam",
+    "vendin3_l0"
   ]
 }

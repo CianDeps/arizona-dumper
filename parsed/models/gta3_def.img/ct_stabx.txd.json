@@ -2,30 +2,9 @@
   "type": "txd",
   "textures": [
     {
-      "name": "dt_compound_fanvent",
-      "width": 128,
-      "height": 128,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
       "name": "ab_metaledge",
       "width": 128,
       "height": 64,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "ct_fruit",
-      "width": 32,
-      "height": 32,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "ct_boxes",
-      "width": 64,
-      "height": 16,
       "format": "DXT1",
       "alpha": false
     },
@@ -37,9 +16,30 @@
       "alpha": false
     },
     {
+      "name": "ct_boxes",
+      "width": 64,
+      "height": 16,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
       "name": "ct_canopy",
       "width": 128,
       "height": 32,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "ct_fruit",
+      "width": 32,
+      "height": 32,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "dt_compound_fanvent",
+      "width": 256,
+      "height": 256,
       "format": "DXT1",
       "alpha": false
     }

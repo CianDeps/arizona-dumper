@@ -2,23 +2,23 @@
   "type": "txd",
   "textures": [
     {
-      "name": "steel64",
+      "name": "conchev_64HV",
       "width": 64,
       "height": 64,
-      "format": "DXT3",
-      "alpha": true
+      "format": "DXT1",
+      "alpha": false
     },
     {
-      "name": "wire2",
-      "width": 64,
-      "height": 64,
-      "format": "DXT3",
-      "alpha": true
-    },
-    {
-      "name": "Metal1_128",
+      "name": "concreteyellow256 copy",
       "width": 128,
       "height": 128,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "concrete_64HV",
+      "width": 256,
+      "height": 256,
       "format": "DXT1",
       "alpha": false
     },
@@ -30,23 +30,9 @@
       "alpha": false
     },
     {
-      "name": "metpat64",
-      "width": 64,
-      "height": 64,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "concrete_64HV",
-      "width": 64,
-      "height": 64,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "conchev_64HV",
-      "width": 64,
-      "height": 64,
+      "name": "Metal1_128",
+      "width": 128,
+      "height": 128,
       "format": "DXT1",
       "alpha": false
     },
@@ -65,18 +51,18 @@
       "alpha": false
     },
     {
-      "name": "concreteyellow256 copy",
-      "width": 128,
-      "height": 128,
-      "format": "DXT1",
-      "alpha": false
+      "name": "steel64",
+      "width": 64,
+      "height": 64,
+      "format": "DXT5",
+      "alpha": true
     },
     {
-      "name": "concretenewb256",
-      "width": 128,
-      "height": 128,
-      "format": "DXT1",
-      "alpha": false
+      "name": "wire2",
+      "width": 64,
+      "height": 64,
+      "format": "DXT5",
+      "alpha": true
     },
     {
       "name": "ws_traingravel",
