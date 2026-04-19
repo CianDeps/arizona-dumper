@@ -1,6 +1,6 @@
 {
   "type": "zip",
-  "totalEntries": 2352,
+  "totalEntries": 2354,
   "entries": [
     {
       "name": "frontend/effects/birthday/q1_flash_take/index.html",
@@ -628,9 +628,29 @@
       "compressedSize": 5121
     },
     {
-      "name": "frontend/video-player/index.html",
-      "size": 772,
-      "compressedSize": 772
+      "name": "frontend/svelte_js/app.icon.1c8814a1236e0e0984fd3f60c8df6589.woff",
+      "size": 117376,
+      "compressedSize": 117376
+    },
+    {
+      "name": "frontend/svelte_js/app.icon.7aec7ea3eeed4c8ebc4a7b5fe4a6b38b.woff2",
+      "size": 97296,
+      "compressedSize": 97296
+    },
+    {
+      "name": "frontend/svelte_js/app.icon.bdf70cb3a1ebd4ed143c0b8b972ddd94.ttf",
+      "size": 195132,
+      "compressedSize": 195132
+    },
+    {
+      "name": "frontend/svelte_js/app.icon.db917ff8a9b6f1023edfe6079bf23633.eot",
+      "size": 195284,
+      "compressedSize": 195284
+    },
+    {
+      "name": "frontend/svelte_js/app.icon.ec303e4d4ad7dd1b7acd7de0174706db.svg",
+      "size": 3995923,
+      "compressedSize": 3995923
     },
     {
       "name": "frontend/svelte_js/assets/0048f29a03c81b829b56.webp",
@@ -1281,6 +1301,11 @@
       "name": "frontend/svelte_js/assets/0e7b3aa8c6f917dcccda.webp",
       "size": 25824,
       "compressedSize": 25824
+    },
+    {
+      "name": "frontend/svelte_js/assets/0e81db80ca4ef216bfea.webp",
+      "size": 67108,
+      "compressedSize": 67108
     },
     {
       "name": "frontend/svelte_js/assets/0ed40d2f7083454925c2.ttf",
@@ -2408,6 +2433,11 @@
       "compressedSize": 3022
     },
     {
+      "name": "frontend/svelte_js/assets/2a46d06b4af5617b7e11.svg",
+      "size": 2991,
+      "compressedSize": 2991
+    },
+    {
       "name": "frontend/svelte_js/assets/2a626102d317f419cd0a.ttf",
       "size": 89924,
       "compressedSize": 89924
@@ -3491,6 +3521,11 @@
       "name": "frontend/svelte_js/assets/41fad2a2615bbbb494cd.webp",
       "size": 129512,
       "compressedSize": 129512
+    },
+    {
+      "name": "frontend/svelte_js/assets/420d6eed2d47db00fd78.svg",
+      "size": 2173,
+      "compressedSize": 2173
     },
     {
       "name": "frontend/svelte_js/assets/421d618a19206cb25a31.webp",
@@ -8463,6 +8498,11 @@
       "compressedSize": 54534
     },
     {
+      "name": "frontend/svelte_js/assets/b4fab6e683bf175fef5a.webp",
+      "size": 59936,
+      "compressedSize": 59936
+    },
+    {
       "name": "frontend/svelte_js/assets/b528f798350638bded69.webp",
       "size": 2284,
       "compressedSize": 2284
@@ -8821,11 +8861,6 @@
       "name": "frontend/svelte_js/assets/bcb7b76650e3ad204eb0.webp",
       "size": 2778,
       "compressedSize": 2778
-    },
-    {
-      "name": "frontend/svelte_js/assets/bd1c3db89dc2359ee1f2.svg",
-      "size": 3007,
-      "compressedSize": 3007
     },
     {
       "name": "frontend/svelte_js/assets/bd30da7f881ef2fdbb27.svg",
@@ -11223,11 +11258,6 @@
       "compressedSize": 20468
     },
     {
-      "name": "frontend/svelte_js/assets/f462ba5b5263b5c685a0.svg",
-      "size": 2179,
-      "compressedSize": 2179
-    },
-    {
       "name": "frontend/svelte_js/assets/f47b7a3b7dc5b746680f.webp",
       "size": 8024,
       "compressedSize": 8024
@@ -11723,44 +11753,24 @@
       "compressedSize": 1186
     },
     {
-      "name": "frontend/svelte_js/app.icon.1c8814a1236e0e0984fd3f60c8df6589.woff",
-      "size": 117376,
-      "compressedSize": 117376
-    },
-    {
-      "name": "frontend/svelte_js/app.icon.7aec7ea3eeed4c8ebc4a7b5fe4a6b38b.woff2",
-      "size": 97296,
-      "compressedSize": 97296
-    },
-    {
-      "name": "frontend/svelte_js/app.icon.bdf70cb3a1ebd4ed143c0b8b972ddd94.ttf",
-      "size": 195132,
-      "compressedSize": 195132
-    },
-    {
-      "name": "frontend/svelte_js/app.icon.db917ff8a9b6f1023edfe6079bf23633.eot",
-      "size": 195284,
-      "compressedSize": 195284
-    },
-    {
-      "name": "frontend/svelte_js/app.icon.ec303e4d4ad7dd1b7acd7de0174706db.svg",
-      "size": 3992515,
-      "compressedSize": 3992515
-    },
-    {
       "name": "frontend/svelte_js/index.html",
       "size": 25873,
       "compressedSize": 25873
     },
     {
       "name": "frontend/svelte_js/main.bundle.js",
-      "size": 15089142,
-      "compressedSize": 15089142
+      "size": 15472733,
+      "compressedSize": 15472733
     },
     {
       "name": "frontend/svelte_js/main.css",
       "size": 4287626,
       "compressedSize": 4287626
+    },
+    {
+      "name": "frontend/video-player/index.html",
+      "size": 772,
+      "compressedSize": 772
     }
   ]
 }
