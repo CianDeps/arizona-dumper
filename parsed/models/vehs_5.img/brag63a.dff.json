@@ -1405,20 +1405,11 @@
     },
     {
       "index": 20,
-      "vertices": 9244,
-      "triangles": 7434,
+      "vertices": 5108,
+      "triangles": 4405,
       "materials": [
         {
           "color": {
-            "r": 111,
-            "g": 111,
-            "b": 111,
-            "a": 255
-          },
-          "texture": null
-        },
-        {
-          "color": {
             "r": 15,
             "g": 15,
             "b": 15,
@@ -1431,15 +1422,6 @@
             "r": 15,
             "g": 15,
             "b": 15,
-            "a": 255
-          },
-          "texture": null
-        },
-        {
-          "color": {
-            "r": 255,
-            "g": 255,
-            "b": 255,
             "a": 255
           },
           "texture": null
@@ -1461,13 +1443,22 @@
             "a": 255
           },
           "texture": null
+        },
+        {
+          "color": {
+            "r": 204,
+            "g": 204,
+            "b": 204,
+            "a": 255
+          },
+          "texture": null
         }
       ]
     },
     {
       "index": 21,
-      "vertices": 7312,
-      "triangles": 5576,
+      "vertices": 7056,
+      "triangles": 5472,
       "materials": [
         {
           "color": {

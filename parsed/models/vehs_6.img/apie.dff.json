@@ -5,7 +5,7 @@
   "geometries": [
     {
       "index": 0,
-      "vertices": 17042,
+      "vertices": 17043,
       "triangles": 15627,
       "materials": [
         {
@@ -787,24 +787,8 @@
     },
     {
       "index": 23,
-      "vertices": 4,
-      "triangles": 2,
-      "materials": [
-        {
-          "color": {
-            "r": 204,
-            "g": 204,
-            "b": 204,
-            "a": 255
-          },
-          "texture": null
-        }
-      ]
-    },
-    {
-      "index": 24,
-      "vertices": 4077,
-      "triangles": 3460,
+      "vertices": 3908,
+      "triangles": 3380,
       "materials": [
         {
           "color": {
@@ -815,99 +799,6 @@
           },
           "texture": null
         },
-        {
-          "color": {
-            "r": 204,
-            "g": 204,
-            "b": 204,
-            "a": 255
-          },
-          "texture": null
-        },
-        {
-          "color": {
-            "r": 204,
-            "g": 204,
-            "b": 204,
-            "a": 255
-          },
-          "texture": null
-        }
-      ]
-    },
-    {
-      "index": 25,
-      "vertices": 4065,
-      "triangles": 3460,
-      "materials": [
-        {
-          "color": {
-            "r": 204,
-            "g": 204,
-            "b": 204,
-            "a": 255
-          },
-          "texture": null
-        },
-        {
-          "color": {
-            "r": 204,
-            "g": 204,
-            "b": 204,
-            "a": 255
-          },
-          "texture": null
-        },
-        {
-          "color": {
-            "r": 204,
-            "g": 204,
-            "b": 204,
-            "a": 255
-          },
-          "texture": null
-        }
-      ]
-    },
-    {
-      "index": 26,
-      "vertices": 4077,
-      "triangles": 3460,
-      "materials": [
-        {
-          "color": {
-            "r": 204,
-            "g": 204,
-            "b": 204,
-            "a": 255
-          },
-          "texture": null
-        },
-        {
-          "color": {
-            "r": 204,
-            "g": 204,
-            "b": 204,
-            "a": 255
-          },
-          "texture": null
-        },
-        {
-          "color": {
-            "r": 204,
-            "g": 204,
-            "b": 204,
-            "a": 255
-          },
-          "texture": null
-        }
-      ]
-    },
-    {
-      "index": 27,
-      "vertices": 4065,
-      "triangles": 3460,
-      "materials": [
         {
           "color": {
             "r": 204,
@@ -938,7 +829,7 @@
       ]
     }
   ],
-  "frames": 52,
+  "frames": 48,
   "dummies": [
     "apolloie",
     "chassis",
@@ -983,14 +874,10 @@
     "ped_frontseat",
     "light_glass",
     "wheel_rf_dummy",
-    "wheel",
     "rim",
     "wheel_lb_dummy",
-    "rim",
     "wheel_lf_dummy",
-    "rim",
     "wheel_rb_dummy",
-    "rim",
     "brake_caliper"
   ]
 }
