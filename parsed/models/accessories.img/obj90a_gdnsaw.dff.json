@@ -21,14 +21,14 @@
     },
     {
       "index": 1,
-      "vertices": 269,
-      "triangles": 218,
+      "vertices": 36,
+      "triangles": 12,
       "materials": [
         {
           "color": {
-            "r": 255,
-            "g": 255,
-            "b": 255,
+            "r": 204,
+            "g": 204,
+            "b": 204,
             "a": 255
           },
           "texture": null
@@ -514,28 +514,11 @@
           "texture": null
         }
       ]
-    },
-    {
-      "index": 32,
-      "vertices": 36,
-      "triangles": 12,
-      "materials": [
-        {
-          "color": {
-            "r": 204,
-            "g": 204,
-            "b": 204,
-            "a": 255
-          },
-          "texture": null
-        }
-      ]
     }
   ],
-  "frames": 34,
+  "frames": 33,
   "dummies": [
     "obj90a_gdnsaw",
-    "chnsaw",
     "obj90a_gdnsaw",
     "tooth_001",
     "tooth_002",

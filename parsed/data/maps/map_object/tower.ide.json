@@ -1,6 +1,6 @@
 {
   "type": "config",
-  "lines": 35,
+  "lines": 37,
   "content": [
     "objs",
     "14190, build_skyscrap_1, mason_towerB, 300, 0",
@@ -25,7 +25,7 @@
     "6601, maison_interior_1_1, mason_towerI1, 50, 2097156",
     "14362, maison_interior_3, mason_towerI3, 50, 0",
     "14363, maison_int_props_3, mason_towerI3, 50, 0",
-    "14364, maison_parking, carimpound_sfe, 80, 0",
+    "14364, maison_parking, mason_towerI3, 80, 0",
     "14365, int_entr_1, mason_towerI3, 80, 0",
     "14366, int_entr_1_props, mason_towerI3, 80, 2097156",
     "15161, hub_sfs_n, cityhall_sfs, 300, 0",
@@ -36,6 +36,8 @@
     "txdp",
     "mason_towerB, skyscrap_sfse",
     "LODmason_towerB, lod_sfse",
+    "mason_towerI3, mason_towerI2",
+    "mason_towerI2, carimpound_sfe",
     "end"
   ]
 }

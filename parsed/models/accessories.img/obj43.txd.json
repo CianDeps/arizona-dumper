@@ -30,13 +30,6 @@
       "alpha": true
     },
     {
-      "name": "obj43_bow_1",
-      "width": 128,
-      "height": 128,
-      "format": "DXT3",
-      "alpha": true
-    },
-    {
       "name": "obj43_cap_1",
       "width": 128,
       "height": 256,
@@ -107,18 +100,25 @@
       "alpha": false
     },
     {
-      "name": "obj43_smile_1",
-      "width": 256,
-      "height": 256,
-      "format": "DXT3",
-      "alpha": true
-    },
-    {
       "name": "obj43_wings_1",
       "width": 256,
       "height": 512,
       "format": "DXT3",
       "alpha": true
+    },
+    {
+      "name": "obj43_smile_1",
+      "width": 256,
+      "height": 256,
+      "format": "DXT3",
+      "alpha": false
+    },
+    {
+      "name": "obj43_bow_1",
+      "width": 128,
+      "height": 128,
+      "format": "DXT3",
+      "alpha": false
     }
   ]
 }
