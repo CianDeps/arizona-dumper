@@ -1,45 +1,22 @@
 {
   "type": "dff",
   "version": "RenderWare 3.6.0.3 (SA)",
-  "modelType": 2,
+  "modelType": 0,
   "geometries": [
     {
       "index": 0,
-      "vertices": 3,
-      "triangles": 1,
+      "vertices": 710,
+      "triangles": 516,
       "materials": [
         {
           "color": {
-            "r": 255,
-            "g": 255,
-            "b": 255,
-            "a": 0
+            "r": 226,
+            "g": 226,
+            "b": 226,
+            "a": 255
           },
           "texture": null
-        }
-      ]
-    },
-    {
-      "index": 1,
-      "vertices": 3,
-      "triangles": 1,
-      "materials": [
-        {
-          "color": {
-            "r": 255,
-            "g": 255,
-            "b": 255,
-            "a": 242
-          },
-          "texture": null
-        }
-      ]
-    },
-    {
-      "index": 2,
-      "vertices": 4249,
-      "triangles": 3098,
-      "materials": [
+        },
         {
           "color": {
             "r": 255,
@@ -54,17 +31,10 @@
             "r": 255,
             "g": 255,
             "b": 255,
-            "a": 241
+            "a": 255
           },
           "texture": null
-        }
-      ]
-    },
-    {
-      "index": 3,
-      "vertices": 1004,
-      "triangles": 360,
-      "materials": [
+        },
         {
           "color": {
             "r": 255,
@@ -73,24 +43,30 @@
             "a": 255
           },
           "texture": null
+        },
+        {
+          "color": {
+            "r": 255,
+            "g": 255,
+            "b": 255,
+            "a": 255
+          },
+          "texture": null
+        },
+        {
+          "color": {
+            "r": 255,
+            "g": 255,
+            "b": 255,
+            "a": 102
+          },
+          "texture": null
         }
       ]
     }
   ],
-  "frames": 13,
+  "frames": 1,
   "dummies": [
-    "mavic",
-    "chassis_dummy",
-    "ped_frontseat",
-    "taillights",
-    "wheel_rb_dummy",
-    "headlights",
-    "wheel_lf_dummy",
-    "wheel_lb_dummy",
-    "wheel_rf_dummy",
-    "static_rotor",
-    "moving_rotor",
-    "chassis",
-    "chassis_vlo"
+    "rf_a_barracks"
   ]
 }

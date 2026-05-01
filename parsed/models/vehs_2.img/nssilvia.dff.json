@@ -855,22 +855,6 @@
     },
     {
       "index": 25,
-      "vertices": 0,
-      "triangles": 0,
-      "materials": [
-        {
-          "color": {
-            "r": 255,
-            "g": 255,
-            "b": 255,
-            "a": 153
-          },
-          "texture": null
-        }
-      ]
-    },
-    {
-      "index": 26,
       "vertices": 546,
       "triangles": 700,
       "materials": [
@@ -886,7 +870,7 @@
       ]
     }
   ],
-  "frames": 61,
+  "frames": 60,
   "dummies": [
     "s15specr",
     "wheel_rf_dummy",
@@ -946,7 +930,6 @@
     "bump_front_dam",
     "glass",
     "lightsg",
-    "boot_ok",
     "lightsgton",
     "brake_caliper"
   ]

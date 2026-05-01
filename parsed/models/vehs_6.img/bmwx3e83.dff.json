@@ -607,12 +607,6 @@
     },
     {
       "index": 14,
-      "vertices": 0,
-      "triangles": 0,
-      "materials": []
-    },
-    {
-      "index": 15,
       "vertices": 3585,
       "triangles": 2742,
       "materials": [
@@ -628,7 +622,7 @@
       ]
     },
     {
-      "index": 16,
+      "index": 15,
       "vertices": 29,
       "triangles": 31,
       "materials": [
@@ -644,7 +638,7 @@
       ]
     },
     {
-      "index": 17,
+      "index": 16,
       "vertices": 57,
       "triangles": 82,
       "materials": [
@@ -660,7 +654,7 @@
       ]
     },
     {
-      "index": 18,
+      "index": 17,
       "vertices": 57,
       "triangles": 82,
       "materials": [
@@ -676,7 +670,7 @@
       ]
     },
     {
-      "index": 19,
+      "index": 18,
       "vertices": 2474,
       "triangles": 2235,
       "materials": [
@@ -773,7 +767,7 @@
       ]
     },
     {
-      "index": 20,
+      "index": 19,
       "vertices": 228,
       "triangles": 336,
       "materials": [
@@ -789,7 +783,7 @@
       ]
     },
     {
-      "index": 21,
+      "index": 20,
       "vertices": 228,
       "triangles": 336,
       "materials": [
@@ -805,7 +799,7 @@
       ]
     },
     {
-      "index": 22,
+      "index": 21,
       "vertices": 2474,
       "triangles": 2235,
       "materials": [
@@ -884,7 +878,7 @@
       ]
     },
     {
-      "index": 23,
+      "index": 22,
       "vertices": 1213,
       "triangles": 1164,
       "materials": [
@@ -927,7 +921,7 @@
       ]
     },
     {
-      "index": 24,
+      "index": 23,
       "vertices": 1220,
       "triangles": 1164,
       "materials": [
@@ -970,7 +964,7 @@
       ]
     },
     {
-      "index": 25,
+      "index": 24,
       "vertices": 1367,
       "triangles": 1469,
       "materials": [
@@ -1022,7 +1016,7 @@
       ]
     },
     {
-      "index": 26,
+      "index": 25,
       "vertices": 1371,
       "triangles": 1469,
       "materials": [
@@ -1074,7 +1068,7 @@
       ]
     },
     {
-      "index": 27,
+      "index": 26,
       "vertices": 2251,
       "triangles": 2714,
       "materials": [
@@ -1126,7 +1120,7 @@
       ]
     },
     {
-      "index": 28,
+      "index": 27,
       "vertices": 2163,
       "triangles": 2576,
       "materials": [
@@ -1178,6 +1172,31 @@
       ]
     },
     {
+      "index": 28,
+      "vertices": 835,
+      "triangles": 1266,
+      "materials": [
+        {
+          "color": {
+            "r": 15,
+            "g": 15,
+            "b": 15,
+            "a": 255
+          },
+          "texture": null
+        },
+        {
+          "color": {
+            "r": 204,
+            "g": 204,
+            "b": 204,
+            "a": 255
+          },
+          "texture": null
+        }
+      ]
+    },
+    {
       "index": 29,
       "vertices": 835,
       "triangles": 1266,
@@ -1204,31 +1223,6 @@
     },
     {
       "index": 30,
-      "vertices": 835,
-      "triangles": 1266,
-      "materials": [
-        {
-          "color": {
-            "r": 15,
-            "g": 15,
-            "b": 15,
-            "a": 255
-          },
-          "texture": null
-        },
-        {
-          "color": {
-            "r": 204,
-            "g": 204,
-            "b": 204,
-            "a": 255
-          },
-          "texture": null
-        }
-      ]
-    },
-    {
-      "index": 31,
       "vertices": 162,
       "triangles": 254,
       "materials": [
@@ -1244,7 +1238,7 @@
       ]
     },
     {
-      "index": 32,
+      "index": 31,
       "vertices": 139,
       "triangles": 228,
       "materials": [
@@ -1260,7 +1254,7 @@
       ]
     },
     {
-      "index": 33,
+      "index": 32,
       "vertices": 139,
       "triangles": 228,
       "materials": [
@@ -1276,7 +1270,7 @@
       ]
     }
   ],
-  "frames": 66,
+  "frames": 65,
   "dummies": [
     "bmwx3 ",
     "headlights",
@@ -1321,7 +1315,6 @@
     "exhaust_ok",
     "lights_f",
     "lights_r",
-    "interior",
     "interior",
     "interior",
     "interior",

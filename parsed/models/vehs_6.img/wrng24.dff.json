@@ -1246,38 +1246,6 @@
     },
     {
       "index": 32,
-      "vertices": 0,
-      "triangles": 0,
-      "materials": [
-        {
-          "color": {
-            "r": 255,
-            "g": 255,
-            "b": 255,
-            "a": 254
-          },
-          "texture": null
-        }
-      ]
-    },
-    {
-      "index": 33,
-      "vertices": 0,
-      "triangles": 0,
-      "materials": [
-        {
-          "color": {
-            "r": 255,
-            "g": 255,
-            "b": 255,
-            "a": 254
-          },
-          "texture": null
-        }
-      ]
-    },
-    {
-      "index": 34,
       "vertices": 528,
       "triangles": 512,
       "materials": [
@@ -1293,7 +1261,7 @@
       ]
     }
   ],
-  "frames": 64,
+  "frames": 62,
   "dummies": [
     "kebalus",
     "wheel_rf_dummy",
@@ -1355,8 +1323,6 @@
     "frontlights_glass",
     "bootglass_ok",
     "rwin",
-    "sdoor_lr_ok",
-    "sdoor_lf_ok",
     "rlights_glasst",
     "brake_caliper"
   ]

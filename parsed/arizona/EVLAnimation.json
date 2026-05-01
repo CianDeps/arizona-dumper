@@ -965,6 +965,387 @@
     ],
     "vehicle_settings": [
       {
+        "model_id": 433,
+        "coronas": [
+          {
+            "bone_name": "evl_orange_1",
+            "animation": "just_blink_orange_1",
+            "start_time": 0,
+            "speed": 3
+          },
+          {
+            "bone_name": "evl_orange_2",
+            "animation": "just_blink_orange_1",
+            "start_time": 1,
+            "speed": 3
+          },
+          {
+            "bone_name": "evl_orange_3",
+            "animation": "just_blink_orange_1",
+            "start_time": 0,
+            "speed": 3
+          },
+          {
+            "bone_name": "evl_orange_4",
+            "animation": "just_blink_orange_1",
+            "start_time": 1,
+            "speed": 3
+          },
+          {
+            "bone_name": "evl_orange_5",
+            "animation": "just_blink_orange_1",
+            "start_time": 0,
+            "speed": 3
+          },
+          {
+            "bone_name": "evl_orange_6",
+            "animation": "just_blink_orange_1",
+            "start_time": 1,
+            "speed": 3
+          },
+          {
+            "bone_name": "evl_orange_7",
+            "animation": "just_blink_orange_1",
+            "start_time": 0,
+            "speed": 3
+          },
+          {
+            "bone_name": "evl_orange_8",
+            "animation": "just_blink_orange_1",
+            "start_time": 1,
+            "speed": 3
+          },
+          {
+            "bone_name": "evl_white_1",
+            "animation": "just_blink_white_1",
+            "start_time": 0,
+            "speed": 3
+          },
+          {
+            "bone_name": "evl_white_2",
+            "animation": "just_blink_white_1",
+            "start_time": 1,
+            "speed": 3
+          },
+          {
+            "bone_name": "evl_white_3",
+            "animation": "just_blink_white_1",
+            "start_time": 0,
+            "speed": 3
+          },
+          {
+            "bone_name": "evl_white_4",
+            "animation": "just_blink_white_1",
+            "start_time": 1,
+            "speed": 3
+          },
+          {
+            "bone_name": "evl_white_5",
+            "animation": "just_blink_white_1",
+            "start_time": 0,
+            "speed": 3
+          },
+          {
+            "bone_name": "evl_white_6",
+            "animation": "just_blink_white_1",
+            "start_time": 1,
+            "speed": 3
+          },
+          {
+            "bone_name": "evl_white_7",
+            "animation": "just_blink_white_1",
+            "start_time": 0,
+            "speed": 3
+          },
+          {
+            "bone_name": "evl_white_8",
+            "animation": "just_blink_white_1",
+            "start_time": 1,
+            "speed": 3
+          }
+        ],
+        "materials": [
+          {
+            "group": 0,
+            "animation": "just_blink_white_1",
+            "start_time": 0,
+            "speed": 3
+          },
+          {
+            "group": 1,
+            "animation": "just_blink_white_1",
+            "start_time": 1,
+            "speed": 3
+          },
+          {
+            "group": 2,
+            "animation": "just_blink_orange_1",
+            "start_time": 1,
+            "speed": 3
+          },
+          {
+            "group": 3,
+            "animation": "just_blink_orange_1",
+            "start_time": 0,
+            "speed": 3
+          }
+        ]
+      },
+      {
+        "model_id": 470,
+        "coronas": [
+          {
+            "bone_name": "evl_orange_1",
+            "animation": "just_blink_orange_1",
+            "start_time": 0,
+            "speed": 3
+          },
+          {
+            "bone_name": "evl_orange_2",
+            "animation": "just_blink_orange_1",
+            "start_time": 1,
+            "speed": 3
+          },
+          {
+            "bone_name": "evl_orange_3",
+            "animation": "just_blink_orange_1",
+            "start_time": 0,
+            "speed": 3
+          },
+          {
+            "bone_name": "evl_orange_4",
+            "animation": "just_blink_orange_1",
+            "start_time": 1,
+            "speed": 3
+          },
+          {
+            "bone_name": "evl_orange_5",
+            "animation": "just_blink_orange_1",
+            "start_time": 0,
+            "speed": 3
+          },
+          {
+            "bone_name": "evl_orange_6",
+            "animation": "just_blink_orange_1",
+            "start_time": 1,
+            "speed": 3
+          },
+          {
+            "bone_name": "evl_orange_7",
+            "animation": "just_blink_orange_1",
+            "start_time": 0,
+            "speed": 3
+          },
+          {
+            "bone_name": "evl_orange_8",
+            "animation": "just_blink_orange_1",
+            "start_time": 1,
+            "speed": 3
+          },
+          {
+            "bone_name": "evl_white_1",
+            "animation": "just_blink_white_1",
+            "start_time": 0,
+            "speed": 3
+          },
+          {
+            "bone_name": "evl_white_2",
+            "animation": "just_blink_white_1",
+            "start_time": 1,
+            "speed": 3
+          },
+          {
+            "bone_name": "evl_white_3",
+            "animation": "just_blink_white_1",
+            "start_time": 0,
+            "speed": 3
+          },
+          {
+            "bone_name": "evl_white_4",
+            "animation": "just_blink_white_1",
+            "start_time": 1,
+            "speed": 3
+          },
+          {
+            "bone_name": "evl_white_5",
+            "animation": "just_blink_white_1",
+            "start_time": 0,
+            "speed": 3
+          },
+          {
+            "bone_name": "evl_white_6",
+            "animation": "just_blink_white_1",
+            "start_time": 1,
+            "speed": 3
+          },
+          {
+            "bone_name": "evl_white_7",
+            "animation": "just_blink_white_1",
+            "start_time": 0,
+            "speed": 3
+          },
+          {
+            "bone_name": "evl_white_8",
+            "animation": "just_blink_white_1",
+            "start_time": 1,
+            "speed": 3
+          }
+        ],
+        "materials": [
+          {
+            "group": 0,
+            "animation": "just_blink_white_1",
+            "start_time": 0,
+            "speed": 3
+          },
+          {
+            "group": 1,
+            "animation": "just_blink_white_1",
+            "start_time": 1,
+            "speed": 3
+          },
+          {
+            "group": 2,
+            "animation": "just_blink_orange_1",
+            "start_time": 1,
+            "speed": 3
+          },
+          {
+            "group": 3,
+            "animation": "just_blink_orange_1",
+            "start_time": 0,
+            "speed": 3
+          }
+        ]
+      },
+      {
+        "model_id": 500,
+        "coronas": [
+          {
+            "bone_name": "evl_orange_1",
+            "animation": "just_blink_orange_1",
+            "start_time": 0,
+            "speed": 3
+          },
+          {
+            "bone_name": "evl_orange_2",
+            "animation": "just_blink_orange_1",
+            "start_time": 1,
+            "speed": 3
+          },
+          {
+            "bone_name": "evl_orange_3",
+            "animation": "just_blink_orange_1",
+            "start_time": 0,
+            "speed": 3
+          },
+          {
+            "bone_name": "evl_orange_4",
+            "animation": "just_blink_orange_1",
+            "start_time": 1,
+            "speed": 3
+          },
+          {
+            "bone_name": "evl_orange_5",
+            "animation": "just_blink_orange_1",
+            "start_time": 0,
+            "speed": 3
+          },
+          {
+            "bone_name": "evl_orange_6",
+            "animation": "just_blink_orange_1",
+            "start_time": 1,
+            "speed": 3
+          },
+          {
+            "bone_name": "evl_orange_7",
+            "animation": "just_blink_orange_1",
+            "start_time": 0,
+            "speed": 3
+          },
+          {
+            "bone_name": "evl_orange_8",
+            "animation": "just_blink_orange_1",
+            "start_time": 1,
+            "speed": 3
+          },
+          {
+            "bone_name": "evl_white_1",
+            "animation": "just_blink_white_1",
+            "start_time": 0,
+            "speed": 3
+          },
+          {
+            "bone_name": "evl_white_2",
+            "animation": "just_blink_white_1",
+            "start_time": 1,
+            "speed": 3
+          },
+          {
+            "bone_name": "evl_white_3",
+            "animation": "just_blink_white_1",
+            "start_time": 0,
+            "speed": 3
+          },
+          {
+            "bone_name": "evl_white_4",
+            "animation": "just_blink_white_1",
+            "start_time": 1,
+            "speed": 3
+          },
+          {
+            "bone_name": "evl_white_5",
+            "animation": "just_blink_white_1",
+            "start_time": 0,
+            "speed": 3
+          },
+          {
+            "bone_name": "evl_white_6",
+            "animation": "just_blink_white_1",
+            "start_time": 1,
+            "speed": 3
+          },
+          {
+            "bone_name": "evl_white_7",
+            "animation": "just_blink_white_1",
+            "start_time": 0,
+            "speed": 3
+          },
+          {
+            "bone_name": "evl_white_8",
+            "animation": "just_blink_white_1",
+            "start_time": 1,
+            "speed": 3
+          }
+        ],
+        "materials": [
+          {
+            "group": 0,
+            "animation": "just_blink_white_1",
+            "start_time": 0,
+            "speed": 3
+          },
+          {
+            "group": 1,
+            "animation": "just_blink_white_1",
+            "start_time": 1,
+            "speed": 3
+          },
+          {
+            "group": 2,
+            "animation": "just_blink_orange_1",
+            "start_time": 1,
+            "speed": 3
+          },
+          {
+            "group": 3,
+            "animation": "just_blink_orange_1",
+            "start_time": 0,
+            "speed": 3
+          }
+        ]
+      },
+      {
         "model_id": 4803,
         "coronas": [
           {

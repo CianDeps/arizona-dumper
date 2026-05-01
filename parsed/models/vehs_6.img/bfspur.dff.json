@@ -999,22 +999,6 @@
     },
     {
       "index": 25,
-      "vertices": 0,
-      "triangles": 0,
-      "materials": [
-        {
-          "color": {
-            "r": 255,
-            "g": 255,
-            "b": 255,
-            "a": 254
-          },
-          "texture": null
-        }
-      ]
-    },
-    {
-      "index": 26,
       "vertices": 324,
       "triangles": 512,
       "materials": [
@@ -1030,7 +1014,7 @@
       ]
     },
     {
-      "index": 27,
+      "index": 26,
       "vertices": 366,
       "triangles": 400,
       "materials": [
@@ -1044,41 +1028,9 @@
           "texture": null
         }
       ]
-    },
-    {
-      "index": 28,
-      "vertices": 0,
-      "triangles": 0,
-      "materials": [
-        {
-          "color": {
-            "r": 255,
-            "g": 255,
-            "b": 255,
-            "a": 254
-          },
-          "texture": null
-        }
-      ]
-    },
-    {
-      "index": 29,
-      "vertices": 0,
-      "triangles": 0,
-      "materials": [
-        {
-          "color": {
-            "r": 255,
-            "g": 255,
-            "b": 255,
-            "a": 254
-          },
-          "texture": null
-        }
-      ]
     }
   ],
-  "frames": 62,
+  "frames": 59,
   "dummies": [
     "bspur",
     "chassis_dummy",
@@ -1136,11 +1088,8 @@
     "door_rr_dam",
     "door_rr_ok",
     "ug_nitro",
-    "sglass_top",
     "glassl_front",
     "glassl_rear",
-    "swindscreen_ok",
-    "sbump_rear_ok",
     "brake_caliper"
   ]
 }

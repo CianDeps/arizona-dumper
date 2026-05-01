@@ -125,8 +125,8 @@
     },
     {
       "index": 3,
-      "vertices": 5162,
-      "triangles": 5053,
+      "vertices": 5114,
+      "triangles": 5005,
       "materials": [
         {
           "color": {
@@ -175,9 +175,9 @@
         },
         {
           "color": {
-            "r": 255,
-            "g": 255,
-            "b": 255,
+            "r": 204,
+            "g": 204,
+            "b": 204,
             "a": 255
           },
           "texture": null
@@ -274,8 +274,8 @@
     },
     {
       "index": 5,
-      "vertices": 2265,
-      "triangles": 1791,
+      "vertices": 2843,
+      "triangles": 2195,
       "materials": [
         {
           "color": {
@@ -336,6 +336,33 @@
             "r": 204,
             "g": 204,
             "b": 204,
+            "a": 255
+          },
+          "texture": null
+        },
+        {
+          "color": {
+            "r": 230,
+            "g": 255,
+            "b": 253,
+            "a": 255
+          },
+          "texture": null
+        },
+        {
+          "color": {
+            "r": 255,
+            "g": 175,
+            "b": 0,
+            "a": 255
+          },
+          "texture": null
+        },
+        {
+          "color": {
+            "r": 0,
+            "g": 255,
+            "b": 200,
             "a": 255
           },
           "texture": null
@@ -446,8 +473,8 @@
     },
     {
       "index": 9,
-      "vertices": 3554,
-      "triangles": 3426,
+      "vertices": 2976,
+      "triangles": 3022,
       "materials": [
         {
           "color": {
@@ -1537,13 +1564,15 @@
   "frames": 60,
   "dummies": [
     "rancher",
+    "chassis_dummy",
+    "Chassis",
+    "Salpic",
     "Glass",
     "wheel_rb_dummy",
     "engine",
     "ped_arm",
     "headlights",
     "exhaust",
-    "chassis_dummy",
     "ped_backseat",
     "headlights2",
     "taillights",
@@ -1553,7 +1582,6 @@
     "ped_frontseat",
     "tlght_generic_r",
     "tlght_generic_f",
-    "Chassis",
     "bump_front_dummy",
     "carplate",
     "carplate_lg",
@@ -1571,7 +1599,6 @@
     "wheel",
     "platelight",
     "Interior",
-    "Salpic",
     "Lights1",
     "2Lights",
     "Interior",
