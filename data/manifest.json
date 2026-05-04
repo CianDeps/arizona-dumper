@@ -131,10 +131,21 @@
           "data": [
             {
               "type": "check",
-              "name": "BankLkup.dat",
-              "date_change": 1577836800,
+              "name": "BankLkup.dat_default",
+              "date_change": 1777597203,
               "size": 8964,
-              "hash": "feddb0f6872f91c13e430b09dc60dfe5"
+              "hash": "313fbd22b2433ee0979e4d92d5b89af5",
+              "install_as": "BankLkup.dat",
+              "variant_tag": "default"
+            },
+            {
+              "type": "check",
+              "name": "BankLkup.dat_future",
+              "date_change": 1777597203,
+              "size": 8964,
+              "hash": "feddb0f6872f91c13e430b09dc60dfe5",
+              "install_as": "BankLkup.dat",
+              "variant_tag": "future"
             },
             {
               "type": "file",
@@ -180,10 +191,21 @@
           "data": [
             {
               "type": "file",
-              "name": "ARIZONA",
-              "date_change": 1577836800,
+              "name": "ARIZONA_default",
+              "date_change": 1777597203,
+              "size": 74912378,
+              "hash": "c3553ace833fdf6c5046db56d4fbab11",
+              "install_as": "ARIZONA",
+              "variant_tag": "default"
+            },
+            {
+              "type": "file",
+              "name": "ARIZONA_future",
+              "date_change": 1777597203,
               "size": 77471384,
-              "hash": "1fe47fa43f8b50b91ae8c06daf37cf18"
+              "hash": "1fe47fa43f8b50b91ae8c06daf37cf18",
+              "install_as": "ARIZONA",
+              "variant_tag": "future"
             },
             {
               "type": "file",
@@ -194,10 +216,21 @@
             },
             {
               "type": "file",
-              "name": "GENRL",
-              "date_change": 1577836800,
+              "name": "GENRL_default",
+              "date_change": 1777597203,
+              "size": 29107484,
+              "hash": "45e6af4d43fc034ffdfe998d67d81bdf",
+              "install_as": "GENRL",
+              "variant_tag": "default"
+            },
+            {
+              "type": "file",
+              "name": "GENRL_future",
+              "date_change": 1777597203,
               "size": 31396430,
-              "hash": "d583368f1188f8ea397d50bb49f51a7d"
+              "hash": "d583368f1188f8ea397d50bb49f51a7d",
+              "install_as": "GENRL",
+              "variant_tag": "future"
             },
             {
               "type": "file",
@@ -1298,7 +1331,7 @@
     {
       "type": "dir",
       "name": "data",
-      "size": 44415458,
+      "size": 44415454,
       "data": [
         {
           "type": "dir",
@@ -4047,9 +4080,9 @@
         {
           "type": "file",
           "name": "default.dat",
-          "date_change": 1577836800,
-          "size": 1203,
-          "hash": "de53cdc58d48519de87d395aa75b32dc"
+          "date_change": 1777826296,
+          "size": 1199,
+          "hash": "4d5f41b7b2fbeec6c6458deb3544bec6"
         },
         {
           "type": "file",
@@ -4910,7 +4943,7 @@
     {
       "type": "dir",
       "name": "models",
-      "size": 8035877361,
+      "size": 8036518385,
       "data": [
         {
           "type": "dir",
@@ -5551,17 +5584,39 @@
         },
         {
           "type": "file",
-          "name": "effects.fxp",
-          "date_change": 1577836800,
-          "size": 2560096,
-          "hash": "4540a433518127873338257e467aaed5"
+          "name": "effects.fxp_default",
+          "date_change": 1777597203,
+          "size": 2251091,
+          "hash": "4bde747c097e334ccb26c24991772f62",
+          "install_as": "effects.fxp",
+          "variant_tag": "default"
         },
         {
           "type": "file",
-          "name": "effectsPC.txd",
-          "date_change": 1577836800,
+          "name": "effects.fxp_future",
+          "date_change": 1777597203,
+          "size": 2560096,
+          "hash": "4540a433518127873338257e467aaed5",
+          "install_as": "effects.fxp",
+          "variant_tag": "future"
+        },
+        {
+          "type": "file",
+          "name": "effectsPC.txd_default",
+          "date_change": 1777597203,
+          "size": 24909000,
+          "hash": "91f724d875b4cd0a251b61a530fdf229",
+          "install_as": "effectsPC.txd",
+          "variant_tag": "default"
+        },
+        {
+          "type": "file",
+          "name": "effectsPC.txd_future",
+          "date_change": 1777597203,
           "size": 25270600,
-          "hash": "bb200a98f7f2b5f0a374350a0bfd2e04"
+          "hash": "bb200a98f7f2b5f0a374350a0bfd2e04",
+          "install_as": "effectsPC.txd",
+          "variant_tag": "future"
         },
         {
           "type": "file",
@@ -5845,17 +5900,21 @@
         },
         {
           "type": "file",
-          "name": "trees_def.img",
-          "date_change": 1777148605,
+          "name": "trees.img_default",
+          "date_change": 1777825439,
           "size": 9068544,
-          "hash": "7ca70616db1ba489bfdc342b67eccd7c"
+          "hash": "7ca70616db1ba489bfdc342b67eccd7c",
+          "install_as": "trees.img",
+          "variant_tag": "default"
         },
         {
           "type": "file",
-          "name": "trees_new.img",
-          "date_change": 1777148605,
+          "name": "trees.img_future",
+          "date_change": 1777825439,
           "size": 25006080,
-          "hash": "466b1158631aef6cf2f491aa08523fee"
+          "hash": "466b1158631aef6cf2f491aa08523fee",
+          "install_as": "trees.img",
+          "variant_tag": "future"
         },
         {
           "type": "file",
@@ -5957,10 +6016,21 @@
         },
         {
           "type": "file",
-          "name": "weapons.img",
-          "date_change": 1577836800,
+          "name": "weapons.img_default",
+          "date_change": 1777686354,
+          "size": 10424320,
+          "hash": "94ac6e082d5d6d28429b7a5cce065fd8",
+          "install_as": "weapons.img",
+          "variant_tag": "default"
+        },
+        {
+          "type": "file",
+          "name": "weapons.img_future",
+          "date_change": 1777597203,
           "size": 23871488,
-          "hash": "97c1b1c9400b85f60d27da1ecc5c9afc"
+          "hash": "0c4b3a686f04f9b32b6bdc93d0c55b75",
+          "install_as": "weapons.img",
+          "variant_tag": "future"
         }
       ]
     },
