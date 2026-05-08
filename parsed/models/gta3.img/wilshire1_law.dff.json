@@ -5,27 +5,9 @@
   "geometries": [
     {
       "index": 0,
-      "vertices": 1376,
-      "triangles": 974,
+      "vertices": 1252,
+      "triangles": 850,
       "materials": [
-        {
-          "color": {
-            "r": 255,
-            "g": 255,
-            "b": 255,
-            "a": 255
-          },
-          "texture": null
-        },
-        {
-          "color": {
-            "r": 255,
-            "g": 255,
-            "b": 255,
-            "a": 255
-          },
-          "texture": null
-        },
         {
           "color": {
             "r": 255,
@@ -138,7 +120,5 @@
     }
   ],
   "frames": 1,
-  "dummies": [
-    "wilshire1_law"
-  ]
+  "dummies": []
 }
