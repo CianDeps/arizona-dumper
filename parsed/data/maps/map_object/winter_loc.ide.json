@@ -1,6 +1,6 @@
 {
   "type": "config",
-  "lines": 46,
+  "lines": 50,
   "content": [
     "objs",
     "12000, legisq_main, legisq, 300, 0",
@@ -21,6 +21,11 @@
     "12009, lawnbushb4, lawnbush, 100, 2097156",
     "12010, lawnbushb5, lawnbush, 100, 2097156",
     "12016, lawngrndasas1, lawngrnd, 100, 0",
+    "14007, ny_ice_gate3, ny_2026, 300, 0 #old#12588",
+    "14008, ny_ice_snowmen, ny_2026, 300, #old#12619",
+    "14010, ny_ice_mushroom, ny_2026, 300, #old#12591",
+    "14011, ny_ice_fount, ny_2026, 300, 0 #old#12587",
+    "15397, ny_ice_decor2, ny_2026, 300, 0 #old#12585",
     "12527, ny_log_fir1, ny_2026, 150, 2097156",
     "12528, ny_log_fir2, ny_2026, 150, 2097156",
     "15776, ny_japan_pillar, ny_2026, 300, 0",
@@ -41,7 +46,6 @@
     "end",
     "txdp",
     "legisq, LA_gene",
-    "ny_2026, ny_2026_dop",
     "end",
     "countn2_9.col - s_bit_08.col",
     "vegase_10.col - vgsEedge26.col",
