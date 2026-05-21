@@ -1,6 +1,6 @@
 {
   "type": "config",
-  "lines": 92,
+  "lines": 93,
   "content": [
     "[DYNAMIC LIMITS]",
     "ColModels = 32511",
@@ -12,6 +12,7 @@
     "[IPL]",
     "Entity index array = 140",
     "[IDE LIMITS]",
+    "IDE Objects Type 1 = 24000",
     "Timed Objects = 537",
     "Hier Objects = 206",
     "Vehicle Models = 921",
