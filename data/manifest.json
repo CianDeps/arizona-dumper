@@ -31,8 +31,15 @@
     {
       "type": "dir",
       "name": "arizona",
-      "size": 194678899,
+      "size": 200768404,
       "data": [
+        {
+          "type": "file",
+          "name": "arizona_car_render_exclusions.json",
+          "date_change": 1780028984,
+          "size": 488,
+          "hash": "6cd2ab15a603faec8adb129c88753832"
+        },
         {
           "type": "file",
           "name": "BulletsPreset.json",
@@ -50,9 +57,9 @@
         {
           "type": "file",
           "name": "EVLAnimation.json",
-          "date_change": 1777588377,
+          "date_change": 1780028984,
           "size": 77413,
-          "hash": "b0500c2587f3b9af3dcedb4b689b2b00"
+          "hash": "b88ad1a2b5a058c068c31d8c960e151d"
         },
         {
           "type": "file",
@@ -71,23 +78,23 @@
         {
           "type": "file",
           "name": "items.zip",
-          "date_change": 1577836800,
-          "size": 193614648,
-          "hash": "24a1560031678396a21060244fe1e08f"
+          "date_change": 1780046189,
+          "size": 199688553,
+          "hash": "9f8435e7ccdd9cf362c43095d2382371"
         },
         {
           "type": "check",
           "name": "LauncherLimits.ini",
-          "date_change": 1779394034,
-          "size": 9772,
-          "hash": "131094f12a91500801291a91a03bb130"
+          "date_change": 1780028984,
+          "size": 9773,
+          "hash": "555e7bef16a6f7f40a489f048056e9a2"
         },
         {
           "type": "check",
           "name": "NamedModels.json",
-          "date_change": 1779137135,
-          "size": 772302,
-          "hash": "da0936e66ba89d903712f49a211ddddf"
+          "date_change": 1780028984,
+          "size": 787413,
+          "hash": "64788f9118adba91b9e4e47fea58acfe"
         },
         {
           "type": "file",
@@ -122,12 +129,12 @@
     {
       "type": "dir",
       "name": "audio",
-      "size": 2282673935,
+      "size": 2284978217,
       "data": [
         {
           "type": "dir",
           "name": "CONFIG",
-          "size": 389650,
+          "size": 389662,
           "data": [
             {
               "type": "check",
@@ -187,7 +194,7 @@
         {
           "type": "dir",
           "name": "SFX",
-          "size": 1984381206,
+          "size": 1986685476,
           "data": [
             {
               "type": "file",
@@ -407,7 +414,7 @@
     {
       "type": "dir",
       "name": "cef",
-      "size": 195287297,
+      "size": 195292417,
       "data": [
         {
           "type": "dir",
@@ -1147,9 +1154,9 @@
         {
           "type": "check",
           "name": "cef_process.exe",
-          "date_change": 1577836800,
-          "size": 3750864,
-          "hash": "2671b285461371a4d27d2a5c5451f229"
+          "date_change": 1780028984,
+          "size": 3752400,
+          "hash": "543f66fc0b3259aebd4799b80100b708"
         },
         {
           "type": "file",
@@ -1203,9 +1210,9 @@
         {
           "type": "check",
           "name": "loader.dll",
-          "date_change": 1777503376,
-          "size": 421392,
-          "hash": "79a3e52a0f238693e9b295380c520a84"
+          "date_change": 1780028984,
+          "size": 424976,
+          "hash": "a2b08cd935df6200d70b704808345804"
         },
         {
           "type": "file",
@@ -1331,7 +1338,7 @@
     {
       "type": "dir",
       "name": "data",
-      "size": 51362882,
+      "size": 51360623,
       "data": [
         {
           "type": "dir",
@@ -1714,40 +1721,40 @@
         {
           "type": "dir",
           "name": "maps",
-          "size": 42587345,
+          "size": 42578499,
           "data": [
             {
               "type": "dir",
               "name": "accessories",
-              "size": 74124,
+              "size": 74557,
               "data": [
                 {
                   "type": "file",
                   "name": "accessories.ide",
-                  "date_change": 1577836800,
-                  "size": 74124,
-                  "hash": "82a0f3e3757f53c7107b199e780ac3ca"
+                  "date_change": 1780028984,
+                  "size": 74557,
+                  "hash": "05a266a19a33861a4efd1c15a0e29899"
                 }
               ]
             },
             {
               "type": "dir",
               "name": "country",
-              "size": 515753,
+              "size": 513915,
               "data": [
                 {
                   "type": "file",
                   "name": "countn2.ide",
-                  "date_change": 1577836800,
+                  "date_change": 1780028984,
                   "size": 35446,
-                  "hash": "e23e36af17c337db8066269ea5524dc3"
+                  "hash": "5007771497af72df854d60f7ab64c8cd"
                 },
                 {
                   "type": "file",
                   "name": "countN2.IPL",
-                  "date_change": 1778194259,
-                  "size": 80206,
-                  "hash": "279aedb1601db4fc7725367dbe416116"
+                  "date_change": 1780028984,
+                  "size": 79863,
+                  "hash": "1d6345aa47b796ec8b22217624df709a"
                 },
                 {
                   "type": "file",
@@ -1759,9 +1766,9 @@
                 {
                   "type": "file",
                   "name": "countrye.ipl",
-                  "date_change": 1778194259,
-                  "size": 130361,
-                  "hash": "0a96168807543960ebb1e38670d61f70"
+                  "date_change": 1780028984,
+                  "size": 129223,
+                  "hash": "96f44227d16f7e25e67545608e4485d7"
                 },
                 {
                   "type": "file",
@@ -1787,9 +1794,9 @@
                 {
                   "type": "file",
                   "name": "countryS.ipl",
-                  "date_change": 1778194259,
-                  "size": 47531,
-                  "hash": "1eaff696b19c45942b58b3d1bfb99ae4"
+                  "date_change": 1780028984,
+                  "size": 47247,
+                  "hash": "8289be49078cf1ec925236cc45db3ceb"
                 },
                 {
                   "type": "file",
@@ -1801,9 +1808,9 @@
                 {
                   "type": "file",
                   "name": "countryw.ipl",
-                  "date_change": 1778194259,
-                  "size": 78324,
-                  "hash": "39a26f08ccbfd91d30f531d0e17a0508"
+                  "date_change": 1780028984,
+                  "size": 78251,
+                  "hash": "a3821933dc93a4492a7a5c845d016fd2"
                 },
                 {
                   "type": "file",
@@ -1838,14 +1845,14 @@
             {
               "type": "dir",
               "name": "gamemods",
-              "size": 36106,
+              "size": 36146,
               "data": [
                 {
                   "type": "file",
                   "name": "gamemods.ide",
-                  "date_change": 1778194259,
-                  "size": 35078,
-                  "hash": "9d41cc036ba6b8aae73c824692a9dfad"
+                  "date_change": 1780028984,
+                  "size": 35118,
+                  "hash": "636cd19830ab121f1896355708ab7b6d"
                 },
                 {
                   "type": "file",
@@ -2104,21 +2111,21 @@
             {
               "type": "dir",
               "name": "LA",
-              "size": 580826,
+              "size": 579943,
               "data": [
                 {
                   "type": "file",
                   "name": "LAe.ide",
-                  "date_change": 1577836800,
-                  "size": 12271,
-                  "hash": "7cf3fb80b3405c146ad211d75a77ac59"
+                  "date_change": 1780028984,
+                  "size": 12415,
+                  "hash": "f465b366f28195c86738bae20b460b70"
                 },
                 {
                   "type": "file",
                   "name": "LAe.ipl",
-                  "date_change": 1778194259,
-                  "size": 48520,
-                  "hash": "04455ff663cf69ece37b4510667216b7"
+                  "date_change": 1780028984,
+                  "size": 48549,
+                  "hash": "93ea052fb028c33ef3182db4bc9a14fb"
                 },
                 {
                   "type": "file",
@@ -2158,9 +2165,9 @@
                 {
                   "type": "file",
                   "name": "LAn.ipl",
-                  "date_change": 1778194259,
-                  "size": 23333,
-                  "hash": "b8bf647ee565f913f890f1619a4c8f81"
+                  "date_change": 1780028984,
+                  "size": 23155,
+                  "hash": "352ff9acb31e9117d95c92fabd1427a8"
                 },
                 {
                   "type": "file",
@@ -2186,9 +2193,9 @@
                 {
                   "type": "file",
                   "name": "LAs.ipl",
-                  "date_change": 1778194259,
-                  "size": 51560,
-                  "hash": "9424411c7793d497d893d33e39d60f98"
+                  "date_change": 1780028984,
+                  "size": 51470,
+                  "hash": "f017b1f60eb23dcc3c81b88b76ce7305"
                 },
                 {
                   "type": "file",
@@ -2200,9 +2207,9 @@
                 {
                   "type": "file",
                   "name": "LAs2.ipl",
-                  "date_change": 1778194259,
-                  "size": 46167,
-                  "hash": "e7a3318022eeb32906a347d04bdb2368"
+                  "date_change": 1780028984,
+                  "size": 45379,
+                  "hash": "c458e29a37ba3d212b608e5410346b75"
                 },
                 {
                   "type": "file",
@@ -2314,7 +2321,7 @@
             {
               "type": "dir",
               "name": "map_object",
-              "size": 368480,
+              "size": 378635,
               "data": [
                 {
                   "type": "file",
@@ -2347,9 +2354,9 @@
                 {
                   "type": "file",
                   "name": "easter.ide",
-                  "date_change": 1777148605,
-                  "size": 8898,
-                  "hash": "993ae08667727507920539bb63cc9761"
+                  "date_change": 1780028984,
+                  "size": 8910,
+                  "hash": "54c24ff5ce64000818c2867ac69938a5"
                 },
                 {
                   "type": "file",
@@ -2375,23 +2382,23 @@
                 {
                   "type": "file",
                   "name": "map_loc.ide",
-                  "date_change": 1778532050,
-                  "size": 1315,
-                  "hash": "9522e80584d7dc6a1b5e68396a961132"
+                  "date_change": 1780028984,
+                  "size": 1467,
+                  "hash": "a7fb2c1fdad33b75ee16ee6ec16d75e8"
                 },
                 {
                   "type": "file",
                   "name": "map_loc.ipl",
-                  "date_change": 1778194259,
-                  "size": 23239,
-                  "hash": "fbe12d9a21735a8cfe61578be87ad62a"
+                  "date_change": 1780028984,
+                  "size": 33172,
+                  "hash": "3c17c4091aa0022e537a015e89839ba7"
                 },
                 {
                   "type": "file",
                   "name": "map_props.ide",
-                  "date_change": 1577836800,
-                  "size": 3684,
-                  "hash": "31ba9363d3fa3f2b1b75a2223e5e3c8d"
+                  "date_change": 1780042708,
+                  "size": 3742,
+                  "hash": "b0b9b5d6341b3ccd0d334ceb18905ff8"
                 },
                 {
                   "type": "file",
@@ -2452,7 +2459,7 @@
                 {
                   "type": "file",
                   "name": "tower.ide",
-                  "date_change": 1777148605,
+                  "date_change": 1577836800,
                   "size": 2035,
                   "hash": "b52cc7966dbea065e36dd89b9efa29c5"
                 },
@@ -2480,9 +2487,9 @@
                 {
                   "type": "file",
                   "name": "winter_loc.ide",
-                  "date_change": 1779137135,
+                  "date_change": 1780028984,
                   "size": 16681,
-                  "hash": "16e1e15f3d50f6773be4f8e448b26a79"
+                  "hash": "7d7171207a975a5921de6b9b2cfe3e44"
                 },
                 {
                   "type": "file",
@@ -2606,9 +2613,9 @@
                 {
                   "type": "file",
                   "name": "SFe.ide",
-                  "date_change": 1577836800,
+                  "date_change": 1780028984,
                   "size": 16223,
-                  "hash": "53f9413c9679274518de0504fa6449aa"
+                  "hash": "dcc3f7e1fc98c3a2a822a4da8ddc44bb"
                 },
                 {
                   "type": "file",
@@ -3182,7 +3189,7 @@
             {
               "type": "dir",
               "name": "vegas",
-              "size": 412820,
+              "size": 411695,
               "data": [
                 {
                   "type": "file",
@@ -3194,9 +3201,9 @@
                 {
                   "type": "file",
                   "name": "vegasE.ipl",
-                  "date_change": 1778194259,
-                  "size": 100222,
-                  "hash": "1a77687062d04e9e50bab6348ea8cbc5"
+                  "date_change": 1780028984,
+                  "size": 100147,
+                  "hash": "43ae943de5134b802ed2bcc0846348d7"
                 },
                 {
                   "type": "file",
@@ -3222,9 +3229,9 @@
                 {
                   "type": "file",
                   "name": "vegasS.ipl",
-                  "date_change": 1778194259,
-                  "size": 43357,
-                  "hash": "ef565c76155b48587d3e0b993695f8b1"
+                  "date_change": 1780028984,
+                  "size": 42391,
+                  "hash": "dc226854be0a7c020c67647db65dea07"
                 },
                 {
                   "type": "file",
@@ -3236,9 +3243,9 @@
                 {
                   "type": "file",
                   "name": "vegasW.ipl",
-                  "date_change": 1778194259,
-                  "size": 102804,
-                  "hash": "5e392b9394c9cc5a5cd7d34e75e48c09"
+                  "date_change": 1780028984,
+                  "size": 102720,
+                  "hash": "61e106aa084a4f5d08e4645ba43d7a97"
                 },
                 {
                   "type": "file",
@@ -3259,14 +3266,14 @@
             {
               "type": "dir",
               "name": "veh_mods",
-              "size": 25101,
+              "size": 27178,
               "data": [
                 {
                   "type": "file",
                   "name": "veh_mods.ide",
-                  "date_change": 1777588372,
-                  "size": 25101,
-                  "hash": "354cc3b5eb8c485d287d44627d6e267c"
+                  "date_change": 1780028984,
+                  "size": 27178,
+                  "hash": "7b353c24a2c6230560e24fb997603f0d"
                 }
               ]
             },
@@ -3301,9 +3308,9 @@
             {
               "type": "file",
               "name": "occluLA.ipl",
-              "date_change": 1779137135,
-              "size": 38892,
-              "hash": "08e9d0a481d9f67a3e21f5a61d6e7125"
+              "date_change": 1780028984,
+              "size": 38006,
+              "hash": "71b9a70c9465779ba82540fbdea28f88"
             },
             {
               "type": "file",
@@ -3378,9 +3385,9 @@
             {
               "type": "file",
               "name": "remove_building.bin",
-              "date_change": 1779137135,
-              "size": 6076,
-              "hash": "ae6c09e08d13908f914f9d468a016888"
+              "date_change": 1780028984,
+              "size": 6058,
+              "hash": "4ff2b788b88ed46fa57f0ab9daf45af7"
             },
             {
               "type": "file",
@@ -3392,9 +3399,9 @@
             {
               "type": "file",
               "name": "streamer_exteriors.bin",
-              "date_change": 1778660606,
-              "size": 2512207,
-              "hash": "5ed7c78acde6df3c368c3d081e304e89"
+              "date_change": 1780046346,
+              "size": 2511572,
+              "hash": "b818700e6ad0ae4773549d3be1df2962"
             },
             {
               "type": "file",
@@ -3406,9 +3413,9 @@
             {
               "type": "file",
               "name": "streamer_exteriors_VC.bin",
-              "date_change": 1779137135,
-              "size": 2386549,
-              "hash": "d485f448193f7119f9fcba2f2c3a7c99"
+              "date_change": 1780028984,
+              "size": 2385367,
+              "hash": "a9cf5dff3c090c26a6bfc4fa42345d9e"
             },
             {
               "type": "file",
@@ -3420,9 +3427,9 @@
             {
               "type": "file",
               "name": "streamer_interiors.bin",
-              "date_change": 1778660606,
-              "size": 5161425,
-              "hash": "63d6afdc6a236b3411cb89663ef173d7"
+              "date_change": 1780028984,
+              "size": 5103018,
+              "hash": "07baea9a88af6af91ac6fa219f38dea1"
             },
             {
               "type": "file",
@@ -3434,9 +3441,9 @@
             {
               "type": "file",
               "name": "streamer_interiors_VC.bin",
-              "date_change": 1779137135,
-              "size": 4693632,
-              "hash": "be8529e98cbbb452ffed55f562f08c3b"
+              "date_change": 1780028984,
+              "size": 4737055,
+              "hash": "1ec60a4586049b90c5ec8a953efd9a2f"
             },
             {
               "type": "file",
@@ -4031,9 +4038,9 @@
         {
           "type": "file",
           "name": "alphafix.txt",
-          "date_change": 1779137135,
-          "size": 2398,
-          "hash": "61f266c6b9d2a83fda5d089896bbfe4e"
+          "date_change": 1780028984,
+          "size": 3502,
+          "hash": "613d6718cfa1ad688ff177ebb1a52f65"
         },
         {
           "type": "file",
@@ -4073,16 +4080,16 @@
         {
           "type": "file",
           "name": "carmods.dat",
-          "date_change": 1777588372,
-          "size": 12687,
-          "hash": "59faa4fe8d68edc9b4abbeb8f7fc23b3"
+          "date_change": 1780028984,
+          "size": 12492,
+          "hash": "81b80340cd6459e2fd56c8e612dcbca3"
         },
         {
           "type": "file",
           "name": "carmods_s.dat",
-          "date_change": 1577836800,
-          "size": 27523,
-          "hash": "c8850f5d3320637513f4571a6b86eb28"
+          "date_change": 1780028984,
+          "size": 28578,
+          "hash": "bfe2d678908269faa1625f9064d22c05"
         },
         {
           "type": "file",
@@ -4129,9 +4136,9 @@
         {
           "type": "file",
           "name": "gta.dat",
-          "date_change": 1577836800,
-          "size": 6983,
-          "hash": "2ae34164a652bc1bd0f5cabbed5ca645"
+          "date_change": 1780028984,
+          "size": 6987,
+          "hash": "852934fd6a612354c7b8afe90b0974a5"
         },
         {
           "type": "file",
@@ -4150,9 +4157,9 @@
         {
           "type": "file",
           "name": "gtasa_vehicleAudioSettings.cfg",
-          "date_change": 1577836800,
-          "size": 104851,
-          "hash": "739a36036311df8d47afb7e14bbf24ab"
+          "date_change": 1780028984,
+          "size": 106194,
+          "hash": "6c35f779863bebb5a635274b2b8575a4"
         },
         {
           "type": "file",
@@ -4164,9 +4171,9 @@
         {
           "type": "file",
           "name": "handling.cfg",
-          "date_change": 1779137135,
-          "size": 202706,
-          "hash": "cf4c0fed7d1dcc1c45ed7d50d44da36f"
+          "date_change": 1780028984,
+          "size": 204699,
+          "hash": "b545f5aa8477f9d897d290a348f18040"
         },
         {
           "type": "file",
@@ -4360,9 +4367,9 @@
         {
           "type": "file",
           "name": "vehicles.ide",
-          "date_change": 1577836800,
-          "size": 107136,
-          "hash": "a3a6b84b332b85a8864478fa4f3bf517"
+          "date_change": 1780028984,
+          "size": 108413,
+          "hash": "b4326c69cbe0285f171505f9fc8c143f"
         },
         {
           "type": "file",
@@ -4395,9 +4402,9 @@
         {
           "type": "file",
           "name": "weapon.dat",
-          "date_change": 1577836800,
-          "size": 24653,
-          "hash": "3bb367dd6b8f7dda320dc6f820e1d989"
+          "date_change": 1780028984,
+          "size": 24659,
+          "hash": "457b56230ebba25c1fb42b6946326a70"
         },
         {
           "type": "file",
@@ -4957,7 +4964,7 @@
     {
       "type": "dir",
       "name": "models",
-      "size": 8022143473,
+      "size": 8068157549,
       "data": [
         {
           "type": "dir",
@@ -4990,7 +4997,7 @@
         {
           "type": "dir",
           "name": "generic",
-          "size": 40599477,
+          "size": 42522161,
           "data": [
             {
               "type": "file",
@@ -5016,9 +5023,9 @@
             {
               "type": "file",
               "name": "vehicle.txd",
-              "date_change": 1577836800,
-              "size": 40427748,
-              "hash": "7ecdf332d362be8d49ae5a28d2c9978e"
+              "date_change": 1780028984,
+              "size": 42350432,
+              "hash": "6aea6067496ffbdd43a33e2d0d2963e6"
             },
             {
               "type": "file",
@@ -5506,9 +5513,9 @@
             {
               "type": "check",
               "name": "LOADSCS.txd",
-              "date_change": 1577836800,
+              "date_change": 1780028984,
               "size": 14745768,
-              "hash": "cf7f8d010f89c375599a5853cd6f5eaa"
+              "hash": "ee72b501bb80de2de2fe0e1359077f1e"
             },
             {
               "type": "file",
@@ -5557,9 +5564,9 @@
         {
           "type": "file",
           "name": "accessories.img",
-          "date_change": 1779137135,
-          "size": 321531904,
-          "hash": "88de4e345cafefb94270ce9a43b668a5"
+          "date_change": 1780028984,
+          "size": 321529856,
+          "hash": "a234ebc801fab9cdaa64262059568768"
         },
         {
           "type": "file",
@@ -5670,16 +5677,16 @@
         {
           "type": "file",
           "name": "gamemods.img",
-          "date_change": 1778194259,
-          "size": 223264768,
-          "hash": "fc641dd06941a7f75376da16f550204e"
+          "date_change": 1780028984,
+          "size": 223641600,
+          "hash": "65b7444558e5296e17c25fa7e7e1a7ee"
         },
         {
           "type": "file",
           "name": "gta3.img",
-          "date_change": 1779164678,
-          "size": 330119168,
-          "hash": "6bc244db8d8e462da7695e02f4664fe7"
+          "date_change": 1780042737,
+          "size": 330215424,
+          "hash": "beae822fe8db484bce1ac6ea0ba3eabb"
         },
         {
           "type": "file",
@@ -5705,7 +5712,7 @@
         {
           "type": "file",
           "name": "gta3_def_season_base.img",
-          "date_change": 1777148605,
+          "date_change": 1577836800,
           "size": 421052416,
           "hash": "8159adfccf70d0c42a790929b0601dc5"
         },
@@ -5775,9 +5782,9 @@
         {
           "type": "file",
           "name": "gta_int.img",
-          "date_change": 1778194259,
+          "date_change": 1780028984,
           "size": 153260032,
-          "hash": "ede115d1bcf1bf0d83914a89b77885e4"
+          "hash": "87967d73c405bb5c5b87eb2fbf82231a"
         },
         {
           "type": "file",
@@ -5817,9 +5824,9 @@
         {
           "type": "file",
           "name": "map_object.img",
-          "date_change": 1779137135,
-          "size": 332578816,
-          "hash": "eba5c7d56ac80b4290f0c8fbd839aefb"
+          "date_change": 1780042708,
+          "size": 336166912,
+          "hash": "a9c531afa73d045b0afcb2f2a9b392a6"
         },
         {
           "type": "file",
@@ -5859,9 +5866,9 @@
         {
           "type": "file",
           "name": "peds_2.img",
-          "date_change": 1779137082,
-          "size": 202264576,
-          "hash": "3b6d00cf72912de75dd0c08616e2499a"
+          "date_change": 1780028984,
+          "size": 206987264,
+          "hash": "8e7bbfcb8b1022571ab78b21451d548f"
         },
         {
           "type": "file",
@@ -5915,9 +5922,9 @@
         {
           "type": "file",
           "name": "trees.img_default",
-          "date_change": 1779137135,
+          "date_change": 1780028984,
           "size": 9109504,
-          "hash": "a8c6b6aaea296e9e53fea9013f4a7aa1",
+          "hash": "de5ff4ce7d08b413a68e7d668429c8e6",
           "install_as": "trees.img",
           "variant_tag": "default"
         },
@@ -5933,9 +5940,9 @@
         {
           "type": "file",
           "name": "tuning.img",
-          "date_change": 1777588372,
-          "size": 155160576,
-          "hash": "2a572e611378a1ad614467de45b2763e"
+          "date_change": 1780028984,
+          "size": 158095360,
+          "hash": "7469b2228b57d3c104ddf7373caaacde"
         },
         {
           "type": "file",
@@ -6010,9 +6017,9 @@
         {
           "type": "file",
           "name": "vehs_8.img",
-          "date_change": 1777588372,
-          "size": 92604416,
-          "hash": "957a3e4027505f4031abf0e179fc399d"
+          "date_change": 1780028984,
+          "size": 124979200,
+          "hash": "5085dca0c374f9c58cf4f57129fd4db7"
         },
         {
           "type": "file",
@@ -6024,9 +6031,9 @@
         {
           "type": "file",
           "name": "vinils.txd",
-          "date_change": 1777148605,
+          "date_change": 1780028984,
           "size": 67305096,
-          "hash": "808142f2a9f2a3610cb24dfcfbb705f6"
+          "hash": "57fcabb20e1bf502bdcfe6264e42a938"
         },
         {
           "type": "file",
@@ -6387,7 +6394,7 @@
     {
       "type": "dir",
       "name": "SAMP",
-      "size": 49935370,
+      "size": 49935367,
       "data": [
         {
           "type": "file",
@@ -6420,9 +6427,9 @@
         {
           "type": "file",
           "name": "SAMP.ide",
-          "date_change": 1779137082,
-          "size": 202311,
-          "hash": "2af6e3e807693316a4b0c7eead184a67"
+          "date_change": 1780028984,
+          "size": 202308,
+          "hash": "39018118d6703a2129af932c6c0c0bce"
         },
         {
           "type": "file",
@@ -6499,9 +6506,9 @@
     {
       "type": "check",
       "name": "_chat.asi",
-      "date_change": 1777943890,
-      "size": 1105424,
-      "hash": "4b55674e502ee6c76736d461589c2fac"
+      "date_change": 1780046189,
+      "size": 1061392,
+      "hash": "317d1f8a8cfe0a9a340d8a93448deb9c"
     },
     {
       "type": "check",
@@ -6513,16 +6520,16 @@
     {
       "type": "file",
       "name": "arizona.asi",
-      "date_change": 1777415024,
-      "size": 3514384,
-      "hash": "11ca976924a7c0c3c9176550002a6e57"
+      "date_change": 1780028984,
+      "size": 6524432,
+      "hash": "ac1186c4550c51f7addf11fbd0324eff"
     },
     {
       "type": "check",
       "name": "AZVoice.asi",
-      "date_change": 1577836800,
-      "size": 3265760,
-      "hash": "8caccb983bfe83a9fabc36a8abfdff67"
+      "date_change": 1780028984,
+      "size": 3474448,
+      "hash": "33f7f9dd7197ce0ba827a9b150d3a97f"
     },
     {
       "type": "file",
@@ -6576,9 +6583,9 @@
     {
       "type": "check",
       "name": "core.asi",
-      "date_change": 1779164672,
-      "size": 2029072,
-      "hash": "4aed6a52b31578968d9cc96bcda3cf45"
+      "date_change": 1780035531,
+      "size": 1645072,
+      "hash": "bb011828a9ff8519af58194fd28e4b0e"
     },
     {
       "type": "file",
@@ -6653,9 +6660,9 @@
     {
       "type": "file",
       "name": "frontend.zip",
-      "date_change": 1778128044,
-      "size": 206360550,
-      "hash": "1e2c9b808566033d85b6f5dbb81ffaeb"
+      "date_change": 1780046339,
+      "size": 207777932,
+      "hash": "57556c3868b94b6fd7b48dd6c4c8da67"
     },
     {
       "type": "file",
@@ -6835,9 +6842,9 @@
     {
       "type": "check",
       "name": "vorbisFile.dll",
-      "date_change": 1777505136,
-      "size": 1516048,
-      "hash": "1637ee63ac87e50f5c9c04fc4540e023"
+      "date_change": 1780028984,
+      "size": 1541648,
+      "hash": "d76c3934c0e10117e7d7c2c7e88eaca2"
     },
     {
       "type": "file",

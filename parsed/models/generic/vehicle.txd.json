@@ -499,8 +499,15 @@
       "alpha": false
     },
     {
-      "name": "un_vehiclelights",
-      "width": 1024,
+      "name": "xvehicleenv128",
+      "width": 512,
+      "height": 512,
+      "format": "\u0015",
+      "alpha": false
+    },
+    {
+      "name": "body_remap",
+      "width": 512,
       "height": 512,
       "format": "\u0015",
       "alpha": false
@@ -513,17 +520,17 @@
       "alpha": false
     },
     {
-      "name": "xvehicleenv128",
-      "width": 512,
+      "name": "un_vehiclelights",
+      "width": 1024,
       "height": 512,
       "format": "\u0015",
       "alpha": false
     },
     {
-      "name": "body_remap",
+      "name": "un_classictyres",
       "width": 512,
       "height": 512,
-      "format": "\u0015",
+      "format": "DXT1",
       "alpha": false
     }
   ]

@@ -1919,26 +1919,26 @@
         ],
         "materials": [
           {
-            "group": 6,
-            "animation": "double_blink_red_1",
-            "start_time": 2,
-            "speed": 1
-          },
-          {
-            "group": 7,
-            "animation": "double_blink_red_1",
+            "group": 0,
+            "animation": "double_blink_blue_1",
             "start_time": 0,
             "speed": 1
           },
           {
-            "group": 8,
-            "animation": "double_blink_blue_1",
-            "start_time": 2,
+            "group": 1,
+            "animation": "double_blink_red_1",
+            "start_time": 1,
             "speed": 1
           },
           {
-            "group": 9,
+            "group": 2,
             "animation": "double_blink_blue_1",
+            "start_time": 1,
+            "speed": 1
+          },
+          {
+            "group": 3,
+            "animation": "double_blink_red_1",
             "start_time": 0,
             "speed": 1
           }

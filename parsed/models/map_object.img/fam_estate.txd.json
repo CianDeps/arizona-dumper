@@ -1,0 +1,26 @@
+{
+  "type": "txd",
+  "textures": [
+    {
+      "name": "fam_estate_tx2",
+      "width": 512,
+      "height": 512,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "fam_estate_txa2",
+      "width": 512,
+      "height": 256,
+      "format": "DXT3",
+      "alpha": true
+    },
+    {
+      "name": "fam_estate_txa3",
+      "width": 256,
+      "height": 512,
+      "format": "DXT3",
+      "alpha": true
+    }
+  ]
+}

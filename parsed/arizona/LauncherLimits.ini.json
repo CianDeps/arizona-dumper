@@ -1,6 +1,6 @@
 {
   "type": "config",
-  "lines": 93,
+  "lines": 92,
   "content": [
     "[DYNAMIC LIMITS]",
     "ColModels = 32511",
@@ -12,10 +12,9 @@
     "[IPL]",
     "Entity index array = 140",
     "[IDE LIMITS]",
-    "IDE Objects Type 1 = 24000",
     "Timed Objects = 537",
     "Hier Objects = 206",
-    "Vehicle Models = 921",
+    "Vehicle Models = 929",
     "Ped Models = 1100",
     "Weapon Models = 111",
     "2DFX Effects = 500",
@@ -65,7 +64,7 @@
     "Count of killable model IDs = 24510",
     "[HANDLING.CFG LIMITS]",
     "Apply handling.cfg patch = 0",
-    "Number of standard lines = 855",
+    "Number of standard lines = 863",
     "Number of bike lines = 37",
     "Number of flying lines = 52",
     "Number of boat lines = 40",
