@@ -129,30 +129,19 @@
     {
       "type": "dir",
       "name": "audio",
-      "size": 2284978217,
+      "size": 2072072613,
       "data": [
         {
           "type": "dir",
           "name": "CONFIG",
-          "size": 389662,
+          "size": 371734,
           "data": [
             {
               "type": "check",
-              "name": "BankLkup.dat_default",
-              "date_change": 1777597203,
-              "size": 8964,
-              "hash": "313fbd22b2433ee0979e4d92d5b89af5",
-              "install_as": "BankLkup.dat",
-              "variant_tag": "default"
-            },
-            {
-              "type": "check",
-              "name": "BankLkup.dat_future",
-              "date_change": 1777597203,
-              "size": 8964,
-              "hash": "feddb0f6872f91c13e430b09dc60dfe5",
-              "install_as": "BankLkup.dat",
-              "variant_tag": "future"
+              "name": "BankLkup.dat",
+              "date_change": 1780028984,
+              "size": 8976,
+              "hash": "12b2c7d49790f421ff02a754d6e7c436"
             },
             {
               "type": "file",
@@ -194,25 +183,14 @@
         {
           "type": "dir",
           "name": "SFX",
-          "size": 1986685476,
+          "size": 1773797800,
           "data": [
             {
               "type": "file",
-              "name": "ARIZONA_default",
-              "date_change": 1777597203,
-              "size": 74912378,
-              "hash": "c3553ace833fdf6c5046db56d4fbab11",
-              "install_as": "ARIZONA",
-              "variant_tag": "default"
-            },
-            {
-              "type": "file",
-              "name": "ARIZONA_future",
-              "date_change": 1777597203,
-              "size": 77471384,
-              "hash": "1fe47fa43f8b50b91ae8c06daf37cf18",
-              "install_as": "ARIZONA",
-              "variant_tag": "future"
+              "name": "ARIZONA",
+              "date_change": 1780028984,
+              "size": 81873368,
+              "hash": "753a0b9d1bf74417b27d5050ebe03c74"
             },
             {
               "type": "file",
@@ -223,21 +201,10 @@
             },
             {
               "type": "file",
-              "name": "GENRL_default",
-              "date_change": 1777597203,
-              "size": 29107484,
-              "hash": "45e6af4d43fc034ffdfe998d67d81bdf",
-              "install_as": "GENRL",
-              "variant_tag": "default"
-            },
-            {
-              "type": "file",
-              "name": "GENRL_future",
-              "date_change": 1777597203,
-              "size": 31396430,
-              "hash": "d583368f1188f8ea397d50bb49f51a7d",
-              "install_as": "GENRL",
-              "variant_tag": "future"
+              "name": "GENRL",
+              "date_change": 1780028984,
+              "size": 29298716,
+              "hash": "824c0440a098d90ab58664e6c7ccdf5c"
             },
             {
               "type": "file",
@@ -414,7 +381,7 @@
     {
       "type": "dir",
       "name": "cef",
-      "size": 195292417,
+      "size": 195297025,
       "data": [
         {
           "type": "dir",
@@ -1154,9 +1121,9 @@
         {
           "type": "check",
           "name": "cef_process.exe",
-          "date_change": 1780028984,
-          "size": 3752400,
-          "hash": "543f66fc0b3259aebd4799b80100b708"
+          "date_change": 1780061766,
+          "size": 3754448,
+          "hash": "520bd26898a650eb3ec8ff77628dfaf2"
         },
         {
           "type": "file",
@@ -1210,9 +1177,9 @@
         {
           "type": "check",
           "name": "loader.dll",
-          "date_change": 1780028984,
-          "size": 424976,
-          "hash": "a2b08cd935df6200d70b704808345804"
+          "date_change": 1780061766,
+          "size": 427536,
+          "hash": "18ee98134346b082e6a5123606d195cf"
         },
         {
           "type": "file",
@@ -4500,7 +4467,7 @@
         {
           "type": "file",
           "name": "RoadNumbers.TTF",
-          "date_change": 1777503376,
+          "date_change": 1577836800,
           "size": 14024,
           "hash": "5d0c49eb3b74b45b0007fbbfb43017a7"
         },
@@ -4964,7 +4931,7 @@
     {
       "type": "dir",
       "name": "models",
-      "size": 8068157549,
+      "size": 8065287325,
       "data": [
         {
           "type": "dir",
@@ -5605,39 +5572,31 @@
         },
         {
           "type": "file",
-          "name": "effects.fxp_default",
-          "date_change": 1777597203,
-          "size": 2251091,
-          "hash": "4bde747c097e334ccb26c24991772f62",
-          "install_as": "effects.fxp",
-          "variant_tag": "default"
+          "name": "effects.fxp",
+          "date_change": 1780061744,
+          "size": 2608163,
+          "hash": "4227e4d9d1ffd947aa282a7cc951c0d0"
         },
         {
           "type": "file",
-          "name": "effects.fxp_future",
-          "date_change": 1777597203,
-          "size": 2560096,
-          "hash": "4540a433518127873338257e467aaed5",
-          "install_as": "effects.fxp",
-          "variant_tag": "future"
+          "name": "effectsPC.txd",
+          "date_change": 1780061744,
+          "size": 25270600,
+          "hash": "bdd0fb93f11a0755cb91c6e3acd2420c"
         },
         {
           "type": "file",
           "name": "effectsPC.txd_default",
           "date_change": 1777597203,
           "size": 24909000,
-          "hash": "91f724d875b4cd0a251b61a530fdf229",
-          "install_as": "effectsPC.txd",
-          "variant_tag": "default"
+          "hash": "91f724d875b4cd0a251b61a530fdf229"
         },
         {
           "type": "file",
           "name": "effectsPC.txd_future",
           "date_change": 1777597203,
           "size": 25270600,
-          "hash": "bb200a98f7f2b5f0a374350a0bfd2e04",
-          "install_as": "effectsPC.txd",
-          "variant_tag": "future"
+          "hash": "bb200a98f7f2b5f0a374350a0bfd2e04"
         },
         {
           "type": "file",
@@ -5940,9 +5899,9 @@
         {
           "type": "file",
           "name": "tuning.img",
-          "date_change": 1780028984,
-          "size": 158095360,
-          "hash": "7469b2228b57d3c104ddf7373caaacde"
+          "date_change": 1780069453,
+          "size": 158091264,
+          "hash": "d6275b14ac2aaeba6d216c7c955ce49a"
         },
         {
           "type": "file",
@@ -6017,9 +5976,9 @@
         {
           "type": "file",
           "name": "vehs_8.img",
-          "date_change": 1780028984,
-          "size": 124979200,
-          "hash": "5085dca0c374f9c58cf4f57129fd4db7"
+          "date_change": 1780069453,
+          "size": 124778496,
+          "hash": "5644a1229d35e63b3a29567473c3a979"
         },
         {
           "type": "file",
@@ -6031,9 +5990,9 @@
         {
           "type": "file",
           "name": "vinils.txd",
-          "date_change": 1780028984,
-          "size": 67305096,
-          "hash": "57fcabb20e1bf502bdcfe6264e42a938"
+          "date_change": 1780069459,
+          "size": 69402792,
+          "hash": "52480a20919fd06d02b975ecbacc04d0"
         },
         {
           "type": "file",
@@ -6506,9 +6465,9 @@
     {
       "type": "check",
       "name": "_chat.asi",
-      "date_change": 1780046189,
-      "size": 1061392,
-      "hash": "317d1f8a8cfe0a9a340d8a93448deb9c"
+      "date_change": 1780069435,
+      "size": 1271824,
+      "hash": "9f1d252da9d9a9108858ba6092730a64"
     },
     {
       "type": "check",
@@ -6660,9 +6619,9 @@
     {
       "type": "file",
       "name": "frontend.zip",
-      "date_change": 1780046339,
-      "size": 207777932,
-      "hash": "57556c3868b94b6fd7b48dd6c4c8da67"
+      "date_change": 1780069442,
+      "size": 207777782,
+      "hash": "d8450890d0300d585da81b78c2309d3d"
     },
     {
       "type": "file",
