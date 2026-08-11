@@ -1,6 +1,6 @@
 {
   "type": "config",
-  "lines": 305,
+  "lines": 307,
   "content": [
     "objs",
     "5390, laeskateparkLA, glenpark7_lae, 150, 0",
@@ -130,7 +130,7 @@
     "5515, LODlaeIdlewood02, lod2lae1, 1500, 0",
     "5516, LODIdleProj02, lod2lae1, 1500, 0",
     "5517, LODIdleProj01, lod2lae1, 1500, 0",
-    "5518, Idlewood05_LAe, glenpark1x_lae, 150, 0",
+    "5518, Idlewood05_LAe, ghetto_lae, 150, 0",
     "5519, Idlewood04_LAe, glenpark1x_lae, 120, 0",
     "5520, BDupsHouse_LAe, bdupshouse_lae, 80, 128",
     "5521, Idlewofuk06_LAe, idlewood6_lae, 140, 128",
@@ -161,7 +161,7 @@
     "5546, LODroadt42, lod2lae1, 1500, 0",
     "5547, LODlasruff201, lod2lae1, 1500, 0",
     "5548, LODroad39t, lod2lae1, 1500, 0",
-    "5549, LODewood05_LAe, lod2lae1, 1500, 0",
+    "5549, LODewood05_LAe, lodghetto_lae, 1500, 0",
     "5550, LODroadfg44, lod2lae1, 1500, 0",
     "5551, LODcumpstreet, lod2lae1, 1500, 0",
     "5552, LODrofad45, lod2lae1, 1500, 0",
@@ -306,6 +306,8 @@
     "anim",
     "end",
     "txdp",
+    "ghetto_lae, glenpark1_lae",
+    "lodghetto_lae, lod2lae1",
     "end"
   ]
 }

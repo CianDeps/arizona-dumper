@@ -5,7 +5,7 @@
   "geometries": [
     {
       "index": 0,
-      "vertices": 1737,
+      "vertices": 1567,
       "triangles": 1806,
       "materials": [
         {
@@ -284,9 +284,9 @@
         },
         {
           "color": {
-            "r": 255,
-            "g": 255,
-            "b": 255,
+            "r": 0,
+            "g": 0,
+            "b": 0,
             "a": 76
           },
           "texture": null
@@ -397,9 +397,9 @@
         },
         {
           "color": {
-            "r": 255,
-            "g": 255,
-            "b": 255,
+            "r": 0,
+            "g": 0,
+            "b": 0,
             "a": 76
           },
           "texture": null
@@ -614,8 +614,8 @@
     },
     {
       "index": 15,
-      "vertices": 335,
-      "triangles": 488,
+      "vertices": 382,
+      "triangles": 554,
       "materials": [
         {
           "color": {
@@ -632,6 +632,15 @@
             "g": 255,
             "b": 255,
             "a": 255
+          },
+          "texture": null
+        },
+        {
+          "color": {
+            "r": 255,
+            "g": 255,
+            "b": 255,
+            "a": 127
           },
           "texture": null
         }
@@ -639,8 +648,8 @@
     },
     {
       "index": 16,
-      "vertices": 330,
-      "triangles": 488,
+      "vertices": 370,
+      "triangles": 554,
       "materials": [
         {
           "color": {
@@ -657,6 +666,15 @@
             "g": 255,
             "b": 255,
             "a": 255
+          },
+          "texture": null
+        },
+        {
+          "color": {
+            "r": 255,
+            "g": 255,
+            "b": 255,
+            "a": 127
           },
           "texture": null
         }
@@ -678,9 +696,9 @@
         },
         {
           "color": {
-            "r": 255,
-            "g": 255,
-            "b": 255,
+            "r": 0,
+            "g": 0,
+            "b": 0,
             "a": 76
           },
           "texture": null
@@ -766,41 +784,9 @@
           "texture": null
         }
       ]
-    },
-    {
-      "index": 23,
-      "vertices": 47,
-      "triangles": 66,
-      "materials": [
-        {
-          "color": {
-            "r": 255,
-            "g": 255,
-            "b": 255,
-            "a": 127
-          },
-          "texture": null
-        }
-      ]
-    },
-    {
-      "index": 24,
-      "vertices": 40,
-      "triangles": 66,
-      "materials": [
-        {
-          "color": {
-            "r": 255,
-            "g": 255,
-            "b": 255,
-            "a": 127
-          },
-          "texture": null
-        }
-      ]
     }
   ],
-  "frames": 51,
+  "frames": 49,
   "dummies": [
     "pony",
     "wheel_rf_dummy",
@@ -831,27 +817,25 @@
     "chassis_vlo",
     "carback",
     "carback_lg",
-    "RRdoor_ok",
-    "RRdoor_dam",
-    "RLdoor_ok",
-    "RLdoor_dam",
-    "FRdoor_ok",
-    "FRdoor_dam",
-    "FLdoor_ok",
-    "FLdoor_dam",
+    "door_rr_ok",
+    "door_rr_dam",
+    "door_lr_ok",
+    "door_lr_dam",
+    "door_rf_ok",
+    "door_rf_dam",
+    "door_lf_ok",
+    "door_lf_dam",
     "int",
     "rearlights",
     "Flights",
     "exh",
-    "Rbump_ok",
-    "Rbump_dam",
+    "bump_rear_ok",
+    "bump_rear_dam",
     "windscreen_ok",
     "windscreen_dam",
-    "Fbump_ok",
-    "Fbump_dam",
+    "bump_front_ok",
+    "bump_front_dam",
     "rearlights_glass",
-    "Flights_glass",
-    "rbumpglass_ok",
-    "rbumpglass_dam"
+    "Flights_glass"
   ]
 }

@@ -21,9 +21,18 @@
     },
     {
       "index": 1,
-      "vertices": 53353,
-      "triangles": 53597,
+      "vertices": 53373,
+      "triangles": 53615,
       "materials": [
+        {
+          "color": {
+            "r": 204,
+            "g": 204,
+            "b": 204,
+            "a": 255
+          },
+          "texture": null
+        },
         {
           "color": {
             "r": 15,
@@ -353,8 +362,8 @@
     },
     {
       "index": 6,
-      "vertices": 67,
-      "triangles": 86,
+      "vertices": 40,
+      "triangles": 58,
       "materials": [
         {
           "color": {

@@ -2,21 +2,7 @@
   "type": "txd",
   "textures": [
     {
-      "name": "dc_parking_t",
-      "width": 256,
-      "height": 256,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
       "name": "dc_sidewalk004",
-      "width": 256,
-      "height": 256,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
-      "name": "ghetto_ground001",
       "width": 256,
       "height": 256,
       "format": "DXT1",
@@ -86,13 +72,6 @@
       "alpha": false
     },
     {
-      "name": "ghetto_beton",
-      "width": 512,
-      "height": 256,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
       "name": "ghetto_zabor",
       "width": 512,
       "height": 512,
@@ -108,8 +87,8 @@
     },
     {
       "name": "ghetto_metal",
-      "width": 256,
-      "height": 256,
+      "width": 128,
+      "height": 128,
       "format": "DXT3",
       "alpha": true
     },
@@ -126,6 +105,27 @@
       "height": 512,
       "format": "DXT3",
       "alpha": true
+    },
+    {
+      "name": "ghetto_lar1",
+      "width": 512,
+      "height": 512,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "ghetto_ground",
+      "width": 256,
+      "height": 256,
+      "format": "DXT1",
+      "alpha": true
+    },
+    {
+      "name": "concept_car",
+      "width": 512,
+      "height": 512,
+      "format": "DXT1",
+      "alpha": false
     }
   ]
 }

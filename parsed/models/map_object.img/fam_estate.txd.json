@@ -2,6 +2,27 @@
   "type": "txd",
   "textures": [
     {
+      "name": "prop_estat_lux",
+      "width": 512,
+      "height": 512,
+      "format": "DXT3",
+      "alpha": true
+    },
+    {
+      "name": "prop_estat_getto_a",
+      "width": 512,
+      "height": 512,
+      "format": "DXT3",
+      "alpha": true
+    },
+    {
+      "name": "prop_estat_getto",
+      "width": 512,
+      "height": 512,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
       "name": "fam_estate_tx2",
       "width": 512,
       "height": 512,

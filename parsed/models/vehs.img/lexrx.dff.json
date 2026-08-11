@@ -5,7 +5,7 @@
   "geometries": [
     {
       "index": 0,
-      "vertices": 6231,
+      "vertices": 6203,
       "triangles": 3778,
       "materials": [
         {
@@ -48,8 +48,8 @@
     },
     {
       "index": 1,
-      "vertices": 6909,
-      "triangles": 7931,
+      "vertices": 11680,
+      "triangles": 9311,
       "materials": [
         {
           "color": {
@@ -64,15 +64,6 @@
           "color": {
             "r": 0,
             "g": 0,
-            "b": 0,
-            "a": 255
-          },
-          "texture": null
-        },
-        {
-          "color": {
-            "r": 60,
-            "g": 255,
             "b": 0,
             "a": 255
           },
@@ -100,6 +91,22 @@
     },
     {
       "index": 2,
+      "vertices": 7833,
+      "triangles": 14129,
+      "materials": [
+        {
+          "color": {
+            "r": 60,
+            "g": 255,
+            "b": 0,
+            "a": 255
+          },
+          "texture": null
+        }
+      ]
+    },
+    {
+      "index": 3,
       "vertices": 175,
       "triangles": 111,
       "materials": [
@@ -151,10 +158,19 @@
       ]
     },
     {
-      "index": 3,
-      "vertices": 3220,
-      "triangles": 2273,
+      "index": 4,
+      "vertices": 17091,
+      "triangles": 12642,
       "materials": [
+        {
+          "color": {
+            "r": 204,
+            "g": 204,
+            "b": 204,
+            "a": 255
+          },
+          "texture": null
+        },
         {
           "color": {
             "r": 60,
@@ -178,15 +194,6 @@
             "r": 255,
             "g": 255,
             "b": 255,
-            "a": 255
-          },
-          "texture": null
-        },
-        {
-          "color": {
-            "r": 15,
-            "g": 15,
-            "b": 15,
             "a": 255
           },
           "texture": null
@@ -217,19 +224,21 @@
             "a": 255
           },
           "texture": null
-        }
-      ]
-    },
-    {
-      "index": 4,
-      "vertices": 6860,
-      "triangles": 8007,
-      "materials": [
+        },
         {
           "color": {
-            "r": 21,
-            "g": 21,
-            "b": 21,
+            "r": 255,
+            "g": 33,
+            "b": 0,
+            "a": 255
+          },
+          "texture": null
+        },
+        {
+          "color": {
+            "r": 153,
+            "g": 153,
+            "b": 153,
             "a": 255
           },
           "texture": null
@@ -238,15 +247,6 @@
           "color": {
             "r": 0,
             "g": 0,
-            "b": 0,
-            "a": 255
-          },
-          "texture": null
-        },
-        {
-          "color": {
-            "r": 60,
-            "g": 255,
             "b": 0,
             "a": 255
           },
@@ -263,10 +263,46 @@
         },
         {
           "color": {
-            "r": 12,
-            "g": 12,
-            "b": 12,
-            "a": 102
+            "r": 255,
+            "g": 255,
+            "b": 255,
+            "a": 255
+          },
+          "texture": null
+        },
+        {
+          "color": {
+            "r": 255,
+            "g": 255,
+            "b": 255,
+            "a": 255
+          },
+          "texture": null
+        },
+        {
+          "color": {
+            "r": 204,
+            "g": 204,
+            "b": 204,
+            "a": 255
+          },
+          "texture": null
+        },
+        {
+          "color": {
+            "r": 255,
+            "g": 255,
+            "b": 255,
+            "a": 255
+          },
+          "texture": null
+        },
+        {
+          "color": {
+            "r": 204,
+            "g": 204,
+            "b": 204,
+            "a": 255
           },
           "texture": null
         }
@@ -932,6 +968,33 @@
       "materials": [
         {
           "color": {
+            "r": 204,
+            "g": 204,
+            "b": 204,
+            "a": 255
+          },
+          "texture": null
+        },
+        {
+          "color": {
+            "r": 204,
+            "g": 204,
+            "b": 204,
+            "a": 255
+          },
+          "texture": null
+        },
+        {
+          "color": {
+            "r": 204,
+            "g": 204,
+            "b": 204,
+            "a": 255
+          },
+          "texture": null
+        },
+        {
+          "color": {
             "r": 153,
             "g": 153,
             "b": 153,
@@ -953,15 +1016,6 @@
             "r": 60,
             "g": 255,
             "b": 0,
-            "a": 255
-          },
-          "texture": null
-        },
-        {
-          "color": {
-            "r": 255,
-            "g": 255,
-            "b": 255,
             "a": 255
           },
           "texture": null
@@ -1198,76 +1252,6 @@
     },
     {
       "index": 20,
-      "vertices": 2934,
-      "triangles": 1934,
-      "materials": [
-        {
-          "color": {
-            "r": 60,
-            "g": 255,
-            "b": 0,
-            "a": 255
-          },
-          "texture": null
-        },
-        {
-          "color": {
-            "r": 255,
-            "g": 255,
-            "b": 255,
-            "a": 255
-          },
-          "texture": null
-        },
-        {
-          "color": {
-            "r": 255,
-            "g": 255,
-            "b": 255,
-            "a": 255
-          },
-          "texture": null
-        },
-        {
-          "color": {
-            "r": 15,
-            "g": 15,
-            "b": 15,
-            "a": 255
-          },
-          "texture": null
-        },
-        {
-          "color": {
-            "r": 204,
-            "g": 204,
-            "b": 204,
-            "a": 255
-          },
-          "texture": null
-        },
-        {
-          "color": {
-            "r": 51,
-            "g": 51,
-            "b": 51,
-            "a": 255
-          },
-          "texture": null
-        },
-        {
-          "color": {
-            "r": 255,
-            "g": 33,
-            "b": 0,
-            "a": 255
-          },
-          "texture": null
-        }
-      ]
-    },
-    {
-      "index": 21,
       "vertices": 409,
       "triangles": 237,
       "materials": [
@@ -1292,7 +1276,7 @@
       ]
     },
     {
-      "index": 22,
+      "index": 21,
       "vertices": 369,
       "triangles": 358,
       "materials": [
@@ -1315,298 +1299,9 @@
           "texture": null
         }
       ]
-    },
-    {
-      "index": 23,
-      "vertices": 3795,
-      "triangles": 3876,
-      "materials": [
-        {
-          "color": {
-            "r": 21,
-            "g": 21,
-            "b": 21,
-            "a": 255
-          },
-          "texture": null
-        },
-        {
-          "color": {
-            "r": 0,
-            "g": 0,
-            "b": 0,
-            "a": 255
-          },
-          "texture": null
-        },
-        {
-          "color": {
-            "r": 60,
-            "g": 255,
-            "b": 0,
-            "a": 255
-          },
-          "texture": null
-        }
-      ]
-    },
-    {
-      "index": 24,
-      "vertices": 3471,
-      "triangles": 3626,
-      "materials": [
-        {
-          "color": {
-            "r": 21,
-            "g": 21,
-            "b": 21,
-            "a": 255
-          },
-          "texture": null
-        },
-        {
-          "color": {
-            "r": 0,
-            "g": 0,
-            "b": 0,
-            "a": 255
-          },
-          "texture": null
-        },
-        {
-          "color": {
-            "r": 60,
-            "g": 255,
-            "b": 0,
-            "a": 255
-          },
-          "texture": null
-        }
-      ]
-    },
-    {
-      "index": 25,
-      "vertices": 6108,
-      "triangles": 5001,
-      "materials": [
-        {
-          "color": {
-            "r": 153,
-            "g": 153,
-            "b": 153,
-            "a": 255
-          },
-          "texture": null
-        },
-        {
-          "color": {
-            "r": 0,
-            "g": 0,
-            "b": 0,
-            "a": 255
-          },
-          "texture": null
-        },
-        {
-          "color": {
-            "r": 60,
-            "g": 255,
-            "b": 0,
-            "a": 255
-          },
-          "texture": null
-        },
-        {
-          "color": {
-            "r": 255,
-            "g": 255,
-            "b": 255,
-            "a": 255
-          },
-          "texture": null
-        },
-        {
-          "color": {
-            "r": 15,
-            "g": 15,
-            "b": 15,
-            "a": 255
-          },
-          "texture": null
-        },
-        {
-          "color": {
-            "r": 204,
-            "g": 204,
-            "b": 204,
-            "a": 255
-          },
-          "texture": null
-        },
-        {
-          "color": {
-            "r": 51,
-            "g": 51,
-            "b": 51,
-            "a": 255
-          },
-          "texture": null
-        },
-        {
-          "color": {
-            "r": 255,
-            "g": 255,
-            "b": 255,
-            "a": 255
-          },
-          "texture": null
-        },
-        {
-          "color": {
-            "r": 255,
-            "g": 255,
-            "b": 255,
-            "a": 255
-          },
-          "texture": null
-        },
-        {
-          "color": {
-            "r": 255,
-            "g": 255,
-            "b": 255,
-            "a": 255
-          },
-          "texture": null
-        },
-        {
-          "color": {
-            "r": 204,
-            "g": 204,
-            "b": 204,
-            "a": 255
-          },
-          "texture": null
-        },
-        {
-          "color": {
-            "r": 255,
-            "g": 255,
-            "b": 255,
-            "a": 255
-          },
-          "texture": null
-        },
-        {
-          "color": {
-            "r": 204,
-            "g": 204,
-            "b": 204,
-            "a": 255
-          },
-          "texture": null
-        }
-      ]
-    },
-    {
-      "index": 26,
-      "vertices": 4829,
-      "triangles": 3434,
-      "materials": [
-        {
-          "color": {
-            "r": 153,
-            "g": 153,
-            "b": 153,
-            "a": 255
-          },
-          "texture": null
-        },
-        {
-          "color": {
-            "r": 0,
-            "g": 0,
-            "b": 0,
-            "a": 255
-          },
-          "texture": null
-        },
-        {
-          "color": {
-            "r": 60,
-            "g": 255,
-            "b": 0,
-            "a": 255
-          },
-          "texture": null
-        },
-        {
-          "color": {
-            "r": 255,
-            "g": 255,
-            "b": 255,
-            "a": 255
-          },
-          "texture": null
-        },
-        {
-          "color": {
-            "r": 15,
-            "g": 15,
-            "b": 15,
-            "a": 255
-          },
-          "texture": null
-        },
-        {
-          "color": {
-            "r": 204,
-            "g": 204,
-            "b": 204,
-            "a": 255
-          },
-          "texture": null
-        },
-        {
-          "color": {
-            "r": 51,
-            "g": 51,
-            "b": 51,
-            "a": 255
-          },
-          "texture": null
-        },
-        {
-          "color": {
-            "r": 255,
-            "g": 255,
-            "b": 255,
-            "a": 255
-          },
-          "texture": null
-        },
-        {
-          "color": {
-            "r": 255,
-            "g": 255,
-            "b": 255,
-            "a": 255
-          },
-          "texture": null
-        },
-        {
-          "color": {
-            "r": 204,
-            "g": 204,
-            "b": 204,
-            "a": 255
-          },
-          "texture": null
-        }
-      ]
     }
   ],
-  "frames": 59,
+  "frames": 54,
   "dummies": [
     "lexrx",
     "taillights",
@@ -1625,6 +1320,7 @@
     "tlght_generic_f",
     "wheel",
     "bodyshell",
+    "bodyshell",
     "door_rr_dummy",
     "chassis_vlo",
     "door_lr_dummy",
@@ -1641,7 +1337,6 @@
     "carplate_lg",
     "platelight",
     "chasis",
-    "bodyshell",
     "door_rr_dam",
     "door_rr_ok",
     "door_lr_ok",
@@ -1659,13 +1354,8 @@
     "boot_ok",
     "ug_bonnet",
     "lights_front",
-    "chasis",
     "head",
     "glass",
-    "bodyshell",
-    "bodyshell",
-    "chasis",
-    "chasis",
     "brake_caliper"
   ]
 }

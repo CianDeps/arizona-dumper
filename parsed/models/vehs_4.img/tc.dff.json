@@ -913,6 +913,15 @@
       "materials": [
         {
           "color": {
+            "r": 204,
+            "g": 204,
+            "b": 204,
+            "a": 255
+          },
+          "texture": null
+        },
+        {
+          "color": {
             "r": 255,
             "g": 255,
             "b": 255,
@@ -1086,7 +1095,7 @@
       ]
     }
   ],
-  "frames": 54,
+  "frames": 53,
   "dummies": [
     "boxville",
     "taillights",
@@ -1140,7 +1149,6 @@
     "empresa:1",
     "acessorios:5",
     "empresa1",
-    "tapasol1",
-    "brake_caliper"
+    "tapasol1"
   ]
 }

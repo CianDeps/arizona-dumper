@@ -170,18 +170,9 @@
     },
     {
       "index": 3,
-      "vertices": 6353,
-      "triangles": 6670,
+      "vertices": 5979,
+      "triangles": 6560,
       "materials": [
-        {
-          "color": {
-            "r": 255,
-            "g": 255,
-            "b": 255,
-            "a": 255
-          },
-          "texture": null
-        },
         {
           "color": {
             "r": 153,
@@ -199,14 +190,32 @@
             "a": 255
           },
           "texture": null
+        },
+        {
+          "color": {
+            "r": 204,
+            "g": 204,
+            "b": 204,
+            "a": 255
+          },
+          "texture": null
         }
       ]
     },
     {
       "index": 4,
-      "vertices": 3752,
-      "triangles": 3349,
+      "vertices": 3772,
+      "triangles": 3373,
       "materials": [
+        {
+          "color": {
+            "r": 204,
+            "g": 204,
+            "b": 204,
+            "a": 255
+          },
+          "texture": null
+        },
         {
           "color": {
             "r": 255,
@@ -274,6 +283,15 @@
           "color": {
             "r": 255,
             "g": 60,
+            "b": 0,
+            "a": 255
+          },
+          "texture": null
+        },
+        {
+          "color": {
+            "r": 255,
+            "g": 102,
             "b": 0,
             "a": 255
           },
@@ -708,6 +726,24 @@
       "materials": [
         {
           "color": {
+            "r": 204,
+            "g": 204,
+            "b": 204,
+            "a": 255
+          },
+          "texture": null
+        },
+        {
+          "color": {
+            "r": 204,
+            "g": 204,
+            "b": 204,
+            "a": 255
+          },
+          "texture": null
+        },
+        {
+          "color": {
             "r": 15,
             "g": 15,
             "b": 15,
@@ -786,15 +822,6 @@
             "a": 255
           },
           "texture": null
-        },
-        {
-          "color": {
-            "r": 204,
-            "g": 204,
-            "b": 204,
-            "a": 255
-          },
-          "texture": null
         }
       ]
     },
@@ -803,15 +830,6 @@
       "vertices": 622,
       "triangles": 962,
       "materials": [
-        {
-          "color": {
-            "r": 51,
-            "g": 51,
-            "b": 51,
-            "a": 153
-          },
-          "texture": null
-        },
         {
           "color": {
             "r": 204,
@@ -834,8 +852,8 @@
     },
     {
       "index": 13,
-      "vertices": 4078,
-      "triangles": 3660,
+      "vertices": 4058,
+      "triangles": 3636,
       "materials": [
         {
           "color": {

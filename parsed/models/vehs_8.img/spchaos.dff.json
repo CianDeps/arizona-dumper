@@ -39,8 +39,8 @@
     },
     {
       "index": 1,
-      "vertices": 12503,
-      "triangles": 15406,
+      "vertices": 11956,
+      "triangles": 14738,
       "materials": [
         {
           "color": {
@@ -235,7 +235,7 @@
     },
     {
       "index": 2,
-      "vertices": 4933,
+      "vertices": 4961,
       "triangles": 5751,
       "materials": [
         {
@@ -301,8 +301,8 @@
     },
     {
       "index": 5,
-      "vertices": 865,
-      "triangles": 1031,
+      "vertices": 897,
+      "triangles": 1070,
       "materials": [
         {
           "color": {
@@ -380,7 +380,7 @@
     },
     {
       "index": 6,
-      "vertices": 834,
+      "vertices": 835,
       "triangles": 990,
       "materials": [
         {
@@ -421,15 +421,6 @@
         },
         {
           "color": {
-            "r": 255,
-            "g": 255,
-            "b": 255,
-            "a": 153
-          },
-          "texture": null
-        },
-        {
-          "color": {
             "r": 60,
             "g": 255,
             "b": 0,
@@ -454,13 +445,22 @@
             "a": 153
           },
           "texture": null
+        },
+        {
+          "color": {
+            "r": 255,
+            "g": 255,
+            "b": 255,
+            "a": 153
+          },
+          "texture": null
         }
       ]
     },
     {
       "index": 7,
-      "vertices": 865,
-      "triangles": 1031,
+      "vertices": 897,
+      "triangles": 1070,
       "materials": [
         {
           "color": {
@@ -538,7 +538,7 @@
     },
     {
       "index": 8,
-      "vertices": 834,
+      "vertices": 835,
       "triangles": 990,
       "materials": [
         {
@@ -579,15 +579,6 @@
         },
         {
           "color": {
-            "r": 255,
-            "g": 255,
-            "b": 255,
-            "a": 153
-          },
-          "texture": null
-        },
-        {
-          "color": {
             "r": 60,
             "g": 255,
             "b": 0,
@@ -601,6 +592,15 @@
             "g": 255,
             "b": 255,
             "a": 255
+          },
+          "texture": null
+        },
+        {
+          "color": {
+            "r": 255,
+            "g": 255,
+            "b": 255,
+            "a": 153
           },
           "texture": null
         },
@@ -650,12 +650,14 @@
       ]
     }
   ],
-  "frames": 33,
+  "frames": 34,
   "dummies": [
     "spchaos",
+    "chassis_dummy",
+    "carback",
     "wheel_rf_dummy",
     "wheel",
-    "chassis_dummy",
+    "carback_lg",
     "carplate",
     "exhaust",
     "headlights",
@@ -677,7 +679,6 @@
     "windscreen_dam",
     "wheel_rb_dummy",
     "chassis_vlo",
-    "ped_arm",
     "petrolcap",
     "taillights2",
     "engine",

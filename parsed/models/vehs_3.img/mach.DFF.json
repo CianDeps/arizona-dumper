@@ -1072,6 +1072,24 @@
       "materials": [
         {
           "color": {
+            "r": 204,
+            "g": 204,
+            "b": 204,
+            "a": 255
+          },
+          "texture": null
+        },
+        {
+          "color": {
+            "r": 204,
+            "g": 204,
+            "b": 204,
+            "a": 255
+          },
+          "texture": null
+        },
+        {
+          "color": {
             "r": 15,
             "g": 15,
             "b": 15,
@@ -1101,15 +1119,6 @@
           "color": {
             "r": 255,
             "g": 60,
-            "b": 0,
-            "a": 255
-          },
-          "texture": null
-        },
-        {
-          "color": {
-            "r": 255,
-            "g": 0,
             "b": 0,
             "a": 255
           },
@@ -1223,7 +1232,7 @@
     },
     {
       "index": 21,
-      "vertices": 6708,
+      "vertices": 6704,
       "triangles": 5531,
       "materials": [
         {
@@ -1302,7 +1311,7 @@
     },
     {
       "index": 22,
-      "vertices": 4463,
+      "vertices": 4459,
       "triangles": 3689,
       "materials": [
         {

@@ -1,7 +1,7 @@
 {
   "type": "img",
   "version": "v2",
-  "totalEntries": 1852,
+  "totalEntries": 1930,
   "entries": [
     {
       "name": "accs_east23.txd",
@@ -17,7 +17,7 @@
     },
     {
       "name": "acc_gmod.col",
-      "size": 600064
+      "size": 587776
     },
     {
       "name": "acs1.txd",
@@ -181,11 +181,11 @@
     },
     {
       "name": "anim_accs.ifp",
-      "size": 145408
+      "size": 126976
     },
     {
       "name": "anim_simp.ifp",
-      "size": 352256
+      "size": 395264
     },
     {
       "name": "armourburger.dff",
@@ -509,19 +509,19 @@
     },
     {
       "name": "e_scooter1.dff",
-      "size": 739328
+      "size": 131072
     },
     {
       "name": "e_scooter2.dff",
-      "size": 1441792
+      "size": 204800
     },
     {
       "name": "e_scooter3.dff",
-      "size": 2002944
+      "size": 208896
     },
     {
       "name": "e_scooters.txd",
-      "size": 665600
+      "size": 534528
     },
     {
       "name": "flyingeggs.dff",
@@ -693,7 +693,7 @@
     },
     {
       "name": "new_year2023.txd",
-      "size": 4714496
+      "size": 4145152
     },
     {
       "name": "ny23.txd",
@@ -1365,7 +1365,7 @@
     },
     {
       "name": "obj39.txd",
-      "size": 1574912
+      "size": 1148928
     },
     {
       "name": "obj39_armor_1.dff",
@@ -1473,7 +1473,7 @@
     },
     {
       "name": "obj40_42.txd",
-      "size": 3153920
+      "size": 2152448
     },
     {
       "name": "obj40_adm_band_1.dff",
@@ -1826,10 +1826,6 @@
     {
       "name": "obj4_hat_4.dff",
       "size": 14336
-    },
-    {
-      "name": "obj50.txd",
-      "size": 4321280
     },
     {
       "name": "obj50_goldbag_2.dff",
@@ -6117,19 +6113,19 @@
     },
     {
       "name": "obj90_bearaxe3.dff",
-      "size": 180224
+      "size": 147456
     },
     {
       "name": "obj90_bearnecklet1.dff",
-      "size": 260096
+      "size": 133120
     },
     {
       "name": "obj90_bearnecklet2.dff",
-      "size": 284672
+      "size": 147456
     },
     {
       "name": "obj90_bearnecklet3.dff",
-      "size": 307200
+      "size": 161792
     },
     {
       "name": "obj90_belt1.dff",
@@ -6869,11 +6865,215 @@
     },
     {
       "name": "obj94.txd",
-      "size": 1771520
+      "size": 16201728
+    },
+    {
+      "name": "obj94a_firewng1.dff",
+      "size": 24576
+    },
+    {
+      "name": "obj94a_firewng2.dff",
+      "size": 24576
+    },
+    {
+      "name": "obj94a_firewng3.dff",
+      "size": 24576
+    },
+    {
+      "name": "obj94a_gnimb2.dff",
+      "size": 30720
+    },
+    {
+      "name": "obj94a_gnimb3.dff",
+      "size": 30720
     },
     {
       "name": "obj94a_ilnmb.dff",
       "size": 24576
+    },
+    {
+      "name": "obj94a_mafhat3.dff",
+      "size": 45056
+    },
+    {
+      "name": "obj94a_nimbjp2.dff",
+      "size": 129024
+    },
+    {
+      "name": "obj94a_nimbjp3.dff",
+      "size": 129024
+    },
+    {
+      "name": "obj94_ak47.dff",
+      "size": 137216
+    },
+    {
+      "name": "obj94_baggo1.dff",
+      "size": 36864
+    },
+    {
+      "name": "obj94_baggo2.dff",
+      "size": 49152
+    },
+    {
+      "name": "obj94_baggo3.dff",
+      "size": 61440
+    },
+    {
+      "name": "obj94_capgo1.dff",
+      "size": 45056
+    },
+    {
+      "name": "obj94_capgo2.dff",
+      "size": 67584
+    },
+    {
+      "name": "obj94_capgo3.dff",
+      "size": 71680
+    },
+    {
+      "name": "obj94_desert_eagle.dff",
+      "size": 215040
+    },
+    {
+      "name": "obj94_gangaura.dff",
+      "size": 2048
+    },
+    {
+      "name": "obj94_gangch1.dff",
+      "size": 20480
+    },
+    {
+      "name": "obj94_gangch2.dff",
+      "size": 20480
+    },
+    {
+      "name": "obj94_gangch3.dff",
+      "size": 20480
+    },
+    {
+      "name": "obj94_gangmask1.dff",
+      "size": 12288
+    },
+    {
+      "name": "obj94_gangmask2.dff",
+      "size": 12288
+    },
+    {
+      "name": "obj94_gangmask3.dff",
+      "size": 12288
+    },
+    {
+      "name": "obj94_garm1.dff",
+      "size": 59392
+    },
+    {
+      "name": "obj94_garm2.dff",
+      "size": 59392
+    },
+    {
+      "name": "obj94_garm3.dff",
+      "size": 51200
+    },
+    {
+      "name": "obj94_gch1.dff",
+      "size": 49152
+    },
+    {
+      "name": "obj94_gch2.dff",
+      "size": 49152
+    },
+    {
+      "name": "obj94_gch3.dff",
+      "size": 51200
+    },
+    {
+      "name": "obj94_gkf1.dff",
+      "size": 24576
+    },
+    {
+      "name": "obj94_gkf2.dff",
+      "size": 24576
+    },
+    {
+      "name": "obj94_gkf3.dff",
+      "size": 24576
+    },
+    {
+      "name": "obj94_gn1.dff",
+      "size": 81920
+    },
+    {
+      "name": "obj94_gn2.dff",
+      "size": 81920
+    },
+    {
+      "name": "obj94_gn3.dff",
+      "size": 81920
+    },
+    {
+      "name": "obj94_gnimb1.dff",
+      "size": 28672
+    },
+    {
+      "name": "obj94_gport1.dff",
+      "size": 114688
+    },
+    {
+      "name": "obj94_gport2.dff",
+      "size": 114688
+    },
+    {
+      "name": "obj94_gport3.dff",
+      "size": 116736
+    },
+    {
+      "name": "obj94_grm1.dff",
+      "size": 75776
+    },
+    {
+      "name": "obj94_grm2.dff",
+      "size": 75776
+    },
+    {
+      "name": "obj94_grm3.dff",
+      "size": 77824
+    },
+    {
+      "name": "obj94_gsh1.dff",
+      "size": 28672
+    },
+    {
+      "name": "obj94_gsh2.dff",
+      "size": 28672
+    },
+    {
+      "name": "obj94_gsh3.dff",
+      "size": 28672
+    },
+    {
+      "name": "obj94_gsp1.dff",
+      "size": 32768
+    },
+    {
+      "name": "obj94_gsp2.dff",
+      "size": 32768
+    },
+    {
+      "name": "obj94_gsp3.dff",
+      "size": 32768
+    },
+    {
+      "name": "obj94_gtaz1.dff",
+      "size": 71680
+    },
+    {
+      "name": "obj94_gtaz2.dff",
+      "size": 71680
+    },
+    {
+      "name": "obj94_gtaz3.dff",
+      "size": 92160
     },
     {
       "name": "obj94_ibp.dff",
@@ -6882,6 +7082,10 @@
     {
       "name": "obj94_illarmour.dff",
       "size": 139264
+    },
+    {
+      "name": "obj94_illaura.dff",
+      "size": 2048
     },
     {
       "name": "obj94_illtrost.dff",
@@ -6908,12 +7112,120 @@
       "size": 73728
     },
     {
+      "name": "obj94_jaura.dff",
+      "size": 2048
+    },
+    {
+      "name": "obj94_m4.dff",
+      "size": 155648
+    },
+    {
+      "name": "obj94_mafbag1.dff",
+      "size": 73728
+    },
+    {
+      "name": "obj94_mafbag2.dff",
+      "size": 73728
+    },
+    {
+      "name": "obj94_mafbag3.dff",
+      "size": 73728
+    },
+    {
+      "name": "obj94_mafhat1.dff",
+      "size": 28672
+    },
+    {
+      "name": "obj94_mafhat2.dff",
+      "size": 30720
+    },
+    {
+      "name": "obj94_micro_uzi.dff",
+      "size": 110592
+    },
+    {
+      "name": "obj94_nimbjp1.dff",
+      "size": 126976
+    },
+    {
+      "name": "obj94_sawnoff.dff",
+      "size": 110592
+    },
+    {
+      "name": "obj94_shldgo1.dff",
+      "size": 51200
+    },
+    {
+      "name": "obj94_shldgo2.dff",
+      "size": 51200
+    },
+    {
+      "name": "obj94_shldgo3.dff",
+      "size": 53248
+    },
+    {
+      "name": "obj94_shr1.dff",
+      "size": 83968
+    },
+    {
+      "name": "obj94_shr2.dff",
+      "size": 83968
+    },
+    {
+      "name": "obj94_shr3.dff",
+      "size": 153600
+    },
+    {
+      "name": "obj94_skjp1.dff",
+      "size": 34816
+    },
+    {
+      "name": "obj94_skjp2.dff",
+      "size": 34816
+    },
+    {
+      "name": "obj94_skjp3.dff",
+      "size": 36864
+    },
+    {
       "name": "obj94_ssp.dff",
       "size": 38912
     },
     {
+      "name": "obj94_tec9.dff",
+      "size": 90112
+    },
+    {
       "name": "obj94_triang.dff",
       "size": 30720
+    },
+    {
+      "name": "obj96.txd",
+      "size": 2048
+    },
+    {
+      "name": "obj96_ak47.dff",
+      "size": 2048
+    },
+    {
+      "name": "obj96_desert_eagle.dff",
+      "size": 2048
+    },
+    {
+      "name": "obj96_m4.dff",
+      "size": 2048
+    },
+    {
+      "name": "obj96_micro_uzi.dff",
+      "size": 2048
+    },
+    {
+      "name": "obj96_sawnoff.dff",
+      "size": 2048
+    },
+    {
+      "name": "obj96_tec9.dff",
+      "size": 2048
     },
     {
       "name": "obj9_backp_1.dff",

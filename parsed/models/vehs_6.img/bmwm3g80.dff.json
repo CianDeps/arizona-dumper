@@ -100,20 +100,11 @@
     },
     {
       "index": 2,
-      "vertices": 5566,
+      "vertices": 5535,
       "triangles": 4970,
       "materials": [
         {
           "color": {
-            "r": 204,
-            "g": 204,
-            "b": 204,
-            "a": 255
-          },
-          "texture": null
-        },
-        {
-          "color": {
             "r": 255,
             "g": 255,
             "b": 255,
@@ -135,6 +126,15 @@
             "r": 255,
             "g": 255,
             "b": 255,
+            "a": 255
+          },
+          "texture": null
+        },
+        {
+          "color": {
+            "r": 204,
+            "g": 204,
+            "b": 204,
             "a": 255
           },
           "texture": null
@@ -168,9 +168,18 @@
     },
     {
       "index": 4,
-      "vertices": 66,
-      "triangles": 66,
+      "vertices": 76,
+      "triangles": 74,
       "materials": [
+        {
+          "color": {
+            "r": 204,
+            "g": 204,
+            "b": 204,
+            "a": 255
+          },
+          "texture": null
+        },
         {
           "color": {
             "r": 0,
@@ -219,6 +228,15 @@
       "vertices": 1148,
       "triangles": 990,
       "materials": [
+        {
+          "color": {
+            "r": 204,
+            "g": 204,
+            "b": 204,
+            "a": 255
+          },
+          "texture": null
+        },
         {
           "color": {
             "r": 204,
@@ -380,7 +398,7 @@
             "r": 255,
             "g": 255,
             "b": 255,
-            "a": 255
+            "a": 153
           },
           "texture": null
         }
@@ -495,6 +513,15 @@
       "vertices": 3235,
       "triangles": 2941,
       "materials": [
+        {
+          "color": {
+            "r": 204,
+            "g": 204,
+            "b": 204,
+            "a": 255
+          },
+          "texture": null
+        },
         {
           "color": {
             "r": 60,
@@ -771,7 +798,7 @@
             "r": 255,
             "g": 255,
             "b": 255,
-            "a": 255
+            "a": 153
           },
           "texture": null
         }
@@ -866,7 +893,7 @@
             "r": 255,
             "g": 255,
             "b": 255,
-            "a": 255
+            "a": 153
           },
           "texture": null
         }
@@ -997,7 +1024,7 @@
             "r": 255,
             "g": 255,
             "b": 255,
-            "a": 255
+            "a": 153
           },
           "texture": null
         }
@@ -1092,7 +1119,7 @@
             "r": 255,
             "g": 255,
             "b": 255,
-            "a": 255
+            "a": 153
           },
           "texture": null
         }
@@ -1176,22 +1203,22 @@
     "rearwin",
     "rear_lights",
     "front_lights",
-    "windcreen_ok",
-    "windcreen_dam",
-    "fbump_ok",
-    "fbump_dam",
+    "windscreen_ok",
+    "windscreen_dam",
+    "bump_front_ok",
+    "bump_front_dam",
     "ug_spoiler",
     "boot_ok",
     "boot_dam",
     "boot_glass",
-    "FL_door_ok",
-    "FL_door_dam",
-    "RL_door_ok",
-    "RL_door_dam",
-    "FR_door_ok",
-    "FR_door_dam",
-    "RR_door_ok",
-    "RR_door_dam",
+    "door_lf_ok",
+    "door_lf_dam",
+    "door_lr_ok",
+    "door_lr_dam",
+    "door_rf_ok",
+    "door_rf_dam",
+    "door_rr_ok",
+    "door_rr_dam",
     "ug_bonnet",
     "rear_lightsglass",
     "front_lightsglass",

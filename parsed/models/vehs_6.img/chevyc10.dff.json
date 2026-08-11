@@ -28,18 +28,18 @@
         },
         {
           "color": {
-            "r": 255,
-            "g": 255,
-            "b": 255,
+            "r": 204,
+            "g": 204,
+            "b": 204,
             "a": 255
           },
           "texture": null
         },
         {
           "color": {
-            "r": 204,
-            "g": 204,
-            "b": 204,
+            "r": 255,
+            "g": 255,
+            "b": 255,
             "a": 255
           },
           "texture": null
@@ -257,8 +257,8 @@
     },
     {
       "index": 9,
-      "vertices": 788,
-      "triangles": 1064,
+      "vertices": 854,
+      "triangles": 1144,
       "materials": [
         {
           "color": {
@@ -293,6 +293,24 @@
             "g": 255,
             "b": 0,
             "a": 255
+          },
+          "texture": null
+        },
+        {
+          "color": {
+            "r": 204,
+            "g": 47,
+            "b": 0,
+            "a": 0
+          },
+          "texture": null
+        },
+        {
+          "color": {
+            "r": 204,
+            "g": 47,
+            "b": 0,
+            "a": 0
           },
           "texture": null
         }
@@ -464,8 +482,8 @@
         },
         {
           "color": {
-            "r": 255,
-            "g": 42,
+            "r": 204,
+            "g": 48,
             "b": 0,
             "a": 255
           },
@@ -723,20 +741,20 @@
     "Rlights",
     "Rlights_glass",
     "Flight_glass",
-    "FLDoor_ok",
-    "FLDoor_dam",
+    "door_lf_ok",
+    "door_lf_dam",
     "boot_ok",
     "boot_dam",
-    "Bonnet_ok",
-    "Bonnet_dam",
-    "FRDoor_ok",
-    "FRDoor_dam",
-    "FBumper_ok",
-    "FBumper_dam",
-    "BBumper_ok",
-    "BBumper_dam",
-    "Windscreen_dam",
-    "Windscreen_ok",
+    "bonnet_ok",
+    "bonnet_dam",
+    "door_rf_ok",
+    "door_rf_dam",
+    "bump_front_ok",
+    "bump_front_dam",
+    "bump_rear_ok",
+    "bump_rear_dam",
+    "windscreen_dam",
+    "windscreen_ok",
     "brake_caliper"
   ]
 }

@@ -64,9 +64,27 @@
     },
     {
       "index": 2,
-      "vertices": 9723,
-      "triangles": 8721,
+      "vertices": 9843,
+      "triangles": 8821,
       "materials": [
+        {
+          "color": {
+            "r": 204,
+            "g": 204,
+            "b": 204,
+            "a": 255
+          },
+          "texture": null
+        },
+        {
+          "color": {
+            "r": 204,
+            "g": 204,
+            "b": 204,
+            "a": 255
+          },
+          "texture": null
+        },
         {
           "color": {
             "r": 204,
@@ -80,8 +98,8 @@
     },
     {
       "index": 3,
-      "vertices": 905,
-      "triangles": 762,
+      "vertices": 971,
+      "triangles": 814,
       "materials": [
         {
           "color": {
@@ -116,6 +134,15 @@
             "g": 64,
             "b": 0,
             "a": 255
+          },
+          "texture": null
+        },
+        {
+          "color": {
+            "r": 255,
+            "g": 255,
+            "b": 255,
+            "a": 0
           },
           "texture": null
         }
@@ -708,7 +735,7 @@
     },
     {
       "index": 22,
-      "vertices": 60,
+      "vertices": 59,
       "triangles": 46,
       "materials": [
         {
@@ -1085,8 +1112,8 @@
     "light_fa_glass",
     "windcreen_ok",
     "windcreen_dam",
-    "bonet_ok",
-    "bonet_dam",
+    "bonnet_ok",
+    "bonnet_dam",
     "bump_front_ok",
     "bump_front_dam",
     "bump_rear_ok",

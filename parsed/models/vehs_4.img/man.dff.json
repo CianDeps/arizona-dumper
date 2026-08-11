@@ -10,15 +10,6 @@
       "materials": [
         {
           "color": {
-            "r": 153,
-            "g": 153,
-            "b": 153,
-            "a": 255
-          },
-          "texture": null
-        },
-        {
-          "color": {
             "r": 60,
             "g": 255,
             "b": 0,
@@ -106,14 +97,32 @@
             "a": 255
           },
           "texture": null
+        },
+        {
+          "color": {
+            "r": 153,
+            "g": 153,
+            "b": 153,
+            "a": 255
+          },
+          "texture": null
         }
       ]
     },
     {
       "index": 1,
-      "vertices": 53308,
+      "vertices": 53309,
       "triangles": 37098,
       "materials": [
+        {
+          "color": {
+            "r": 204,
+            "g": 204,
+            "b": 204,
+            "a": 255
+          },
+          "texture": null
+        },
         {
           "color": {
             "r": 153,
@@ -461,7 +470,7 @@
       ]
     }
   ],
-  "frames": 34,
+  "frames": 33,
   "dummies": [
     "Man TGS 18",
     "chassis_dummy",
@@ -495,7 +504,6 @@
     "interior",
     "glass",
     "door_rf_ok",
-    "door_lf_ok",
-    "brake_caliper"
+    "door_lf_ok"
   ]
 }

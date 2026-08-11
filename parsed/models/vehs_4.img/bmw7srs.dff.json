@@ -127,8 +127,8 @@
     },
     {
       "index": 2,
-      "vertices": 2371,
-      "triangles": 2614,
+      "vertices": 2420,
+      "triangles": 2662,
       "materials": [
         {
           "color": {
@@ -144,6 +144,15 @@
             "r": 255,
             "g": 255,
             "b": 255,
+            "a": 255
+          },
+          "texture": null
+        },
+        {
+          "color": {
+            "r": 204,
+            "g": 204,
+            "b": 204,
             "a": 255
           },
           "texture": null
@@ -306,6 +315,15 @@
         },
         {
           "color": {
+            "r": 204,
+            "g": 204,
+            "b": 204,
+            "a": 255
+          },
+          "texture": null
+        },
+        {
+          "color": {
             "r": 255,
             "g": 60,
             "b": 0,
@@ -353,8 +371,8 @@
     },
     {
       "index": 6,
-      "vertices": 395,
-      "triangles": 614,
+      "vertices": 377,
+      "triangles": 602,
       "materials": [
         {
           "color": {
@@ -1027,6 +1045,15 @@
       "materials": [
         {
           "color": {
+            "r": 204,
+            "g": 204,
+            "b": 204,
+            "a": 255
+          },
+          "texture": null
+        },
+        {
+          "color": {
             "r": 51,
             "g": 51,
             "b": 51,
@@ -1048,15 +1075,6 @@
             "r": 128,
             "g": 128,
             "b": 128,
-            "a": 255
-          },
-          "texture": null
-        },
-        {
-          "color": {
-            "r": 255,
-            "g": 255,
-            "b": 255,
             "a": 255
           },
           "texture": null
@@ -1117,22 +1135,6 @@
     },
     {
       "index": 20,
-      "vertices": 338,
-      "triangles": 432,
-      "materials": [
-        {
-          "color": {
-            "r": 255,
-            "g": 255,
-            "b": 255,
-            "a": 195
-          },
-          "texture": null
-        }
-      ]
-    },
-    {
-      "index": 21,
       "vertices": 106,
       "triangles": 170,
       "materials": [
@@ -1148,7 +1150,7 @@
       ]
     },
     {
-      "index": 22,
+      "index": 21,
       "vertices": 150,
       "triangles": 230,
       "materials": [
@@ -1173,7 +1175,7 @@
       ]
     }
   ],
-  "frames": 57,
+  "frames": 56,
   "dummies": [
     "bmw",
     "chassis_dummy",
@@ -1228,7 +1230,6 @@
     "boot_ok",
     "ug_spoiler",
     "bump_rear_ok",
-    "far_glasss",
     "bump_front_ok",
     "boot_ok",
     "brake_caliper"

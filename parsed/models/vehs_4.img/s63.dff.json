@@ -39,7 +39,7 @@
     },
     {
       "index": 1,
-      "vertices": 9512,
+      "vertices": 9478,
       "triangles": 12303,
       "materials": [
         {
@@ -127,8 +127,8 @@
     },
     {
       "index": 2,
-      "vertices": 3467,
-      "triangles": 3532,
+      "vertices": 3347,
+      "triangles": 3390,
       "materials": [
         {
           "color": {
@@ -165,6 +165,15 @@
             "a": 255
           },
           "texture": null
+        },
+        {
+          "color": {
+            "r": 204,
+            "g": 204,
+            "b": 204,
+            "a": 255
+          },
+          "texture": null
         }
       ]
     },
@@ -187,15 +196,6 @@
             "r": 102,
             "g": 102,
             "b": 102,
-            "a": 255
-          },
-          "texture": null
-        },
-        {
-          "color": {
-            "r": 204,
-            "g": 204,
-            "b": 204,
             "a": 255
           },
           "texture": null
@@ -371,8 +371,8 @@
     },
     {
       "index": 6,
-      "vertices": 2266,
-      "triangles": 3268,
+      "vertices": 1962,
+      "triangles": 3284,
       "materials": [
         {
           "color": {
@@ -385,9 +385,9 @@
         },
         {
           "color": {
-            "r": 102,
-            "g": 102,
-            "b": 102,
+            "r": 204,
+            "g": 204,
+            "b": 204,
             "a": 255
           },
           "texture": null
@@ -425,6 +425,15 @@
             "g": 255,
             "b": 255,
             "a": 255
+          },
+          "texture": null
+        },
+        {
+          "color": {
+            "r": 204,
+            "g": 204,
+            "b": 204,
+            "a": 153
           },
           "texture": null
         }

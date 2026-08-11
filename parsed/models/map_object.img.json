@@ -1,7 +1,7 @@
 {
   "type": "img",
   "version": "v2",
-  "totalEntries": 1110,
+  "totalEntries": 1235,
   "entries": [
     {
       "name": "angar_factory.dff",
@@ -549,7 +549,7 @@
     },
     {
       "name": "carsale.txd",
-      "size": 7370752
+      "size": 8945664
     },
     {
       "name": "carwash_tex.txd",
@@ -573,7 +573,7 @@
     },
     {
       "name": "Car_m_market_1.dff",
-      "size": 577536
+      "size": 229376
     },
     {
       "name": "Car_m_tank_1.dff",
@@ -606,6 +606,10 @@
     {
       "name": "chruch_build_1.dff",
       "size": 126976
+    },
+    {
+      "name": "concept_car_prop.dff",
+      "size": 18432
     },
     {
       "name": "crypt.dff",
@@ -1164,16 +1168,52 @@
       "size": 88064
     },
     {
-      "name": "fam_estate.col",
-      "size": 2048
+      "name": "fall_bar.dff",
+      "size": 151552
+    },
+    {
+      "name": "fall_bombox_1.dff",
+      "size": 32768
+    },
+    {
+      "name": "fall_busstop.dff",
+      "size": 270336
+    },
+    {
+      "name": "fall_kiosk_1.dff",
+      "size": 239616
+    },
+    {
+      "name": "fall_kiosk_2.dff",
+      "size": 174080
+    },
+    {
+      "name": "fall_scene_1.dff",
+      "size": 118784
+    },
+    {
+      "name": "fall_x_1.dff",
+      "size": 26624
     },
     {
       "name": "fam_estate.dff",
-      "size": 38912
+      "size": 24576
     },
     {
       "name": "fam_estate.txd",
-      "size": 526336
+      "size": 1400832
+    },
+    {
+      "name": "fam_estate_gh.dff",
+      "size": 34816
+    },
+    {
+      "name": "fam_estate_lux.dff",
+      "size": 24576
+    },
+    {
+      "name": "fam_estate_top.dff",
+      "size": 40960
     },
     {
       "name": "fence_driv_school_1.dff",
@@ -1256,28 +1296,304 @@
       "size": 71680
     },
     {
+      "name": "fort_car.txd",
+      "size": 21061632
+    },
+    {
+      "name": "fprop.txd",
+      "size": 5730304
+    },
+    {
+      "name": "fprop_bench.dff",
+      "size": 167936
+    },
+    {
+      "name": "fprop_bench2.dff",
+      "size": 194560
+    },
+    {
+      "name": "fprop_car.dff",
+      "size": 272384
+    },
+    {
+      "name": "fprop_fence.dff",
+      "size": 49152
+    },
+    {
+      "name": "fprop_fence6.dff",
+      "size": 8192
+    },
+    {
+      "name": "fprop_fence8.dff",
+      "size": 12288
+    },
+    {
+      "name": "fprop_flowers.dff",
+      "size": 438272
+    },
+    {
+      "name": "fprop_light.dff",
+      "size": 24576
+    },
+    {
+      "name": "fprop_light2.dff",
+      "size": 40960
+    },
+    {
+      "name": "fprop_neon1.dff",
+      "size": 114688
+    },
+    {
+      "name": "fprop_neon2.dff",
+      "size": 114688
+    },
+    {
+      "name": "fprop_palm.dff",
+      "size": 86016
+    },
+    {
+      "name": "fprop_phone.dff",
+      "size": 192512
+    },
+    {
+      "name": "fprop_trash.dff",
+      "size": 180224
+    },
+    {
+      "name": "fprop_tree.dff",
+      "size": 94208
+    },
+    {
+      "name": "fprop_year12.dff",
+      "size": 16384
+    },
+    {
+      "name": "frc_apart_1.dff",
+      "size": 835584
+    },
+    {
+      "name": "frc_apart_2.dff",
+      "size": 366592
+    },
+    {
+      "name": "frc_apart_3.dff",
+      "size": 473088
+    },
+    {
+      "name": "frc_barchair.dff",
+      "size": 178176
+    },
+    {
+      "name": "frc_build_1.dff",
+      "size": 77824
+    },
+    {
+      "name": "frc_build_2.dff",
+      "size": 735232
+    },
+    {
+      "name": "frc_build_3.dff",
+      "size": 407552
+    },
+    {
+      "name": "frc_build_4.dff",
+      "size": 456704
+    },
+    {
+      "name": "frc_build_5.dff",
+      "size": 999424
+    },
+    {
+      "name": "frc_build_6.dff",
+      "size": 512000
+    },
+    {
+      "name": "frc_build_7.dff",
+      "size": 413696
+    },
+    {
+      "name": "frc_build_8.dff",
+      "size": 374784
+    },
+    {
+      "name": "frc_fense_0.dff",
+      "size": 1099776
+    },
+    {
+      "name": "frc_fense_1.dff",
+      "size": 479232
+    },
+    {
+      "name": "frc_fense_2.dff",
+      "size": 671744
+    },
+    {
+      "name": "frc_fense_3.dff",
+      "size": 516096
+    },
+    {
+      "name": "frc_gar_1.dff",
+      "size": 55296
+    },
+    {
+      "name": "frc_gar_5.dff",
+      "size": 503808
+    },
+    {
+      "name": "frc_hotel_main.dff",
+      "size": 364544
+    },
+    {
+      "name": "frc_land_01.dff",
+      "size": 524288
+    },
+    {
+      "name": "frc_land_02.dff",
+      "size": 188416
+    },
+    {
+      "name": "frc_land_03.dff",
+      "size": 897024
+    },
+    {
+      "name": "frc_land_04.dff",
+      "size": 559104
+    },
+    {
+      "name": "frc_land_05.dff",
+      "size": 493568
+    },
+    {
+      "name": "frc_land_06.dff",
+      "size": 1005568
+    },
+    {
+      "name": "frc_land_07.dff",
+      "size": 294912
+    },
+    {
+      "name": "frc_land_08.dff",
+      "size": 915456
+    },
+    {
+      "name": "frc_outbar_a.dff",
+      "size": 415744
+    },
+    {
+      "name": "frc_outbar_b.dff",
+      "size": 301056
+    },
+    {
+      "name": "frc_props_bar.dff",
+      "size": 110592
+    },
+    {
+      "name": "frc_props_kpp.dff",
+      "size": 235520
+    },
+    {
+      "name": "frc_props_plant_a.dff",
+      "size": 75776
+    },
+    {
+      "name": "frc_props_plant_b.dff",
+      "size": 110592
+    },
+    {
+      "name": "frc_props_seat_a.dff",
+      "size": 22528
+    },
+    {
+      "name": "frc_props_seat_b.dff",
+      "size": 38912
+    },
+    {
+      "name": "frc_props_seat_b_a.dff",
+      "size": 36864
+    },
+    {
+      "name": "frc_props_table.dff",
+      "size": 190464
+    },
+    {
+      "name": "frc_props_tent.dff",
+      "size": 32768
+    },
+    {
+      "name": "frc_props_umbr.dff",
+      "size": 215040
+    },
+    {
+      "name": "frc_stone_0.dff",
+      "size": 663552
+    },
+    {
+      "name": "frc_stone_1.dff",
+      "size": 86016
+    },
+    {
+      "name": "frc_stone_2.dff",
+      "size": 104448
+    },
+    {
+      "name": "frc_water_bas_1.dff",
+      "size": 12288
+    },
+    {
+      "name": "frc_water_bas_2.dff",
+      "size": 18432
+    },
+    {
       "name": "garden_gen.txd",
       "size": 350208
+    },
+    {
+      "name": "gasroad_arz.dff",
+      "size": 192512
+    },
+    {
+      "name": "gasroad_pump_arz.dff",
+      "size": 47104
+    },
+    {
+      "name": "gas_banner_arz.001.dff",
+      "size": 8192
+    },
+    {
+      "name": "gas_banner_arz.002.dff",
+      "size": 8192
+    },
+    {
+      "name": "gas_banner_arz.dff",
+      "size": 14336
     },
     {
       "name": "gas_stat_trash_1.dff",
       "size": 10240
     },
     {
+      "name": "gas_wash_arz.dff",
+      "size": 124928
+    },
+    {
       "name": "ghetto_decal.dff",
-      "size": 32768
+      "size": 30720
+    },
+    {
+      "name": "ghetto_greenhouse.dff",
+      "size": 59392
     },
     {
       "name": "ghetto_house.dff",
       "size": 118784
     },
     {
-      "name": "ghetto_lae.col",
-      "size": 2048
+      "name": "ghetto_lae.txd",
+      "size": 2996224
     },
     {
-      "name": "ghetto_lae.txd",
-      "size": 2844672
+      "name": "ghetto_store_prop.dff",
+      "size": 30720
     },
     {
       "name": "green_all1.dff",
@@ -1900,6 +2216,42 @@
       "size": 104448
     },
     {
+      "name": "land_gas_cou1.dff",
+      "size": 14336
+    },
+    {
+      "name": "land_gas_cou2.dff",
+      "size": 18432
+    },
+    {
+      "name": "land_gas_cou3.dff",
+      "size": 12288
+    },
+    {
+      "name": "land_gas_ls1.dff",
+      "size": 28672
+    },
+    {
+      "name": "land_gas_ls2.dff",
+      "size": 24576
+    },
+    {
+      "name": "land_gas_ls3.dff",
+      "size": 18432
+    },
+    {
+      "name": "land_gas_lv1.dff",
+      "size": 22528
+    },
+    {
+      "name": "land_gas_lv2.dff",
+      "size": 16384
+    },
+    {
+      "name": "land_gas_lv3.dff",
+      "size": 12288
+    },
+    {
       "name": "land_silicon09a.dff",
       "size": 69632
     },
@@ -2068,12 +2420,56 @@
       "size": 137216
     },
     {
+      "name": "lodgas_banner_arz.dff",
+      "size": 4096
+    },
+    {
+      "name": "lodgas_wash_arz.dff",
+      "size": 4096
+    },
+    {
       "name": "lodghetto_house.dff",
       "size": 6144
     },
     {
       "name": "lodghetto_lae.txd",
-      "size": 16384
+      "size": 65536
+    },
+    {
+      "name": "lodland_gas_cou1.dff",
+      "size": 2048
+    },
+    {
+      "name": "lodland_gas_cou2.dff",
+      "size": 2048
+    },
+    {
+      "name": "lodland_gas_cou3.dff",
+      "size": 2048
+    },
+    {
+      "name": "lodland_gas_ls1.dff",
+      "size": 2048
+    },
+    {
+      "name": "lodland_gas_ls2.dff",
+      "size": 2048
+    },
+    {
+      "name": "lodland_gas_ls3.dff",
+      "size": 2048
+    },
+    {
+      "name": "lodland_gas_lv1.dff",
+      "size": 2048
+    },
+    {
+      "name": "lodland_gas_lv2.dff",
+      "size": 2048
+    },
+    {
+      "name": "lodland_gas_lv3.dff",
+      "size": 2048
     },
     {
       "name": "LODmason_towerB.txd",
@@ -2133,7 +2529,7 @@
     },
     {
       "name": "lod_carsale.txd",
-      "size": 198656
+      "size": 417792
     },
     {
       "name": "lod_Car_m_gasst_1.dff",
@@ -2178,6 +2574,122 @@
     {
       "name": "lod_easter_land25_1.dff",
       "size": 231424
+    },
+    {
+      "name": "lod_fort_car.txd",
+      "size": 1806336
+    },
+    {
+      "name": "lod_frc_apart_1.dff",
+      "size": 55296
+    },
+    {
+      "name": "lod_frc_apart_2.dff",
+      "size": 26624
+    },
+    {
+      "name": "lod_frc_apart_3.dff",
+      "size": 28672
+    },
+    {
+      "name": "lod_frc_build_1.dff",
+      "size": 6144
+    },
+    {
+      "name": "lod_frc_build_2.dff",
+      "size": 51200
+    },
+    {
+      "name": "lod_frc_build_3.dff",
+      "size": 22528
+    },
+    {
+      "name": "lod_frc_build_4.dff",
+      "size": 12288
+    },
+    {
+      "name": "lod_frc_build_5.dff",
+      "size": 444416
+    },
+    {
+      "name": "lod_frc_build_6.dff",
+      "size": 20480
+    },
+    {
+      "name": "lod_frc_build_7.dff",
+      "size": 14336
+    },
+    {
+      "name": "lod_frc_build_8.dff",
+      "size": 32768
+    },
+    {
+      "name": "lod_frc_gar_1.dff",
+      "size": 6144
+    },
+    {
+      "name": "lod_frc_gar_5.dff",
+      "size": 174080
+    },
+    {
+      "name": "lod_frc_hotel_main.dff",
+      "size": 6144
+    },
+    {
+      "name": "lod_frc_land_01.dff",
+      "size": 432128
+    },
+    {
+      "name": "lod_frc_land_02.dff",
+      "size": 79872
+    },
+    {
+      "name": "lod_frc_land_03.dff",
+      "size": 808960
+    },
+    {
+      "name": "lod_frc_land_04.dff",
+      "size": 245760
+    },
+    {
+      "name": "lod_frc_land_05.dff",
+      "size": 434176
+    },
+    {
+      "name": "lod_frc_land_06.dff",
+      "size": 856064
+    },
+    {
+      "name": "lod_frc_land_07.dff",
+      "size": 129024
+    },
+    {
+      "name": "lod_frc_land_08.dff",
+      "size": 747520
+    },
+    {
+      "name": "lod_frc_outbar_a.dff",
+      "size": 8192
+    },
+    {
+      "name": "lod_frc_outbar_b.dff",
+      "size": 4096
+    },
+    {
+      "name": "lod_frc_props_bar.dff",
+      "size": 4096
+    },
+    {
+      "name": "lod_frc_props_kpp.dff",
+      "size": 22528
+    },
+    {
+      "name": "lod_frc_props_tent.dff",
+      "size": 4096
+    },
+    {
+      "name": "lod_gasroad_arz.dff",
+      "size": 12288
     },
     {
       "name": "lod_hcas.txd",
@@ -2849,7 +3361,7 @@
     },
     {
       "name": "map_object.col",
-      "size": 2934784
+      "size": 3518464
     },
     {
       "name": "map_object.ifp",
@@ -3545,11 +4057,11 @@
     },
     {
       "name": "ny_2026.col",
-      "size": 651264
+      "size": 643072
     },
     {
       "name": "ny_2026.txd",
-      "size": 3500032
+      "size": 1574912
     },
     {
       "name": "ny_2026_dop.txd",
@@ -4000,20 +4512,8 @@
       "size": 36864
     },
     {
-      "name": "ny_ice_decor2.dff",
-      "size": 114688
-    },
-    {
-      "name": "ny_ice_fount.dff",
-      "size": 55296
-    },
-    {
       "name": "ny_ice_gate1.dff",
       "size": 67584
-    },
-    {
-      "name": "ny_ice_gate3.dff",
-      "size": 38912
     },
     {
       "name": "ny_ice_ice1.dff",
@@ -4041,11 +4541,7 @@
     },
     {
       "name": "ny_japan_pillar.dff",
-      "size": 71680
-    },
-    {
-      "name": "ny_log_fir1.dff",
-      "size": 55296
+      "size": 69632
     },
     {
       "name": "ny_log_fir2.dff",
@@ -4162,6 +4658,10 @@
     {
       "name": "pinebg_hi_n.dff",
       "size": 14336
+    },
+    {
+      "name": "prop_fortvilg_a.dff",
+      "size": 43008
     },
     {
       "name": "roads09_law201.dff",

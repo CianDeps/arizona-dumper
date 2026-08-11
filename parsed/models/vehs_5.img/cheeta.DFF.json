@@ -5,7 +5,7 @@
   "geometries": [
     {
       "index": 0,
-      "vertices": 1566,
+      "vertices": 1580,
       "triangles": 1114,
       "materials": [
         {
@@ -257,9 +257,18 @@
     },
     {
       "index": 9,
-      "vertices": 2641,
+      "vertices": 2647,
       "triangles": 2800,
       "materials": [
+        {
+          "color": {
+            "r": 204,
+            "g": 204,
+            "b": 204,
+            "a": 255
+          },
+          "texture": null
+        },
         {
           "color": {
             "r": 255,
@@ -428,6 +437,15 @@
       "vertices": 148,
       "triangles": 116,
       "materials": [
+        {
+          "color": {
+            "r": 204,
+            "g": 204,
+            "b": 204,
+            "a": 255
+          },
+          "texture": null
+        },
         {
           "color": {
             "r": 255,

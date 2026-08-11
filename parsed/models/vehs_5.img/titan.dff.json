@@ -310,9 +310,18 @@
     },
     {
       "index": 5,
-      "vertices": 11961,
-      "triangles": 8759,
+      "vertices": 11840,
+      "triangles": 8619,
       "materials": [
+        {
+          "color": {
+            "r": 204,
+            "g": 204,
+            "b": 204,
+            "a": 255
+          },
+          "texture": null
+        },
         {
           "color": {
             "r": 15,
@@ -327,6 +336,15 @@
             "r": 128,
             "g": 128,
             "b": 128,
+            "a": 255
+          },
+          "texture": null
+        },
+        {
+          "color": {
+            "r": 185,
+            "g": 255,
+            "b": 0,
             "a": 255
           },
           "texture": null
@@ -369,9 +387,18 @@
     },
     {
       "index": 7,
-      "vertices": 4768,
-      "triangles": 5487,
+      "vertices": 4751,
+      "triangles": 5488,
       "materials": [
+        {
+          "color": {
+            "r": 204,
+            "g": 204,
+            "b": 204,
+            "a": 255
+          },
+          "texture": null
+        },
         {
           "color": {
             "r": 15,
@@ -1113,8 +1140,8 @@
     },
     {
       "index": 22,
-      "vertices": 4909,
-      "triangles": 5618,
+      "vertices": 4838,
+      "triangles": 5591,
       "materials": [
         {
           "color": {
@@ -1578,7 +1605,7 @@
       ]
     }
   ],
-  "frames": 62,
+  "frames": 63,
   "dummies": [
     "huntley",
     "engine",
@@ -1586,6 +1613,7 @@
     "wheels_dummy",
     "chassis_dummy",
     "taillights",
+    "headlights",
     "ped_frontseat",
     "misc_a",
     "exhaust",

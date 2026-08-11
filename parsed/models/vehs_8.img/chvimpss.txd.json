@@ -1,0 +1,26 @@
+{
+  "type": "txd",
+  "textures": [
+    {
+      "name": "chvimpss_int",
+      "width": 1024,
+      "height": 1024,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "chvimpss_rim",
+      "width": 512,
+      "height": 512,
+      "format": "DXT1",
+      "alpha": true
+    },
+    {
+      "name": "chvimpss_engine",
+      "width": 512,
+      "height": 512,
+      "format": "DXT1",
+      "alpha": false
+    }
+  ]
+}

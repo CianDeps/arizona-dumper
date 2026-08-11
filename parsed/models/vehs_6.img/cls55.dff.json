@@ -169,7 +169,7 @@
             "r": 204,
             "g": 204,
             "b": 204,
-            "a": 191
+            "a": 98
           },
           "texture": null
         }
@@ -306,9 +306,18 @@
     },
     {
       "index": 7,
-      "vertices": 798,
+      "vertices": 802,
       "triangles": 676,
       "materials": [
+        {
+          "color": {
+            "r": 204,
+            "g": 204,
+            "b": 204,
+            "a": 255
+          },
+          "texture": null
+        },
         {
           "color": {
             "r": 250,
@@ -353,14 +362,41 @@
             "a": 255
           },
           "texture": null
+        },
+        {
+          "color": {
+            "r": 185,
+            "g": 255,
+            "b": 0,
+            "a": 255
+          },
+          "texture": null
+        },
+        {
+          "color": {
+            "r": 255,
+            "g": 60,
+            "b": 0,
+            "a": 255
+          },
+          "texture": null
         }
       ]
     },
     {
       "index": 8,
-      "vertices": 12850,
-      "triangles": 9971,
+      "vertices": 12856,
+      "triangles": 9975,
       "materials": [
+        {
+          "color": {
+            "r": 204,
+            "g": 204,
+            "b": 204,
+            "a": 255
+          },
+          "texture": null
+        },
         {
           "color": {
             "r": 60,
@@ -1114,7 +1150,7 @@
             "r": 204,
             "g": 204,
             "b": 204,
-            "a": 155
+            "a": 93
           },
           "texture": null
         }

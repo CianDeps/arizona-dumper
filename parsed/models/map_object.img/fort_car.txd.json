@@ -1,0 +1,852 @@
+{
+  "type": "txd",
+  "textures": [
+    {
+      "name": "as_bord_1",
+      "width": 256,
+      "height": 128,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "as_floor_1",
+      "width": 512,
+      "height": 512,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "as_floor_3",
+      "width": 512,
+      "height": 512,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "as_floor_4",
+      "width": 512,
+      "height": 512,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "as_floor_6",
+      "width": 512,
+      "height": 512,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "as_grass_1",
+      "width": 512,
+      "height": 512,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "as_hedge_1",
+      "width": 512,
+      "height": 512,
+      "format": "DXT5",
+      "alpha": true
+    },
+    {
+      "name": "as_pals",
+      "width": 512,
+      "height": 512,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "as_pave_1",
+      "width": 512,
+      "height": 512,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "as_pave_2",
+      "width": 512,
+      "height": 512,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "as_pave_3",
+      "width": 512,
+      "height": 512,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "as_pool_1",
+      "width": 512,
+      "height": 512,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "as_pool_2",
+      "width": 512,
+      "height": 512,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "as_pool_trim_1",
+      "width": 512,
+      "height": 128,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "as_sand_1",
+      "width": 512,
+      "height": 512,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "as_sidew_2",
+      "width": 512,
+      "height": 512,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "as_sidew_3",
+      "width": 512,
+      "height": 512,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "as_wall_1",
+      "width": 512,
+      "height": 256,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "as_wall_2",
+      "width": 512,
+      "height": 512,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "as_wall_3",
+      "width": 512,
+      "height": 512,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "a_fence_1",
+      "width": 512,
+      "height": 256,
+      "format": "DXT5",
+      "alpha": true
+    },
+    {
+      "name": "a_fence_2",
+      "width": 512,
+      "height": 512,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "a_spring1_cel",
+      "width": 512,
+      "height": 512,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "a_spring1_gar",
+      "width": 256,
+      "height": 512,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "a_spring1_roof",
+      "width": 512,
+      "height": 512,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "a_spring1_trims",
+      "width": 512,
+      "height": 512,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "a_spring1_trims2",
+      "width": 512,
+      "height": 512,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "a_spring1_wall",
+      "width": 512,
+      "height": 512,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "a_spring1_wall2",
+      "width": 512,
+      "height": 512,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "a_spring1_wind",
+      "width": 512,
+      "height": 512,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "a_spring3_det",
+      "width": 512,
+      "height": 512,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "a_spring3_det2",
+      "width": 512,
+      "height": 512,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "a_spring3_det3",
+      "width": 512,
+      "height": 512,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "a_spring3_roof",
+      "width": 512,
+      "height": 512,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "a_spring3_wall",
+      "width": 512,
+      "height": 512,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "a_spring4_det",
+      "width": 512,
+      "height": 512,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "a_spring4_det2",
+      "width": 512,
+      "height": 512,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "a_spring4_pic",
+      "width": 512,
+      "height": 512,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "a_spring4_wall",
+      "width": 512,
+      "height": 512,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "a_spring7_wind",
+      "width": 512,
+      "height": 512,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "a_spring_alph_1",
+      "width": 512,
+      "height": 512,
+      "format": "DXT5",
+      "alpha": true
+    },
+    {
+      "name": "a_spring_det_1",
+      "width": 512,
+      "height": 512,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "a_spring_det_2",
+      "width": 512,
+      "height": 512,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "a_spring_floor_1",
+      "width": 512,
+      "height": 512,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "a_spring_floor_2",
+      "width": 512,
+      "height": 512,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "a_spring_floor_3",
+      "width": 512,
+      "height": 512,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "a_spring_gate_1",
+      "width": 512,
+      "height": 512,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "a_spring_gate_2",
+      "width": 512,
+      "height": 512,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "a_spring_gate_3",
+      "width": 512,
+      "height": 512,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "a_spring_rock_1",
+      "width": 512,
+      "height": 512,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "a_spring_rock_2",
+      "width": 512,
+      "height": 512,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "a_spring_rock_3",
+      "width": 512,
+      "height": 512,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "a_spring_roof_1",
+      "width": 512,
+      "height": 512,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "a_spring_roof_2",
+      "width": 512,
+      "height": 512,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "a_spring_roof_3",
+      "width": 512,
+      "height": 512,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "a_spring_trim_1",
+      "width": 512,
+      "height": 512,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "a_spring_trim_2",
+      "width": 512,
+      "height": 512,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "a_spring_wall_1",
+      "width": 512,
+      "height": 512,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "a_spring_wall_2",
+      "width": 512,
+      "height": 512,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "a_spring_wall_3",
+      "width": 512,
+      "height": 512,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "a_spring_wall_4",
+      "width": 512,
+      "height": 512,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "a_spring_wall_5",
+      "width": 512,
+      "height": 512,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "a_spring_wall_6",
+      "width": 512,
+      "height": 512,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "a_spring_wall_7",
+      "width": 512,
+      "height": 512,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "a_spring_win_1",
+      "width": 512,
+      "height": 512,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "a_spring_win_2",
+      "width": 256,
+      "height": 256,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "a_spring_win_3",
+      "width": 512,
+      "height": 512,
+      "format": "DXT5",
+      "alpha": true
+    },
+    {
+      "name": "a_spring_win_4",
+      "width": 512,
+      "height": 512,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "a_spr_malph",
+      "width": 512,
+      "height": 512,
+      "format": "DXT5",
+      "alpha": true
+    },
+    {
+      "name": "a_spr_mang1",
+      "width": 512,
+      "height": 512,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "a_spr_mcell",
+      "width": 512,
+      "height": 512,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "a_spr_mdet1",
+      "width": 512,
+      "height": 512,
+      "format": "DXT5",
+      "alpha": true
+    },
+    {
+      "name": "a_spr_mtrims",
+      "width": 512,
+      "height": 512,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "a_spr_mwall1",
+      "width": 512,
+      "height": 512,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "a_spr_mwall2",
+      "width": 512,
+      "height": 512,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "a_spr_mwall3",
+      "width": 512,
+      "height": 512,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "newpavement",
+      "width": 512,
+      "height": 512,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "n_aksi_liana1",
+      "width": 256,
+      "height": 256,
+      "format": "DXT5",
+      "alpha": true
+    },
+    {
+      "name": "n_badmarb1_lan",
+      "width": 512,
+      "height": 512,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "n_concretebigb256128",
+      "width": 512,
+      "height": 512,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "n_foliage_st",
+      "width": 256,
+      "height": 256,
+      "format": "DXT5",
+      "alpha": true
+    },
+    {
+      "name": "n_port_gras_1",
+      "width": 512,
+      "height": 512,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "n_port_road_2",
+      "width": 512,
+      "height": 512,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "n_snpedtest1",
+      "width": 512,
+      "height": 512,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "n_starflower_st",
+      "width": 256,
+      "height": 256,
+      "format": "DXT5",
+      "alpha": true
+    },
+    {
+      "name": "n_stormdrain5_nt",
+      "width": 64,
+      "height": 64,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "n_ws_nicepave",
+      "width": 512,
+      "height": 512,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "palm_hotel_doors",
+      "width": 512,
+      "height": 512,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "palm_hotel_inflr",
+      "width": 512,
+      "height": 512,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "palm_hotel_inflr2",
+      "width": 512,
+      "height": 512,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "palm_hotel_inlamp",
+      "width": 512,
+      "height": 512,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "palm_hotel_int1",
+      "width": 512,
+      "height": 512,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "palm_hotel_int2",
+      "width": 512,
+      "height": 512,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "palm_hotel_inwall",
+      "width": 512,
+      "height": 512,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "palm_hotel_inwall2",
+      "width": 512,
+      "height": 512,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "palm_hotel_inwall3",
+      "width": 512,
+      "height": 512,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "palm_hotel_roof",
+      "width": 512,
+      "height": 512,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "palm_hotel_stone",
+      "width": 512,
+      "height": 512,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "palm_hotel_wall",
+      "width": 512,
+      "height": 512,
+      "format": "DXT5",
+      "alpha": true
+    },
+    {
+      "name": "palm_hotel_wall3",
+      "width": 512,
+      "height": 512,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "palm_hotel_wall5",
+      "width": 512,
+      "height": 512,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "palm_hotel_wind",
+      "width": 512,
+      "height": 512,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "palm_hotel_wind2",
+      "width": 512,
+      "height": 512,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "palm_hotel_wind3",
+      "width": 512,
+      "height": 512,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "palm_props1",
+      "width": 256,
+      "height": 128,
+      "format": "DXT5",
+      "alpha": true
+    },
+    {
+      "name": "palm_props_bar1",
+      "width": 512,
+      "height": 512,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "palm_props_bar2",
+      "width": 512,
+      "height": 512,
+      "format": "DXT5",
+      "alpha": true
+    },
+    {
+      "name": "palm_props_bar3",
+      "width": 512,
+      "height": 512,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "palm_props_bar4",
+      "width": 512,
+      "height": 512,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "palm_props_bar5",
+      "width": 512,
+      "height": 512,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "palm_props_kpp",
+      "width": 512,
+      "height": 512,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "palm_props_kpp2",
+      "width": 512,
+      "height": 512,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "palm_props_kpp3",
+      "width": 256,
+      "height": 256,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "palm_props_kpp4",
+      "width": 512,
+      "height": 512,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "palm_props_rocks",
+      "width": 256,
+      "height": 256,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "palm_props_table",
+      "width": 512,
+      "height": 512,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "palm_props_tent",
+      "width": 512,
+      "height": 512,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "palm_props_tent2",
+      "width": 512,
+      "height": 512,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "palm_props_tent3",
+      "width": 512,
+      "height": 256,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "palm_props_tent4",
+      "width": 512,
+      "height": 512,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "palm_props_umbr2",
+      "width": 512,
+      "height": 512,
+      "format": "DXT5",
+      "alpha": true
+    }
+  ]
+}

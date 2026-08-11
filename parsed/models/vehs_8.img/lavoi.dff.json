@@ -198,7 +198,7 @@
     },
     {
       "index": 7,
-      "vertices": 1765,
+      "vertices": 1031,
       "triangles": 964,
       "materials": [
         {
@@ -345,7 +345,7 @@
     },
     {
       "index": 10,
-      "vertices": 892,
+      "vertices": 900,
       "triangles": 888,
       "materials": [
         {
@@ -361,8 +361,8 @@
     },
     {
       "index": 11,
-      "vertices": 977,
-      "triangles": 862,
+      "vertices": 911,
+      "triangles": 800,
       "materials": [
         {
           "color": {
@@ -390,14 +390,7 @@
             "a": 255
           },
           "texture": null
-        }
-      ]
-    },
-    {
-      "index": 12,
-      "vertices": 16652,
-      "triangles": 14705,
-      "materials": [
+        },
         {
           "color": {
             "r": 255,
@@ -406,7 +399,14 @@
             "a": 255
           },
           "texture": null
-        },
+        }
+      ]
+    },
+    {
+      "index": 12,
+      "vertices": 16643,
+      "triangles": 14675,
+      "materials": [
         {
           "color": {
             "r": 60,
@@ -559,6 +559,15 @@
             "a": 254
           },
           "texture": null
+        },
+        {
+          "color": {
+            "r": 255,
+            "g": 255,
+            "b": 255,
+            "a": 255
+          },
+          "texture": null
         }
       ]
     },
@@ -607,9 +616,18 @@
     },
     {
       "index": 14,
-      "vertices": 2450,
-      "triangles": 1766,
+      "vertices": 2459,
+      "triangles": 1768,
       "materials": [
+        {
+          "color": {
+            "r": 255,
+            "g": 255,
+            "b": 255,
+            "a": 255
+          },
+          "texture": null
+        },
         {
           "color": {
             "r": 255,
@@ -631,14 +649,16 @@
       ]
     }
   ],
-  "frames": 40,
+  "frames": 42,
   "dummies": [
     "lavoi",
     "chassis_dummy",
     "carback",
+    "carplate",
     "bump_front_dummy",
     "bumper_front_ok",
     "bumper_front_dam",
+    "carplate_lg",
     "windscreen_dummy",
     "carback_lg",
     "windscreen_ok",

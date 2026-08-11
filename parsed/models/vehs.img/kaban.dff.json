@@ -5,7 +5,7 @@
   "geometries": [
     {
       "index": 0,
-      "vertices": 6064,
+      "vertices": 5904,
       "triangles": 6032,
       "materials": [
         {
@@ -613,8 +613,8 @@
     },
     {
       "index": 11,
-      "vertices": 4519,
-      "triangles": 4468,
+      "vertices": 4567,
+      "triangles": 4516,
       "materials": [
         {
           "color": {
@@ -727,15 +727,6 @@
         {
           "color": {
             "r": 255,
-            "g": 60,
-            "b": 0,
-            "a": 255
-          },
-          "texture": null
-        },
-        {
-          "color": {
-            "r": 255,
             "g": 153,
             "b": 0,
             "a": 255
@@ -762,9 +753,18 @@
         },
         {
           "color": {
-            "r": 185,
-            "g": 255,
-            "b": 0,
+            "r": 204,
+            "g": 204,
+            "b": 204,
+            "a": 255
+          },
+          "texture": null
+        },
+        {
+          "color": {
+            "r": 204,
+            "g": 204,
+            "b": 204,
             "a": 255
           },
           "texture": null
@@ -2258,7 +2258,7 @@
     "windscreen_dummy",
     "boot_dummy",
     "bonnet_dummy",
-    "chasis_vlo",
+    "chassis_vlo",
     "carback_lg",
     "carback",
     "platelight",

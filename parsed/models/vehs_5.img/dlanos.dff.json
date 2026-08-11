@@ -5,8 +5,8 @@
   "geometries": [
     {
       "index": 0,
-      "vertices": 2957,
-      "triangles": 3425,
+      "vertices": 2965,
+      "triangles": 3429,
       "materials": [
         {
           "color": {
@@ -964,6 +964,15 @@
       "materials": [
         {
           "color": {
+            "r": 204,
+            "g": 204,
+            "b": 204,
+            "a": 255
+          },
+          "texture": null
+        },
+        {
+          "color": {
             "r": 111,
             "g": 111,
             "b": 111,
@@ -1142,7 +1151,7 @@
     },
     {
       "index": 21,
-      "vertices": 4618,
+      "vertices": 4530,
       "triangles": 5444,
       "materials": [
         {
@@ -1253,8 +1262,8 @@
     },
     {
       "index": 24,
-      "vertices": 1266,
-      "triangles": 1473,
+      "vertices": 1258,
+      "triangles": 1469,
       "materials": [
         {
           "color": {

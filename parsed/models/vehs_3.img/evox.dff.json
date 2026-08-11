@@ -406,7 +406,7 @@
             "r": 204,
             "g": 204,
             "b": 204,
-            "a": 153
+            "a": 255
           },
           "texture": null
         },
@@ -1231,8 +1231,8 @@
     },
     {
       "index": 17,
-      "vertices": 3744,
-      "triangles": 3472,
+      "vertices": 3750,
+      "triangles": 3476,
       "materials": [
         {
           "color": {
@@ -1312,6 +1312,15 @@
             "g": 204,
             "b": 204,
             "a": 255
+          },
+          "texture": null
+        },
+        {
+          "color": {
+            "r": 204,
+            "g": 204,
+            "b": 204,
+            "a": 153
           },
           "texture": null
         }

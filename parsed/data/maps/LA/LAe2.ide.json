@@ -1,6 +1,6 @@
 {
   "type": "config",
-  "lines": 489,
+  "lines": 490,
   "content": [
     "objs",
     "17500, stormdrainLAE2_05, stormdrain, 150, 0",
@@ -474,7 +474,7 @@
     "17973, grnd_alpha3, hub_alpha, 80, 132",
     "17974, grnd_alpha4, cinemart_alpha, 150, 2097348",
     "17976, grnd_alpha5, eastlstr_lae2, 120, 2097348",
-    "17978, grnd_alpha6, ganton01_lae2, 100, 196",
+    "17978, grnd_alpha6, ganton01_lae2, 100, 2097156",
     "end",
     "tobj",
     "17579, Liquorstore03_LAe2, ganton02_lae2, 60, 132, 20, 6",
@@ -490,6 +490,7 @@
     "anim",
     "end",
     "txdp",
+    "laeast2_lod, lodghetto_lae",
     "end"
   ]
 }

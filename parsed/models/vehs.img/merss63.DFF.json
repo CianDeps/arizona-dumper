@@ -738,10 +738,10 @@
         },
         {
           "color": {
-            "r": 102,
-            "g": 102,
-            "b": 102,
-            "a": 102
+            "r": 255,
+            "g": 255,
+            "b": 255,
+            "a": 153
           },
           "texture": null
         },
@@ -923,10 +923,10 @@
         },
         {
           "color": {
-            "r": 102,
-            "g": 102,
-            "b": 102,
-            "a": 102
+            "r": 255,
+            "g": 255,
+            "b": 255,
+            "a": 153
           },
           "texture": null
         },
@@ -1108,8 +1108,8 @@
     },
     {
       "index": 20,
-      "vertices": 2857,
-      "triangles": 3464,
+      "vertices": 2867,
+      "triangles": 3480,
       "materials": [
         {
           "color": {
@@ -1172,10 +1172,10 @@
       "materials": [
         {
           "color": {
-            "r": 204,
-            "g": 204,
-            "b": 204,
-            "a": 255
+            "r": 255,
+            "g": 255,
+            "b": 255,
+            "a": 153
           },
           "texture": null
         }
@@ -1183,8 +1183,8 @@
     },
     {
       "index": 23,
-      "vertices": 2074,
-      "triangles": 784,
+      "vertices": 1924,
+      "triangles": 720,
       "materials": [
         {
           "color": {
@@ -1217,7 +1217,7 @@
     },
     {
       "index": 24,
-      "vertices": 1585,
+      "vertices": 1568,
       "triangles": 2303,
       "materials": [
         {
@@ -1326,10 +1326,10 @@
       "materials": [
         {
           "color": {
-            "r": 102,
-            "g": 102,
-            "b": 102,
-            "a": 102
+            "r": 204,
+            "g": 204,
+            "b": 204,
+            "a": 153
           },
           "texture": null
         }
@@ -1646,8 +1646,8 @@
     },
     {
       "index": 30,
-      "vertices": 102,
-      "triangles": 68,
+      "vertices": 48,
+      "triangles": 38,
       "materials": [
         {
           "color": {
@@ -1662,15 +1662,6 @@
           "color": {
             "r": 255,
             "g": 153,
-            "b": 0,
-            "a": 255
-          },
-          "texture": null
-        },
-        {
-          "color": {
-            "r": 255,
-            "g": 60,
             "b": 0,
             "a": 255
           },
@@ -1701,9 +1692,9 @@
       "materials": [
         {
           "color": {
-            "r": 255,
-            "g": 255,
-            "b": 255,
+            "r": 204,
+            "g": 204,
+            "b": 204,
             "a": 255
           },
           "texture": null

@@ -105,6 +105,15 @@
       "materials": [
         {
           "color": {
+            "r": 204,
+            "g": 204,
+            "b": 204,
+            "a": 255
+          },
+          "texture": null
+        },
+        {
+          "color": {
             "r": 255,
             "g": 255,
             "b": 255,
@@ -170,8 +179,8 @@
     },
     {
       "index": 3,
-      "vertices": 7945,
-      "triangles": 8567,
+      "vertices": 7913,
+      "triangles": 8531,
       "materials": [
         {
           "color": {
@@ -202,9 +211,9 @@
         },
         {
           "color": {
-            "r": 255,
-            "g": 60,
-            "b": 0,
+            "r": 204,
+            "g": 204,
+            "b": 204,
             "a": 255
           },
           "texture": null

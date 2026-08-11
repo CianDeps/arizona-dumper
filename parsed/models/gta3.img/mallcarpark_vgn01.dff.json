@@ -5,9 +5,36 @@
   "geometries": [
     {
       "index": 0,
-      "vertices": 2825,
-      "triangles": 1673,
+      "vertices": 2896,
+      "triangles": 1723,
       "materials": [
+        {
+          "color": {
+            "r": 255,
+            "g": 255,
+            "b": 255,
+            "a": 255
+          },
+          "texture": null
+        },
+        {
+          "color": {
+            "r": 255,
+            "g": 255,
+            "b": 255,
+            "a": 255
+          },
+          "texture": null
+        },
+        {
+          "color": {
+            "r": 255,
+            "g": 255,
+            "b": 255,
+            "a": 255
+          },
+          "texture": null
+        },
         {
           "color": {
             "r": 255,
@@ -110,20 +137,8 @@
       ]
     }
   ],
-  "frames": 13,
+  "frames": 1,
   "dummies": [
-    "mallcarpark_vgn01",
-    "Omni475",
-    "Omni480",
-    "Omni479",
-    "Omni478",
-    "Omni477",
-    "Omni476",
-    "Omni469",
-    "Omni474",
-    "Omni473",
-    "Omni472",
-    "Omni471",
-    "Omni470"
+    "mallcarpark_vgn01"
   ]
 }

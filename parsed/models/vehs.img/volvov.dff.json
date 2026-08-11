@@ -695,6 +695,24 @@
         },
         {
           "color": {
+            "r": 204,
+            "g": 204,
+            "b": 204,
+            "a": 255
+          },
+          "texture": null
+        },
+        {
+          "color": {
+            "r": 204,
+            "g": 204,
+            "b": 204,
+            "a": 255
+          },
+          "texture": null
+        },
+        {
+          "color": {
             "r": 255,
             "g": 153,
             "b": 0,
@@ -2022,9 +2040,9 @@
         },
         {
           "color": {
-            "r": 64,
-            "g": 0,
-            "b": 0,
+            "r": 204,
+            "g": 204,
+            "b": 204,
             "a": 255
           },
           "texture": null
@@ -2890,7 +2908,7 @@
       ]
     }
   ],
-  "frames": 81,
+  "frames": 79,
   "dummies": [
     "admiral",
     "engin",
@@ -2898,8 +2916,6 @@
     "chassis_dummy",
     "ped_frontseat",
     "engine",
-    "taillights2",
-    "headlights2",
     "taillights",
     "headlights",
     "ped_backseat",

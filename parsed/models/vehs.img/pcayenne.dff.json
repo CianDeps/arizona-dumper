@@ -404,10 +404,10 @@
       "materials": [
         {
           "color": {
-            "r": 204,
-            "g": 204,
-            "b": 204,
-            "a": 255
+            "r": 255,
+            "g": 255,
+            "b": 255,
+            "a": 153
           },
           "texture": null
         }
@@ -1527,8 +1527,8 @@
     },
     {
       "index": 22,
-      "vertices": 6806,
-      "triangles": 4680,
+      "vertices": 6966,
+      "triangles": 4856,
       "materials": [
         {
           "color": {
@@ -1568,9 +1568,9 @@
         },
         {
           "color": {
-            "r": 255,
-            "g": 0,
-            "b": 0,
+            "r": 204,
+            "g": 204,
+            "b": 204,
             "a": 255
           },
           "texture": null
@@ -1595,10 +1595,46 @@
         },
         {
           "color": {
+            "r": 185,
+            "g": 255,
+            "b": 0,
+            "a": 255
+          },
+          "texture": null
+        },
+        {
+          "color": {
             "r": 204,
             "g": 204,
             "b": 204,
             "a": 255
+          },
+          "texture": null
+        },
+        {
+          "color": {
+            "r": 204,
+            "g": 204,
+            "b": 204,
+            "a": 255
+          },
+          "texture": null
+        },
+        {
+          "color": {
+            "r": 255,
+            "g": 60,
+            "b": 0,
+            "a": 255
+          },
+          "texture": null
+        },
+        {
+          "color": {
+            "r": 204,
+            "g": 204,
+            "b": 204,
+            "a": 153
           },
           "texture": null
         }
@@ -1606,8 +1642,8 @@
     },
     {
       "index": 23,
-      "vertices": 6878,
-      "triangles": 4742,
+      "vertices": 6830,
+      "triangles": 4702,
       "materials": [
         {
           "color": {
@@ -1650,6 +1686,15 @@
             "r": 255,
             "g": 0,
             "b": 0,
+            "a": 255
+          },
+          "texture": null
+        },
+        {
+          "color": {
+            "r": 204,
+            "g": 204,
+            "b": 204,
             "a": 255
           },
           "texture": null
@@ -2573,8 +2618,8 @@
     },
     {
       "index": 39,
-      "vertices": 442,
-      "triangles": 296,
+      "vertices": 122,
+      "triangles": 92,
       "materials": [
         {
           "color": {
@@ -2639,40 +2684,15 @@
     },
     {
       "index": 42,
-      "vertices": 340,
-      "triangles": 220,
+      "vertices": 14,
+      "triangles": 12,
       "materials": [
-        {
-          "color": {
-            "r": 204,
-            "g": 204,
-            "b": 204,
-            "a": 173
-          },
-          "texture": null
-        },
         {
           "color": {
             "r": 204,
             "g": 204,
             "b": 204,
             "a": 153
-          },
-          "texture": null
-        }
-      ]
-    },
-    {
-      "index": 43,
-      "vertices": 146,
-      "triangles": 134,
-      "materials": [
-        {
-          "color": {
-            "r": 255,
-            "g": 60,
-            "b": 0,
-            "a": 255
           },
           "texture": null
         }
@@ -2693,6 +2713,7 @@
     "taillights",
     "tlght_generic_r1",
     "tlght_generic_s2",
+    "windscreen_dummy",
     "tlght_generic_s1",
     "tlght_generic_f3",
     "tlght_generic_f2",
@@ -2759,7 +2780,6 @@
     "led",
     "glassctl",
     "glassctl",
-    "led",
     "brake_caliper"
   ]
 }

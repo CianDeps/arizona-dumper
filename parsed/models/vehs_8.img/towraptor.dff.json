@@ -30,7 +30,7 @@
     },
     {
       "index": 1,
-      "vertices": 280,
+      "vertices": 286,
       "triangles": 210,
       "materials": [
         {
@@ -46,7 +46,7 @@
     },
     {
       "index": 2,
-      "vertices": 1564,
+      "vertices": 1583,
       "triangles": 1318,
       "materials": [
         {
@@ -116,7 +116,7 @@
     },
     {
       "index": 3,
-      "vertices": 1564,
+      "vertices": 1583,
       "triangles": 1318,
       "materials": [
         {
@@ -186,7 +186,7 @@
     },
     {
       "index": 4,
-      "vertices": 1564,
+      "vertices": 1583,
       "triangles": 1318,
       "materials": [
         {
@@ -256,7 +256,7 @@
     },
     {
       "index": 5,
-      "vertices": 1564,
+      "vertices": 1583,
       "triangles": 1318,
       "materials": [
         {
@@ -358,6 +358,22 @@
     },
     {
       "index": 8,
+      "vertices": 386,
+      "triangles": 320,
+      "materials": [
+        {
+          "color": {
+            "r": 226,
+            "g": 226,
+            "b": 226,
+            "a": 255
+          },
+          "texture": null
+        }
+      ]
+    },
+    {
+      "index": 9,
       "vertices": 356,
       "triangles": 397,
       "materials": [
@@ -373,9 +389,9 @@
       ]
     },
     {
-      "index": 9,
-      "vertices": 10168,
-      "triangles": 8266,
+      "index": 10,
+      "vertices": 10195,
+      "triangles": 8260,
       "materials": [
         {
           "color": {
@@ -533,8 +549,8 @@
       ]
     },
     {
-      "index": 10,
-      "vertices": 4519,
+      "index": 11,
+      "vertices": 4572,
       "triangles": 3832,
       "materials": [
         {
@@ -549,8 +565,8 @@
       ]
     },
     {
-      "index": 11,
-      "vertices": 255,
+      "index": 12,
+      "vertices": 257,
       "triangles": 282,
       "materials": [
         {
@@ -559,22 +575,6 @@
             "g": 255,
             "b": 255,
             "a": 255
-          },
-          "texture": null
-        }
-      ]
-    },
-    {
-      "index": 12,
-      "vertices": 44,
-      "triangles": 56,
-      "materials": [
-        {
-          "color": {
-            "r": 255,
-            "g": 255,
-            "b": 255,
-            "a": 153
           },
           "texture": null
         }
@@ -598,6 +598,22 @@
     },
     {
       "index": 14,
+      "vertices": 44,
+      "triangles": 56,
+      "materials": [
+        {
+          "color": {
+            "r": 255,
+            "g": 255,
+            "b": 255,
+            "a": 153
+          },
+          "texture": null
+        }
+      ]
+    },
+    {
+      "index": 15,
       "vertices": 1104,
       "triangles": 804,
       "materials": [
@@ -640,7 +656,7 @@
       ]
     },
     {
-      "index": 15,
+      "index": 16,
       "vertices": 1080,
       "triangles": 786,
       "materials": [
@@ -683,9 +699,9 @@
       ]
     },
     {
-      "index": 16,
-      "vertices": 689,
-      "triangles": 536,
+      "index": 17,
+      "vertices": 785,
+      "triangles": 568,
       "materials": [
         {
           "color": {
@@ -708,7 +724,7 @@
       ]
     },
     {
-      "index": 17,
+      "index": 18,
       "vertices": 1196,
       "triangles": 1200,
       "materials": [
@@ -724,7 +740,7 @@
       ]
     }
   ],
-  "frames": 48,
+  "frames": 49,
   "dummies": [
     "towraptor",
     "chassis_dummy",
@@ -746,6 +762,7 @@
     "wheel_rb_dummy",
     "bump_rear_dummy",
     "bump_rear_ok",
+    "bump_rear_dam",
     "taillights",
     "bonnet_dummy",
     "headlights",

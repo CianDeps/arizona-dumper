@@ -116,7 +116,7 @@
     },
     {
       "index": 3,
-      "vertices": 7759,
+      "vertices": 6001,
       "triangles": 7780,
       "materials": [
         {
@@ -256,9 +256,18 @@
     },
     {
       "index": 5,
-      "vertices": 608,
+      "vertices": 616,
       "triangles": 770,
       "materials": [
+        {
+          "color": {
+            "r": 204,
+            "g": 204,
+            "b": 204,
+            "a": 255
+          },
+          "texture": null
+        },
         {
           "color": {
             "r": 205,
@@ -331,7 +340,7 @@
     },
     {
       "index": 8,
-      "vertices": 2158,
+      "vertices": 1650,
       "triangles": 1610,
       "materials": [
         {
@@ -401,7 +410,7 @@
     },
     {
       "index": 9,
-      "vertices": 2481,
+      "vertices": 2541,
       "triangles": 1609,
       "materials": [
         {
@@ -462,7 +471,7 @@
     },
     {
       "index": 10,
-      "vertices": 1665,
+      "vertices": 1061,
       "triangles": 1634,
       "materials": [
         {
@@ -541,7 +550,7 @@
     },
     {
       "index": 11,
-      "vertices": 2000,
+      "vertices": 2082,
       "triangles": 1634,
       "materials": [
         {
@@ -679,9 +688,18 @@
     },
     {
       "index": 14,
-      "vertices": 3002,
-      "triangles": 3218,
+      "vertices": 2996,
+      "triangles": 3214,
       "materials": [
+        {
+          "color": {
+            "r": 204,
+            "g": 204,
+            "b": 204,
+            "a": 255
+          },
+          "texture": null
+        },
         {
           "color": {
             "r": 205,
@@ -723,15 +741,6 @@
             "r": 205,
             "g": 205,
             "b": 205,
-            "a": 255
-          },
-          "texture": null
-        },
-        {
-          "color": {
-            "r": 255,
-            "g": 60,
-            "b": 0,
             "a": 255
           },
           "texture": null
@@ -869,7 +878,7 @@
     },
     {
       "index": 18,
-      "vertices": 5811,
+      "vertices": 3622,
       "triangles": 5644,
       "materials": [
         {
@@ -973,7 +982,7 @@
     },
     {
       "index": 20,
-      "vertices": 6083,
+      "vertices": 4057,
       "triangles": 5396,
       "materials": [
         {
@@ -1025,7 +1034,7 @@
     },
     {
       "index": 21,
-      "vertices": 5404,
+      "vertices": 5425,
       "triangles": 5396,
       "materials": [
         {
@@ -1078,7 +1087,7 @@
   ],
   "frames": 54,
   "dummies": [
-    "FIA GTR",
+    "gtr",
     "wheel_lf_dummy",
     "wheel_rf_dummy",
     "wheel_lb_dummy",
@@ -1127,10 +1136,10 @@
     "boot_dam",
     "windscreen_ok",
     "windscreen_dam",
-    "bamperR_ok",
-    "bamperR_dam",
-    "bamperF_ok",
-    "bamperF_dam",
+    "bump_rear_ok",
+    "bump_rear_dam",
+    "bump_front_ok",
+    "bump_front_dam",
     "brake_caliper"
   ]
 }

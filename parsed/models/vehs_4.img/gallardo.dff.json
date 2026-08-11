@@ -5,9 +5,27 @@
   "geometries": [
     {
       "index": 0,
-      "vertices": 3932,
-      "triangles": 4791,
+      "vertices": 4590,
+      "triangles": 5499,
       "materials": [
+        {
+          "color": {
+            "r": 204,
+            "g": 204,
+            "b": 204,
+            "a": 255
+          },
+          "texture": null
+        },
+        {
+          "color": {
+            "r": 204,
+            "g": 204,
+            "b": 204,
+            "a": 255
+          },
+          "texture": null
+        },
         {
           "color": {
             "r": 15,
@@ -106,13 +124,22 @@
             "a": 255
           },
           "texture": null
+        },
+        {
+          "color": {
+            "r": 204,
+            "g": 204,
+            "b": 204,
+            "a": 255
+          },
+          "texture": null
         }
       ]
     },
     {
       "index": 1,
-      "vertices": 98,
-      "triangles": 120,
+      "vertices": 122,
+      "triangles": 140,
       "materials": [
         {
           "color": {
@@ -222,8 +249,8 @@
     },
     {
       "index": 4,
-      "vertices": 3937,
-      "triangles": 4794,
+      "vertices": 3279,
+      "triangles": 4086,
       "materials": [
         {
           "color": {
@@ -293,33 +320,6 @@
             "r": 255,
             "g": 255,
             "b": 255,
-            "a": 255
-          },
-          "texture": null
-        },
-        {
-          "color": {
-            "r": 255,
-            "g": 255,
-            "b": 255,
-            "a": 255
-          },
-          "texture": null
-        },
-        {
-          "color": {
-            "r": 255,
-            "g": 60,
-            "b": 0,
-            "a": 255
-          },
-          "texture": null
-        },
-        {
-          "color": {
-            "r": 204,
-            "g": 204,
-            "b": 204,
             "a": 255
           },
           "texture": null
@@ -742,8 +742,8 @@
     },
     {
       "index": 14,
-      "vertices": 3636,
-      "triangles": 4213,
+      "vertices": 3418,
+      "triangles": 3933,
       "materials": [
         {
           "color": {
@@ -795,6 +795,15 @@
             "r": 255,
             "g": 255,
             "b": 255,
+            "a": 255
+          },
+          "texture": null
+        },
+        {
+          "color": {
+            "r": 204,
+            "g": 204,
+            "b": 204,
             "a": 255
           },
           "texture": null
