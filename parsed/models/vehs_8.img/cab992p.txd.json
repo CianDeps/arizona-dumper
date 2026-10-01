@@ -1,0 +1,33 @@
+{
+  "type": "txd",
+  "textures": [
+    {
+      "name": "cab992p_badges",
+      "width": 256,
+      "height": 256,
+      "format": "DXT3",
+      "alpha": true
+    },
+    {
+      "name": "cab992p_int",
+      "width": 1024,
+      "height": 1024,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "cab992p_liv",
+      "width": 512,
+      "height": 512,
+      "format": "DXT3",
+      "alpha": true
+    },
+    {
+      "name": "cab992p_whl",
+      "width": 512,
+      "height": 512,
+      "format": "DXT1",
+      "alpha": false
+    }
+  ]
+}

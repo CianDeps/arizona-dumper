@@ -1676,9 +1676,37 @@
     },
     {
       "name": "obj95_nplate1_tx",
-      "width": 1024,
-      "height": 1024,
-      "format": "\u0015",
+      "width": 512,
+      "height": 512,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "number_barbie_tx1",
+      "width": 512,
+      "height": 512,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "number_barbie_tx2",
+      "width": 512,
+      "height": 512,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "number_maqq_tx1",
+      "width": 512,
+      "height": 512,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "number_maqq_tx2",
+      "width": 512,
+      "height": 512,
+      "format": "DXT1",
       "alpha": false
     }
   ]

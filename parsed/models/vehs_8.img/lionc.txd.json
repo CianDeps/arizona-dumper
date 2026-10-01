@@ -1,0 +1,26 @@
+{
+  "type": "txd",
+  "textures": [
+    {
+      "name": "lionc_curtain",
+      "width": 256,
+      "height": 128,
+      "format": "DXT3",
+      "alpha": true
+    },
+    {
+      "name": "lionc_decals",
+      "width": 512,
+      "height": 512,
+      "format": "DXT3",
+      "alpha": true
+    },
+    {
+      "name": "lionc_int",
+      "width": 1024,
+      "height": 1024,
+      "format": "DXT1",
+      "alpha": false
+    }
+  ]
+}
