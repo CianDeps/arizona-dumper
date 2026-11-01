@@ -1,0 +1,40 @@
+{
+  "type": "txd",
+  "textures": [
+    {
+      "name": "e36hw_body",
+      "width": 1024,
+      "height": 1024,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "e36hw_int",
+      "width": 1024,
+      "height": 1024,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "e36hw_spnet",
+      "width": 256,
+      "height": 256,
+      "format": "DXT5",
+      "alpha": true
+    },
+    {
+      "name": "e36hw_bdgs",
+      "width": 256,
+      "height": 256,
+      "format": "DXT3",
+      "alpha": true
+    },
+    {
+      "name": "e36hw_stk",
+      "width": 256,
+      "height": 256,
+      "format": "DXT3",
+      "alpha": true
+    }
+  ]
+}

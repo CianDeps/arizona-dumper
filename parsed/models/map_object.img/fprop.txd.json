@@ -93,13 +93,6 @@
       "alpha": false
     },
     {
-      "name": "foll_bench",
-      "width": 512,
-      "height": 512,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
       "name": "foll_bench3",
       "width": 512,
       "height": 512,
@@ -133,13 +126,6 @@
       "height": 512,
       "format": "DXT1",
       "alpha": false
-    },
-    {
-      "name": "foll_nbench",
-      "width": 512,
-      "height": 512,
-      "format": "DXT5",
-      "alpha": true
     },
     {
       "name": "foll_nbench2",
@@ -203,6 +189,20 @@
       "height": 256,
       "format": "DXT1",
       "alpha": false
+    },
+    {
+      "name": "foll_bench",
+      "width": 512,
+      "height": 512,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "foll_nbench",
+      "width": 512,
+      "height": 512,
+      "format": "DXT1",
+      "alpha": true
     }
   ]
 }

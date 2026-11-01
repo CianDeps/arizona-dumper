@@ -1,0 +1,45 @@
+{
+  "type": "dff",
+  "version": "RenderWare 3.6.0.3 (SA)",
+  "modelType": 0,
+  "geometries": [
+    {
+      "index": 0,
+      "vertices": 4,
+      "triangles": 2,
+      "materials": [
+        {
+          "color": {
+            "r": 204,
+            "g": 99,
+            "b": 21,
+            "a": 255
+          },
+          "texture": null
+        }
+      ]
+    },
+    {
+      "index": 1,
+      "vertices": 4,
+      "triangles": 2,
+      "materials": [
+        {
+          "color": {
+            "r": 204,
+            "g": 99,
+            "b": 21,
+            "a": 255
+          },
+          "texture": null
+        }
+      ]
+    }
+  ],
+  "frames": 3,
+  "dummies": [
+    "obj98a_aura_y",
+    "obj98a_aura_y",
+    "body"
+  ]
+}

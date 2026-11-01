@@ -1,0 +1,33 @@
+{
+  "type": "txd",
+  "textures": [
+    {
+      "name": "f16_interior",
+      "width": 512,
+      "height": 512,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "f16_dwnl",
+      "width": 1024,
+      "height": 1024,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "f16_upl",
+      "width": 1024,
+      "height": 1024,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "f16_vlo",
+      "width": 256,
+      "height": 256,
+      "format": "\u0016",
+      "alpha": false
+    }
+  ]
+}

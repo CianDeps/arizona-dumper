@@ -1,6 +1,6 @@
 {
   "type": "config",
-  "lines": 328,
+  "lines": 352,
   "content": [
     "man, ped, walkcycle, 6",
     "\twalk_civi ",
@@ -329,6 +329,30 @@
     "\tgoose_idle",
     "\tgoose_idle",
     "\tgoose_start",
+    "end",
+    "horse1, ped, walkcycle, 6",
+    "\thorse1_walk",
+    "\thorse1_run",
+    "\thorse1_sprint",
+    "\thorse1_idle",
+    "\thorse1_idle",
+    "\thorse1_start",
+    "end",
+    "zombieb, ped, walkcycle, 6",
+    "\tzombieb_walk",
+    "\tzombieb_run",
+    "\tzombieb_sprint",
+    "\tzombieb_idle",
+    "\tzombieb_idle",
+    "\tzombieb_start",
+    "end",
+    "cowboy1, ped, walkcycle, 6",
+    "\tcowboy1_walk",
+    "\tcowboy1_run",
+    "\tcowboy1_sprint",
+    "\tcowboy1_idle",
+    "\tcowboy1_idle",
+    "\tcowboy1_start",
     "end"
   ]
 }

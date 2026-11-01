@@ -5,9 +5,18 @@
   "geometries": [
     {
       "index": 0,
-      "vertices": 83,
-      "triangles": 46,
+      "vertices": 182,
+      "triangles": 134,
       "materials": [
+        {
+          "color": {
+            "r": 255,
+            "g": 255,
+            "b": 255,
+            "a": 255
+          },
+          "texture": null
+        },
         {
           "color": {
             "r": 255,
@@ -31,7 +40,7 @@
   ],
   "frames": 2,
   "dummies": [
-    "lamppost3_L0",
-    "Omni06"
+    "lamppost3",
+    "2dfx1"
   ]
 }

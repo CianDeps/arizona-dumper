@@ -1,12 +1,12 @@
 {
   "type": "dff",
-  "version": "RenderWare 3.4.0.3 (VC on PC)",
+  "version": "RenderWare 3.6.0.3 (SA)",
   "modelType": 0,
   "geometries": [
     {
       "index": 0,
-      "vertices": 913,
-      "triangles": 630,
+      "vertices": 761,
+      "triangles": 486,
       "materials": [
         {
           "color": {
@@ -119,20 +119,8 @@
       ]
     }
   ],
-  "frames": 13,
+  "frames": 1,
   "dummies": [
-    "washbuild062",
-    "Tape06.Target",
-    "Tape06",
-    "Collision_Box531",
-    "Collision_Box236",
-    "Collision_Box235",
-    "Collision_Box234",
-    "Collision_Box233",
-    "Collision_Box222",
-    "Collision_Box221",
-    "Collision_Box220",
-    "Collision_Box219",
-    "Collision_Box218"
+    "washbuild062"
   ]
 }

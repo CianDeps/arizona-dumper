@@ -1,0 +1,54 @@
+{
+  "type": "dff",
+  "version": "RenderWare 3.6.0.3 (SA)",
+  "modelType": 0,
+  "geometries": [
+    {
+      "index": 0,
+      "vertices": 547,
+      "triangles": 878,
+      "materials": [
+        {
+          "color": {
+            "r": 191,
+            "g": 24,
+            "b": 24,
+            "a": 255
+          },
+          "texture": null
+        }
+      ]
+    },
+    {
+      "index": 1,
+      "vertices": 851,
+      "triangles": 1058,
+      "materials": [
+        {
+          "color": {
+            "r": 178,
+            "g": 178,
+            "b": 178,
+            "a": 255
+          },
+          "texture": null
+        },
+        {
+          "color": {
+            "r": 191,
+            "g": 24,
+            "b": 24,
+            "a": 255
+          },
+          "texture": null
+        }
+      ]
+    }
+  ],
+  "frames": 3,
+  "dummies": [
+    "obj98a_kgst_r",
+    "obj98a_kgst_r",
+    "ghost"
+  ]
+}

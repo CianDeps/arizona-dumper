@@ -1,0 +1,47 @@
+{
+  "type": "dff",
+  "version": "RenderWare 3.6.0.3 (SA)",
+  "modelType": 0,
+  "geometries": [
+    {
+      "index": 0,
+      "vertices": 612,
+      "triangles": 306,
+      "materials": [
+        {
+          "color": {
+            "r": 255,
+            "g": 255,
+            "b": 255,
+            "a": 255
+          },
+          "texture": null
+        }
+      ]
+    },
+    {
+      "index": 1,
+      "vertices": 612,
+      "triangles": 306,
+      "materials": [
+        {
+          "color": {
+            "r": 255,
+            "g": 255,
+            "b": 255,
+            "a": 255
+          },
+          "texture": null
+        }
+      ]
+    }
+  ],
+  "frames": 5,
+  "dummies": [
+    "hall_voron_root",
+    "hall_voron_pivot1",
+    "hall_voron",
+    "hall_voron_pivot2",
+    "hall_voron2"
+  ]
+}

@@ -308,6 +308,20 @@
       "height": 64,
       "format": "DXT5",
       "alpha": true
+    },
+    {
+      "name": "Gen_Log",
+      "width": 128,
+      "height": 256,
+      "format": "DXT1",
+      "alpha": true
+    },
+    {
+      "name": "Gen_Log_End",
+      "width": 256,
+      "height": 256,
+      "format": "DXT1",
+      "alpha": true
     }
   ]
 }

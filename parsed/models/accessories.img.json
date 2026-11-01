@@ -1,7 +1,7 @@
 {
   "type": "img",
   "version": "v2",
-  "totalEntries": 1928,
+  "totalEntries": 2136,
   "entries": [
     {
       "name": "accs_east23.txd",
@@ -17,7 +17,7 @@
     },
     {
       "name": "acc_gmod.col",
-      "size": 587776
+      "size": 622592
     },
     {
       "name": "acs1.txd",
@@ -181,11 +181,11 @@
     },
     {
       "name": "anim_accs.ifp",
-      "size": 288768
+      "size": 126976
     },
     {
       "name": "anim_simp.ifp",
-      "size": 813056
+      "size": 2498560
     },
     {
       "name": "armourburger.dff",
@@ -6865,7 +6865,7 @@
     },
     {
       "name": "obj94.txd",
-      "size": 16201728
+      "size": 29577216
     },
     {
       "name": "obj94a_firewng1.dff",
@@ -7177,11 +7177,31 @@
     },
     {
       "name": "obj96.txd",
-      "size": 657408
+      "size": 11804672
     },
     {
       "name": "obj96a_cannon.dff",
       "size": 102400
+    },
+    {
+      "name": "obj96a_nimba2.dff",
+      "size": 65536
+    },
+    {
+      "name": "obj96a_nimba3.dff",
+      "size": 94208
+    },
+    {
+      "name": "obj96a_nimbp2.dff",
+      "size": 67584
+    },
+    {
+      "name": "obj96a_nimbp3.dff",
+      "size": 129024
+    },
+    {
+      "name": "obj96a_nimbsp.dff",
+      "size": 178176
     },
     {
       "name": "obj96a_parrot.dff",
@@ -7192,12 +7212,200 @@
       "size": 178176
     },
     {
+      "name": "obj96a_spwpn.dff",
+      "size": 86016
+    },
+    {
+      "name": "obj96a_tntc.dff",
+      "size": 569344
+    },
+    {
       "name": "obj96_ak47.dff",
       "size": 2048
     },
     {
+      "name": "obj96_arma1.dff",
+      "size": 131072
+    },
+    {
+      "name": "obj96_arma2.dff",
+      "size": 131072
+    },
+    {
+      "name": "obj96_arma3.dff",
+      "size": 153600
+    },
+    {
+      "name": "obj96_armp1.dff",
+      "size": 131072
+    },
+    {
+      "name": "obj96_armp2.dff",
+      "size": 131072
+    },
+    {
+      "name": "obj96_armp3.dff",
+      "size": 153600
+    },
+    {
+      "name": "obj96_armrstpk.dff",
+      "size": 198656
+    },
+    {
+      "name": "obj96_auraa.dff",
+      "size": 2048
+    },
+    {
+      "name": "obj96_aurap.dff",
+      "size": 2048
+    },
+    {
+      "name": "obj96_backa1.dff",
+      "size": 32768
+    },
+    {
+      "name": "obj96_backa2.dff",
+      "size": 61440
+    },
+    {
+      "name": "obj96_backa3.dff",
+      "size": 92160
+    },
+    {
+      "name": "obj96_backp1.dff",
+      "size": 32768
+    },
+    {
+      "name": "obj96_backp2.dff",
+      "size": 53248
+    },
+    {
+      "name": "obj96_backp3.dff",
+      "size": 86016
+    },
+    {
+      "name": "obj96_bata1.dff",
+      "size": 26624
+    },
+    {
+      "name": "obj96_bata2.dff",
+      "size": 32768
+    },
+    {
+      "name": "obj96_bata3.dff",
+      "size": 65536
+    },
+    {
+      "name": "obj96_batp1.dff",
+      "size": 26624
+    },
+    {
+      "name": "obj96_batp2.dff",
+      "size": 32768
+    },
+    {
+      "name": "obj96_batp3.dff",
+      "size": 65536
+    },
+    {
+      "name": "obj96_boota1.dff",
+      "size": 26624
+    },
+    {
+      "name": "obj96_boota2.dff",
+      "size": 26624
+    },
+    {
+      "name": "obj96_boota3.dff",
+      "size": 38912
+    },
+    {
+      "name": "obj96_bootp1.dff",
+      "size": 26624
+    },
+    {
+      "name": "obj96_bootp2.dff",
+      "size": 26624
+    },
+    {
+      "name": "obj96_bootp3.dff",
+      "size": 36864
+    },
+    {
+      "name": "obj96_chokera1.dff",
+      "size": 51200
+    },
+    {
+      "name": "obj96_chokera2.dff",
+      "size": 63488
+    },
+    {
+      "name": "obj96_chokera3.dff",
+      "size": 100352
+    },
+    {
+      "name": "obj96_chokerp1.dff",
+      "size": 51200
+    },
+    {
+      "name": "obj96_chokerp2.dff",
+      "size": 63488
+    },
+    {
+      "name": "obj96_chokerp3.dff",
+      "size": 114688
+    },
+    {
+      "name": "obj96_cupa1.dff",
+      "size": 47104
+    },
+    {
+      "name": "obj96_cupa2.dff",
+      "size": 81920
+    },
+    {
+      "name": "obj96_cupa3.dff",
+      "size": 83968
+    },
+    {
+      "name": "obj96_cupp1.dff",
+      "size": 47104
+    },
+    {
+      "name": "obj96_cupp2.dff",
+      "size": 81920
+    },
+    {
+      "name": "obj96_cupp3.dff",
+      "size": 94208
+    },
+    {
       "name": "obj96_desert_eagle.dff",
       "size": 2048
+    },
+    {
+      "name": "obj96_handa1.dff",
+      "size": 51200
+    },
+    {
+      "name": "obj96_handa2.dff",
+      "size": 90112
+    },
+    {
+      "name": "obj96_handa3.dff",
+      "size": 139264
+    },
+    {
+      "name": "obj96_handp1.dff",
+      "size": 51200
+    },
+    {
+      "name": "obj96_handp2.dff",
+      "size": 90112
+    },
+    {
+      "name": "obj96_handp3.dff",
+      "size": 139264
     },
     {
       "name": "obj96_m4.dff",
@@ -7208,16 +7416,640 @@
       "size": 2048
     },
     {
+      "name": "obj96_nimba1.dff",
+      "size": 24576
+    },
+    {
+      "name": "obj96_nimbp1.dff",
+      "size": 24576
+    },
+    {
+      "name": "obj96_pbts.dff",
+      "size": 63488
+    },
+    {
+      "name": "obj96_perch.dff",
+      "size": 65536
+    },
+    {
       "name": "obj96_sawnoff.dff",
       "size": 2048
+    },
+    {
+      "name": "obj96_shdsp.dff",
+      "size": 153600
+    },
+    {
+      "name": "obj96_shoula1.dff",
+      "size": 30720
+    },
+    {
+      "name": "obj96_shoula2.dff",
+      "size": 65536
+    },
+    {
+      "name": "obj96_shoula3.dff",
+      "size": 122880
+    },
+    {
+      "name": "obj96_shoulp1.dff",
+      "size": 30720
+    },
+    {
+      "name": "obj96_shoulp2.dff",
+      "size": 65536
+    },
+    {
+      "name": "obj96_shoulp3.dff",
+      "size": 122880
     },
     {
       "name": "obj96_spacearmor.dff",
       "size": 153600
     },
     {
+      "name": "obj96_spaura.dff",
+      "size": 2048
+    },
+    {
+      "name": "obj96_spbag.dff",
+      "size": 100352
+    },
+    {
+      "name": "obj96_sphat.dff",
+      "size": 137216
+    },
+    {
+      "name": "obj96_spwtch.dff",
+      "size": 96256
+    },
+    {
+      "name": "obj96_suitca1.dff",
+      "size": 57344
+    },
+    {
+      "name": "obj96_suitca2.dff",
+      "size": 71680
+    },
+    {
+      "name": "obj96_suitca3.dff",
+      "size": 116736
+    },
+    {
+      "name": "obj96_suitcp1.dff",
+      "size": 57344
+    },
+    {
+      "name": "obj96_suitcp2.dff",
+      "size": 67584
+    },
+    {
+      "name": "obj96_suitcp3.dff",
+      "size": 116736
+    },
+    {
       "name": "obj96_tec9.dff",
       "size": 2048
+    },
+    {
+      "name": "obj97.txd",
+      "size": 3268608
+    },
+    {
+      "name": "obj98.txd",
+      "size": 12529664
+    },
+    {
+      "name": "obj98a_aura_b.dff",
+      "size": 6144
+    },
+    {
+      "name": "obj98a_aura_bl.dff",
+      "size": 6144
+    },
+    {
+      "name": "obj98a_aura_p.dff",
+      "size": 6144
+    },
+    {
+      "name": "obj98a_aura_r.dff",
+      "size": 6144
+    },
+    {
+      "name": "obj98a_aura_v.dff",
+      "size": 6144
+    },
+    {
+      "name": "obj98a_aura_w.dff",
+      "size": 6144
+    },
+    {
+      "name": "obj98a_aura_y.dff",
+      "size": 6144
+    },
+    {
+      "name": "obj98a_beltn3.dff",
+      "size": 110592
+    },
+    {
+      "name": "obj98a_coatn3.dff",
+      "size": 18432
+    },
+    {
+      "name": "obj98a_kgst_b.dff",
+      "size": 98304
+    },
+    {
+      "name": "obj98a_kgst_o.dff",
+      "size": 98304
+    },
+    {
+      "name": "obj98a_kgst_p.dff",
+      "size": 98304
+    },
+    {
+      "name": "obj98a_kgst_r.dff",
+      "size": 98304
+    },
+    {
+      "name": "obj98a_kgst_v.dff",
+      "size": 98304
+    },
+    {
+      "name": "obj98a_kgst_w.dff",
+      "size": 98304
+    },
+    {
+      "name": "obj98a_ltgl.dff",
+      "size": 116736
+    },
+    {
+      "name": "obj98a_mwng_b.dff",
+      "size": 129024
+    },
+    {
+      "name": "obj98a_mwng_bl.dff",
+      "size": 129024
+    },
+    {
+      "name": "obj98a_mwng_p.dff",
+      "size": 129024
+    },
+    {
+      "name": "obj98a_mwng_r.dff",
+      "size": 129024
+    },
+    {
+      "name": "obj98a_mwng_v.dff",
+      "size": 129024
+    },
+    {
+      "name": "obj98a_mwng_w.dff",
+      "size": 129024
+    },
+    {
+      "name": "obj98a_mwng_y.dff",
+      "size": 129024
+    },
+    {
+      "name": "obj98a_nimbn2.dff",
+      "size": 65536
+    },
+    {
+      "name": "obj98a_nimbn3.dff",
+      "size": 65536
+    },
+    {
+      "name": "obj98a_nknf_b.dff",
+      "size": 133120
+    },
+    {
+      "name": "obj98a_nknf_p.dff",
+      "size": 133120
+    },
+    {
+      "name": "obj98a_nknf_r.dff",
+      "size": 133120
+    },
+    {
+      "name": "obj98a_nknf_v.dff",
+      "size": 133120
+    },
+    {
+      "name": "obj98a_nknf_w.dff",
+      "size": 133120
+    },
+    {
+      "name": "obj98a_nknf_y.dff",
+      "size": 133120
+    },
+    {
+      "name": "obj98a_scarfn3.dff",
+      "size": 20480
+    },
+    {
+      "name": "obj98_ak47.dff",
+      "size": 155648
+    },
+    {
+      "name": "obj98_ak471.dff",
+      "size": 172032
+    },
+    {
+      "name": "obj98_ak472.dff",
+      "size": 172032
+    },
+    {
+      "name": "obj98_ak473.dff",
+      "size": 172032
+    },
+    {
+      "name": "obj98_ak474.dff",
+      "size": 172032
+    },
+    {
+      "name": "obj98_armn1.dff",
+      "size": 61440
+    },
+    {
+      "name": "obj98_armn2.dff",
+      "size": 61440
+    },
+    {
+      "name": "obj98_armn3.dff",
+      "size": 73728
+    },
+    {
+      "name": "obj98_auran.dff",
+      "size": 38912
+    },
+    {
+      "name": "obj98_beltn1.dff",
+      "size": 57344
+    },
+    {
+      "name": "obj98_beltn2.dff",
+      "size": 79872
+    },
+    {
+      "name": "obj98_bootn1.dff",
+      "size": 67584
+    },
+    {
+      "name": "obj98_bootn2.dff",
+      "size": 77824
+    },
+    {
+      "name": "obj98_bootn3.dff",
+      "size": 94208
+    },
+    {
+      "name": "obj98_bpcage_b.dff",
+      "size": 165888
+    },
+    {
+      "name": "obj98_bpcage_p.dff",
+      "size": 165888
+    },
+    {
+      "name": "obj98_bpcage_r.dff",
+      "size": 165888
+    },
+    {
+      "name": "obj98_bpcage_v.dff",
+      "size": 165888
+    },
+    {
+      "name": "obj98_bpcage_w.dff",
+      "size": 165888
+    },
+    {
+      "name": "obj98_bpcage_y.dff",
+      "size": 165888
+    },
+    {
+      "name": "obj98_bpdemon_b.dff",
+      "size": 178176
+    },
+    {
+      "name": "obj98_bpdemon_p.dff",
+      "size": 178176
+    },
+    {
+      "name": "obj98_bpdemon_r.dff",
+      "size": 178176
+    },
+    {
+      "name": "obj98_bpdemon_v.dff",
+      "size": 178176
+    },
+    {
+      "name": "obj98_bpdemon_w.dff",
+      "size": 178176
+    },
+    {
+      "name": "obj98_bpdemon_y.dff",
+      "size": 178176
+    },
+    {
+      "name": "obj98_coatn1.dff",
+      "size": 14336
+    },
+    {
+      "name": "obj98_coatn2.dff",
+      "size": 14336
+    },
+    {
+      "name": "obj98_deagle.dff",
+      "size": 86016
+    },
+    {
+      "name": "obj98_deagle1.dff",
+      "size": 145408
+    },
+    {
+      "name": "obj98_deagle2.dff",
+      "size": 145408
+    },
+    {
+      "name": "obj98_deagle3.dff",
+      "size": 145408
+    },
+    {
+      "name": "obj98_deagle4.dff",
+      "size": 145408
+    },
+    {
+      "name": "obj98_gitr_b.dff",
+      "size": 258048
+    },
+    {
+      "name": "obj98_gitr_p.dff",
+      "size": 258048
+    },
+    {
+      "name": "obj98_gitr_r.dff",
+      "size": 258048
+    },
+    {
+      "name": "obj98_gitr_v.dff",
+      "size": 258048
+    },
+    {
+      "name": "obj98_gitr_w.dff",
+      "size": 258048
+    },
+    {
+      "name": "obj98_gitr_y.dff",
+      "size": 258048
+    },
+    {
+      "name": "obj98_gsack.dff",
+      "size": 16384
+    },
+    {
+      "name": "obj98_handn1.dff",
+      "size": 34816
+    },
+    {
+      "name": "obj98_handn2.dff",
+      "size": 34816
+    },
+    {
+      "name": "obj98_handn3.dff",
+      "size": 51200
+    },
+    {
+      "name": "obj98_hatn1.dff",
+      "size": 28672
+    },
+    {
+      "name": "obj98_hatn2.dff",
+      "size": 28672
+    },
+    {
+      "name": "obj98_hatn3.dff",
+      "size": 38912
+    },
+    {
+      "name": "obj98_m4.dff",
+      "size": 145408
+    },
+    {
+      "name": "obj98_m41.dff",
+      "size": 167936
+    },
+    {
+      "name": "obj98_m42.dff",
+      "size": 167936
+    },
+    {
+      "name": "obj98_m43.dff",
+      "size": 167936
+    },
+    {
+      "name": "obj98_m44.dff",
+      "size": 167936
+    },
+    {
+      "name": "obj98_medbp.dff",
+      "size": 61440
+    },
+    {
+      "name": "obj98_medmk.dff",
+      "size": 53248
+    },
+    {
+      "name": "obj98_metisk_b.dff",
+      "size": 157696
+    },
+    {
+      "name": "obj98_metisk_g.dff",
+      "size": 157696
+    },
+    {
+      "name": "obj98_metisk_p.dff",
+      "size": 157696
+    },
+    {
+      "name": "obj98_metisk_r.dff",
+      "size": 157696
+    },
+    {
+      "name": "obj98_metisk_v.dff",
+      "size": 157696
+    },
+    {
+      "name": "obj98_metisk_w.dff",
+      "size": 157696
+    },
+    {
+      "name": "obj98_metisk_y.dff",
+      "size": 157696
+    },
+    {
+      "name": "obj98_monbag.dff",
+      "size": 30720
+    },
+    {
+      "name": "obj98_muzi.dff",
+      "size": 83968
+    },
+    {
+      "name": "obj98_muzi1.dff",
+      "size": 116736
+    },
+    {
+      "name": "obj98_muzi2.dff",
+      "size": 116736
+    },
+    {
+      "name": "obj98_muzi3.dff",
+      "size": 116736
+    },
+    {
+      "name": "obj98_muzi4.dff",
+      "size": 116736
+    },
+    {
+      "name": "obj98_nimbn1.dff",
+      "size": 65536
+    },
+    {
+      "name": "obj98_pmask_b.dff",
+      "size": 59392
+    },
+    {
+      "name": "obj98_pmask_p.dff",
+      "size": 59392
+    },
+    {
+      "name": "obj98_pmask_r.dff",
+      "size": 59392
+    },
+    {
+      "name": "obj98_pmask_v.dff",
+      "size": 59392
+    },
+    {
+      "name": "obj98_pmask_w.dff",
+      "size": 59392
+    },
+    {
+      "name": "obj98_pmask_y.dff",
+      "size": 59392
+    },
+    {
+      "name": "obj98_revn1.dff",
+      "size": 71680
+    },
+    {
+      "name": "obj98_revn2.dff",
+      "size": 71680
+    },
+    {
+      "name": "obj98_revn3.dff",
+      "size": 71680
+    },
+    {
+      "name": "obj98_rfire.dff",
+      "size": 147456
+    },
+    {
+      "name": "obj98_rmask.dff",
+      "size": 40960
+    },
+    {
+      "name": "obj98_sawnoff.dff",
+      "size": 131072
+    },
+    {
+      "name": "obj98_scarfn1.dff",
+      "size": 12288
+    },
+    {
+      "name": "obj98_scarfn2.dff",
+      "size": 12288
+    },
+    {
+      "name": "obj98_shouln1.dff",
+      "size": 77824
+    },
+    {
+      "name": "obj98_shouln2.dff",
+      "size": 77824
+    },
+    {
+      "name": "obj98_shouln3.dff",
+      "size": 100352
+    },
+    {
+      "name": "obj98_soff1.dff",
+      "size": 141312
+    },
+    {
+      "name": "obj98_soff2.dff",
+      "size": 141312
+    },
+    {
+      "name": "obj98_soff3.dff",
+      "size": 141312
+    },
+    {
+      "name": "obj98_soff4.dff",
+      "size": 141312
+    },
+    {
+      "name": "obj98_tec9.dff",
+      "size": 122880
+    },
+    {
+      "name": "obj98_tec91.dff",
+      "size": 81920
+    },
+    {
+      "name": "obj98_tec92.dff",
+      "size": 81920
+    },
+    {
+      "name": "obj98_tec93.dff",
+      "size": 81920
+    },
+    {
+      "name": "obj98_tec94.dff",
+      "size": 81920
+    },
+    {
+      "name": "obj98_wdem_b.dff",
+      "size": 73728
+    },
+    {
+      "name": "obj98_wdem_bl.dff",
+      "size": 73728
+    },
+    {
+      "name": "obj98_wdem_p.dff",
+      "size": 73728
+    },
+    {
+      "name": "obj98_wdem_r.dff",
+      "size": 73728
+    },
+    {
+      "name": "obj98_wdem_v.dff",
+      "size": 73728
+    },
+    {
+      "name": "obj98_wdem_w.dff",
+      "size": 73728
+    },
+    {
+      "name": "obj98_wdem_y.dff",
+      "size": 73728
+    },
+    {
+      "name": "obj98_wermsk.dff",
+      "size": 40960
     },
     {
       "name": "obj9_backp_1.dff",

@@ -2,20 +2,6 @@
   "type": "txd",
   "textures": [
     {
-      "name": "hall_25_alpha",
-      "width": 256,
-      "height": 256,
-      "format": "DXT3",
-      "alpha": true
-    },
-    {
-      "name": "hall_25_alpha_2",
-      "width": 256,
-      "height": 256,
-      "format": "DXT3",
-      "alpha": true
-    },
-    {
       "name": "hall_25_asph",
       "width": 256,
       "height": 256,
@@ -121,20 +107,6 @@
       "alpha": false
     },
     {
-      "name": "hall_25_props1",
-      "width": 256,
-      "height": 256,
-      "format": "DXT3",
-      "alpha": true
-    },
-    {
-      "name": "hall_25_props2",
-      "width": 256,
-      "height": 256,
-      "format": "DXT1",
-      "alpha": false
-    },
-    {
       "name": "hall_25_props3",
       "width": 256,
       "height": 256,
@@ -154,13 +126,6 @@
       "height": 256,
       "format": "DXT1",
       "alpha": false
-    },
-    {
-      "name": "hall_25_stone_head",
-      "width": 512,
-      "height": 512,
-      "format": "DXT3",
-      "alpha": true
     },
     {
       "name": "hall_25_trees",
@@ -289,13 +254,6 @@
       "alpha": false
     },
     {
-      "name": "hcas_dragon_tm_1",
-      "width": 512,
-      "height": 1024,
-      "format": "DXT3",
-      "alpha": true
-    },
-    {
       "name": "hcas_grass_tm_1",
       "width": 256,
       "height": 256,
@@ -313,13 +271,6 @@
       "name": "hcas_label_tm_1",
       "width": 256,
       "height": 64,
-      "format": "DXT3",
-      "alpha": true
-    },
-    {
-      "name": "hcas_leaves_tm_1",
-      "width": 256,
-      "height": 256,
       "format": "DXT3",
       "alpha": true
     },
@@ -696,6 +647,118 @@
     },
     {
       "name": "hhs_house_bass",
+      "width": 256,
+      "height": 256,
+      "format": "DXT3",
+      "alpha": true
+    },
+    {
+      "name": "hcas_dragon_tm_1",
+      "width": 512,
+      "height": 1024,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "hall_25_windmain1",
+      "width": 256,
+      "height": 256,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "hall_25_windmain2",
+      "width": 128,
+      "height": 256,
+      "format": "DXT3",
+      "alpha": true
+    },
+    {
+      "name": "hall_cracks1",
+      "width": 512,
+      "height": 512,
+      "format": "DXT3",
+      "alpha": true
+    },
+    {
+      "name": "hall_sludge",
+      "width": 512,
+      "height": 512,
+      "format": "DXT3",
+      "alpha": true
+    },
+    {
+      "name": "hall_25_stone_head",
+      "width": 512,
+      "height": 512,
+      "format": "DXT1",
+      "alpha": true
+    },
+    {
+      "name": "hcas_leaves_tm_1",
+      "width": 256,
+      "height": 256,
+      "format": "DXT3",
+      "alpha": true
+    },
+    {
+      "name": "hcas_lamp_tm_1",
+      "width": 256,
+      "height": 128,
+      "format": "DXT1",
+      "alpha": true
+    },
+    {
+      "name": "hall_25_props1",
+      "width": 256,
+      "height": 256,
+      "format": "DXT1",
+      "alpha": true
+    },
+    {
+      "name": "hall_25_props2",
+      "width": 256,
+      "height": 256,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "hall_25_alpha",
+      "width": 256,
+      "height": 256,
+      "format": "DXT3",
+      "alpha": true
+    },
+    {
+      "name": "hall_25_alpha_3",
+      "width": 512,
+      "height": 512,
+      "format": "DXT3",
+      "alpha": true
+    },
+    {
+      "name": "hall_25_tesla",
+      "width": 512,
+      "height": 512,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "hall_workbench_a",
+      "width": 512,
+      "height": 512,
+      "format": "DXT3",
+      "alpha": true
+    },
+    {
+      "name": "hall_workbench1",
+      "width": 512,
+      "height": 512,
+      "format": "DXT1",
+      "alpha": false
+    },
+    {
+      "name": "hall_25_alpha_2",
       "width": 256,
       "height": 256,
       "format": "DXT3",

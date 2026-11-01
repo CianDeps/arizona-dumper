@@ -12,7 +12,14 @@
       "name": "bmwg90_badges",
       "width": 512,
       "height": 512,
-      "format": "DXT5",
+      "format": "DXT3",
+      "alpha": true
+    },
+    {
+      "name": "wheel_bmwg90",
+      "width": 512,
+      "height": 512,
+      "format": "DXT1",
       "alpha": true
     },
     {
@@ -20,7 +27,7 @@
       "width": 1024,
       "height": 1024,
       "format": "DXT1",
-      "alpha": false
+      "alpha": true
     }
   ]
 }

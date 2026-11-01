@@ -1,7 +1,7 @@
 {
   "type": "img",
   "version": "v2",
-  "totalEntries": 879,
+  "totalEntries": 958,
   "entries": [
     {
       "name": "carwash_brush.dff",
@@ -33,7 +33,7 @@
     },
     {
       "name": "custom_anim.ifp",
-      "size": 1480704
+      "size": 1691648
     },
     {
       "name": "custom_dance.ifp",
@@ -157,7 +157,7 @@
     },
     {
       "name": "gamemods.ifp",
-      "size": 73728
+      "size": 202752
     },
     {
       "name": "garage_obj_1.dff",
@@ -268,6 +268,14 @@
       "size": 28672
     },
     {
+      "name": "nplate1a_grvnmb.dff",
+      "size": 104448
+    },
+    {
+      "name": "nplate1a_vp.dff",
+      "size": 69632
+    },
+    {
       "name": "nplate1_bugatti.dff",
       "size": 18432
     },
@@ -306,6 +314,10 @@
     {
       "name": "nplate1_csignruby.dff",
       "size": 139264
+    },
+    {
+      "name": "nplate1_eyenmb.dff",
+      "size": 45056
     },
     {
       "name": "nplate1_ferrari.dff",
@@ -352,6 +364,18 @@
       "size": 26624
     },
     {
+      "name": "nplate2a_grvnmb.dff",
+      "size": 75776
+    },
+    {
+      "name": "nplate2a_vp.dff",
+      "size": 92160
+    },
+    {
+      "name": "nplate2_army.dff",
+      "size": 10240
+    },
+    {
       "name": "nplate2_bugatti.dff",
       "size": 16384
     },
@@ -392,8 +416,16 @@
       "size": 133120
     },
     {
+      "name": "nplate2_eyenmb.dff",
+      "size": 36864
+    },
+    {
       "name": "nplate2_ferrari.dff",
       "size": 16384
+    },
+    {
+      "name": "nplate2_fire.dff",
+      "size": 10240
     },
     {
       "name": "nplate2_ganggun.dff",
@@ -402,6 +434,10 @@
     {
       "name": "nplate2_gettoak.dff",
       "size": 20480
+    },
+    {
+      "name": "nplate2_hospital.dff",
+      "size": 10240
     },
     {
       "name": "nplate2_japan.dff",
@@ -414,6 +450,10 @@
     {
       "name": "nplate2_lav.dff",
       "size": 20480
+    },
+    {
+      "name": "nplate2_police.dff",
+      "size": 10240
     },
     {
       "name": "nplate2_race.dff",
@@ -2769,7 +2809,7 @@
     },
     {
       "name": "obj89_mimic.dff",
-      "size": 159744
+      "size": 204800
     },
     {
       "name": "obj89_mvd.dff",
@@ -3361,11 +3401,287 @@
     },
     {
       "name": "obj97.txd",
-      "size": 395264
+      "size": 1837056
+    },
+    {
+      "name": "obj97a_casot.dff",
+      "size": 112640
+    },
+    {
+      "name": "obj97a_cprchto.dff",
+      "size": 282624
     },
     {
       "name": "obj97a_lavpr.dff",
       "size": 303104
+    },
+    {
+      "name": "obj97_anc.dff",
+      "size": 49152
+    },
+    {
+      "name": "obj97_cprchtc.dff",
+      "size": 188416
+    },
+    {
+      "name": "obj97_shld.dff",
+      "size": 57344
+    },
+    {
+      "name": "obj99.txd",
+      "size": 4200448
+    },
+    {
+      "name": "obj99a_angmoon.dff",
+      "size": 30720
+    },
+    {
+      "name": "obj99a_coffin.dff",
+      "size": 229376
+    },
+    {
+      "name": "obj99a_cyey.dff",
+      "size": 102400
+    },
+    {
+      "name": "obj99a_dnt.dff",
+      "size": 18432
+    },
+    {
+      "name": "obj99_bankot.dff",
+      "size": 165888
+    },
+    {
+      "name": "obj99_bfire_stage1.dff",
+      "size": 2048
+    },
+    {
+      "name": "obj99_bfire_stage2.dff",
+      "size": 2048
+    },
+    {
+      "name": "obj99_bfire_stage3.dff",
+      "size": 2048
+    },
+    {
+      "name": "obj99_bigdemon.dff",
+      "size": 163840
+    },
+    {
+      "name": "obj99_bigdemon_prt.dff",
+      "size": 2048
+    },
+    {
+      "name": "obj99_blood.dff",
+      "size": 79872
+    },
+    {
+      "name": "obj99_box1.dff",
+      "size": 135168
+    },
+    {
+      "name": "obj99_box2.dff",
+      "size": 174080
+    },
+    {
+      "name": "obj99_box3.dff",
+      "size": 96256
+    },
+    {
+      "name": "obj99_bportal.dff",
+      "size": 2048
+    },
+    {
+      "name": "obj99_bportalprizm.dff",
+      "size": 2048
+    },
+    {
+      "name": "obj99_bportal_small.dff",
+      "size": 2048
+    },
+    {
+      "name": "obj99_buselectro.dff",
+      "size": 2048
+    },
+    {
+      "name": "obj99_cbrstrk.dff",
+      "size": 28672
+    },
+    {
+      "name": "obj99_chat.dff",
+      "size": 47104
+    },
+    {
+      "name": "obj99_chem.dff",
+      "size": 6144
+    },
+    {
+      "name": "obj99_cure.dff",
+      "size": 59392
+    },
+    {
+      "name": "obj99_fralrm.dff",
+      "size": 16384
+    },
+    {
+      "name": "obj99_gaz21.dff",
+      "size": 184320
+    },
+    {
+      "name": "obj99_heart.dff",
+      "size": 40960
+    },
+    {
+      "name": "obj99_hinj.dff",
+      "size": 133120
+    },
+    {
+      "name": "obj99_hm.dff",
+      "size": 139264
+    },
+    {
+      "name": "obj99_horseblm_b.dff",
+      "size": 2048
+    },
+    {
+      "name": "obj99_horseblm_g.dff",
+      "size": 2048
+    },
+    {
+      "name": "obj99_horseblm_r.dff",
+      "size": 2048
+    },
+    {
+      "name": "obj99_horseblm_v.dff",
+      "size": 2048
+    },
+    {
+      "name": "obj99_horseeye_b.dff",
+      "size": 2048
+    },
+    {
+      "name": "obj99_horseeye_g.dff",
+      "size": 2048
+    },
+    {
+      "name": "obj99_horseeye_r.dff",
+      "size": 2048
+    },
+    {
+      "name": "obj99_horseeye_v.dff",
+      "size": 2048
+    },
+    {
+      "name": "obj99_horseflm_r.dff",
+      "size": 2048
+    },
+    {
+      "name": "obj99_horsesmk_b.dff",
+      "size": 2048
+    },
+    {
+      "name": "obj99_horsesmk_bl.dff",
+      "size": 2048
+    },
+    {
+      "name": "obj99_illsmk.dff",
+      "size": 2048
+    },
+    {
+      "name": "obj99_kolpls_b.dff",
+      "size": 83968
+    },
+    {
+      "name": "obj99_kolpls_g.dff",
+      "size": 83968
+    },
+    {
+      "name": "obj99_kolpls_r.dff",
+      "size": 83968
+    },
+    {
+      "name": "obj99_kolpls_v.dff",
+      "size": 83968
+    },
+    {
+      "name": "obj99_kolpls_w.dff",
+      "size": 83968
+    },
+    {
+      "name": "obj99_lionchw.dff",
+      "size": 96256
+    },
+    {
+      "name": "obj99_m5sting.dff",
+      "size": 112640
+    },
+    {
+      "name": "obj99_nitroblack.dff",
+      "size": 2048
+    },
+    {
+      "name": "obj99_nplate_frac.dff",
+      "size": 2048
+    },
+    {
+      "name": "obj99_pp.dff",
+      "size": 24576
+    },
+    {
+      "name": "obj99_prtpsh.dff",
+      "size": 51200
+    },
+    {
+      "name": "obj99_tomb.dff",
+      "size": 67584
+    },
+    {
+      "name": "obj99_toxbarr.dff",
+      "size": 102400
+    },
+    {
+      "name": "obj99_toyotaaura.dff",
+      "size": 4096
+    },
+    {
+      "name": "obj99_ypp.dff",
+      "size": 61440
+    },
+    {
+      "name": "obj99_zdaird.dff",
+      "size": 49152
+    },
+    {
+      "name": "obj99_zgaird.dff",
+      "size": 49152
+    },
+    {
+      "name": "obj99_zmbtm_b.dff",
+      "size": 342016
+    },
+    {
+      "name": "obj99_zmbtm_p.dff",
+      "size": 342016
+    },
+    {
+      "name": "obj99_zmbtm_r.dff",
+      "size": 342016
+    },
+    {
+      "name": "obj99_zmbtm_v.dff",
+      "size": 342016
+    },
+    {
+      "name": "obj99_zmbtm_w.dff",
+      "size": 342016
+    },
+    {
+      "name": "obj99_zmbtm_y.dff",
+      "size": 342016
+    },
+    {
+      "name": "obj99_znyps.dff",
+      "size": 59392
     },
     {
       "name": "of34bmp.txd",

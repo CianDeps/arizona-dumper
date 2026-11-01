@@ -1,6 +1,6 @@
 {
   "type": "config",
-  "lines": 144,
+  "lines": 145,
   "content": [
     "objs",
     "1207, tiny_rock, rock, 40, 128",
@@ -22,7 +22,7 @@
     "1223, lampost_coast, dynsigns, 53, 2130048",
     "1224, woodenbox, boxes, 41, 128",
     "1225, barrel4, dynbarrels, 40, 2162816",
-    "1226, lamppost3, dynsigns, 62, 32896",
+    "1226, lamppost3, hl26_lamppost, 62, 32900",
     "1227, dump1, dynbuket, 70, 128",
     "1228, roadworkbarrier1, barrier, 62, 128",
     "1229, bussign1, signs, 46, 128",
@@ -86,7 +86,7 @@
     "1287, newstandnew3, newstand, 45, 128",
     "1288, newstandnew2, newstand, 45, 128",
     "1289, newstandnew1, newstand, 45, 128",
-    "1290, lamppost2, dynsigns, 180, 32896",
+    "1290, lamppost2, hl26_lamppost, 180, 32900",
     "1291, postbox1, dynpostbx, 42, 128",
     "1292, postbox1_d, dynpostbx, 42, 128",
     "1293, papermachn01, dynnewstnd2, 40, 128",
@@ -145,6 +145,7 @@
     "drubish, n_icons",
     "icons, n_icons",
     "dyn_cash, n_icons",
+    "hl26_lamppost, dynsigns",
     "end"
   ]
 }
